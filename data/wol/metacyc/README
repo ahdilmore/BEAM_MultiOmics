@@ -1,0 +1,50 @@
+MetaCyc hierarchies
+======
+
+Annotation of proteins (see proteins/) using MetaCyc release 23.0.
+
+The usage of these mappings is explained at:
+
+- https://github.com/qiyunzhu/woltka/blob/master/doc/metacyc.md
+
+## Structure
+
+The entry level is "protein". Specifically, "protein.map" is a mapping of
+WoL protein IDs to MetaCyc protein IDs.
+
+Starting from proteins, the following hierarchies are built upon them:
+
+               v
+       go < protein > gene > pathway
+               v
+regulation < enzrxn
+               v
+       ec < reaction > compound (left / right) > type
+               v
+     type < pathway > taxonomic range
+               v
+         super pathway
+               v
+              type
+
+For example, "protein-to-enzrxn.txt" is a mapping of protein IDs to enzymatic
+reaction IDs.
+
+## Alignment
+
+The alignment of WoL proteins against MetaCyc reference proteins was performed
+using DIAMOND v0.9.25. The command was:
+
+```
+diamond blastp --index-chunks 1 --evalue 1.0 --id 50 --subject-cover 50 \
+  --query-cover 90 --max-target-seqs 1 --threads 16 --db $db --query $input \
+  --out $output
+```
+
+An alternative release using `--id 80` instead of `50` (percent sequence
+identity) is provided under "strict/"
+
+## UniRef
+
+In addition, "uniref/" hosts the mapping from UniRef entries to MetaCyc
+proteins, available from the UniRef data release.

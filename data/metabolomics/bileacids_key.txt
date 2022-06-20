@@ -1,0 +1,36 @@
+metabolomics_name	metabolomics_id	common_name 	abbreviation	kind	status
+"(R)-4-((3R,5S,7R,8R,9S,10S,12S,13R,14S,17R)-3,7,12-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"	level 2	cholic acid	CA	primary	unconjugated
+CHOLIC ACID	level 2	cholic acid	CA	primary	unconjugated
+Cholic acid	level 1	cholic acid	CA	primary	unconjugated
+Spectral Match to Cholic acid from NIST14	level 2	cholic acid	CA	primary	unconjugated
+"(4R)-4-((3R,5R,7R,9S,10S,13R,14S,17R)-3,7-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"	level 2	allochenodeoxycholic acid	flat-CDCA	primary	unconjugated
+Chenodeoxycholic acid	level 1	chenodeoxycholic acid	CDCA	primary	unconjugated
+Spectral Match to Taurocholic acid from NIST14	level 2	taurocholic acid	TCA	primary	conjugated
+taurocholic acid	level 2	taurocholic acid	TCA	primary	conjugated
+Taurocholic acid	level 1	taurocholic acid	TCA	primary	conjugated
+		taurochenodeoxycholic acid	TCDCA	primary	conjugated
+Tauro-b-muricholic acid	level 1	tauro-b-muricholic acid	TbMCA	primary	conjugated
+		tauro-a-muricholic acid	TaMCA	primary	conjugated
+"(R)-4-((3R,5R,6R,8S,9S,10R,13R,14S,17R)-3,6-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"	level 2	murideoxycholic acid	MDCA	secondary	deconjugated
+a-Muricholic acid	level 1	a-Muricholic acid	aMCA	secondary	deconjugated
+b-Muricholic acid	level 1	b-Muricholic acid	bMCA	secondary	deconjugated
+Deoxycholic acid	level 1	deoxycholic acid	DCA	secondary	deconjugated
+Spectral Match to Deoxycholic acid from NIST14	level 2	deoxycholic acid	DCA	secondary	deconjugated
+Spectral Match to Lithocholic acid from NIST14	level 2	lithocholic acid	LCA	secondary	deconjugated
+"(4R)-4-((3R,5S,7S,9S,10S,12S,13R,14S,17R)-3,7,12-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"	level 2	ursocholic acid	UCA	secondary	deconjugated
+Ursodeoxycholic acid	level 1	ursodeoxycholic acid	UDCA	secondary	deconjugated
+Spectral Match to Ursodeoxycholic acid from NIST14	level 2	ursodeoxycholic acid	UDCA	secondary	deconjugated
+Hyodeoxycholic acid	level 1	hyodeoxycholic acid	HDCA	secondary	deconjugated
+Spectral Match to 12-Ketodeoxycholic acid from NIST14	level 2	12-ketodeoxycholic acid	KDCA	secondary	deconjugated
+Spectral Match to Tauroursodeoxycholic acid from NIST14	level 2	tauroursodeoxycholic acid	TUDCA	secondary	conjugated
+taurodeoxycholic acid	level 2	taurodeoxycholic acid 	TDCA	secondary	conjugated
+Taurodeoxycholic acid	level 1	taurodeoxycholic acid 	TDCA	secondary	conjugated
+Taurolithocholic acid	level 1	taurolithocholic acid	TLCA	secondary	conjugated
+"(4R)-4-((3R,5R,6S,7R,9S,10R,12S,13R,17R)-3,6,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"	level 2	"3a,6b,7b,12a-Tetrahydroxy-5b-cholanoic acid"	unknown	secondary	deconjugated
+"(4R)-4-((3R,5S,6R,7R,9S,10R,12S,13R,14S,17R)-3,6,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"	level 2	"(3a,5a,6a,7b,12a)-3,6,7,12-Tetrahydroxycholan-24-oic acid"	unknown	secondary	deconjugated
+"(4R)-4-((3S,5R,6S,7R,9S,10R,13R,14S,17R)-3,6,7-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"	level 2	"(3b,5b,6b,7b)-3,6,7-Trihydroxycholan-24-oic acid"	unknown	secondary	deconjugated
+"(4R)-4-((3S,5R,9S,10S,13R,14S,17R)-3-hydroxy-10,13-dimethyl-12-oxohexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"	level 2	"(3b,5b)-3-Hydroxy-12-oxocholan-24-oic acid"	unknown	secondary	deconjugated
+"(R)-4-((3R,5R,6R,7R,8R,9S,10R,12S,13R,14S,17R)-3,6,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"	level 2	"(3a,5b,6a,7b,12a)-3,6,7,12-Tetrahydroxycholan-24-oic acid"	unknown	secondary	deconjugated
+"(R)-4-((3R,5S,8R,9S,10S,12R,13R,14S,17R)-3,12-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"	level 2	"(3a,5a,12b)-3,12-Dihydroxycholan-24-oic acid"	unknown	secondary	deconjugated
+"(R)-4-((3R,5R,8R,9S,10S,12S,13R,14S,17R)-3,12-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pent-2-enoic acid"	level 2	"(3a,5b,12a,22E)-3,12-Dihydroxychol-22-en-24-oic acid"	unknown	secondary	deconjugated
+"(R)-4-((3R,5S,6R,7R,8S,9S,10S,13R,14S,17R)-6-ethyl-3,7-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"	level 2	obeticholic aicd	OCA	secondary	deconjugated

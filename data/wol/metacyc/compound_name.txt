@@ -1,0 +1,3656 @@
+1-AMINO-PROPAN-2-OL	(<i>R</i>)-1-aminopropan-2-ol
+1-CARBOXYVINYL-CARBOXYPHOSPHONATE	1-carboxyvinyl carboxyphosphonate
+1-CHLORO-24-DINITROBENZENE	1-chloro-2,4-dinitrobenzene
+1-KESTOTRIOSE	1-kestotriose
+1-KETO-2-METHYLVALERATE	(<i>R</i>)-2,3-dihydroxy-3-methylpentanoate
+1-L-MYO-INOSITOL-1-P	1D-<i>myo</i>-inositol 3-monophosphate
+1-PALMITOYLGLYCEROL-3-PHOSPHATE	1-palmitoyl-<i>sn</i>-glycerol 3-phosphate
+11-DEOXYCORTICOSTERONE	11-deoxycorticosterone
+12-DEHYDROTETRACYCLINE	5a,11a-dehydrotetracycline
+12-DICHLOROETHANE	1,2-dichloroethane
+13-HYDROXY-MAGNESIUM-PROTOPORP	13<SUP>1</SUP>-hydroxy-magnesium-protoporphyrin IX 13-monomethyl ester
+131-OXO-MAGNESIUM-PROTOPORPHYRIN-IX-13-M	13<SUP>1</SUP>-oxo-magnesium-protoporphyrin IX 13-monomethyl ester
+15-ANHYDRO-D-FRUCTOSE	1,5-anhydro-D-fructose
+15-ANHYDRO-D-GLUCITOL	1,5-anhydro-D-glucitol
+1516-DIHYDROBILIVERDIN	15,16-dihydrobiliverdin
+17-BETA-HYDROXY-5ALPHA-ANDROSTAN-3-O	17-&beta;-hydroxy-5-&alpha;-androstan-3-one
+2-2-METHYLTHIOETHYLMALIC-ACID	2-[(2'-methylsulfanyl)ethyl]malate
+2-3-DIHYDROXYBENZOATE	2,3-dihydroxybenzoate
+2-3-DIHYDROXYPHENYL-PROPIONATE	3-(2,3-dihydroxyphenyl)propanoate
+2-5-DIHYDROXYPYRIDINE	2,5-dihydroxypyridine
+2-5-TRIPHOSPHORIBOSYL-3-DEPHOSPHO-	2'-(5''-triphospho-&alpha;-D-ribosyl)-3'-dephospho-CoA
+2-ACETO-2-HYDROXY-BUTYRATE	(<i>S</i>)-2-aceto-2-hydroxybutanoate
+2-ACETO-LACTATE	(<i>S</i>)-2-acetolactate
+2-AMINO-3-3-OXOPROP-2-ENYL-BUT-2-ENEDI	2-amino-3-carboxymuconate-6-semialdehyde
+2-AMINO-MUCONATE	(2Z,4E)-2-aminomuconate
+2-AMINOACRYLATE	2-aminoprop-2-enoate
+2-AMINOBENZOYL-COA	anthraniloyl-CoA
+2-AMINOMUCONATE_SEMIALDEHYDE	(2Z,4E)-2-amino-6-oxohexa-2,4-dienoate
+2-AMINOPHENOL	2-aminophenol
+2-BROMOPORPHOBILINOGEN	2-bromoporphobilinogen
+2-C-METHYL-D-ERYTHRITOL-4-PHOSPHATE	2-C-methyl-D-erythritol 4-phosphate
+2-CARBOXYMUCONATE	2-carboxymuconate
+2-CHLOROETHANOL	2-chloroethanol
+2-CHLOROMALEYLACETATE	2-chloromaleylacetate
+2-CL-5-OXO-2-5-DIH-FURAN-2-ACETATE	(2<i>R</i>)-2-chloro-2,5-dihydro-5-oxofuran-2-acetate
+2-CL-MUCONATE	2-chloro-cis,cis-muconate
+2-D-THREO-HYDROXY-3-CARBOXY-ISOCAPROATE	(2<i>R</i>,3<i>S</i>)-3-isopropylmalate
+2-DEHYDRO-3-DEOXY-D-GALACTONATE	2-dehydro-3-deoxy-D-galactonate
+2-DEHYDRO-3-DEOXY-D-GLUCONATE	2-dehydro-3-deoxy-D-gluconate
+2-DEHYDROPANTOATE	2-dehydropantoate
+2-DEOXY-D-GLUCOSE-6-PHOSPHATE	2-deoxy-D-glucose 6-phosphate
+2-DH-3-DO-D-ARABINONATE	2-dehydro-3-deoxy-D-arabinonate
+2-FUROATE	2-furoate
+2-HYDROXY-3-KETO-5-METHYLTHIO-1-PHOSPHOP	2-hydroxy-5-(methylsulfanyl)-3-oxopent-1-enyl 1-phosphate
+2-KETO-3-DEOXY-6-P-GLUCONATE	2-dehydro-3-deoxy-D-gluconate 6-phosphate
+2-KETO-3-METHYL-VALERATE	(<i>S</i>)-3-methyl-2-oxopentanoate
+2-KETO-6-AMINO-CAPROATE	6-amino-2-oxohexanoate
+2-KETO-GLUTARAMATE	2-oxoglutaramate
+2-KETO-ISOVALERATE	3-methyl-2-oxobutanoate
+2-KETOGLUTARATE	2-oxoglutarate
+2-MERCAPTOETHANOL	2-mercaptoethanol
+2-METHYL-6-SOLANYL-14-BENZOQUINONE	2-methyl-6-all-trans-nonaprenyl-1,4-benzoquinol
+2-METHYL-BUTYRYL-COA	2-methylbutanoyl-CoA
+2-O-ALPHA-MANNOSYL-D-GLYCERATE	2-<i>O</i>-(&alpha;-D-mannosyl)-D-glycerate
+2-OCTAPRENYL-6-HYDROXYPHENOL	3-(<i>all-trans</i>-octaprenyl)benzene-1,2-diol
+2-OCTAPRENYL-6-METHOXYPHENOL	2-methoxy-6-(<i>all-trans</i>-octaprenyl)phenol
+2-OCTAPRENYLPHENOL	2-octaprenylphenol
+2-OXO-5-METHYLTHIOPENTANOIC-ACID	5-(methylsulfanyl)-2-oxopentanoate
+2-OXOBUTANOATE	2-oxobutanoate
+2-PG	2-phospho-D-glycerate
+2-PHOSPHO-4-CYTIDINE-5-DIPHOSPHO-2-C-MET	2-phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol
+2-PROTOCATECHUOYLPHLOROGLUCINOLCARBOXYLA	2-protocatechuoylphloroglucinolcarboxylate
+2-TRANS6-TRANS-FARNESAL	(2<i>E</i>,6<i>E</i>)-farnesal
+2-TRANS6-TRANS-FARNESOL	(<i>2E,6E</i>)-farnesol
+24-DICHLOROPHENOL	2,4-dichlorophenol
+245-DNOL	(1S,4R)-2,4,5-trichloro-2,5-cyclohexadiene-1-diol
+25-DDOL	(1S,4S)-2,5-dichloro-2,5-cyclohexadiene-1,4-diol
+25-DICHLORO-CISCIS-MUCONATE	2,5-dichloro-<I>cis,cis</I>-muconate
+25-DICHLOROHYDROQUINONE	2,5-dichloro-<i>p</i>-quinol
+25-DICHLOROPHENOL	2,5-dichlorophenol
+25-DIDEHYDRO-D-GLUCONATE	2,5-didehydro-D-gluconate
+26-DICHLORO-P-HYDROQUINONE	2,6-dichlorohydroquinone
+2C-METH-D-ERYTHRITOL-CYCLODIPHOSPHATE	2-C-methyl-D-erythritol-2,4-cyclodiphosphate
+2K-4CH3-PENTANOATE	4-methyl-2-oxopentanoate
+2K-ADIPATE	2-oxoadipate
+3-4-DIHYDROXYBENZOATE	protocatechuate
+3-5-ADP	adenosine 3',5'-bisphosphate
+3-BETA-D-GLUCOSYLGLUCOSE	nigerose
+3-BETA-HYDROXYANDROST-5-EN-17-ONE	3-&beta;-hydroxyandrost-5-en-17-one
+3-BROMOPYRUVATE	3-bromopyruvate
+3-CARBOXY-3-HYDROXY-ISOCAPROATE	(2<i>S</i>)-2-isopropylmalate
+3-DEHYDRO-SHIKIMATE	3-dehydroshikimate
+3-DEMETHYLSTAUROSPORINE	3'-<i>O</i>-demethyl-staurosporine
+3-DEOXY-D-ARABINO-HEPTULOSONATE-7-P	3-deoxy-D-arabino-heptulosonate 7-phosphate
+3-ENOLPYRUVYL-SHIKIMATE-5P	5-enolpyruvoyl-shikimate 3-phosphate
+3-HYDROHYDROXYPHOSPHORYLPYRUVATE	3-(hydroxyphosphinoyl)pyruvate
+3-HYDROXY-3-4-METHYLPENT-3-EN-1-YLG-COA	3-hydroxy-3-(4-methylpent-3-en-1-yl)glutaryl-CoA
+3-HYDROXY-3-METHYL-GLUTARYL-COA	(<i>S</i>)-3-hydroxy-3-methylglutaryl-CoA
+3-HYDROXY-5917-TRIOXO-45910-DISECOA	(1<i>E</i>,2<i>Z</i>)-3-hydroxy-5,9,17-trioxo-4,5:9,10-disecoandrosta-1 (10),2-dien-4-oate
+3-HYDROXY-ANTHRANILATE	3-hydroxyanthranilate
+3-HYDROXY-L-KYNURENINE	3-hydroxy-L-kynurenine
+3-HYDROXY-PROPIONATE	3-hydroxypropanoate
+3-HYDROXY-PROPIONYL-COA	3-hydroxypropanoyl-CoA
+3-HYDROXYADIPYL-COA	(3S)-hydroxyadipyl-CoA
+3-HYDROXYAMINOPHENOL	3-hydroxyaminophenol
+3-HYDROXYBENZOATE	3-hydroxybenzoate
+3-HYDROXYPHENYL-PROPIONATE	3-(3-hydroxyphenyl)propanoate
+3-HYDROXYPIMELYL-COA	3-hydroxypimeloyl-CoA
+3-KETO-ADIPATE	3-oxoadipate
+3-KETO-ADIPYL-COA	3-oxoadipyl-CoA
+3-KETOBUTYRATE	acetoacetate
+3-MERCAPTO-PYRUVATE	3-mercaptopyruvate
+3-METHYLBENZYL-ALCOHOL	3-methylbenzyl alcohol
+3-Methyl-Adenines	3-methyladenine
+3-OCTAPRENYL-4-HYDROXYBENZOATE	3-octaprenyl-4-hydroxybenzoate
+3-OXO-5-BETA-CHOLANATE	3-dehydrolithocholate
+3-OXO-CHOLYL-COA	3-oxocholoyl-CoA
+3-OXO-DELTA4-CHOLYL-COA	7&alpha;,12&alpha;-dihydroxy-3-oxochol-4-en-24-oyl-CoA
+3-OXO-DELTA4-DEOXYCHOLYL-COA	12&alpha;-hydroxy-3-oxochol-4-en-24-oyl-CoA
+3-OXO-DELTA46-CHOLYL-COA	12&alpha;-hydroxy-3-oxochol-4,6-dien-24-oyl-CoA
+3-OXO-DEOXYCHOLYL-COA	12&alpha;-hydroxy-3-oxocholan-24-oyl-CoA
+3-OXOADIPATE-ENOL-LACTONE	(4,5-dihydro-5-oxofuran-2-yl)-acetate
+3-OXOPIMELOYL-COA	3-oxopimeloyl-CoA
+3-P-HYDROXYPYRUVATE	3-phosphooxypyruvate
+3-P-SERINE	<i>O</i>-phospho-L-serine
+3-UREIDO-ISOBUTYRATE	3-(carbamoylamino)-2-methylpropanoate
+3-UREIDO-PROPIONATE	3-ureidopropanoate
+34-DICHLOROANILINE	3,4-dichloroaniline
+34-DIHYDROXYPHENYLACETALDEHYDE	3,4-dihydroxyphenylacetaldehyde
+34-DIHYDROXYPHENYLPYRUVATE	3-(3,4-dihydroxyphenyl)pyruvate
+35-DICHLOROCATECHOL	3,5-dichlorocatechol
+36-DICHLOROCATECHOL	3,6-dichlorocatechol
+3Z-PHYCOCYANOBILIN	(2R,3Z)-phycocyanobilin
+3Z-PHYCOERYTHROBILIN	(3Z)-phycoerythrobilin
+4-ALPHA-METHYL-5-ALPHA	4&alpha;-methyl-5&alpha;-cholest-7-en-3&beta;-ol
+4-ALPHA-METHYL-5-ALPHA-CHOLEST-7-EN-3-ON	4&alpha;-methyl-5&alpha;-cholest-7-en-3-one
+4-AMINO-4-DEOXYCHORISMATE	4-amino-4-deoxychorismate
+4-AMINO-BUTYRALDEHYDE	4-aminobutanal
+4-AMINO-BUTYRATE	4-aminobutanoate
+4-CARBOXYMETHYLENEBUT-2-EN-4-OLIDE	<i>cis</i>-dienelactone
+4-CYTIDINE-5-DIPHOSPHO-2-C	4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol
+4-DEOXY-BETA-D-GLUC-4-ENURONOSYL-6S	4-deoxy-&beta;-D-gluc-4-enuronosyl-(1,3)-<i>N</i>-acetyl--D-galactosamine 6-sulfate
+4-FLUOROBENZOATE	4-fluorobenzoate
+4-HYDROXY-2-KETOVALERATE	(<i>S</i>)-4-hydroxy-2-oxopentanoate
+4-HYDROXY-BUTYRATE	4-hydroxybutanoate
+4-HYDROXY-BUTYRYL-COA	4-hydroxybutanoyl-CoA
+4-HYDROXY-L-PROLINE	<i>trans</i>-4-hydroxy-L-proline
+4-HYDROXYBENZALDEHYDE	4-hydroxybenzaldehyde
+4-HYDROXYPHENYLACETATE	(4-hydroxyphenyl)acetate
+4-IMIDAZOLONE-5-PROPIONATE	4-imidazolone-5-propanoate
+4-MALEYL-ACETOACETATE	4-maleyl-acetoacetate
+4-METHYL-824-CHOLESTADIENOL	4&alpha;-methyl-5&alpha;-cholesta-8,24-dien-3&beta;-ol
+4-METHYLBENZYL-ALCOHOL	4-methylbenzyl alcohol
+4-METHYLCATECHOL	4-methylcatechol
+4-OH-4-ACETYL-2-OXOGLUTARATE	2-hydroxy-4-oxobutane-1,2,4-tricarboxylate
+4-OXALOMESACONATE	(1<i>E</i>)-4-oxobut-1-ene-1,2,4-tricarboxylate
+4-P-PANTOTHENATE	(<i>R</i>)-4'-phosphopantothenate
+4-PHOSPHONOOXY-THREONINE	4-phosphooxy-L-threonine
+4-hydroxybenzoate	4-hydroxybenzoate
+44-DIMETHYL-5ALPHA-CHOLEST-7-EN-3BET	4,4-dimethyl-5&alpha;-cholest-7-en-3&beta;-ol
+44-DIMETHYL-824-CHOLESTADIENOL	14-demethyllanosterol
+44-DIMETHYL-CHOLESTA-814-24-TRIENOL	4,4-dimethyl-5-&alpha;-cholesta-8,14,24-trien-3-&beta;-ol
+5-AMINO-LEVULINATE	5-aminolevulinate
+5-AMINOPENTANOATE	5-aminopentanoate
+5-BETA-L-THREO-PENTAPYRANOSYL-4-ULOSE-	UDP-&beta;-L-threo-pentapyranos-4-ulose
+5-DEHYDROGLUCONATE	5-dehydro-D-gluconate
+5-HYDROXY-CTP	5-hydroxy-CTP
+5-HYDROXYINDOLE_ACETALDEHYDE	5-hydroxyindole acetaldehyde
+5-HYDROXYINDOLE_ACETATE	5-hydroxyindole acetate
+5-HYDROXYISOURATE	(<i>S</i>)-5-hydroxyisourate
+5-IODOPENTAPHOSPHONATE	5-iodopentaphosphonate
+5-KETO-4-DEOXY-D-GLUCARATE	5-dehydro-4-deoxy-D-glucarate
+5-METHYL-THF	5-methyltetrahydropteroyl mono-L-glutamate
+5-METHYLTHIOADENOSINE	<i>S</i>-methyl-5'-thioadenosine
+5-METHYLTHIOINOSINE	<i>S</i>-methyl-5'-thioinosine
+5-OXOPROLINE	5-oxo-L-proline
+5-P-BETA-D-RIBOSYL-AMINE	5-phospho-&beta;-D-ribosylamine
+5-P-RIBOSYL-N-FORMYLGLYCINEAMIDE	<i>N</i><sup>2</sup>-formyl-<i>N</i><sup>1</sup>-(5-phospho-&beta;-D-ribosyl)glycinamide
+5-PHOSPHO-RIBOSYL-GLYCINEAMIDE	<i>N</i><sup>1</sup>-(5-phospho-&beta;-D-ribosyl)glycinamide
+5-PHOSPHORIBOSYL-5-AMINOIMIDAZOLE	5-amino-1-(5-phospho-&beta;-D-ribosyl)imidazole
+5-PHOSPHORIBOSYL-N-FORMYLGLYCINEAMIDINE	2-(formamido)-N<sup>1</sup>-(5-phospho-&beta;-D-ribosyl)acetamidine
+6-CARBOXYHEX-2-ENOYL-COA	6-carboxyhex-2-enoyl-CoA
+6-CHQ	6-chlorohydroxyquinol
+6-HYDROXY-NICOTINATE	6-hydroxynicotinate
+6-KESTOSE	6-kestotriose
+6-OXO-HEXANOATE	6-oxohexanoate
+7-8-DIHYDROPTEROATE	7,8-dihydropteroate
+7-CYANO-7-DEAZAGUANINE	preQ<sub>0</sub>
+7-METHYLGUANOSINE-5-PHOSPHATE	<i>N</i><sup>7</sup>-methylguanosine 5'-phosphate
+7-O-PHOSPHOHYGROMYCIN-B	7''-O-phosphohygromycin B
+ACET	acetate
+ACETALD	acetaldehyde
+ACETAMIDE	acetamide
+ACETOACETYL-COA	acetoacetyl-CoA
+ACETOL	hydroxyacetone
+ACETONE	acetone
+ACETYL-COA	acetyl-CoA
+ACETYL-D-GLUCOSAMINYLDIPHOSPHO-UNDECAPRE	<i>N</i>-acetyl-&alpha;-D-glucosaminyldiphospho-<i>ditrans,octacis</i>-undecaprenol
+ACETYL-ETCETERA-GLUCOSAMINYLDIPHOSPHOUND	ManNAc-GlcNAc-PP-undecaprenol
+ACETYL-GLU	<i>N</i>-acetyl-L-glutamate
+ACETYL-P	acetyl phosphate
+ACETYLSERINE	<i>O</i>-acetyl-L-serine
+ACRYLATE	acrylate
+ACRYLYL-COA	acryloyl-CoA
+ACTINOMYCIN-D	actinomycin D
+ADENINE	adenine
+ADENOSINE	adenosine
+ADENOSINE5TRIPHOSPHO5ADENOSINE	P<sup>1</sup>,P<sup>3</sup>-<i>bis</i>(5'-adenosyl) triphosphate
+ADENOSINE_DIPHOSPHATE_RIBOSE	ADP-D-ribose
+ADENOSYL-HOMO-CYS	<i>S</i>-adenosyl-L-homocysteine
+ADENOSYL-P4	P<sup>1</sup>,P<sup>4</sup>-<i>bis</i>(5'-adenosyl) tetraphosphate
+ADENOSYLCOBALAMIN	adenosylcobalamin
+ADENOSYLCOBALAMIN-5-P	adenosylcobalamin 5'-phosphate
+ADENOSYLCOBINAMIDE	adenosylcobinamide
+ADENOSYLCOBINAMIDE-GDP	adenosylcobinamide-GDP
+ADENOSYLCOBINAMIDE-P	adenosyl-cobinamide phosphate
+ADENYLOSUCC	adenylo-succinate
+ADIPATE	adipate
+ADP	ADP
+ADP-D-GLUCOSE	ADP-&alpha;-D-glucose
+ADP-L-GLYCERO-D-MANNO-HEPTOSE	ADP-L-glycero-&beta;-D-<I>manno</I>-heptose
+AEROBACTIN	aerobactin
+AG+	Ag<SUP>+</SUP>
+AGMATHINE	agmatine
+AICAR	5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide
+ALL-TRANS-HEPTAPRENYL-DIPHOSPHATE	all-<i>trans</i>-heptaprenyl diphosphate
+ALL-TRANS-HEXAPRENYL-DIPHOSPHATE	all-<i>trans</i>-hexaprenyl diphosphate
+ALL-TRANS-PENTAPRENYL-DIPHOSPHATE	geranylfarnesyl diphosphate
+ALLYSINE	(<i>S</i>)-2-amino-6-oxohexanoate
+ALPHA-D-GALACTOSE	&alpha;-D-galactopyranose
+ALPHA-D-MANNOSYL-3-PHOSPHOGLYCERATE	2-<i>O</i>-(&alpha;-D-mannosyl)-3-phospho-D-glycerate
+ALPHA-GLUCOSE	&alpha;-D-glucopyranose
+ALPHA-GLUCOSE-16-BISPHOSPHATE	&alpha;-glucose 1,6-bisphosphate
+ALPHA-MALTOSE	&alpha;-maltose
+ALPHA-RIBAZOLE	&alpha;-ribazole
+ALPHA-RIBAZOLE-5-P	&alpha;-ribazole 5'-phosphate
+ALPHA-TOCOPHEROL	&alpha;-tocopherol
+ALPHAALPHA-TREHALOSE-66-BISMYCOLATE	&alpha;, &alpha;'-trehalose 6,6'-bismycolate
+AMIDINOPROCLAVAMINATE	amidinoproclavaminate
+AMINO-HYDROXYMETHYL-METHYL-PYR-P	4-amino-2-methyl-5-(phosphooxymethyl)pyrimidine
+AMINO-HYDROXYMETHYL-METHYLPYRIMIDINE-PP	4-amino-2-methyl-5-(diphosphooxymethyl)pyrimidine
+AMINO-OH-HYDROXYMETHYL-DIHYDROPTERIDINE	6-(hydroxymethyl)-7,8-dihydropterin
+AMINO-OXOBUT	L-2-amino-3-oxobutanoate
+AMINO-RIBOSYLAMINO-1H-3H-PYR-DIONE	5-amino-6-(D-ribitylamino)uracil
+AMINOHYDROQUINONE	aminohydroquinone
+AMMONIA	ammonia
+AMMONIUM	ammonium
+AMP	AMP
+ANDROST4ENE	androst-4-ene-3,17-dione
+ANHYDROTETRACYCLINE	anhydrotetracycline
+ANTHRANILATE	anthranilate
+ANTIMONITE	antimonite ion
+APS	adenosine 5'-phosphosulfate
+ARACHIDIC_ACID	arachidate
+ARG	L-arginine
+ARSENATE	arsenate
+ASCORBATE	L-ascorbate
+ASN	L-asparagine
+ASOLECTIN	asolectin
+ATABRINE	atabrine
+ATP	ATP
+ATRAZINE	atrazine
+Alpha-lactose	&alpha;-lactose
+B-ALANINE	&beta;-alanine
+BA+2	Ba<SUP>2+</SUP>
+BACIMETHRIN	bacimethrin
+BENZALDEHYDE	benzaldehyde
+BENZENE	benzene
+BENZIMIDAZOLE	benzimidazole
+BENZOATE	benzoate
+BENZOYL-ACETATE	3-oxo-3-phenylpropanoate
+BENZOYLCOA	benzoyl-CoA
+BENZYL-ALCOHOL	benzyl alcohol
+BETA-D-FRUCTOSE	&beta;-D-fructofuranose
+BETA-D-MANNOSYLPHOSPHODECAPRENOL	<i>trans,octacis</i>-decaprenylphospho-&beta;-D-mannose
+BETA-D-XYLOSE	&beta;-D-xylopyranose
+BETA-HCH	&beta;-hexachlorocyclohexane
+BETA-TOCOPHEROL	&beta;-tocopherol
+BETAINE	glycine betaine
+BETAINE-ALDEHYDE-HYDRATE	betaine aldehyde hydrate
+BETAINE_ALDEHYDE	betaine aldehyde
+BH4NA	sodium tetrahydridoborate
+BIFURCOSE	1,6-kestotetraose
+BILIRUBIN	(<i>Z,Z</i>)-bilirubin-IX &alpha;
+BILIVERDINE	(<i>Z,Z</i>)-biliverdin-IX &alpha;
+BIO-5-AMP	biotinyl-5'-adenylate
+BIOTIN	biotin
+BIPHENYL-23-DIOL	biphenyl-2,3-diol
+BIS-GAMMA-GLUTAMYLCYSTINE	bis-&gamma;-glutamylcystine
+BIS-GERANYLGERANYLGLYCEROL-PHOSPHATE	2,3-bis-<i>O</i>-(geranylgeranyl)-<i>sn</i>-glycerol 1-phosphate
+BISOHMYR-GLC	lipid A disaccharide (<i>E. coli</i>)
+BISOHMYR-GLUCOSAMINYL-1P	lipid X
+BR-	bromide
+BRIJ97	Brij 97
+BROMOACETATE	bromoacetate
+BUTANAL	butan-1-al
+BUTANOL	butan-1-ol
+BUTHIONINE-SULFOXIMINE	buthionine sulfoximine
+BUTYRIC_ACID	butanoate
+BUTYRYL-COA	butanoyl-CoA
+C-DI-GMP	cyclic di-3',5'-guanylate
+C1	UDP-<i>N</i>-acetyl-&alpha;-D-muramoyl-L-alanyl-&gamma;-D-glutamyl-<I>meso</I>-2,6-diaminopimeloyl-D-alanyl-D-alanine
+C3	UDP-<i>N</i>-acetyl-&alpha;-D-muramoyl-L-alanyl-&gamma;-D-glutamyl-L-lysyl-D-alanyl-D-alanine
+C4	undecaprenyl-diphospho-<i>N</i>-acetylmuramoyl-L-alanyl-&gamma;-D-glutamyl-L-lysyl- D-alanyl-D-alanine
+C5	undecaprenyldiphospho-<i>N</i>-acetylmuramoyl-L-alanyl-&gamma;-D-glutamyl-<I>meso</I>-2,6-diaminopimeloyl-D-alanyl-D-alanine
+C55-PP-GLCNAC-MANNACA	<i>N</i>-acetyl-&beta;-D-mannosaminuronyl-(1&rarr;4)-N-acetyl-&alpha;-D-glucosaminyl-diphospho-<i>ditrans,octacis</i>-undecaprenol
+C55-PP-GLCNAC-MANNACA-FUC4NAC	(enterobacterial common antigen)-undecaprenyl diphosphate
+C6	<i>ditrans,octacis</i>-undecaprenyldiphospho-[(<i>N</i>-acetyl-&beta;-D-glucosaminyl)-(1,4)-]-<i>N</i>-acetyl-&alpha;-D-muramoyl-L-alanyl-&gamma;-D-glutamyl-<I>meso</I>-2,6-diaminopimeloyl-D-alanyl-D-alanine
+CA+2	Ca<SUP>2+</SUP>
+CADAVERINE	cadaverine
+CAFFEOYL-COA	<i>trans</i>-caffeoyl-CoA
+CAMP	cyclic-AMP
+CANAVANINE	L-canavanine
+CARBAMATE	carbamate
+CARBAMOYL-P	carbamoyl phosphate
+CARBAMYUL-L-ASPARTATE	<i>N</i>-carbamoyl-L-aspartate
+CARBON-DIOXIDE	CO<SUB>2</SUB>
+CARBON-MONOXIDE	carbon monoxide
+CARBOXYETHYL-3-5-CYCLOHEXADIENE-1-2-DIOL	3-(5,6-dihydroxycyclohexa-1,3-dien-1-yl)propanoate
+CARBOXYPHENYLAMINO-DEOXYRIBULOSE-P	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate
+CARNITINE	L-carnitine
+CATECHOL	catechol
+CD+2	Cd<SUP>2+</SUP>
+CDP	CDP
+CDP-36-DIDEOXY-D-MANNOSE	CDP-&alpha;-D-paratose
+CDP-CHOLINE	CDP-choline
+CDP-D-GLUCOSE	CDP-&alpha;-D-glucose
+CELLOBIOSE	&beta;-D-cellobiose
+CH33ADO	5'-deoxyadenosine
+CH4	methane
+CHALCONE-CMPD	<i>trans</i>-chalcone
+CHLORALAN-CPD	3-chloro-L-alanine
+CHLORAMPHENICOL	chloramphenicol
+CHLOROHYDROQUINONE	chlorohydroquinone
+CHLOROPHYLL-A	chlorophyll <i>a</i>
+CHLOROPHYLL-B	chlorophyll <i>b</i>
+CHLOROPHYLLIDE-A	chlorophyllide <i>a</i>
+CHOLATE	cholate
+CHOLESTEROL	cholesterol
+CHOLINE	choline
+CHORISMATE	chorismate
+CINNAMOYL-COA	cinnamoyl-CoA
+CIS-2-CHLORO-4-CARBOXYMETHYLENEBUT-2-EN-	2-chloro-<I>cis</I>-dienelactone
+CIS-3-HEXENAL	(Z)-3-hexanal
+CIS-3-HEXENOL	(3Z)-hex-3-en-1-ol
+CIS-3-PHENYLCYCLOHEXA-35-DIENE-12-DIOL	cis-3-phenylcyclohexa-3,5-diene-1,2-diol
+CIS-ACONITATE	<i>cis</i>-aconitate
+CIS-CIS-MUCONATE	cis,cis-muconate
+CIT	citrate
+CL-	chloride
+CLAVAMINATE	clavaminate
+CMP	CMP
+CMP-KDO	CMP-3-deoxy-&beta;-D-<i>manno</i>-octulosonate
+CMP-N-ACETYL-NEURAMINATE	CMP-<i>N</i>-acetyl-&beta;-neuraminate
+CO+2	Co<SUP>2+</SUP>
+CO-A	coenzyme A
+COBALT-FACTOR-III	cobalt-factor III
+COFORMYCIN	coformycin
+COPROPORPHYRINOGEN_III	coproporphyrinogen III
+COPROPORPHYRIN_III	coproporphyrin III
+CORTISOL	cortisol
+COUMARATE	4-coumarate
+CPD-1001	<I>p</I>-cymene
+CPD-10011	demethyl-L-phosphinothricin
+CPD-10012	carboxyspermidine
+CPD-10013	bialaphos
+CPD-10014	31-<i>O</i>-desmethylFK-506
+CPD-10016	FK-506
+CPD-10017	coenzyme F<sub>390</sub>-A
+CPD-1002	4-isopropylbenzyl alcohol
+CPD-1003	<I>p</I>-cumic aldehyde
+CPD-1004	<I>p</I>-cumate
+CPD-10044	(4R,7R)-4-isopropenyl-7-methyloxepan-2-one
+CPD-10047	(3R,6R)-6-hydroxy-3-isopropenylheptanoate
+CPD-1005	(2R,3S)-2,3-dihydroxy-2,3-dihydro-<I>p</I>-cumate
+CPD-1006	2,3-dihydroxy-<I>p</I>-cumate
+CPD-10064	(4S,7R)-4-isopropenyl-7-methyloxepan-2-one
+CPD-10065	(3S,6R)-6-hydroxy-3-isopropenyl-heptanoate
+CPD-10068	(3S,6R)-6-isopropenyl-3-methyloxepan-2-one
+CPD-10069	(3S,6S)-6-isopropenyl-3-methyloxepan-2-one
+CPD-1007	2-hydroxy-3-carboxy-6-oxo-7-methylocta-2,4-dienoate
+CPD-1008	2-hydroxy-7-methyl-6-oxo-2,4-octadienoate
+CPD-10080	<i>N</i>6,<i>N</i>6,<i>O</i>-tridemethylpuromycin
+CPD-10082	<i>N</i>-acetyl-<i>N</i>6,<i>N</i>6,<i>O</i>-tridemethylpuromycin
+CPD-10088	<i>N</i>-acetyl-<i>O</i>-demethylpuromycin
+CPD-10091	<i>N</i>-acetylpuromycin
+CPD-10092	2-bromo-4'-nitroacetophenone
+CPD-101	&epsilon;-caprolactone
+CPD-10116	tuberculosinyl diphosphate
+CPD-10117	tuberculosinol
+CPD-10135	2-isocapryloyl-3<i>R</i>-hydroxymethyl-&gamma;-butyrolactone
+CPD-10151	2-deoxystreptamine
+CPD-10158	(-)-geosmin
+CPD-10159	(1E,4S,5E,7R)-germacra-1(10),5-dien-11-ol
+CPD-10160	(8S,9S,10S)-8,10-dimethyl-1-octalin
+CPD-102	6-hydroxyhexanoate
+CPD-1022	<i>N</i>-(3-aminopropyl)hydroxylamine
+CPD-10220	UDP-3-dehydro-&alpha;-D-glucose
+CPD-10223	UDP-&alpha;-D-kanosamine
+CPD-10224	kanosamine
+CPD-10225	D-kanosamine 6-phosphate
+CPD-10227	1-deoxy-1-imino-D-erythrose 4-phosphate
+CPD-10228	4-amino-3,4-dideoxy-D-<i>arabino</i>-heptulosonate 7-phosphate
+CPD-10229	5-deoxy-5-amino-3-dehydroquinate
+CPD-1023	<i>N</i>-(3-aminopropyl)-<i>N</i>-hydroxyacetamide
+CPD-10230	5-amino-5-deoxy-3-dehydroshikimate
+CPD-10231	3-amino-5-hydroxybenzoate
+CPD-10237	27-<i>O</i>-demethyl-rifamycin SV
+CPD-10238	25-<i>O</i>-deacetyl-27-<i>O</i>-demethylrifamycin SV
+CPD-10239	25-<i>O</i>-deacetyl-27-<i>O</i>-demethylrifamycin S
+CPD-10241	proansamycin X
+CPD-10242	34&alpha;-deoxy-rifamycin W
+CPD-10246	sulfoacetate
+CPD-10267	decanoyl-CoA
+CPD-10269	palmitoleoyl-CoA
+CPD-10290	gramicidin S
+CPD-10313	UDP-2,3-diacetamido-2,3-dideoxy-&alpha;-D-glucuronate
+CPD-10314	UDP-2,3-diacetamido-2,3-dideoxy-&alpha;-D-mannuronate
+CPD-10324	amiloride
+CPD-10336	chlorophyll <i>c</i><sub>1</sub>
+CPD-10337	chlorophyll <i>c</i><sub>2</sub>
+CPD-10353	(R)-acetoin
+CPD-10419	3-sulfomuconate
+CPD-10420	4-sulfomuconolactone
+CPD-10437	dimethyl sulfone
+CPD-10473	dimethylsulfoniopropioyl-CoA
+CPD-10483	<i>N</i>-succinyl-L-citrulline
+CPD-10484	dehypoxanthine futalosine
+CPD-105	(R)-4-hydroxymandelate
+CPD-10505	(25<i>S</i>)-3&alpha;,7&alpha;,12&alpha;-trihydroxy-5&beta;-cholestanoyl-CoA
+CPD-10534	ursodeoxycholate
+CPD-10551	(4S)-4-hydroxy-5-phosphooxypentane-2,3-dione
+CPD-10556	chenodeoxycholoyl-CoA
+CPD-10576	4-chlorosalicylate
+CPD-10588	(25<i>S</i>)-3&alpha;,7&alpha;-dihydroxy-5&beta;-cholestanoyl-CoA
+CPD-10591	3&alpha;,7&alpha;-dihydroxy-24-oxo-5&beta;-cholestanoyl CoA
+CPD-10597	S-1-(4-hydroxyphenyl)-ethanol
+CPD-10598	4-hydroxyacetophenone
+CPD-10599	4-hydroxybenzoyl-acetate
+CPD-106	(<i>S</i>)-4-hydroxymandelate
+CPD-10600	3-(4-hydroxyphenyl)-3-oxo-propanoyl-CoA
+CPD-10608	<i>trans</i>-dienelactone
+CPD-10609	(1R,2R)-3-chlorocyclohexa-3,5-diene-1,2-diol
+CPD-10614	4-chloro-2-methylphenoxyacetate
+CPD-10615	2-methyl-4-chlorophenol
+CPD-10616	5-chloro-3-methylcatechol
+CPD-10622	3,4,6-trichlorocatechol
+CPD-10623	(1R,2S)-3,4,6-trichlorocyclohexa-3,5-diene-1,2-diol
+CPD-10624	(1R,2S)-3,4-dichlorocyclohexa-3,5-diene-1,2-diol
+CPD-10626	4,5-dichlorobenzene-1,2-diol
+CPD-1063	5-(methylsulfanyl)-ribulose 1-phosphate
+CPD-10631	2,3-dichloro-cis,cis-muconate
+CPD-10632	2,4-dichloro-cis,cis-muconate
+CPD-10633	5-chloro-<i>trans</i>-dienelactone
+CPD-10634	5-chloromaleylacetate
+CPD-10635	2,3,5-trichloro-cis,cis-muconate
+CPD-10636	2,5-dichloro-<i>trans</i>-dienelactone
+CPD-10637	2,5-dichloromaleylacetate
+CPD-10640	protoanemonin
+CPD-10642	dammara-20,24-dien
+CPD-10646	4-chloro-2-methyl-<i>cis,cis</i>-muconate
+CPD-10654	3-chlorotoluene
+CPD-10656	3-methyl-<i>cis,cis</i>-muconate
+CPD-10659	3-chlorobenzyl alcohol
+CPD-10663	5-chlorosalicylate
+CPD-10664	5-methylsalicylate
+CPD-1067	(3S,5S)-3,5-diaminohexanoate
+CPD-10679	flaviolin
+CPD-10680	3,3'-biflaviolin
+CPD-10681	3,8'-biflaviolin
+CPD-10683	mannosylfructose-phosphate
+CPD-10684	mannosylfructose
+CPD-107	6-hydroxypseudooxynicotine
+CPD-1070	3-maleylpyruvate
+CPD-10735	3-deoxy-D-<i>glycero</i>-D-<i>galacto</i>-nononate 9-phosphate
+CPD-10737	CMP-3-deoxy-D-<i>glycero</i>-D-<i>galacto</i>-non-2-ulopyranosonate
+CPD-10740	unsaturated CDP-archaeol
+CPD-10741	unsaturated archaetidylserine
+CPD-10750	UDP-2-acetamido-2,6-dideoxy-&beta;-L-<i>arabino</i>-hex-4-ulose
+CPD-10751	UDP-4-amino-4,6-dideoxy-<i>N</i>-acetyl-&beta;-L-altrosamine
+CPD-10752	UDP-2,4-diacetamido-2,4,6-trideoxy-&beta;-L-altropyranose
+CPD-10753	2,4-diacetamido-2,4,6-trideoxy-&beta;-L-altropyranose
+CPD-10754	pseudaminate
+CPD-10755	CMP-pseudaminate
+CPD-10766	7,8-dihydropterin-6-ylmethyl-4-(&beta;-D-ribofuranosyl)aminobenzene 5'-phosphate
+CPD-10774	(2R,4S)-2-methyl-2,3,3,4-tetrahydroxytetrahydrofuran
+CPD-1078	CDP-4-dehydro-3,6-dideoxy-&alpha;-D-glucose
+CPD-10780	VAI-1
+CPD-10781	HAI-1
+CPD-10782	AAI-1
+CPD-10783	PAI-1
+CPD-10784	PAI-1-2
+CPD-10785	VAI-1-2
+CPD-10786	CAI-1
+CPD-10789	7,8-dihydromethanopterin
+CPD-10792	2-amino-3,7-dideoxy-D-threo-hept-6-ulosonate
+CPD-10796	2,3-dihydroxy-<i>trans</i>-cinnamate
+CPD-10797	3-hydroxycinnamate
+CPD-108	4-methylphenol
+CPD-10801	<i>N</i>-(3-hydroxybutanoyl)-L-homoserine
+CPD-10802	<i>N</i>-(3-oxododecanoyl)-L-homoserine
+CPD-10803	<i>N</i>-(butyryl)-L-homoserine
+CPD-10804	<i>N</i>-(3-oxohexanoyl)-L-homoserine
+CPD-10805	<i>N</i>-(octanoyl)-L-homoserine
+CPD-10809	2,5-diamino-6-(5-phospho-D-ribitylamino)pyrimidin-4(3H)-one
+CPD-10818	isopentenyl phosphate
+CPD-10821	5-chlorocarbonyl-4-hydroxy-penta-2,4-dienate
+CPD-10823	4-methylmuconolactone
+CPD-1086	5-amino-6-(5-phospho-D-ribitylamino)uracil
+CPD-10862	3-chloro-4-hydroxyphenylacetate
+CPD-10864	2,3-dichlorophenol
+CPD-10865	2,6-dichlorophenol
+CPD-10866	2-chlorophenol
+CPD-10868	3-chlorophenol
+CPD-10870	4-chlorophenol
+CPD-1091	(<i>S</i>)-ureidoglycolate
+CPD-1092	styrene
+CPD-1099	raffinose
+CPD-110	salicylate
+CPD-11020	5-chloro-4-hydroxy-2-oxopentanoate
+CPD-1106	(2-aminoethyl)phosphonate
+CPD-1107	D-<i>myo</i>-inositol 1,3,4,5,6-pentakisphosphate
+CPD-111	3-methylcatechol
+CPD-1111	CDP-ribitol
+CPD-1112	4-pyridoxate
+CPD-1114	D-arabinonate
+CPD-1121	D-myo-inositol 1,2-cyclic phosphate
+CPD-11220	5-chlorobenzoate-<i>cis</i>-3,4-diol
+CPD-11222	5-chloroprotocatechuate
+CPD-11241	4-(4-deoxy-&alpha;-D-galact-4-enuronosyl)-D-galacturonate
+CPD-11253	<i>trans</i>-tuberonic acid
+CPD-11260	<i>cis</i>-tuberonic acid
+CPD-11281	<i>S</i>-sulfanylglutathione
+CPD-1133	3D-(3,5/4)-trihydroxycyclohexane-1,2-dione
+CPD-1134	2-dehydro-3-deoxy-L-arabinonate
+CPD-1136	<i>cis</i>-2-methylaconitate
+CPD-11419	cyclic dehypoxanthine futalosine
+CPD-11420	1,4-dihydroxy-6-naphthoate
+CPD-11426	aphidicolin
+CPD-11445	BM15766
+CPD-11446	1'-hydroxy-&gamma;-carotene
+CPD-11447	rhodopin
+CPD-11448	plectaniaxanthin
+CPD-11449	myxol
+CPD-11450	myxol-2' fucoside
+CPD-11456	&beta;,&chi;-carotene
+CPD-11457	renierapurpurin
+CPD-11459	18-hydroxyrenierapurpurin
+CPD-11460	&chi;,&chi;-caroten-18-oate
+CPD-11461	18'-hydroxy-&chi;,&chi;-caroten-18-oate
+CPD-11463	1-hydroxyneurosporene
+CPD-11464	demethylspheroidene
+CPD-11465	demethylspheroidenone
+CPD-11466	spheroiden-2-one
+CPD-11468	spheroidene
+CPD-11469	methoxyneurosporene
+CPD-11470	zeaxanthin-&beta;-D-glucoside
+CPD-11471	zeaxanthin bis(&beta;-D-glucoside)
+CPD-11477	<i>N</i><sup>1</sup>-(3,4-dihydroxybenzoyl)-<i>N</i><sup>8</sup>-citryl-spermidine
+CPD-11479	<i>N</i>-citryl-spermidine
+CPD-11480	<i>N</i><sup>8</sup>,<i>N</i>'<sup>8</sup>-citryl-bis(spermidine)
+CPD-11481	<i>N</i><sup>1</sup>-(3,4-dihydroxybenzoyl)-<i>N</i><sup>8</sup>,<i>N</i>'<sup>8</sup>-citryl-bis(spermidine)
+CPD-11520	3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-(3-oxooctanoyl)-CoA
+CPD-11521	3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-hexanoyl-CoA
+CPD-11524	3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-(3-oxohexanoyl)-CoA
+CPD-11525	3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-butanoyl-CoA
+CPD-11528	3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-(3-oxobutanoyl)-CoA
+CPD-11529	(+)-7-<i>epi</i>-jasmonoyl-CoA
+CPD-11533	tetrahymanol
+CPD-11569	(3-nitrobenzoyl)alanine
+CPD-11571	<i>N</i><sup>5</sup>-hydroxy-L-ornithine
+CPD-11572	5-hydroxymethylfurfural
+CPD-11573	2,5-bis-hydroxymethylfuran
+CPD-11592	2-methylsulfanyl-<i>N</i><sup>6</sup>-dimethylallyladenosine<sup>37</sup> in tRNA
+CPD-11607	&beta;-D-galactosyl-(1->4)-L-rhamnose
+CPD-1162	arbutin-6-phosphate
+CPD-11621	L-proline amide
+CPD-11622	(<i>R</i>)-piperazine-2-carboxylate
+CPD-11625	(<i>R</i>)-piperazine-2-carboxamide
+CPD-11653	7-O-[2-aminoethoxy(hydroxy)phosphoryl]-&alpha;-D-Kdo-(2&rarr;4)-&alpha;-D-Kdo-(2&rarr;6)-lipid A
+CPD-11678	hemin
+CPD-11729	hydroxymethylphosphonate
+CPD-11735	phosphonoformate
+CPD-11736	phosphonoformaldehyde
+CPD-11737	CMP-5'-phosphonoformate
+CPD-11738	2-phosphono-formylglycerate
+CPD-11740	carboxyphosphinopyruvate
+CPD-11742	2-(phosphonoylmethyl)malate
+CPD-11744	3-(hydroxyphosphonoylmethyl)malate
+CPD-11746	<i>N</i>-acetyldemethyl-L-phosphinothricin
+CPD-11747	<i>N</i>-acetyldemethylphosphinothricin tripeptide
+CPD-11748	<i>N</i>-acetylphosphinothricin tripeptide
+CPD-11749	phosalacine
+CPD-11751	7-chloro-L-tryptophan
+CPD-11754	dichlorochromopyrrolate
+CPD-11755	dichloro-arcyriaflavin A
+CPD-11756	4'-<i>O</i>-demethylrebeccamycin
+CPD-11770	7,8-dihydromonapterin
+CPD-11786	chromopyrrolate
+CPD-11789	K-252c
+CPD-11791	J-104303
+CPD-11792	J-109384
+CPD-1181	salicin 6-phosphate
+CPD-11853	5-carboxyvanillate
+CPD-11859	5,5'-dehydrodivanillate
+CPD-11860	2,2',3-trihydroxy-3'-methoxy-5,5'-dicarboxybiphenyl
+CPD-11861	OH-DDVA <i>meta</i>-cleavage product
+CPD-11863	4-carboxy-2-hydroxypenta-2,4-dienoate
+CPD-11866	(2<i>S</i>)-2-(glutathion-<i>S</i>-yl)-3-hydroxy-1-(4-hydroxy-3-methoxyphenyl)propan-1-one
+CPD-11867	(-)-(&alpha;<i>S</i>,&beta;<i>R</i>)-guaiacylglycerol-&beta;-guaiacyl ether
+CPD-11868	(+)-(&alpha;<i>R</i>,&beta;<i>S</i>)-guaiacylglycerol-&beta;-guaiacyl ether
+CPD-11869	(-)-(&alpha;<i>R</i>,&beta;<i>R</i>)-guaiacylglycerol-&beta;-guaiacyl ether
+CPD-11870	(+)-(&alpha;<i>S</i>,&beta;<i>S</i>)-guaiacylglycerol-&beta;-guaiacyl ether
+CPD-11871	(2<i>S</i>)-3-hydroxy-1-(4-hydroxy-3-methoxyphenyl)-2-(2-methoxyphenoxy)propan-1-one
+CPD-11872	(2<i>R</i>)-3-hydroxy-1-(4-hydroxy-3-methoxyphenyl)-2-(2-methoxyphenoxy)propan-1-one
+CPD-11873	3-hydroxy-1-(4-hydroxy-3-methoxyphenyl)propan-1-one
+CPD-11876	3-methoxy-4-hydroxyphenylglycolaldehyde
+CPD-11879	3,4-dihydroxymandelate
+CPD-11880	(2<i>R</i>)-2-(glutathion-<i>S</i>-yl)-3-hydroxy-1-(4-hydroxy-3-methoxyphenyl)propan-1-one
+CPD-11881	4-hydroxy-3-methoxyphenyl-&beta;-hydroxypropanoyl-CoA
+CPD-11890	2-imino-3-(indol-3-yl)propanoate
+CPD-11905	3'-<i>O</i>-demethyl-4'-<i>N</i>-demethyl-staurosporine
+CPD-11906	holyrine A
+CPD-11909	dTDP-L-ristosamine
+CPD-11910	holyrine B
+CPD-11915	dTDP-L-olivose
+CPD-11916	dTDP-&alpha;-D-olivose
+CPD-11917	unsaturated archaetidylinositol phosphate
+CPD-11919	unsaturated archaetidylethanolamine
+CPD-11920	unsaturated archaetidylglycerol
+CPD-11950	norspermidine-2,3-dihydroxybenzoate
+CPD-11953	<i>N</i>-hydroxycadaverine
+CPD-11955	<i>N</i>-hydroxy-<i>N</i>-succinylcadaverine
+CPD-11963	<i>N</i>-hydroxyputrescine
+CPD-11964	<i>N</i>-hydroxy-<i>N</i>-succinyl-putrescine
+CPD-11968	alcaligin
+CPD-11971	3-[4-amino-3-hydroxybutyl]-hydroxy-carbamoyl-propanoate
+CPD-11972	pre-alcaligin
+CPD-11984	mono-<i>trans</i>,octa-<i>cis</i>-decaprenyl diphosphate
+CPD-11994	<i>trans,octacis</i>-decaprenyl phosphate
+CPD-11997	decaprenyl-diphospho-<i>N</i>-acetylmuramoyl-pentapeptide
+CPD-11998	decaprenyl-pyrophosphoryl-(<i>N</i>-acetylglucosamine)-<i>N</i>-acetylmuramyl-(pentapeptide)
+CPD-11999	a peptidoglycan with L,D cross-links  (mycobacteria)
+CPD-12000	a peptidoglycan with D,D cross-links  (mycobacteria)
+CPD-12004	(R,S)-2,3-butanediol
+CPD-12024	Se-methyl-L-selenocysteine
+CPD-12028	&alpha;-L-rhamnopyranosyl-(1&rarr;3)-N-acetyl-&alpha;-D-glucosaminyl-diphospho-trans,octacis-decaprenol
+CPD-12029	&beta;-D-galactofuranosyl-(1&rarr;4)-&alpha;-L-rhamnopyranosyl-(1&rarr;3)-N-acetyl-&alpha;-D-glucosaminyl-diphospho-trans,octacis-decaprenol
+CPD-12030	&beta;-D-galactofuranosyl-(1&rarr;5)-&beta;-D-galactofuranosyl-(1&rarr;4)-&alpha;-L-rhamnopyranosyl-(1&rarr;3)-N-acetyl-&alpha;-D-glucosaminyl-diphospho-trans,octacis-decaprenol
+CPD-12039	<i>trans,octacis</i>-decaprenylphospho-&beta;-D-ribofuranose 5-phosphate
+CPD-12040	<i>trans,octacis</i>-decaprenylphospho-&beta;-D-ribofuranose
+CPD-12041	<i>trans,octacis</i>-decaprenylphospho-&beta;-D-<i>erythro</i>-pentofuranosid-2-ulose
+CPD-12045	&alpha;-L-arabinofuranose
+CPD-12046	&beta;-L-arabinofuranose
+CPD-12050	[&beta;-D-galactofuranosyl-(1&rarr;5)-&beta;-D-galactofuranosyl-(1&rarr;6)]<sub>14</sub>-&beta;-D-galactofuranosyl-(1&rarr;5)-&beta;-D-galactofuranosyl-(1&rarr;4)--L-rhamnopyranosyl-(1&rarr;3)-N-acetyl-&alpha;-D-glucosaminyl-diphospho-trans,octacis-decaprenol
+CPD-12051	mycobacterial arabinogalactan containing &alpha;(1->3) arabinofuran linkages
+CPD-12054	mycobacterial arabinogalactan containing linear arabinofuran
+CPD-12060	mycobacterial arabinogalactan primed with arabinofuran
+CPD-12061	mycobacterial arabinogalactan containing &alpha;(1->3) and &beta;(1->2) arabinofuran linkages
+CPD-12063	mycobacterial arabinogalactan containing extended &alpha;(1->3) arabinofuran linkages
+CPD-12064	<i>N</i><sup>1</sup>-amidinostreptamine 6-phosphate
+CPD-12084	(salicyl)adenylate
+CPD-12085	(L-cysteinyl)adenylate
+CPD-12097	<i>N</i><sup>5</sup>-formyl-<i>N</i><sup>5</sup>-hydroxy-L-ornithine
+CPD-121	(R)-mandelate
+CPD-12101	<i>N</i><sup>5</sup>-acetyl-<i>N</i><sup>5</sup>-hydroxy-L-ornithine
+CPD-12112	salicyl-CoA
+CPD-12115	demethylmenaquinol-8
+CPD-12116	demethylmenaquinol-6
+CPD-12117	demethylmenaquinol-7
+CPD-12124	menaquinol-<i>6</i>
+CPD-12125	menaquinol-<i>7</i>
+CPD-12135	2-amino-4-[5-(2-amino-2-carboxylatoethyl)-2-hydroxyphenyl]pentanedioate
+CPD-12151	D-histidine
+CPD-12152	mycothiol-arsenate conjugate
+CPD-12164	indolepropanol phosphate
+CPD-12173	(<i>S</i>)-3-hydroxy-isobutanoyl-CoA
+CPD-12175	(<i>S</i>)-3-hydroxy-isobutanoate
+CPD-12197	15-&beta;-hydroxyprogesterone
+CPD-12199	3S-(4-hydroxyphenyl)-3-hydroxy-propanoyl-CoA
+CPD-122	<i>(S)</i>-mandelate
+CPD-12230	a peptidoglycan with D,D cross-link (S. aureus)
+CPD-12231	a peptidoglycan dimer (<I>meso</I>-diaminopimelate containing)
+CPD-12242	<i>ditrans,octacis</i>-undecaprenyldiphospho-<i>N</i>-acetyl-(<i>N</i>-acetylglucosaminyl)muramoyl-L-alanyl-&gamma;-D-isoglutaminyl-L-lysyl-(<i>N</i><sup>6</sup>-glycyl)-D-alanyl-D-alanine
+CPD-12245	vancomycin
+CPD-12259	a peptidoglycan dimer (S. aureus)
+CPD-12260	a peptidoglycan dimer (mycobacteria)
+CPD-12261	a peptidoglycan with D,D cross-links (<I>meso</I>-diaminopimelate containing)
+CPD-12266	serinol phosphate
+CPD-12269	UDP-<i>N</i>-acetylmuramoyl-L-alanyl-D-isglutaminyl-N<sup>6</sup>-(L-alanyl-L-alanyl)-L-lysyl-D-alanyl-D-alanine
+CPD-12271	<i>ditrans,octacis</i>-undecaprenyldiphospho-<i>N</i>-acetyl-(<i>N</i>-acetylglucosaminyl)muramoyl-L-alanyl-&gamma;-D-isoglutaminyl-N<sup>6</sup>-(L-alanyl)-L-lysyl-D-alanyl-D-alanine
+CPD-12278	<i>N</i>-formylmaleamate
+CPD-12279	2-iminoacetate
+CPD-12281	&alpha;-Kdo-(2->8)-&alpha;-Kdo-(2->4)-&alpha;-Kdo-(2->6)-lipid IV<SUB>A</SUB>
+CPD-12284	&alpha;-Kdo-(2->4)-&alpha;-Kdo-(2->4)-&alpha;-Kdo-(2->6)-lipid IV<SUB>A</SUB>
+CPD-12285	&alpha;-Kdo-(2->8)-[&alpha;-Kdo-(2->4)]-&alpha;-Kdo-(2->4)-&alpha;-Kdo-(2->6)-lipid IV<SUB>A</SUB>
+CPD-12286	4-<i>O</i>-phospho-&alpha;-Kdo-(2&rarr;6)-lipid IV<sub>A</sub>
+CPD-12294	ceftriaxone
+CPD-12295	<i>ditrans,octacis</i>-undecaprenyldiphospho-<i>N</i>-acetyl-(<i>N</i>-acetylglucosaminyl)muramoyl-L-alanyl-&gamma;-D-isoglutaminyl-N-(&beta;-D-asparaginyl)-L-lysyl-D-alanyl-D-alanine
+CPD-12297	<i>ditrans,octacis</i>-undecaprenyldiphospho-<i>N</i>-acetyl-(<i>N</i>-acetylglucosaminyl)muramoyl-L-alanyl-&gamma;-D-isoglutaminyl-L-lysyl-(glycyl)<sub>5</sub>-D-alanyl-D-alanine
+CPD-12298	<i>ditrans,octacis</i>-undecaprenyldiphospho-<i>N</i>-acetyl-(<i>N</i>-acetylglucosaminyl)muramoyl-L-alanyl-&gamma;-D-isoglutaminyl-L-lysyl-D-alanyl-D-alanine
+CPD-12302	<i>ditrans,octacis</i>-undecaprenyldiphospho-<i>N</i>-acetyl-(<i>N</i>-acetylglucosaminyl)muramoyl-L-alanyl-&gamma;-D-isoglutaminyl-N-(&beta;-D-asparatyl)-L-lysyl-D-alanyl-D-alanine
+CPD-12310	a peptidoglycan dimer (E. faeciums)
+CPD-12311	a peptidoglycan tetramer with a D,D cross-link (<i>Enterococcus faecium</i>)
+CPD-12313	schizokinen
+CPD-12321	15-<i>cis</i>-phytoene
+CPD-12334	D-<i>glycero</i>-&alpha;-D-<i>manno</i>-heptose 1,7-bisphosphate
+CPD-12335	D-<i>glycero</i>-&alpha;-D-<i>manno</i>-heptose 1-phosphate
+CPD-12336	GDP-D-<i>glycero</i>-&alpha;-D-<i>manno</i>-heptose
+CPD-12349	2-dehydro-3-deoxy-L-galactonate
+CPD-12365	8-oxo-dGMP
+CPD-12366	8-oxo-GTP
+CPD-12367	8-oxo-GMP
+CPD-124	4-methylaminobutanoate
+CPD-12427	7,8-dihydro-8-oxoguanine
+CPD-12430	5-guanidino-3-methyl-2-oxopentanoate
+CPD-12435	&alpha;-D-galacturonosyl-(1&rarr;4)-&alpha;-D-galacturonate
+CPD-12451	isocholate
+CPD-12452	3-dehydrocholate
+CPD-12460	&omega;, mono-<i>trans</i>,deca-<i>cis</i>-dodecaprenyl diphosphate
+CPD-12461	tri-<i>trans</i>,hepta-<i>cis</i>-undecaprenyl diphosphate
+CPD-12480	1,3,7-trimethylurate
+CPD-125	(<i>S</i>)-6-hydroxynicotine
+CPD-12563	4-deoxy-&beta;-D-gluc-4-enuronosyl-(1,3)-<i>N</i>-acetyl-D-galactosamine 4-sulfate
+CPD-12565	<i>N</i>-acetyl-D-galactosamine 6-<i>O</i>-sulfate
+CPD-12575	UDP-&alpha;-D-glucose
+CPD-12576	<i>O</i>-citryl-L-serine
+CPD-12578	diaminobutyryl-citryl-ethanolamine
+CPD-12579	&alpha;-ketoglutaryl-diaminobutyryl-citryl-ethanolamine
+CPD-12580	diaminobutyryl-citryl-ethanolamino-&alpha;-ketoglutarate
+CPD-12585	(<i>2E,6E</i>)-farnesoate
+CPD-12587	(2<i>E</i>,6<i>E</i>)-farnesyl phosphate
+CPD-12589	staphyloferrin A
+CPD-12590	staphyloferrin B
+CPD-12609	(<i>S</i>)-dihydrodaidzein
+CPD-12610	Mn<sup>IV</sup>O<sub>2</sub>
+CPD-12611	3,4-didehydrorhodopin
+CPD-12612	anhydrorhodovibrin
+CPD-12613	rhodovibrin
+CPD-12614	hydroxyspirilloxanthin
+CPD-12615	spirilloxanthin
+CPD-12616	2-oxospirilloxanthin
+CPD-12617	2,2'-dioxospirilloxanthin
+CPD-12626	1,1'-dihydroxy-neurosporene
+CPD-12645	sulfoacetyl-CoA
+CPD-12670	CDP-2-glycerol
+CPD-12671	5-chloro-5-deoxy-D-ribose
+CPD-12672	5-chloro-5-deoxy-D-ribono-&gamma;-lactone
+CPD-12673	5-chloro-5-deoxy-D-ribonate
+CPD-12675	chloroethylmalonyl-CoA
+CPD-12676	5'-chloro-5'-deoxyadenosine
+CPD-12677	5-chloro-5-deoxyribose 1-phosphate
+CPD-12679	4-chloro-3-hydroxybutyryl-CoA
+CPD-12680	4-chloro-crotonyl-CoA
+CPD-12692	(2<i>R</i>)-3-sulfopropanediol
+CPD-12693	(2<i>S</i>)-3-sulfopropanediol
+CPD-12694	1-hydroxy-2-oxo-3-sulfopropane
+CPD-12695	5-nitroanthranilate
+CPD-12696	5-nitrosalicylate
+CPD-12703	gentisyl-CoA
+CPD-12706	5-fluoro-5-deoxy-D-ribose 1-phosphate
+CPD-12707	5-fluoro-5-deoxy-D-ribulose 1-phosphate
+CPD-12738	(3<i>R</i>)-3-hydroxy-D-aspartate
+CPD-12760	(R)-4-phosphopantoate
+CPD-12762	(2E,4E,6E)-2,6-dimethylocta-2,4,6-trienedial
+CPD-12768	&beta;-D-glucosyl-(1,4)-&alpha;-D-glucosyl-diphosphoundecaprenol
+CPD-12769	&alpha;-D-Man-(1&rarr;3)-&beta;-D-Glc-(1&rarr;4)-&alpha;-D-Glc-1-diphospho-<i>ditrans,octacis</i>-undecaprenol
+CPD-12771	&beta;-D-GlcA-(1&rarr;2)-&alpha;-D-Man-(1&rarr;3)-&beta;-D-Glc-(1&rarr;4)-&alpha;-D-Glc-1-diphospho-<i>ditrans,octacis</i>-undecaprenol
+CPD-12772	D-Man-&beta;-(1&rarr;4)-GlcA-&beta;-(1&rarr;2)-D-Man-&alpha;-(1&rarr;3)-D-Glc-&beta;-(1&rarr;4)-D-Glc-&alpha;-1-diphospho-<i>ditrans,octacis</i>-undecaprenol
+CPD-12773	&alpha;-D-glucopyranosyl-diphosphoundecaprenol
+CPD-12774	monodechloroaminopyrrolnitrin
+CPD-12775	aminopyrrolnitrin
+CPD-12777	(3<i>R</i>)-hydroxydecanoyl-CoA
+CPD-12781	D-Man-&beta;-(1&rarr;4)-GlcA-&beta;-(1&rarr;2)-6-<i>O</i>-acetyl-D-Man-&alpha;-(1&rarr;3)-D-Glc-&beta;-(1&rarr;4)-D-Glc-&alpha;-1-diphospho-<i>ditrans,octacis</i>-undecaprenol
+CPD-12782	6-<i>O</i>-acetyl-&beta;-D-mannosyl-(1,4)-&beta;-D-glucoronate-(1,2)-&alpha;-<i>N</i>-acetyl-D-mannosyl-(1,3)-&beta;-D-glucosyl-(1,4)-&alpha;-D-glucosyl-diphosphoundecaprenol
+CPD-12783	4,6-CH3(COO-)C-D-Man-&beta;-(1&rarr;4)-GlcA-&beta;-(1&rarr;2)-6-<i>O</i>-acetyl-D-Man-&alpha;-(1&rarr;3)-D-Glc-&beta;-(1&rarr;4)-D-Glc-&alpha;-1-diphospho-<i>ditrans,octacis</i>-undecaprenol
+CPD-12784	&alpha;-D-glucosyl-(1,2)-&beta;-D-glucuronate-(1,2)-&alpha;-D-mannosyl-(1,3)-&beta;-D-glucosyl-(1,4)-&alpha;-D-glucosyl-diphosphoundecaprenol
+CPD-12785	&beta;-D-glucosyl-(1,6)-&alpha;-D-glucosyl-(1,2)-&beta;-D-glucuronate-(1,2)-&alpha;-D-mannosyl-(1,3)-&beta;-D-glucosyl-(1,4)-&alpha;-D-glucosyl-diphosphoundecaprenol
+CPD-12792	Reactive Blue 5
+CPD-12797	2,6-dimethoxyphenol
+CPD-12811	D-altritol
+CPD-12825	D-threitol
+CPD-12829	plastoquinol-9
+CPD-12830	demethylphylloquinol
+CPD-12831	phylloquinol
+CPD-12847	pyocyanin
+CPD-12849	(1<i>E</i>,3<i>E</i>)-4-hydroxybuta-1,3-diene-1,2,4-tricarboxylate
+CPD-12855	CDP-1L-<i>myo</i>-inositol
+CPD-12856	bis(1L-<i>myo</i>-inositol) 3,1'-phosphate 1-phosphate
+CPD-12869	5-methylphenazine-1-carboxylate
+CPD-12896	citronellyll-CoA
+CPD-12934	(3a<i>S</i>)-jadomycin B
+CPD-12938	(3a<i>S</i>)-jadomycin A
+CPD-12949	UWM6
+CPD-12950	prejadomycin
+CPD-12951	8-methyltetraphene-1,5,6,11,12-pentol
+CPD-12952	dehydrorabelomycin
+CPD-12955	3,5,7,9,11,13,15,17,19-nonaoxoicosanoate
+CPD-12957	3-(2-formyl-6-hydroxy-4-methylphenyl)-8-hydroxy-1,4-dioxonaphthalene-2-carboxylate
+CPD-12960	aclacinomycin A
+CPD-12969	1-hydroxy-2-phosphorylethylphosphonate
+CPD-12970	1-oxo-2-phosphorylethylphosphonate
+CPD-1301	tetrahydropteroyl tri-L-glutamate
+CPD-13013	2-[2-<i>O</i>-(&alpha;-D-mannopyranosyl)-(1&rarr;2)-&alpha;-D-glucopyranosyl]-3-phospho-D-glycerate
+CPD-13015	2-[2-<i>O</i>-(&alpha;-D-mannopyranosyl)-(1&rarr;2)-&alpha;-D-glucopyranosyl]-D-glycerate
+CPD-13018	UDP-<i>N</i>-acetyl-&alpha;-D-muramoyl-L-alanyl-&gamma;-D-glutamyl-<i>N</i><sup>&epsilon;</sup>-D-lysine
+CPD-1302	5-methyltetrahydropteroyl tri-L-glutamate
+CPD-13034	(2<i>E</i>)-3-(5,6-dihydroxycyclohexa-1,3-dien-1-yl)prop-2-enoate
+CPD-13043	7-carboxy-7-deazaguanine
+CPD-13056	toyocamycin
+CPD-13059	2-keto-L-gulonate
+CPD-13095	5-phospho-&alpha;-D-ribose-1-preQ<sub>0</sub>
+CPD-13097	[(1R,2R,3S,4S)-4-{5-cyano-4-oxo-3H-pyrrolo[2,3-d]pyrimidin-7-yl}-2,3-dihydroxycyclopentyl]methyl phosphate
+CPD-13099	succinylo-toyocamycin phosphate
+CPD-13100	toyocamycin phosphate
+CPD-13108	candicidin III
+CPD-13109	4-aminobenzoyl-CoA
+CPD-13118	GDP-&beta;-L-fucose
+CPD-13121	2-<i>O</i>-(4-deoxy-&beta;-L-threo-hex-4-enopyranuronosyl)-&alpha;-L-rhamnopyranose
+CPD-13122	4-deoxy-L-<i>threo</i>-hex-4-enopyranuronate
+CPD-13144	aureothin
+CPD-13149	<i>all-trans</i>-4,4'-diapolycopene
+CPD-13150	4,4'-diapolycopen-4,4'-dial
+CPD-13151	4,4'-diapolycopenedioate
+CPD-13160	GDP-D-glucosamine
+CPD-13161	GDP-<i>N</i>-acetyl-D-glucosamine
+CPD-13162	GDP-2-acetamido-2,6-dideoxy-&alpha;-D-<i>xylo</i>-hexos-4-ulose
+CPD-13163	GDP-4-amino-4,6-dideoxy-&alpha;-D-<i>N</i>-acetylglucosamine
+CPD-13164	GDP-2,4-diacetamido-2,4,6-trideoxy-&alpha;-D-glucopyranose
+CPD-13165	2,4-diacetamido-2,4,6-trideoxy-&alpha;-D-mannopyranose
+CPD-13166	5,7-diacetamido-3,5,7,9-tetradeoxy-D-<i>glycero</i>-D-<i>galacto</i>-nonulopyranosonate
+CPD-13167	CMP-<i>N</i>,<i>N</i>'-diacetyllegionaminate
+CPD-13171	15,9'-di-<i>cis</i>-phytofluene
+CPD-13182	aminopentol
+CPD-13184	(3S,5R,10R,12S,14S,15R,16R)-3,5,10,14,15-pentahydroxy-12,16-dimethylicosan-2-one
+CPD-13187	unsaturated gellan tetrasaccharide
+CPD-13188	&beta;-D-Glcp-(1&rarr;4)-&alpha;-L-Rhap-(1&rarr;3)-D-Glcp
+CPD-13205	cellotetraose
+CPD-13227	<i>N,N',N''</i>-triacetylchitotriose
+CPD-13228	(<i>E</i>)-2-pentenal
+CPD-13229	(<i>E</i>)-2-pentenol
+CPD-13262	4,6-CH3(COO-)C-D-Man-&beta;-(1&rarr;4)-GlcA-&beta;-(1&rarr;2)-D-Man-&alpha;-(1&rarr;3)-D-Glc-&beta;-(1&rarr;4)-D-Glc-&alpha;-1-diphospho-<i>ditrans,octacis</i>-undecaprenol
+CPD-13290	(1,3)-&beta;-xylobiose
+CPD-13291	(1,3)-&beta;-xylotriose
+CPD-13292	(1,3)-&beta;-xylotetraose
+CPD-13294	<i>p</i>-nitrophenyl-&alpha;-L-arabinofuranoside
+CPD-13323	<i>trans</i>-2-octenal
+CPD-13324	6-amino-6-deoxyfutalosine
+CPD-13339	(2<i>Z</i>,4<i>E</i>)-2-hydroxyhexa-2,4-dienedioate
+CPD-13357	(2<i>R</i>)-2,3-dihydroxy-3-methylbutanoate
+CPD-13369	13-apo-&beta;-carotenone
+CPD-13380	dTDP-2,6-dideoxy-D-glycero-hex-2-enos-4-ulose
+CPD-13381	dTDP-4-dehydro-2,6-dideoxy-&alpha;-D-threo-hexopyranose
+CPD-13384	dTDP-&alpha;-D-forosamine
+CPD-13385	spinosyn A
+CPD-13420	(+)-7-<i>epi</i>-12-hydroxyjasmonoyl-L-isoleucine
+CPD-13430	3,6-anhydro-&alpha;-L-galactopyranose
+CPD-13432	agarotriose
+CPD-13434	neoagarotetraose
+CPD-13435	neoagarotriose
+CPD-13436	neoagarohexaose
+CPD-13438	agarohexaose
+CPD-13440	&alpha;-L-galactopyranose-6-sulfate-(1,3)-&beta;-D-galactose
+CPD-13445	neocarrabiose sulfate
+CPD-13446	neocarratetraose 4-<i>O</i>-disulfate
+CPD-13447	&iota;-neocarratetraose sulfate
+CPD-13448	&iota;-neocarrahexaose sulfate
+CPD-13451	neo-&lambda;-carratetraose
+CPD-13452	neo-&lambda;-carrahexaose
+CPD-13453	neo-&lambda;-carrabiose
+CPD-13462	<i>N</i>-acetyl-&alpha;-D-mannosamine
+CPD-13469	&alpha;-D-glucosamine 6-phosphate
+CPD-13473	3-(4-deoxy-&beta;-D-gluc-4-enuronosyl)-<i>N</i>-acetyl-D-glucosamine
+CPD-13483	4-amino-L-phenylalanine
+CPD-13489	<i>N</i><sup>1</sup>-(3-aminopropyl)agmatine
+CPD-13518	N<sup>&omega;</sup>-hydroxy-L-arginine
+CPD-13524	<i>all-trans</i>-retinol
+CPD-13530	4-carboxy-2-hydroxy-6-methoxy-6-oxohexa-2,4-dienoate
+CPD-13533	(3<i>R</i>)-3-hydroxypentanoyl-CoA
+CPD-13534	3-oxopentanoyl-CoA
+CPD-13546	3-(methylsulfanyl)propanoyl-CoA
+CPD-13547	3-(methylsulfanyl)acryloyl-CoA
+CPD-13559	&alpha;-D-mannopyranose
+CPD-13575	2-[(2<i>R</i>,5<i>Z</i>)-2-carboxy-4-methylthiazol-5(2<i>H</i>)-ylidene]ethyl phosphate
+CPD-13576	2-(2-carboxy-4-methylthiazol-5-yl)ethyl phosphate
+CPD-13577	formylaminopyrimidine
+CPD-13578	aminomethylpyrimidine
+CPD-13584	cyanide
+CPD-13616	pentalen-13-ol
+CPD-13617	pentalen-13-al
+CPD-13618	1-deoxypentalenate
+CPD-13619	pentalenolactone
+CPD-13620	1-deoxy-11&beta;-hydroxypentalenate
+CPD-13621	pentalenolactone D
+CPD-13622	pentalenolactone F
+CPD-13623	neopentalenolactone D
+CPD-13624	neopentalenolactone F
+CPD-13625	1-deoxy-11-oxopentalenate
+CPD-13632	pentalenolactone E
+CPD-13638	neopentalenolactone E
+CPD-13679	cholest-dien-3-one
+CPD-13680	9&alpha;-hydroxyandrosta-1,4-diene-3,17-dione
+CPD-13682	trilostane
+CPD-13684	cholest-5-en-3-one
+CPD-13689	(25S)-3-oxocholest-4-en-26-oate
+CPD-13691	(25S)-3-oxocholest-4-en-26-oyl-CoA
+CPD-13692	3-oxocholest-4,24-dien-26-oyl-CoA
+CPD-13694	24-hydroxy-3-oxocholest-4-en-26-oyl-CoA
+CPD-13696	3-oxochol-4-en-24-oyl-CoA
+CPD-13699	3,22-dioxochol-4-en-24-oyl-CoA
+CPD-13700	3-oxo-4-pregnene-20-carboxyl-CoA
+CPD-13704	androsta-1,4-diene-3,17-dione
+CPD-13709	3,4-dihydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione
+CPD-13711	3-[(3a<i>S</i>,4<i>S</i>,7a<i>S</i>)-7a-methyl-1,5-dioxo-octahydro-1<i>H</i>-inden-4-yl]propanoate
+CPD-13712	(2<i>Z</i>,4<i>Z</i>)-2-hydroxyhexa-2,4-dienoate
+CPD-13714	1,1'-dihydroxy-1,1',2,2'-tetrahydrolycopene
+CPD-13722	(<i>S</i>)-4-hydroxy-2-oxohexanoate
+CPD-13734	ferroheme <i>a</i>
+CPD-13739	3-oxo-23,24-bisnorchol-1,4-dien-22-yl-CoA
+CPD-13752	17-hydroxy-3-oxo-4-pregnane-20-carboxyl-CoA
+CPD-13754	3-[(3a<i>S</i>,4<i>S</i>,7a<i>S</i>)-7a-methyl-1,5-dioxo-octahydro-1<i>H</i>-inden-4-yl]propanoyl-CoA
+CPD-13755	5-hydroxy-3-[(3a<i>S</i>,4<i>S</i>,5<i>R</i>,7a<i>S</i>)-7a-methyl-1,5-dioxo-octahydro-1<i>H</i>-inden-4-yl]propanoyl-CoA
+CPD-13756	(2<i>E</i>)-3-[(3a<i>S</i>,4<i>S</i>,5<i>R</i>,7a<i>S</i>)-5-hydroxy-7a-methyl-1-oxo-octahydro-1<i>H</i>-inden-4-yl]prop-2-enoyl-CoA
+CPD-13767	9(<i>R</i>)-HPOTE
+CPD-13768	(9<i>R</i>)-HPODE
+CPD-13773	(<i>S</i>)-2-phenyloxirane
+CPD-13775	dTDP-3-amino-3,4,6-trideoxy-&alpha;-D-glucopyranose
+CPD-13776	dTDP-D-desosamine
+CPD-13777	dTDP-3-dehydro-4,6-deoxy-&alpha;-D-glucose
+CPD-13781	dTDP-3-amino-3,6-dideoxy-&alpha;-D-glucopyranose
+CPD-13783	dTDP-3-amino-3,6-dideoxy-&alpha;-D-galactopyranose
+CPD-13784	dTDP-D-ravidosamine
+CPD-13804	erythromycin A
+CPD-13805	erythromycin B
+CPD-13806	erythromycin D
+CPD-13820	mycinamicin III
+CPD-13821	mycinamicin IV
+CPD-13822	mycinamicin II
+CPD-13824	mycinamicin V
+CPD-13825	L-oleandrosyl-oleandolide
+CPD-13826	L-olivosyl-oleandolide
+CPD-13827	oleandolide
+CPD-13830	10-deoxymethymycin
+CPD-13831	10-deoxymethynolide
+CPD-13832	methymycin
+CPD-13833	neomethymycin
+CPD-13834	narbomycin
+CPD-13835	pikromycin
+CPD-13837	3-&alpha;-mycarosylerythronolide B
+CPD-13841	dTDP-3-dehydro-6-deoxy-&alpha;-D-glucopyranose
+CPD-13845	dTDP-3-dehydro-6-deoxy-&alpha;-D-galactopyranose
+CPD-13846	UDP-<i>N</i>-acetylbacillosamine
+CPD-13847	UDP-2-acetamido-2,6-dideoxy-&alpha;-D-<i>xylo</i>-hex-4-ulose
+CPD-13850	(13<i>S</i>)-isotuberculosinol
+CPD-13851	2-hydroxy-dATP
+CPD-13852	2-hydroxy-dAMP
+CPD-13853	8-oxo-dGDP
+CPD-13927	(<i>Z</i>)-2-methylureidoacrylate peracid
+CPD-13930	(<i>Z</i>)-2-methyl-peroxyaminoacrylate
+CPD-13931	benzil
+CPD-13932	(<i>S</i>)-benzoin
+CPD-13940	<i>Co</i>&alpha;-[&alpha;-(5-methoxybenzimidazolyl)]-<i>Co</i>&beta;-adenosylcobamide 5'-phosphate
+CPD-13946	8,8a-deoxyoleandolide
+CPD-13947	erythronolide B
+CPD-13949	glucosyl-oleandomycin
+CPD-13951	erythromycin C
+CPD-13952	dTDP-3,4-didehydro-2,6-dideoxy-&alpha;-D-glucose
+CPD-13954	dTDP-4-dehydro-2,6-dideoxy-&beta;-L-galactose
+CPD-13955	mithramycin
+CPD-13956	dTDP-&beta;-D-oliose
+CPD-13957	dTDP-D-mycarose
+CPD-13958	dTDP-4-dehydro-3-<i>C</i>-methyl-2,6-dideoxy-&alpha;-D-glucose
+CPD-13962	daunorubicin
+CPD-13965	premithracinone
+CPD-13967	dTDP-&beta;-L-mycarose
+CPD-13970	dTDP-4-dehydro-3-<i>C</i>-methyl-2,6-dideoxy-&alpha;-L-allose
+CPD-13972	&epsilon;-rhodomycinone
+CPD-13973	doxorubicin
+CPD-13982	dTDP-4-dehydro-2,6-dideoxy-&alpha;-L-glucose
+CPD-13985	dTDP-4-dehydro-2,6-dideoxy-&alpha;-D-allose
+CPD-13987	dTDP-4-dehydro-3-<i>C</i>-methyl-2,6-dideoxy-&beta;-L-galactose
+CPD-13992	2,2'-disulfonyl azobenzene
+CPD-13993	3-[(4-amino-6-chloro-1,3,5-triazin-2-yl)amino]benzenesulfonate
+CPD-13997	&alpha;-maltose 1-phosphate
+CPD-14	tetrathionate
+CPD-14015	(<i>E</i>)-2-methylgeranyl diphosphate
+CPD-14016	2-methylisoborneol
+CPD-14017	&beta;-D-mannosyl-(1&rarr;4)-D-glucose
+CPD-14021	UDP-<i>N</i>-acetyl-&alpha;-D-glucosamine 3'-phosphate
+CPD-14053	(6<i>R</i>)-L-<i>erythro</i>-5,6,7,8-tetrahydrobiopterin
+CPD-14069	<i>N</i><sup>1</sup>-citryl-<i>N</i><sup>6</sup>-acetyl-<i>N</i><sup>6</sup>-hydroxy-L-lysine
+CPD-14077	6-hydroxy-<i>N</i>-methylmyosmine
+CPD-14081	nicotine blue
+CPD-14082	nicotine blue leuco form
+CPD-14086	(3<i>R</i>)-3-methyl-D-ornithine
+CPD-14087	&alpha;-D-glucosyl-(1->3)-L-rhamnose
+CPD-14091	<i>N</i>-methylmyosmine
+CPD-14092	pseudooxynicotine
+CPD-14093	(2<i>R</i>,3<i>R</i>)-3-methylornithinyl-<i>N</i><sup>6</sup>-lysine
+CPD-14094	4-oxo-4-(3-pyridyl)-butanoate
+CPD-14096	6-hydroxy-3-succinoyl-pyridine
+CPD-14097	&epsilon;-(D-ornithyl)-L-lysine
+CPD-14100	4-oxo-4-(pyridin-3-yl)butanal
+CPD-14101	8-oxo-GDP
+CPD-14102	furfuryl alcohol
+CPD-14104	5-formylfuran-2-carboxylate
+CPD-14105	furan-2,5-dicarboxylate
+CPD-14112	2-oxoglutaryl-CoA
+CPD-14114	(3<i>R</i>,4<i>S</i>)-tetrahydrodaidzein
+CPD-14115	(<i>S</i>)-equol
+CPD-14116	CDP-D-xylulose
+CPD-14117	CDP-D-arabinitol
+CPD-14120	2-deoxy-L-<i>scyllo</i>-inosose
+CPD-14122	2-deoxy-<i>scyllo</i>-inosamine
+CPD-14123	3-amino-2,3-dideoxy-<i>scyllo</i>-inosose
+CPD-14125	paromamine
+CPD-14126	2'-<i>N</i>-acetylparomamine
+CPD-14127	2'-deamino-2'-hydroxyparomamine
+CPD-14128	2'-deamino-2'-hydroxyneamine
+CPD-14133	(<i>R</i>)-NADPHX
+CPD-14137	neamine
+CPD-14138	kanamycin D
+CPD-14139	3''-deamino-3''-hydroxykanamycin B
+CPD-14141	neomycin C
+CPD-14143	ribostamycin
+CPD-14149	2-hydroxy-6-oxo-nona-2,4-dienoate
+CPD-14151	3-isopropylcatechol
+CPD-14153	3''-deamino-3''-hydroxykanamycin C
+CPD-14154	tobramycin
+CPD-14155	6'-dehydroparomamine
+CPD-14156	2'-deamino-2'-hydroxy-6'-dehydroparomamine
+CPD-14158	nebramycin 5'
+CPD-14159	6''-<i>O</i>-carbamoylkanamycin B
+CPD-14161	dibekacin
+CPD-14162	arbekacin
+CPD-14164	2,2',3,3'-tetrahydroxybiphenyl
+CPD-14165	(2Z,2E)-2-hydroxy-6-oxo-6-(2,3-dihydroxyphenyl)-hexa-2,4-dienoate
+CPD-14166	6'''-deamino-6'''-hydroxyneomycin C
+CPD-14167	6'''-deamino-6'''-oxoneomycin C
+CPD-14168	2'''-acetyl-6'''-deamino-6'''-hydroxyneomycin C
+CPD-14177	paromomycin
+CPD-14178	5''-phosphoribostamycin
+CPD-14185	5-ribosylparomamine
+CPD-14186	2'''-acetyl-6'''-hydroxyparomomycin
+CPD-14187	6'''-hydroxyparomomycin
+CPD-14188	6'''-oxoparomomycin
+CPD-14189	5''-phosphoribosylparomamine
+CPD-14191	&gamma;-L-glutamyl-butirosin B
+CPD-14193	butirosin B
+CPD-14197	amikacin
+CPD-142	2-(4-hydroxyphenyl)-2-oxoacetate
+CPD-14209	G-418
+CPD-14214	gentamicin X2
+CPD-1422	1,4-dimethylbenzene
+CPD-14220	1-nonadecene
+CPD-14223	1-heptadecene
+CPD-14229	1-octadecene
+CPD-14238	hentriaconta-3,6,9,12,15,19,22,25,28-nonaene
+CPD-14239	hexadeca-4,7,10,13-tetraene-1-oyl-CoA
+CPD-14241	(6Z,9Z,12Z,15Z)-3-oxo-2-[(2Z,5Z,8Z,11Z)-tetradeca-2,5,8,11-tetraen-1-yl]octadeca-6,9,12,15-tetraenoate
+CPD-14248	UDP-<i>N,N'</i>-diacetylbacillosamine
+CPD-14254	<i>N,N'</i>-diacetyl-&alpha;-D-bacillosaminyl-diphospho-<i>tri-trans,hepta-cis</i>-undecaprenol
+CPD-14256	<i>N</i>-acetyl-D-galactosaminyl-&alpha;-(1&rarr;3)-<i>N,N'</i>-diacetyl-&alpha;-D-bacillosaminyl-diphospho-<i>tri-trans,hepta-cis</i>-undecaprenol
+CPD-14257	<i>N</i>-acetyl-D-galactosaminyl-&alpha;-(1&rarr;4)-<i>N</i>-acetyl-D-galactosaminyl-&alpha;-(1&rarr;3)-<i>N</i>,<i>N</i>'-diacetyl-&alpha;-D-bacillosaminyl-diphospho-<i>tritrans,heptacis</i>-undecaprenol
+CPD-14258	(<i>N</i>-acetylgalactosaminyl)<sub>5</sub>-<i>N,N'</i>-diacetylbacillosaminyl-diphospho-<i>tri-trans,hepta-cis</i>-undecaprenol
+CPD-14259	(<i>N</i>-acetylgalactosaminyl)<sub>2</sub>-(glucosyl)-(<i>N</i>-acetylgalactosaminyl)<sub>3</sub>- <i>N,N'</i>-diacetylbacillosaminyl-diphospho-<i>tri-trans,hepta-cis</i>-undecaprenol
+CPD-14270	dodecyl icosanoate
+CPD-14295	&alpha;-D-galactosyl-(1&rarr;3)-<i>N,N'</i>-diacetyl-&alpha;-D-bacillosaminyl-diphospho-<i>di-trans,octa-cis</i>-undecaprenol
+CPD-14296	&beta;-D-galactosyl-(1&rarr;4)-&alpha;-D-galactosyl-(1&rarr;3)-<i>N,N'</i>-diacetyl-&alpha;-D-bacillosaminyl-diphospho-<i>di-trans,octa-cis</i>-undecaprenol
+CPD-14297	&alpha;-D-glucosyl-(1&rarr;3)-<i>N,N'</i>-diacetyl-&alpha;-D-bacillosaminyl-diphospho-<i>di-trans,octa-cis</i>-undecaprenol
+CPD-14298	2,6-dioxo-6-phenylhexa-3-enoate
+CPD-143	nitroglycerin
+CPD-14319	protoviolaceinate
+CPD-14320	protodeoxyviolaceinate
+CPD-14323	deoxyviolaceinate
+CPD-14324	violaceinate
+CPD-14332	prenyl phosphate
+CPD-14348	9-demethylpremithramycin A3
+CPD-14349	premithramycin A3
+CPD-14353	tetracenomycin F1
+CPD-14355	mithramycin DK
+CPD-14359	(4S)-2-acetyl-3,4,8,10,11,12-hexahydroxy-1,4-dihydrotetracen-1-one
+CPD-14360	4-demethylpremithracinone
+CPD-144	1,2-dinitroglycerol
+CPD-14415	[L-Asp(4-L-Arg)] dipeptide
+CPD-14436	<i>N</i>-acetyl-L-glutaminyl-L-glutamine amide
+CPD-14437	<i>N</i>-acetyl-L-glutaminyl-L-glutamine
+CPD-14445	1,4-bis-{[N-(1-imino-1-guanidino-methyl)]sulfanylmethyl}-3,6-dimethyl-benzene
+CPD-14447	(2Z)-2-hydroxypenta-2,4-dienoate
+CPD-14463	3-(carboxymethylaminomethyl)-4-hydroxybenzoate
+CPD-145	1,3-dinitroglycerol
+CPD-14517	2-methyltetrahymanol
+CPD-14518	2-methyldiplopterol
+CPD-14519	bacteriohopanetetrol
+CPD-14520	2-methylbacteriohopanetetrol
+CPD-14521	aminobacteriohopanetriol
+CPD-14522	adenosyl hopane
+CPD-14523	ribosyl hopane
+CPD-14524	formyl hopane
+CPD-14541	3-hydroxy-L-phenylalanine
+CPD-14545	2-nitroimidazole
+CPD-14546	1,3-dihydro-2H-imidazol-2-one
+CPD-14550	<i>trans,octacis</i>-decaprenylphospho-&beta;-D-arabinofuranose
+CPD-14553	UDP-&alpha;-D-galactose
+CPD-14555	&beta;-glutamate
+CPD-14560	UDP-2-acetamido-2-deoxy-&alpha;-D-<i>ribo</i>-hex-3-uluronate
+CPD-14562	UDP-2-acetamido-3-amino-2,3-dideoxy-&alpha;-D-glucuronate
+CPD-14625	spinosyn macrolactone
+CPD-14627	15-oxo spinosyn macrolactone
+CPD-14628	11-dehydro-15-oxo spinosyn macrolactone
+CPD-14629	spinosyn tricyclic macrolactone
+CPD-14630	rhamnosyl tricyclic spinosyn pseudoaglycone
+CPD-14631	rhamnosyl tetracyclic spinosyn pseudoaglycone
+CPD-14632	2'-<i>O</i>-methyl-rhamnosyl tetracyclic spinosyn pseudoaglycone
+CPD-14633	2',3'-<i>O</i>-methyl-rhamnosyl tetracyclic spinosyn pseudoaglycone
+CPD-14634	2',3',4'-<i>O</i>-methyl-rhamnosyl tetracyclic spinosyn pseudoaglycone
+CPD-14635	(2S,3R,4S)-4-hydroxy-L-isoleucine
+CPD-14636	4-hydroxy-L-leucine
+CPD-14638	(2S,3R)-2-amino-3-methyl-4-ketopentanoate
+CPD-14668	(3<i>S</i>)-&beta;-phenylalanine
+CPD-14678	dTDP-3-amino-4-dehydro-2,3,6-trideoxy-&alpha;-D-glucose
+CPD-14680	dTDP-3-<i>N</i>-methylamino-4-oxo-2,3,6-trideoxy-&alpha;-D-glucose
+CPD-14681	dTDP-3-<i>N,N</i>-dimethylamino-4-oxo-2,3,6-trideoxy-&alpha;-D-glucose
+CPD-14682	dTDP-3-<i>N,N</i>-dimethylamino-4-oxo-2,3,6-trideoxy-&alpha;-L-glucose
+CPD-14683	dTDP-L-megosamine
+CPD-14736	L-kynurenine
+CPD-14762	2''-<i>O</i>-acetyl-ADP-ribose
+CPD-14786	CDP-D-fructose
+CPD-14787	CDP-D-mannitol
+CPD-14793	dTDP-<i>N</i>-acetylviosamine
+CPD-14795	UDP-<i>N</i>-acetyl-&alpha;-D-galactosamine
+CPD-14806	5-dehydro-L-gluconate
+CPD-14808	<i>scyllo</i>-inosose
+CPD-1484	Al<SUP>3+</SUP>
+CPD-14872	2-amino-4,5-dihydroxy-6-oxo-7-(phosphooxy)heptanoate
+CPD-14873	3-amino-4-hydroxybenzoate
+CPD-14874	grixazone A
+CPD-14875	grixazone B
+CPD-14876	3-acetylamino-4-hydroxybenzaldehyde
+CPD-14877	3-acetylamino-4-hydroxybenzoate
+CPD-1492	Be<SUP>2+</SUP>
+CPD-14925	(3Z)-dec-3-enoyl-CoA
+CPD-14926	phytenal
+CPD-14927	phytenate
+CPD-14966	(2Z,4Z)-2-hydroxy-5-carboxymuconate-6-semialdehyde
+CPD-14994	13(S)-HOT
+CPD-15	(3R,6R)-1,3,4,6-tetrachlorocyclohexa-1,4-diene
+CPD-15020	1-(methylsulfanyl)xylulose 5-phosphate
+CPD-15032	caloxanthin
+CPD-15033	nostoxanthin
+CPD-15034	(2<i>S</i>,2'<i>S</i>)-dihydroxy-<i>all-trans</i>-&beta;-carotene
+CPD-15035	4-deoxy-&beta;-D-gluc-4-enuronosyl-2-sulfate-(1,3)-<i>N</i>-acetyl-&beta;-D-galactosamine
+CPD-15036	5-dehydro-4-deoxy-2-O-sulfo-D-glucuronate
+CPD-15047	(13<i>R</i>)-isotuberculosinol
+CPD-15056	(2Z)-2-aminobut-2-enoate
+CPD-15061	2-hydroxy-1-phenyl-1-propanone
+CPD-15094	&beta;-L-arabinofuranosyl-(1&rarr;2)-&beta;-L-arabinofuranose
+CPD-15095	&beta;-L-arabinofuranosyl-(2S,4S)-4-hydroxyproline
+CPD-15097	&beta;-L-arabinofuranosyl-(1&rarr;2)-&beta;-L-arabinofuranosyl-(1&rarr;2)-&beta;-L-arabinofuranosyl-(2S,4S)-4-hydroxyproline
+CPD-15121	5-fluorocytosine
+CPD-15124	(+)-muconolactone
+CPD-15127	5-deoxy-D-glucuronate
+CPD-15157	5-phospho-D-arabinonohydroxamate
+CPD-15158	5-hydroxy-CMP
+CPD-15171	3-(1<i>H</i>-imidazol-4-yl)propanoate
+CPD-15189	chenodeoxycholate
+CPD-15209	cyclo-(L-tyrosyl-L-tyrosyl)
+CPD-15210	cyclo(L-leucyl-L-leucyl)
+CPD-15211	pulcherriminic acid
+CPD-15213	mycocyclosin
+CPD-15222	2,6-dimethyldeca-2,4,6,8-tetraenedial
+CPD-15225	cyclic di-3',5'-adenylate
+CPD-15230	sisomicin
+CPD-15232	netilmicin
+CPD-15236	3-dehydro <i>scyllo</i>-inosose
+CPD-15237	glucosyl-(heptosyl)<sub>3</sub>-glucosyluronate-Kdo<sub>2</sub>-lipid A-phosphate
+CPD-15238	lipid A-core-phosphoethanolamine (hep I)
+CPD-15240	<i>p</i>-nitrophenyl-&alpha;-D-glucuronide
+CPD-15242	lipid A-core-pyrophosphoethanolamine
+CPD-15244	3-oxo-(5Z)-tetradecenoyl-CoA
+CPD-15250	2,3-bis-<i>O</i>-phytanyl-<i>sn</i>-glycerol 1-phosphate
+CPD-15253	saturated CDP-archaeol
+CPD-15254	2'-dehydrokanamycin A
+CPD-15255	saturated archaetidylinositol phosphate
+CPD-15257	saturated archaetidylserine
+CPD-15258	saturated archaetidylethanolamine
+CPD-15277	S-(hercyn-2-yl)-L-cysteine S-oxide
+CPD-15279	&gamma;-L-glutamyl-S-(hercyn-2-yl)-L-cysteine S-oxide
+CPD-15280	hercynine
+CPD-15320	<i>O</i>-ureido-D-serine
+CPD-15321	<i>O</i>-ureido-L-serine
+CPD-15323	2-benzyl-2-hydroxybutanedioate
+CPD-15324	2-benzyl-3-hydroxybutanedioate
+CPD-15326	2-oxo-4-phenylbutanoate
+CPD-15344	(3<i>S</i>)-&beta;-methyl-phenylpyruvate
+CPD-15377	<i>aldehydo</i>-D-xylose
+CPD-15384	L-alanyl-&gamma;-D-glutamyl-L-lysyl-D-alanyl-D-alanine
+CPD-15407	dTDP-D-&beta;-fucofuranose
+CPD-15408	2-chloroacrylate
+CPD-15409	(<i>S</i>)-2-chloropropanoate
+CPD-15413	(3<i>S</i>)-3-hydroxy-L-arginine
+CPD-15415	novobiocic acid
+CPD-15416	8-demethylnovobiocic acid
+CPD-15417	novobiocin
+CPD-15419	decarbamoylnovobiocin
+CPD-15420	demethyldecarbamoyl novobiocin
+CPD-15422	3-amino-4,7-dihydroxy-coumarin
+CPD-15423	3-dimethylallyl-4-hydroxybenzoate
+CPD-15424	(<i>O</i>-carbamoyl)adenylate
+CPD-15425	6''-<i>O</i>-carbamoylkanamycin A
+CPD-15430	<i>N</i>-acetyl-&alpha;-D-galactosaminyldiphospho-<i>ditrans,octacis</i>-undecaprenol
+CPD-15431	<i>N</i>-acetyl-&alpha;-D-galactosaminyl-(1&rarr;3)-<i>N</i>-acetyl-&alpha;-D-galactosaminyldiphospho-<i>ditrans,octacis</i>-undecaprenol
+CPD-15435	(L-threonylcarbamoyl)adenylate
+CPD-15436	(5Z)-tetradecenoyl-CoA
+CPD-15467	3-dimethylallyl-4-hydroxyphenylpyruvate
+CPD-15495	dTDP-4-dehydro-5-methyl-&beta;-L-rhamnose
+CPD-15496	dTDP-4-<i>O</i>-demethyl-&beta;-L-noviose
+CPD-15502	3-dimethylallyl-4-hydroxymandelate
+CPD-15512	clorobiocic acid
+CPD-15528	aclacinomycin N
+CPD-15529	aclacinomycin Y
+CPD-15530	<i>aldehydo</i>-D-glucuronate
+CPD-15531	5-hydroxymethylcytosine
+CPD-15532	tetracenomycin D3
+CPD-15533	tetracenomycin C
+CPD-15539	phenyl ribotide phosphate
+CPD-15541	aclacinomycin T
+CPD-15542	15-demethoxyaclacinomycin T
+CPD-15545	3-O-phospho-&alpha;-D-Man-(1&rarr;2)-&alpha;-D-Man-(1&rarr;2)-&alpha;-D-Man-(1&rarr;3)-&alpha;-D-Man-(1&rarr;3)-[&alpha;-D-Man-(1&rarr;2)-&alpha;-D-Man-(1&rarr;2)-&alpha;-D-Man-(1&rarr;3)-&alpha;-D-Man-(1&rarr;3)]<sub>n</sub>-&alpha;-D-Man-(1&rarr;3)-&alpha;-D-Man-(1&rarr;3)-&alpha;-D-GlcNAc-diphospho-ditrans,octacis-undecaprenol
+CPD-15546	3-O-methylphospho-&alpha;-D-Man-(1&rarr;2)-&alpha;-D-Man-(1&rarr;2)-&alpha;-D-Man-(1&rarr;3)-&alpha;-D-Man-(1&rarr;3)-[&alpha;-D-Man-(1&rarr;2)-&alpha;-D-Man-(1&rarr;2)-&alpha;-D-Man-(1&rarr;3)-&alpha;-D-Man-(1&rarr;3)]<sub>n</sub>-&alpha;-D-Man-(1&rarr;3)-&alpha;-D-Man-(1&rarr;3)-&alpha;-D-GlcNAc-diphospho-ditrans,octacis-undecaprenol
+CPD-15547	&alpha;-D-Man-(1&rarr;2)-&alpha;-D-Man-(1&rarr;2)-[&alpha;-D-Man-(1&rarr;3)-&alpha;-D-Man-(1&rarr;3)-&alpha;-D-Man-(1&rarr;2)-&alpha;-D-Man-(1&rarr;2)]<sub>n</sub>-&alpha;-D-Man-(1&rarr;3)-&alpha;-D-Man-(1&rarr;3)-&alpha;-D-Man-(1&rarr;3)-&alpha;-D-GlcNAc-diphospho-<i>ditrans,octacis</i>-undecaprenol
+CPD-15548	dTDP-4-dehydro-6-deoxy-&alpha;-D-gulose
+CPD-15551	methanesulfinate
+CPD-15554	L-homoserine lactone
+CPD-15555	(2-hydroxy-1<i>H</i>-indol-3-yl)acetate
+CPD-15586	2-amino-2-deoxy-D-gluconate 6-phosphate
+CPD-15596	dTDP-3-acetamido-&alpha;-D-fucose
+CPD-15598	dTDP-3-acetamido-3,6-dideoxy-&alpha;-D-glucopyranose
+CPD-15616	<i>keto</i>-L-sorbose
+CPD-15633	<i>aldehydo</i>-D-galacturonate
+CPD-15639	UDP-<i>N</i>-acetyl-&alpha;-D-galactosaminouronate
+CPD-15642	UDP-2-acetamido-2,6-dideoxy-&beta;-L-<i>lyxo</i>-4-hexulose
+CPD-15643	UDP-<i>N</i>-acetyl-&beta;-L-pneumosamine
+CPD-15644	UDP-<i>N</i>-acetyl-&beta;-L-fucosamine
+CPD-15645	UDP-<i>N</i>-acetyl-&beta;-L-rhamnosamine
+CPD-15646	UDP-<i>N</i>-acetyl-&beta;-L-quinovosamine
+CPD-15647	UDP-<i>N</i>-acetyl-&alpha;-D-quinovosamine
+CPD-15648	UDP-<i>N</i>-acetyl-&alpha;-D-fucosamine
+CPD-15670	UDP-2,6-dideoxy-2-acetamidino-&beta;-L-galactose
+CPD-15673	UDP-2-acetamido-3-acetamidino-2,3-dideoxy-&alpha;-D-mannuronate
+CPD-15716	sucrose 6<sup>G</sup>-phosphate
+CPD-15720	aklavinone
+CPD-15721	aklaviketone
+CPD-15730	rhodomycinone D
+CPD-15731	dTDP-L-daunosamine
+CPD-15739	10-carboxy-3-deoxycarminomycin
+CPD-15740	10-carboxy-13-deoxydaunorubicin
+CPD-15744	devancosaminyl-vancomycin
+CPD-15746	dTDP-&beta;-L-4-epi-vancosamine
+CPD-15754	3,5,7,9,11,13,15,17,19-nonaoxohenicosanoyl-[acp]
+CPD-15764	dTDP-&beta;-L-rhodosamine
+CPD-15765	aclacinomycin S
+CPD-15766	dTDP-L-rhodinose
+CPD-15770	dTDP-2-deoxy-&beta;-L-fucose
+CPD-15771	12-deoxyaklanoate
+CPD-15780	maggiemycin
+CPD-15781	sulfonopine
+CPD-15783	4-<i>O</i>-methylrhodomycinone D
+CPD-15785	15-demethoxy-aclacinomycin A
+CPD-15787	15-demethoxy-&epsilon;-rhodomycinone
+CPD-15797	<i>ditrans,octacis</i>-undecaprenyldiphospho-<i>N</i>-acetyl-(<i>N</i>-acetylglucosaminyl)muramate
+CPD-158	4-nitrocatechol
+CPD-15803	9-hydroxy-3,5,7,11,13,15,17,19-octaoxohenicosanoyl-[acp]
+CPD-15826	<i>keto</i>-D-tagatose 6-phosphate
+CPD-15830	2-sulfinoacetaldehyde
+CPD-15848	(3<i>R</i>,4<i>R</i>)-3,4-dihydroxycyclohexa-1,5-diene-1-carboxylate
+CPD-15873	<i>bis</i>(guanylyl molybdopterin) cofactor
+CPD-15874	<i>bis</i>(molybdenum cofactor)
+CPD-15887	3-hydroxytyrosol
+CPD-15894	D-ribofuranose 2,5-bisphosphate
+CPD-159	(<i>S</i>)-5-amino-3-oxohexanoate
+CPD-15902	(<i>Z</i>)-N,N'-(but-2-ene-2,3-diyl)diacetamide
+CPD-15903	<i>N</i>-(3-oxobutan-2-yl)acetamide
+CPD-15904	<i>N</i>-(3-hydroxybutan-2-yl)acetamide
+CPD-15916	6-mercaptopurine
+CPD-15926	dTDP-6-deoxy-&alpha;-D-allose
+CPD-15933	mycinamicin VIII
+CPD-15934	protomycinolide IV
+CPD-15936	tetracenomycin F2
+CPD-15940	mycinamicin I
+CPD-15943	demethyllactenocin
+CPD-15944	5-<i>O</i>-&beta;-mycaminosyltylonolide
+CPD-15945	20-oxo-5-<i>O</i>-&beta;-mycaminosyltylactone
+CPD-15946	20-hydroxy-5-<i>O</i>-mycaminosyltylactone
+CPD-15947	5-<i>O</i>-&beta;-mycaminosyltylactone
+CPD-15948	tylactone
+CPD-15961	FR-900098
+CPD-15963	(R)-2-(phosphomethyl)malate
+CPD-15967	CMP-5'-<i>N</i>-hydroxy-3-(aminopropyl)phosphonate
+CPD-15968	CMP-5'-3-(<i>N</i>-acetyl-<i>N</i>-hydroxy)aminopropylphosphonate
+CPD-15995	narbonolide
+CPD-15996	novapikromycin
+CPD-15997	neopikromycin
+CPD-15998	novamethymycin
+CPD-15999	dialurate
+CPD-16	phloroglucinol
+CPD-16183	N6-benzoyladenine
+CPD-16423	dTDP-2,3,6-trideoxy-3-<i>C</i>-methyl-3-amino-4-dehydro-&alpha;-D-gulose
+CPD-16424	dTDP-2,3,6-trideoxy-3-<i>C</i>-methyl-3-amino-4-dehydro-&alpha;-D-glucose
+CPD-16436	dTDP-&beta;-L-vancosamine
+CPD-16467	3-[(1-carboxyvinyl)oxy]benzoate
+CPD-16491	2,6-diamino-4-hydroxy-5-(<i>N</i>-methyl)formamidopyrimidine
+CPD-16501	6-deoxy-6-sulfo-D-fructose
+CPD-16502	6-deoxy-6-sulfo-D-fructose 1-phosphate
+CPD-16511	3-methyl-L-tyrosine
+CPD-16512	3-hydroxy-5-methyl-L-tyrosine
+CPD-16522	D-galactaro-1,4-lactone
+CPD-16526	(2-amino-1-hydroxyethyl)phosphonate
+CPD-16557	epilactose
+CPD-16568	20&alpha;-hydroxycortisol
+CPD-16577	&beta;-glucose 1,6-bisphosphate
+CPD-16582	3-sulfinopropanoyl-CoA
+CPD-16584	3-sulfinopropionate
+CPD-16586	3,3'-disulfanediyldipropannoate
+CPD-16588	4,4'-disulfanediyldibutanoate
+CPD-16589	4-sulfanylbutanoate
+CPD-16606	UDP-2-acetamido-4-amino-2,4,6-trideoxy-&alpha;-D-galactose
+CPD-16607	2-acetamido-4-amino-2,4,6-trideoxy-&alpha;-D-galactosyl-diphospho-<i>ditrans,octacis</i>-undecaprenol
+CPD-16612	oryzalexin D
+CPD-16613	oryzalexin B
+CPD-16614	oryzalexin C
+CPD-16632	diazepinomicin
+CPD-16633	4,6,8-trihydroxydibenzodiazepinone
+CPD-16637	elloramycin
+CPD-16638	12-demethyl-elloramycin
+CPD-16639	8-demethyl-8-(2,3-O-dimethyl-&alpha;-L-rhamnosyl)-tetracenomycin C
+CPD-16644	tetracenomycin B3
+CPD-16647	3,5-dioxo-6-[4,5,7-trihydroxy-3-(3-oxobutanoyl)naphthalen-2-yl]hexanoate
+CPD-16663	2-<i>O</i>-sulfo-&alpha;,&alpha;-trehalose
+CPD-16666	cyclooctatin
+CPD-16667	cyclooctat-9-en-7-ol
+CPD-16668	cyclooctat-9-en-5,7-diol
+CPD-16677	tetracenomycin A2
+CPD-16678	tetracenomycin E
+CPD-16697	1,3,7-trimethyl-5-hydroxyisourate
+CPD-16759	<i>N,O</i>-dimethylhydroxylamine
+CPD-16760	linuron
+CPD-16781	dihydrochelerythrine
+CPD-16782	chelerythrine
+CPD-16788	2-keto-4-hydroxy-5-phosphopentanoate
+CPD-16790	<i>L</i>-2-amino-5-phosphono-3-<i>cis</i>-pentenoate
+CPD-16791	rhizocticin A
+CPD-16792	rhizocticin B
+CPD-16793	2-keto-5-phospho-3-<i>cis</i>-pentenoate
+CPD-16794	2-amino-4-hydroxy-5-phosphonopentanoate
+CPD-16795	<i>L</i>-arginyl-4-hydroxy-5-phosphonopentanoate
+CPD-16796	<i>L</i>-valyl-<i>L</i>-arginyl-4-hydroxy-5-phosphonopentanoate
+CPD-16801	3,5,6-trichloro-2-pyridinol
+CPD-16803	3,6-dihydroxypyridine-2,5-dione
+CPD-16804	5-amino-2,4,5-trioxopentanoate
+CPD-16843	4-pregnen-20,21-diol-3-one
+CPD-16855	2-<i>O</i>-(&alpha;-D-glucopyranosyl)glycerol
+CPD-16866	4-sulfoacetophenone
+CPD-16867	4-sulfophenyl acetate
+CPD-16868	4-sulfophenol
+CPD-16873	(<i>R</i>)-mevalonate 3-phosphate
+CPD-16883	&beta;-D-galactosyl-(1&rarr;3)-<i>N</i>-acetyl-&alpha;-D-galactosaminyl-diphospho-<i>ditrans,octacis</i>-undecaprenol
+CPD-16885	2-amino-2-deoxy-mannitol-6-phosphate
+CPD-16886	2-amino-2-deoxy-D-mannitol
+CPD-16887	(2<i>R</i>,3<i>R</i>,4<i>S</i>,5<i>S</i>)1,3,4,5-tetrahydroxy-6-oxohexan-2-aminium
+CPD-16935	2-amino-3-hydroxycyclopent-2-enone
+CPD-16937	5-aminolevulinyl-CoA
+CPD-16939	2,4,6-octatrienoate
+CPD-16941	2,4,6-octatrienyl-2-amino-3-hydroxycyclopent-2-enone
+CPD-16942	4-oxopentanoate
+CPD-16953	2-amino-6-[1-hydroxyethyl]-7-methyl-7,8-dihydropterin
+CPD-16954	[1-(2-amino-7-methyl-4-oxo-7,8-dihydro-3H-pteridin-6-yl)]ethyl diphosphate
+CPD-16955	[1-(2-amino-7-methyl-4-oxo-7,8-dihydro-3H-pteridin-6-yl)]ethyl-4-(&beta;-D-ribofuranosyl)aminobenzene 5'-phosphate
+CPD-16964	4-(&beta;-D-ribofuranosyl)hydroxybenzene 5'-phosphate
+CPD-16965	4-(&beta;-D-ribofuranosyl)-<i>N</i>-succinylaminobenzene 5'-phosphate
+CPD-16992	prodigiosin
+CPD-16993	norprodigiosin
+CPD-16994	(<i>S</i>)-3-acetyloctanal
+CPD-16995	(E)-non-3-en-2-one
+CPD-16996	(<i>E</i>)-dec-3-en-2-one
+CPD-16997	(<i>E</i>)-4-phenylbut-3-en-2-one
+CPD-16998	2-hydroxychalcone
+CPD-16999	(<i>S</i>)-3-pentanylhexane-2,5-dione
+CPD-170	stachyose
+CPD-17000	(<i>S</i>)-3-hexanylhexane-2,5-dione
+CPD-17001	(<i>R</i>)-phenylhexane-2,5-dione
+CPD-17002	(<i>R</i>)-1,3-diphenyl-pentane-1,4-dione
+CPD-17003	3-(2-hydroxyphenyl)-1-phenylpentane-1,4-dione
+CPD-17007	2-methyl-3-pentyl-1H-pyrrole
+CPD-17008	2-methyl-3-pentyl-4,5-dihydro-3H-pyrrole
+CPD-17011	4-hydroxy-2,2'-bipyrrole-5-methanol
+CPD-17012	4-hydroxy-2,2'-bipyrrole-5-carbaldehyde
+CPD-17013	4-methoxy-2,2'-bipyrrole-5-carbaldehyde
+CPD-17017	D-<i>erythro</i>-D-<i>gluco</i>-octose &alpha;-1,8-bisphosphate
+CPD-17018	D-<i>erythro</i>-D-<i>gluco</i>-octose &alpha;-1-phosphate
+CPD-17024	pyoluteorin
+CPD-17059	ferroheme <i>d</i><sub>1</sub>
+CPD-17063	ferroheme <i>o</i>
+CPD-17068	12,18-didecarboxysiroheme
+CPD-17069	pre-heme <i>d</i><sub>1</sub>
+CPD-17070	Fe-coproporphyrin III
+CPD-17075	(-)-dehydrodiconiferyl alcohol
+CPD-17076	(-)-dehydrodiconiferyl aldehyde
+CPD-17077	(-)-dehydrodiconiferyl acid
+CPD-17078	(-)-dehydrodiconiferyl acid aldehyde
+CPD-17079	(-)-dehydrodiconiferyl acid carboxylate
+CPD-17082	Fe<sup>3+</sup>-[<i>N</i>-(2,3-dihydroxybenzoyl)-L-serine] complex
+CPD-17084	(4<i>R</i>)-perillyl alcohol
+CPD-17095	iminoarginine
+CPD-17100	furan-2,5-dicarbaldehyde
+CPD-17102	5-(dihydroxymethyl)furan-2-carbaldehyde
+CPD-17103	5-(dihydroxymethyl)furan-2-carboxylate
+CPD-17105	cob(III)alamin
+CPD-17106	syringaldehyde
+CPD-17129	3,6-anhydro-L-galactonate
+CPD-17138	D-galactaro-1,5-lactone
+CPD-17143	5-hydroxymethylcytidine 5'-phosphate
+CPD-17157	L-galactono-1,5-lactone
+CPD-17160	cytosyl-&beta;-D-glucuronate
+CPD-17161	cytosyl-4'-dehydro-&beta;-D-glucuronate
+CPD-17162	cytosyl-4'-amino-&beta;-D-glucuronate
+CPD-17163	cytosinine
+CPD-17165	L-leucyl-demethylarginomycin
+CPD-17166	demethylarginomycin
+CPD-17168	L-leucyl-blasticidin S
+CPD-17169	L-leucyl-demethyl-blasticidin S
+CPD-17170	demethylblasticidin S
+CPD-17171	(3S)-&beta;-arginine
+CPD-17175	D-proline betaine
+CPD-17176	cytosyl-&alpha;-L-arabinopyranose
+CPD-17179	&gamma;-glutamyltyramine
+CPD-17180	[5-(aminomethyl)furan-3-yl]methyl diphosphate
+CPD-17183	<i>trans</i>-4-hydroxy-L-proline betaine
+CPD-17184	cis-4-hydroxy-D-proline betaine
+CPD-17189	<i>Co</i>&alpha;-[&alpha;-(adenin-7-yl)]-<i>Co</i>&beta;-adenosylcobamide
+CPD-17193	candicinolide
+CPD-17205	GDP-3-dehydro-6-deoxy-&alpha;-D-mannose
+CPD-17206	GDP-mycosamine
+CPD-17207	demycosaminyl-candicidin III
+CPD-17210	18-carboxy candicinolide
+CPD-17212	nystatin A1
+CPD-17222	(2R,3E)-phycocyanobilin
+CPD-17223	(2R,3E)-phycoerythrobilin
+CPD-17273	1-stearoyl-2-palmitoyl-<i>sn</i>-glycerol 3-phosphate
+CPD-17275	7-oxolithocholate
+CPD-173	salicyl alcohol
+CPD-17301	1'-hydroxy-1',2'-dihydro-&beta;,&psi;-caroten-4'-one
+CPD-17302	thiothece-474
+CPD-17304	okenone
+CPD-17309	myxocoxanthin
+CPD-17319	1-stearoyl-2-oleoyl-<i>sn</i>-glycerol 3-phosphate
+CPD-17406	GDP-6-deoxy-4-keto-D-<i>lyxo</i>-heptose
+CPD-17407	GDP-6-deoxy-4-keto-D-<i>arabino</i>-heptose
+CPD-17409	GDP-6-deoxy-D-<i>altro</i>-heptose
+CPD-17411	GDP-6-deoxy-D-<i>manno</i>-heptose
+CPD-17416	cyclo(L-phenylalanyl-L-tyrosyl)
+CPD-17418	GDP-6-deoxy-4-keto-L-<i>xylo</i>-heptose
+CPD-17419	GDP-6-deoxy-L-<i>gluco</i>-heptose
+CPD-17488	3-aminotridec-2-en-4-one
+CPD-17489	tridecane-3,4-dione
+CPD-17490	(S)-3-aminotridecan-4-one
+CPD-17492	(<i>R</i>)-2-hydroxy-4-methylpentanoate
+CPD-17496	<i>p</i>-nitrophenyl-&alpha;-L-rhamnopyranoside
+CPD-17498	demycosaminyl-nystatin
+CPD-17499	decarboxy-demycosaminyl-nystatin
+CPD-17500	decarboxy-dehydroxy-demycosaminyl-nystatin
+CPD-17506	dTDP-&beta;-L-digitoxose
+CPD-17508	bacilysin
+CPD-17509	L-anticapsin
+CPD-17510	3-[(4R)-4-hydroxycyclohexa-1,5-dien-1-yl]-2-oxopropanoate
+CPD-17511	3-[(1E,4R)-4-hydroxycyclohex-2-en-1-ylidene]-2-oxopropanoate
+CPD-17519	mitomycin A
+CPD-17520	6-demethylmitomycin A
+CPD-17521	mitomycin B
+CPD-17522	6-demethylmitomycin B
+CPD-17530	&alpha;-D-Kdo-(2&rarr;4)-&alpha;-D-Kdo-(2&rarr;6)-lipid A 1-diphosphate
+CPD-17531	L-dihydroanticapsin
+CPD-17536	3-[(2S,5R)-5-hydroxy-7-oxabicyclo[4.1.0]heptan-2-yl]-2-oxopropanoate
+CPD-17539	dapdiamide A
+CPD-17540	dapdiamide B
+CPD-17541	dapdiamide C
+CPD-17551	3-[(2E,5R)-5-hydroxy-7-oxabicyclo[4.1.0]heptan-2-ylidene]-2-oxopropanoate
+CPD-17552	3-[(2Z,5R)-5-hydroxy-7-oxabicyclo[4.1.0]heptan-2-ylidene]-2-oxopropanoate
+CPD-17565	O-[5-(oxidonitroso)-4-oxocyclohex-2-en-1-ylidenenitroso]oxidanidolate
+CPD-17566	2,4,6-trinitrophenol
+CPD-17567	O-[3-nitro-5-(oxidonitroso)-4-oxocyclohex-2-en-1-ylidenenitroso]oxidanidolate
+CPD-17568	2,4-dinitrocyclohexan-1-one
+CPD-17570	O-[5-(hydroxynitroso)-3-(oxidonitroso)-2-oxocyclohexylidenenitroso]oxidanidolate
+CPD-17572	O-[5-nitro-3-(oxidonitroso)-2-oxocyclohexylidenenitroso]oxidanidolate
+CPD-17573	syringaldazine
+CPD-17574	tetramethoxy azobismethylene quinine
+CPD-1763	pentalenene
+CPD-17635	(2<i>R</i>)-ethylmalonyl-CoA
+CPD-17660	2-hydroxycanthaxanthin
+CPD-17661	2,2'-dihydroxycanthaxanthin
+CPD-17662	2-hydroxyadonixanthin
+CPD-17663	2,3,2',3'-tetrahydroxy-&beta;,&beta;-caroten-4-one
+CPD-17664	2,3,2',3'-tetrahydroxy-&beta;,&beta;-carotene-4,4'-dione
+CPD-17665	2-hydroxyastaxanthin
+CPD-17670	(2S,3R)-2,3-dihydroxy-5-oxohexanedioate
+CPD-17674	4-hydroxybenzoate 1-phenylethylidene
+CPD-17675	acetophenone hydrazone
+CPD-17686	5-hexenoate
+CPD-17696	&alpha;-tomatine
+CPD-17697	tomatidine
+CPD-17701	4-deoxy-2-<i>O</i>-sulfo-&beta;-L-<i>erythro</i>-hex-4-enopyranuronosyl-(1,4)-D-<i>N</i>-sulfoglucosamine 6-<i>O</i>-sulfate
+CPD-17702	4-deoxy-&beta;-L-<i>erythro</i>-hex-4-enopyranuronosyl-(1,4)-D-<i>N</i>-sulfoglucosamine
+CPD-17705	4-deoxy-L-<i>erythro</i>-hex-4-enopyranuronate
+CPD-17706	an unsaturated pectate trisaccharide
+CPD-17714	4-deoxy-&beta;-L-<i>erythro</i>-hex-4-enopyranuronosyl-(1,4)-D-<i>N</i>-sulfoglucosamine 6-<i>O</i>-sulfate
+CPD-17751	4-deoxy-L-threo-hex-4-enopyranosiduronate-&alpha;-L-rhamnopyranose 3-sulfate
+CPD-17752	5-nitro benzisoxazole
+CPD-17753	2-cyano-4-nitrophenol
+CPD-17755	4-deoxy-&beta;-D-gluc-4-enuronosyl-(1,4)-<i>N</i>-acetyl-D-galactosamine
+CPD-17756	4-deoxy-&beta;-D-gluc-4-enuronosyl-(1,4)-<i>N</i>-acetyl--D-galactosamine 6-sulfate
+CPD-17764	archaetidylglycerol phosphate
+CPD-17766	saturated archaetidylglycerol
+CPD-17782	4-(6-hydroxy-pyridin-3-yl)-4-oxobutanal
+CPD-17820	tri-<i>trans</i>,hepta-<i>cis</i>-undecaprenyl phosphate
+CPD-17858	&omega;-saturated C55 dolichol phosphate
+CPD-17859	<i>N</i>-acetyl-&alpha;-D-glucosaminyl-(C55 &omega;-saturated dolichyl phosphate)
+CPD-17860	2,3-diacetamido-2,3-dideoxy-&beta;-D-uronateglucosyl-(1&rarr;3)-<i>N</i>-acetyl-&alpha;-D-glucosaminyl-(C55 &omega;-saturated dolichyl phosphate)
+CPD-17862	6-(L-threonyl)-2-acetamido-2-deoxy-&beta;-uronatemannosyl-(1&rarr;4)-2,3-diacetamido-2,3-dideoxy-&beta;-D-uronateglucosyl-(1&rarr;3)-<i>N</i>-acetyl-&alpha;-D-glucosaminyl-(C55 &omega;-saturated dolichyl phosphate)
+CPD-17870	malonamoyl-CoA
+CPD-17889	methyl-<i>O</i>-4-&beta;-D-glucuronosyl-(1&rarr;4)-&alpha;-D-galacturonosyl-(1&rarr;4)-&beta;-D-glucuronosyl-(1&rarr;4)-&beta;-D-glucosyl-(C55 &omega;-saturated dolichyl phosphate)
+CPD-17890	&beta;-D-glucuronosyl-(1&rarr;4)-&alpha;-D-galacturonosyl-(1&rarr;4)-&beta;-D-glucuronosyl-(1&rarr;4)-&beta;-D-glucosyl-(C55 &omega;-saturated dolichyl phosphate)
+CPD-17891	&beta;-D-glucuronosyl-(1&rarr;4)-&beta;-D-glucuronosyl-(1&rarr;4)-&beta;-D-glucosyl-(C55 &omega;-saturated dolichyl phosphate)
+CPD-17892	&beta;-D-glucuronosyl-(1&rarr;4)-&beta;-D-glucosyl-(C55 &omega;-saturated dolichyl phosphate)
+CPD-17893	&beta;-D-glucosyl-(C55 &omega;-saturated dolichyl phosphate)
+CPD-17894	&beta;-D-mannosyl-(C55 &omega;-saturated dolichyl phosphate)
+CPD-17940	holomycin
+CPD-17947	a nascent peptidoglycan with L,D cross links (<i>meso</i>-diaminopimelate containing)
+CPD-17948	holothin
+CPD-17952	thiomarinol C
+CPD-17968	a nascent peptidoglycan with (L-alanyl-&gamma;-D-glutamyl-<i>meso</i>-2,6-diaminopimelate) tripeptide
+CPD-17969	a nascent peptidoglycan with (L-alanyl-&gamma;-D-glutamyl-<i>meso</i>-2,6-diaminopimeloyl-glycine) tetrapeptide
+CPD-17986	a mature peptidoglycan with (L-alanyl-&gamma;-D-glutamyl-<i>meso</i>-2,6-diaminopimeloyl-D-alanine) tetrapeptide
+CPD-17989	a mature peptidoglycan<sub>(n)</sub> (<i>meso</i>-DAP containing)
+CPD-180	1-amino-1-deoxy-<i>scyllo</i>-inositol 4-phosphate
+CPD-18004	bacterioruberin
+CPD-18005	dihydroisopentenyldehydrorhodopin
+CPD-18006	isopentenyldehydrorhodopin
+CPD-18007	dihydrobisanhydrobacterioruberin
+CPD-18008	bisanhydrobacterioruberin
+CPD-18011	2-<i>O</i>-(&alpha;-D-glucopyranosyl)-<i>sn</i>-glycerol 3-phosphate
+CPD-18012	thymine glycol
+CPD-18029	4O,5-dimethyl,3-hydroxy L-tyrosine
+CPD-18030	presaframycin
+CPD-18046	kanamycin A 2''-phosphate
+CPD-18047	kanamycin B 2''-phosphate
+CPD-18048	tobramycin 2''-phosphate
+CPD-18049	dibekacin 2''-phosphate
+CPD-18050	arbekacin 2''-phosphate
+CPD-18051	amikacin 2''-phosphate
+CPD-18052	sisomicin 2''-phosphate
+CPD-18053	netilmycin 2''-phosphate
+CPD-18062	CMP-8-amino-3,8-dideoxy-&alpha;-D-<i>manno</i>-octulosonate
+CPD-18063	8-amino-3,8-dideoxy-&alpha;-D-<i>manno</i>-octulosonate
+CPD-18064	3,8-dideoxy-8-oxo-&alpha;-D-manno-octulosonate
+CPD-18065	&alpha;-Kdo8N-(2&rarr;6)-lipid IV<sub>A</sub>
+CPD-18066	4-<i>O</i>-phospho-&alpha;-Kdo8N-(2&rarr;6)-lipid IV<sub>A</sub>
+CPD-18072	20-deoxo-20-dihydro-12,13-deepoxyrosamicin
+CPD-18073	20-deoxo-20-dihydrorosamicin
+CPD-18105	4-methylphenyl ribotide phosphate
+CPD-18120	caffealdehyde
+CPD-18126	(2E,4Z,5E)-2-hydroxy-7-oxo-(2-oxoethylidene)hepta-2,5-dienoate
+CPD-18131	(2E,4Z,6E)-5-formyl-2-hydroxy-8-oxoocta-2,4,6-trienoate
+CPD-18164	dTDP-4-acetyl-D-ravidosamine
+CPD-18172	16-hydroxyphytanate
+CPD-18175	15-methyl-palmitate
+CPD-18176	16-hydroxy-15-methyl-palmitate
+CPD-18177	(2E,6E,10E)-2,6,10-trimethyldodeca-2,6,10-triene-1,12-diol
+CPD-18178	(2E,6E,10E,14E)-2,6,10,14-tetramethylhexadeca-2,6,10,14-tetraene-1,16-diol
+CPD-18179	(2E,6E,10E)-12-hydroxy-3,7,11-trimethyldodeca-2,6,10-trien-1-yl phosphonatooxyphosphonate
+CPD-18194	&omega;-hydroxy-&beta;-dihydromenaquinone-9
+CPD-18196	&omega;-sulfo-&beta;-dihydromenaquinone-9
+CPD-18198	dithioholothin
+CPD-18199	dithioholomycin
+CPD-18201	(5E)-3-imino-4-sulfanyl-5-(sulfanylmethylidene)pyrrolidin-2-one
+CPD-18202	(5E)-3-amino-4-sulfanyl-5-(sulfanylmethylidene)pyrrolidin-2-one
+CPD-18203	4-amino-2-(methanethioyl)-5-oxo-3-sulfanylpyrrolidine-2-carboxylate
+CPD-18224	nocamycin I
+CPD-18229	(2S,3S,7R)-2,3-diamino-8-(1-carbamoyl-2-iminoimidazolidin-4-yl)-7-hydroxyoctanoate
+CPD-18237	zwittermicin A
+CPD-18238	carboxyphosphate
+CPD-18239	(2S,3S,7R)-2-amino-3-amino-7-hydroxy-8-(2-iminoimidazolidin-4-yl)octanoate
+CPD-18251	&beta;-ureidoalanine
+CPD-18253	pyruvoyl-L-leucyl-L-methionine
+CPD-18258	proto-zwittermicin A
+CPD-1826	heteropyrithiamine
+CPD-18260	prenylated FMNH<sub>2</sub>
+CPD-18264	proto-zwittermicin A-L-alanyl-[PKS]
+CPD-1827	<i>cis</i>-geranyl-CoA
+CPD-1828	GDP-&alpha;-D-mannuronate
+CPD-1829	cob(II)alamin
+CPD-18290	4-hydroxy-3-methylbenzaldehyde
+CPD-18291	4-hydroxy-3-methylbenzoate
+CPD-18294	4-hydroxyisophthalate
+CPD-183	gallate
+CPD-18309	<i>N</i>-(<i>R,R</i>)-3-epoxysuccinamoyl-(S)-2,3-diaminopropanoyl-L-valine
+CPD-18312	<i>N</i>-3-fumaramoyl-L-2,3-diaminopropanoate
+CPD-18313	<i>N</i>-3-fumaramoyl-(S)-2,3-diaminopropanoyl-adenylate
+CPD-18319	<i>N</i>-3-(<i>R,R</i>)-epoxysuccinamoyl-(S)-2,3-diaminopropanoate
+CPD-18320	5-methylbenzimidazole
+CPD-18321	5-methoxybenzimidazole
+CPD-18327	(-)-indolactam V
+CPD-18328	lyngbyatoxin A
+CPD-18331	lyngbyatoxin B
+CPD-18332	lyngbyatoxin C
+CPD-18333	<i>N</i>-methyl-L-valyl-L-tryptophanol
+CPD-18334	2-carboxy-1,4-naphthoquinone
+CPD-18346	<i>cis</i>-vaccenoyl-CoA
+CPD-18348	1-<i>cis</i>-vaccenoyl-<i>sn</i>-glycerol-3-phosphate
+CPD-18350	1-palmitoyl-2-palmitoleoyl-<i>sn</i>-glycerol 3-phosphate
+CPD-18351	1-cis-vaccenoyl-2-palmitoleoyl-<i>sn</i>-glycerol-3-phosphate
+CPD-18379	1-myristoyl-<i>sn</i>-glycerol 3-phosphate
+CPD-18380	1-myristoyl-2-palmitoleoyl-<i>sn</i>-glycerol 3-phosphate
+CPD-18390	1-palmitoyl-2-myristoyl phosphatidate
+CPD-184	2-pyrone-4,6-dicarboxylate
+CPD-18432	chondrochloren A
+CPD-18433	chondrochloren B
+CPD-18434	1'-carboxy-chondrochloren B
+CPD-18435	1'-carboxy-chondrochloren A
+CPD-18436	pyridin-1-ium-3-thioamide-5-thiocarboxylate mononucleotide Ni pincer complex
+CPD-18437	3-hydroxy-4-methyl-anthranilate pentapeptide lactone
+CPD-18438	3-hydroxy-4-methyl-D-kynurenine
+CPD-18443	3-hydroxy-D-kynurenine
+CPD-18447	actinocin
+CPD-18448	3-hydroxy-4-methylanthranilyl-adenylate
+CPD-18452	cylindrospermopsin
+CPD-18453	5,7-diacetamido-3,5,7,9-tetradeoxy-L-glycero-D-galacto-non-2-ulosonate
+CPD-18456	2,4-diacetamido-2,4,6-trideoxy-&beta;-L-gulopyranose
+CPD-18458	UDP-2,4-diacetamido-2,4,6-trideoxy-&beta;-L-gulopyranose
+CPD-18460	UDP-2,4-diacetamido-2,4,6-trideoxy-&beta;-L-idopyranose
+CPD-18462	UDP-4-amino-4,6-dideoxy-<em>N</em>-acetyl-&beta;-<small>L</small>-idosamine
+CPD-18464	CMP-5,7-diacetamido-3,5,7,9-tetradeoxy-L-glycero-D-galacto-non-2-ulosonate
+CPD-18495	5-methoxy-6-methylbenzimidazole
+CPD-18497	5-hydroxybenzimidazole
+CPD-18499	magnesium hydrogenphosphate
+CPD-18500	calcium hydrogenphosphate
+CPD-18501	zinc hydrogenphosphate
+CPD-18508	hydroxysqualene
+CPD-18530	echinomycin
+CPD-18532	(R)-&beta;-hydroxy-L-kynurenine
+CPD-18533	3-hydroxyquinaldate
+CPD-18534	quinoxaline-2-carboxylate
+CPD-18536	3-hydroxykynurenate
+CPD-18537	(2S,3R)-2-[(2-aminophenyl)amino]-3-carboxy-3-hydroxypropanoate
+CPD-18538	(S)-&beta;-hydroxy-L-tryptophan
+CPD-18539	(R)-<i>N</i>-formyl-&beta;-hydroxy-L-kynurenine
+CPD-18541	triostin A
+CPD-18544	(3R)-4-(2-aminophenyl)-3-hydroxy-2,4-dioxobutanoate
+CPD-18545	(2S,3R)-2-[(2-aminophenyl)amino]-3-carboxy-3-oxopropanoate
+CPD-18549	triostin A dithiol
+CPD-18550	quinoxaline-2-carboxyl adenylate
+CPD-18559	3-hydroxyquinaldate adenylate
+CPD-18561	phenazin-1-ol
+CPD-18562	2-palmitoyl-trehalose
+CPD-18569	C30 mycocerosate
+CPD-18578	C35-phenolphthiocerol A
+CPD-18580	C32-phthiocerol A
+CPD-18587	<i>N</i>-acetyldemethylphosphinothricin adenylate
+CPD-18588	(L-alanyl)adenylate
+CPD-18589	<i>N</i>-acetyldemethylphosphinothricyl-L-alanyl-L-leucine
+CPD-18590	<i>N</i>-acetylphosphinothricyl-L-alanyl-L-leucine
+CPD-18600	sulfolipid-2
+CPD-18613	C31-phthiotriol
+CPD-18617	p-HBAD-I
+CPD-18619	p-HBAD-II
+CPD-18623	17-(4-hydroxyphenyl)heptadecanoate
+CPD-18627	C31-phthiodiolone A
+CPD-18629	C33-phthiodiolone A
+CPD-18630	C33-phthiotriol A
+CPD-18633	C34-phthiocerol A
+CPD-18635	(2Z,4E)-4-hydroxy-6-oxohexa-2,4-dienoate
+CPD-18636	C31-phthiodiolenone A
+CPD-18637	C33-phthiodiolenone A
+CPD-18644	26-amino-furostanol
+CPD-18645	furostanol-26-aldehyde
+CPD-18654	C34-phenolphthiotriol A
+CPD-18655	C34-phenolphthiodiolone A
+CPD-18657	19-(4-hydroxyphenyl)nonadecanoate
+CPD-18660	C36-phenolphthiodiolenone A
+CPD-18665	C95-dimycocerosyl phenolphthiocerol
+CPD-18670	C35-phenolcarboxyphthiodiolenone
+CPD-18671	C37-phenolcarboxyphthiodiolenone
+CPD-18672	C34-carboxyphthiodiolenone
+CPD-18685	<i>O</i>-methyl-4-<i>O</i>-[2,4-di-<i>O</i>-methyl-&alpha;-L-fucopyranosyl-(1&rarr;3)-&alpha;-L-rhamnopyranosyl-(1&rarr;3)-2-<i>O</i>-methyl-&alpha;-L-rhamnopyranosyl]-hydroxybenzoate
+CPD-18686	<i>O</i>-methyl-4-<i>O</i>-[2-<i>O</i>-methyl-&alpha;-L-fucopyranosyl-(1&rarr;3)-&alpha;-L-rhamnopyranosyl-(1&rarr;3)-2-<i>O</i>-methyl-&alpha;-L-rhamnopyranosyl]-hydroxybenzoate
+CPD-18687	<i>O</i>-methyl-4-<i>O</i>-[&alpha;-L-fucopyranosyl-(1&rarr;3)-&alpha;-L-rhamnopyranosyl-(1&rarr;3)-2-<i>O</i>-methyl-&alpha;-L-rhamnopyranosyl]-hydroxybenzoate
+CPD-18688	<i>O</i>-methyl-4-<i>O</i>-[&alpha;-L-rhamnopyranosyl-(1&rarr;3)-2-<i>O</i>-methyl-&alpha;-L-rhamnopyranosyl]-hydroxybenzoate
+CPD-18690	4-<i>O</i>-(&alpha;-L-rhamnopyranosyl)-hydroxybenzoate methyl ester
+CPD-18691	methylparaben
+CPD-18694	C36-phenolphthiodiolone A
+CPD-18703	2-stearoyl-trehalose
+CPD-18704	2'-palmitoyl-2-<i>O</i>-sulfo-&alpha;,&alpha;-trehalose
+CPD-18706	SL<sub>1278</sub>
+CPD-18713	2-<i>O</i>-sulfo-2'-stearoyl-&alpha;,&alpha;-trehalose
+CPD-18727	rifampicin
+CPD-18733	4-hydroxy-2-methyl-3-oxo-4-farnesyl-3,4-dihydroquinoline-1-oxide
+CPD-18735	lycotetraose
+CPD-18736	3,4-dihydroxy-2-methyl-4-farnesyl-3H-quinolin-1-ium-1-olate
+CPD-18740	(1S,2S)-3-phenoxycyclohexa-3,5-diene-1,2-diol
+CPD-18741	diphenyl ether 2,3-diol
+CPD-18745	4-bromo-2,3-dihydrodiol-diphenyl ether
+CPD-18746	4-bromo-2,3-dihydroxydiphenyl ether
+CPD-18748	(2Z,4E)-2-hydroxy-6-oxo-6-phenoxyhexa-2,4-dienoate
+CPD-18750	(2Z,4E)-2-hydroxy-6-oxo-(4-bromophenoxy)-hexa-2,4-dienoate
+CPD-18765	protoasukamycin
+CPD-18766	4-hydroxyprotoasukamycin
+CPD-18767	3-amino-4-hydroxybenzoate-adenylate
+CPD-18773	(R)-demethyl-4-deoxygadusol
+CPD-18776	(R)-4-deoxygadusol
+CPD-18777	mycosporine glycine
+CPD-18779	(S)-4-deoxygadusol
+CPD-18780	2-<i>epi</i>-valiolone
+CPD-18787	GDP-valienol
+CPD-18788	validamine 7-phosphate
+CPD-18789	validoxylamine A 7'-phosphate
+CPD-18790	validamycin B
+CPD-18796	isodeoxycholate
+CPD-18797	isolithocholate
+CPD-18798	3-dehydrodeoxycholate
+CPD-18805	a mature peptidoglycan strand (non-reducing terminus)
+CPD-18807	a nascent peptidoglycan (<i>meso</i>-DAP containing)
+CPD-18808	a nascent peptidoglycan (<i>meso</i>-DAP containing) with GlcNAc terminus
+CPD-18819	3-oxochenodeoxycholoyl-CoA
+CPD-18820	7&alpha;-hydroxy-3-oxochol-4-en-24-oyl-CoA
+CPD-18821	3-oxochol-4,6-dien-24-oyl-CoA
+CPD-18823	3-oxocholan-24-oyl-CoA
+CPD-18825	7&alpha;-hydroxy-3-oxo-5&beta;-cholanate
+CPD-18826	isochenodeoxycholate
+CPD-18833	bisphenol A
+CPD-18836	1,2-bis(4-hydroxyphenyl)-2-propanol
+CPD-18840	3-acetyl-3-devinylchlorophyllide <i>a</i>
+CPD-18841	8-ethyl-12-methyl-3-vinylbacteriochlorophyllide <i>d</i>
+CPD-18842	8,12-diethyl-3-vinylbacteriochlorophyllide <i>d</i>
+CPD-18843	12-ethyl-8-propyl-3-vinylbacteriochlorophyllide <i>d</i>
+CPD-18844	12-ethyl-8-isobutyl-3-vinylbacteriochlorophyllide <i>d</i>
+CPD-18845	12-ethyl-8-isobutylbacteriochlorophyllide <i>d</i>
+CPD-18846	12-ethyl-8-propylbacteriochlorophyllide <i>d</i>
+CPD-18848	(3<sup>1</sup>R)-8,12-diethylbacteriochlorophyllide <i>d</i>
+CPD-18849	(3<sup>1</sup>R)-8-ethyl-12-methylbacteriochlorophyllide <i>d</i>
+CPD-18850	(3<sup>1</sup>R)-8-ethyl-12-methylbacteriochlorophyll <i>d</i>
+CPD-18851	(3<sup>1</sup>R)-8,12-diethylbacteriochlorophyll <i>d</i>
+CPD-18852	12-ethyl-8-propylbacteriochlorophyll <i>d</i>
+CPD-18853	12-ethyl-8-isobutylbacteriochlorophyll <i>d</i>
+CPD-18858	(3<sup>1</sup>R)-8-ethyl-12-methylbacteriochlorophyllide <i>c</i>
+CPD-18859	(3<sup>1</sup>R)-8-ethyl-12-methylbacteriochlorophyll <i>c</i>
+CPD-18860	(3<sup>1</sup>R)-8,12-diethylbacteriochlorophyllide <i>c</i>
+CPD-18861	12-ethyl-8-propylbacteriochlorophyllide <i>c</i>
+CPD-18862	12-ethyl-8-isobutylbacteriochlorophyllide <i>c</i>
+CPD-18863	(3<sup>1</sup>R)-8,12-diethylbacteriochlorophyll <i>c</i>
+CPD-18864	12-ethyl-8-propylbacteriochlorophyll <i>c</i>
+CPD-18865	12-ethyl-8-isobutylbacteriochlorophyll <i>c</i>
+CPD-18870	(3<sup>1</sup>R)-8,12-diethylbacteriochlorophyll <i>e</i>
+CPD-18871	(3<sup>1</sup>R)-8-ethyl-12-methylbacteriochlorophyll <i>e</i>
+CPD-18872	12-ethyl-8-isobutylbacteriochlorophyll <i>e</i>
+CPD-18873	12-ethyl-8-propylbacteriochlorophyll <i>e</i>
+CPD-18879	(3<sup>1</sup>R)-8,12-diethylbacteriochlorophyllide <i>e</i>
+CPD-18880	(3<sup>1</sup>R)-8-ethyl-12-methylbacteriochlorophyllide <i>e</i>
+CPD-18881	12-ethyl-8-isobutylbacteriochlorophyllide <i>e</i>
+CPD-18882	12-ethyl-8-propylbacteriochlorophyllide <i>e</i>
+CPD-18885	bacteriochlorophyllide <i>b</i>
+CPD-18886	bacteriochlorophyllide <i>g</i>
+CPD-18887	3-deacetyl-3-(1-hydroxyethyl)-bacteriochlorophyllide <i>g</i>
+CPD-18890	geranylgeranyl bacteriochlorophyllide <i>b</i>
+CPD-18905	3,8-divinyl chlorophyll <i>a</i>
+CPD-18908	3-hydroxy-4-methyl-L-kynurenine
+CPD-18913	&beta;-D-mannopyranosyl-(1&rarr;2)-&beta;-D-mannopyranosyl-(1&rarr;2)-D-mannopyranose
+CPD-18916	pentetate
+CPD-18923	1&alpha;-hydroxytestosterone
+CPD-18924	1&alpha;-hydroxyandrost-4-ene-3,17-dione
+CPD-18928	hematinate
+CPD-18929	tripyrrole
+CPD-18934	indolmycenate
+CPD-18935	4,5-dehydro-L-arginine
+CPD-18937	(2R,4E)-2-amino-5-({[(2S,3R)-2-hydroxy-3-(1H-indol-3-yl)butanamido]methanimidoyl}amino)pent-4-enoate
+CPD-18963	(+)-dehydrodiconiferyl acid
+CPD-18964	(+)-dehydrodiconiferyl acid aldehyde
+CPD-18965	(+)-dehydrodiconiferyl acid carboxylate
+CPD-18977	pseudomonate C
+CPD-18978	marinolic acid C
+CPD-18979	marinoloyl-CoA C
+CPD-18981	pseudomonoyl-CoA C
+CPD-19005	2-hydroxyethyl-CoM
+CPD-19008	2-carboxyethyl-CoM
+CPD-19012	<i>tert</i>-butyl alcohol
+CPD-19013	2-methylpropane-1,2-diol
+CPD-19014	2-hydroxy-2-methylpropanoate
+CPD-19037	2-hydroxy-2-methylpropanal
+CPD-19040	2-hydroxy-2-methylpropanoyl-CoA
+CPD-19043	<i>tert</i>-butoxymethanol
+CPD-19044	<i>tert</i>-butyl formate
+CPD-19066	(25R)-3-oxocholest-4-en-26-oyl-CoA
+CPD-19067	(25R)-3-oxocholest-4-en-26-oate
+CPD-19072	(25S)-3&beta;-hydroxycholest-5-en-26-oate
+CPD-19074	(25R)-3&beta;-hydroxycholest-5-en-26-oate
+CPD-19092	2-ethylhexyl sulfate
+CPD-191	&alpha;-D-galactosyl-diphosphoundecaprenol
+CPD-19111	1-(6-sulfo-&alpha;-D-quinovosyl)glycerol
+CPD-19114	(2-aminobenzoyl)acetate
+CPD-19118	2-(hydroxylamino)benzoylacetate
+CPD-19133	D-erythrulose 4-phosphate
+CPD-19135	D-erythrulose 1-phosphate
+CPD-19136	L-erythrulose 1-phosphate
+CPD-19138	D-erythritol 1-phosphate
+CPD-19144	(7Z)-hexadecenoyl-CoA
+CPD-19147	(7Z)-tetradecenoyl-CoA
+CPD-19148	(5Z)-dodecenoyl-CoA
+CPD-19150	(2E,5Z)-dodecenoyl-CoA
+CPD-19151	(S)-3-hydroxy-(5Z)-dodecenoyl-CoA
+CPD-19153	3-oxo-(5Z)-dodecenoyl-CoA
+CPD-19154	(S)-3-hydroxy-(7Z)-tetradecenoyl-CoA
+CPD-19155	(S)-3-hydroxy-(9Z)-hexadecenoyl-CoA
+CPD-19157	3-oxo-(7Z)-tetradecenoyl-CoA
+CPD-19158	3-oxo-(9Z)-hexadecenoyl-CoA
+CPD-19159	(S)-3-hydroxy-(11Z)-octadecenoyl-CoA
+CPD-19160	3-oxo-(11Z)-octadecenoyl-CoA
+CPD-19161	(2E,7Z)-tetradecenoyl-CoA
+CPD-19162	(2E,9Z)-hexadecenoyl-CoA
+CPD-19163	(2E,11Z)-octadecenoyl-CoA
+CPD-19167	3-oxo-(7Z)-hexadecenoyl-CoA
+CPD-19168	(S)-3-hydroxy-(7Z)-hexadecenoyl-CoA
+CPD-19169	3-oxo-(9Z)-octadecenoyl-CoA
+CPD-19170	(2E,7Z)-hexadecenoyl-CoA
+CPD-19171	(S)-3-hydroxy-(9Z)-octadecenoyl-CoA
+CPD-19172	(2E,9Z)-octadecenoyl-CoA
+CPD-19179	(8<i>S</i>)-3',8-cyclo-7,8-dihydroguanosine 5'-triphosphate
+CPD-19181	a DNA containing <i>S</i><sub>p</sub> methyl phosphotriester
+CPD-19185	a DNA without <i>S</i><sub>p</sub> methyl phosphotriester
+CPD-19187	4-[(2-hydroxyethoxy)carbonyl]benzoate
+CPD-19188	polyethylene terephthalate
+CPD-19199	globotriose
+CPD-19202	L-4-hydroxyphenylglycine-L-arginyl-D-4-hydroxyphenylglycine-L-seryl-L 4-hydroxyphenylglycine
+CPD-19203	D-4-hydroxyphenylglycine-L-seryl-L 4-hydroxyphenylglycine
+CPD-19205	L-4-hydroxyphenylglycine-L-arginine
+CPD-19209	isonocardicin B
+CPD-19220	(S)-demethyl-4-deoxygadusol
+CPD-19233	3,3',5,5'-tetramethoxydiphenoquinone
+CPD-19235	&alpha;-D-ribose 1-(acetamidomethylphosphonate) 5-triphosphate
+CPD-19236	&alpha;-D-ribose-1-(2-<i>N</i>-acetamidomethylphosphonate) 5-phosphate
+CPD-19237	<i>N</i>-methylacetamide
+CPD-19238	&alpha;-D-ribose-1-[<i>N</i>-(phosphonomethyl)glycine] 5-triphosphate
+CPD-19239	&alpha;-D-ribose-1-[<i>N</i>-(phosphonomethyl)glycine] 5-phosphate
+CPD-19240	[(1S)-1-acetamidoethyl]phosphonate
+CPD-19241	[(<i>R</i>)-1-aminoethyl]phosphonate
+CPD-19242	[(1R)-1-acetamidoethyl]phosphonate
+CPD-19243	(2-acetamidoethyl)phosphonate
+CPD-19251	flavuxanthin
+CPD-19252	11a-hydroxytetracycline
+CPD-19254	decaprenoxanthin
+CPD-19255	oxytetracycline
+CPD-19260	tigecycline
+CPD-19261	11-hydroxytigecycline
+CPD-19267	decaprenoxanthin diglucoside
+CPD-19268	5a,11a-dehydrooxytetracycline
+CPD-19270	4-amino-4-de(dimethylamino)anhydrotetracycline
+CPD-19271	4-methylamino-4-de(dimethylamino)anhydrotetracycline
+CPD-19272	4-dedimethylamino-4-oxoanhydrotetracycline
+CPD-19273	6-methylpretetramide
+CPD-19274	4-hydroxy-6-methylpretetramide
+CPD-19275	pretetramide
+CPD-19285	nonaflavuxanthin
+CPD-19288	6-[3-hydroxy-2-(3,5,7-trioxononanoyl)phenyl]-3,5-dioxohexanoate
+CPD-19289	dTDP-3-amino-4-dehydro-2,3,6-trideoxy-&beta;-L-glucose
+CPD-19290	dTDP-3,4-didehydro-2,6-dideoxy-&beta;-L-glucose
+CPD-19301	Gro-P-Gro-P-ManNAc-GlcNAc-PP-undecaprenol
+CPD-19302	Rib-ol-P-Gro-P-Gro-P-ManNAc-GlcNAc-PP-undecaprenol
+CPD-19307	Rib-ol-P-Gro-P-ManNAc-GlcNAc-PP-undecaprenol
+CPD-19313	(-)-dehydrodiconiferyl acid aldehyde gem-diol
+CPD-19314	(+)-dehydrodiconiferyl acid gem-diol
+CPD-19317	<i>N</i>-acetyl-&alpha;-D-glucosaminyl-phospho-<i>ditrans,octacis</i>-undecaprenol
+CPD-19322	Glc-AATGal-PP-undecaprenol
+CPD-19323	(Rib-ol)-P-Glc-AATGal-PP-undecaprenol
+CPD-19324	GalNAc-(Rib-ol)-P-Glc-AATGal-PP-undecaprenol
+CPD-19326	GalNAc-GalNAc-(Rib-ol)-P-Glc-AATGal-PP-undecaprenol
+CPD-19327	(Chol-P-GalNAc)-GalNAc-(Rib-ol)-P-Glc-AATGal-PP-undecaprenol
+CPD-19328	(Chol-P-GalNAc)-(Chol-P-GalNAc)-(Rib-ol)-P-Glc-AATGal-PP-undecaprenol
+CPD-19339	&alpha;-D-sedoheptulopyranose 7-phosphate
+CPD-19340	GalNAc-P-Gro-P-ManNAc-GlcNAc-PP-undecaprenol
+CPD-19341	Glc-GalNAc-P-Gro-P-ManNAc-GlcNAc-PP-undecaprenol
+CPD-19342	GalNAc-P-Glc-GalNAc-P-Gro-P-ManNAc-GlcNAc-PP-undecaprenol
+CPD-19343	Glc-GalNAc-P-Glc-GalNAc-P-Gro-P-ManNAc-GlcNAc-PP-undecaprenol
+CPD-19349	<i>N</i>-acetyl-&alpha;-D-galactosaminyl-(1&rarr;6)-<i>N</i>-acetyl-&alpha;-D-galactosaminyl-diphospho-<i>ditrans,octacis</i>-undecaprenol
+CPD-19350	&beta;-D-glucuronosyl-(1&rarr;3)-<i>N</i>-acetyl-&alpha;-D-galactosaminyl-(1&rarr;6)-<i>N</i>-acetyl-&alpha;-D-galactosaminyl-diphospho-<i>ditrans,octacis</i>-undecaprenol
+CPD-19351	&beta;-D-glucuronosyl-(1&rarr;4)-&beta;-D-glucuronosyl-(1&rarr;3)-<i>N</i>-acetyl-&alpha;-D-galactosaminyl-(1&rarr;6)-<i>N</i>-acetyl-&alpha;-D-galactosaminyl-diphospho-<i>ditrans,octacis</i>-undecaprenol
+CPD-19360	UDP-6-deoxy-5,6-ene-<i>N</i>-acetyl-D-glucosamine
+CPD-19361	UDP-6-deoxy-5,6-ene-GalNAc
+CPD-19362	UDP-<i>N</i>-acetyl-tunicaminyl-uracil
+CPD-19364	<i>N</i>-acetyl-tunicaminyl-uracil
+CPD-19365	<i>N</i>-acetyl-D-glucosaminyl-<i>N</i>-acetyl-tunicaminyl-uracil
+CPD-19366	<i>N</i>-acetyl-D-glucosaminyl-tunicaminyl-uracil
+CPD-19387	allosamidin
+CPD-19388	2-(hydroxysulfanyl)hercynine
+CPD-194	4-nitrophenyl phosphate
+CPD-19404	2,3-dihydroxy-4-toluate
+CPD-19405	2-hydroxy-3-carboxy-6-oxo-hepta-2,4-dienoate
+CPD-19407	2,3-dihydroxy-4-methoxybenzoate
+CPD-19408	2-hydroxy-3-carboxy-6-methoxy-hexa-2,4-dienoate
+CPD-19410	2-hydroxy-6-methoxy-hexa-2,4-dienoate
+CPD-1943	(1R,6S)-dihydroxycyclohexa-2,4-diene-1,4-dicarboxylate
+CPD-19461	cyclobis-(1&rarr;6)-&alpha;-nigerosyl
+CPD-19471	N-[2-(carboxylatoamino)-1,2-bis(1H-indol-3-yl)ethyl]carbamate
+CPD-195	octanoate
+CPD-19543	1,2,4-triazole-3-alanine
+CPD-19557	&alpha;-phenylglycidate
+CPD-19561	tetrodotoxin
+CPD-19562	thio-NAD
+CPD-196	octanoyl-CoA
+CPD-19661	coenzyme F<sub>390</sub>-G
+CPD-19682	cholesteryl-&alpha;-D-glucoside
+CPD-19710	anaerobilin
+CPD-19713	biliverdin-IX &beta;
+CPD-19714	biliverdin-IX &delta;
+CPD-19731	5-chloro-3-oxoadipate
+CPD-19745	glycolaldehyde phosphate
+CPD-19754	<i>N</i>-[(2S)-2-amino-2-carboxyethyl]-L-glutamate
+CPD-19757	(2S)-2-acetamido-4-aminobutanoate
+CPD-19778	(2Z,4Z)-2-amino-5-chloro-6-oxohexa-2,4-dienoate
+CPD-19779	(2Z,4Z)-2-amino-5-chlorohexa-2,4-dienedioate
+CPD-19780	(2Z,4Z)-2-chloro-5-hydroxyhexa-2,4-dienedioate
+CPD-19781	(3E)-2-chloro-5-oxohex-3-enedioate
+CPD-19782	(3E)-5-chloro-2-oxopent-3-enoate
+CPD-19833	roseoflavin
+CPD-19834	8-demethyl-8-(methylamino)riboflavin
+CPD-19835	8-amino-8-demethylriboflavin
+CPD-19847	N6-acetyl-L-&beta;-lysine
+CPD-19856	(6Z,9Z,12Z,15Z)-3-hydroxy-2-[(2Z,5Z,8Z,11Z)-tetradeca-2,5,8,11-tetraen-1-yl]octadeca-6,9,12,15-tetraenoate
+CPD-19857	3-[(3Z,6Z,9Z,12Z)-pentadeca-3,6,9,12-tetraen-1-yl]-4-[(2Z,5Z,8Z,11Z)-tetradeca-2,5,8,11-tetraen-1-yl]oxetan-2-one
+CPD-19876	D-threonate
+CPD-19877	D-erythronate
+CPD-19879	4-phospho-D-threonate
+CPD-19880	3-dehydro-4-phospho-L-erythronate
+CPD-19881	3-dehydro-4-phospho-D-erythronate
+CPD-19882	2-dehydro-L-erythronate
+CPD-19883	2-dehydro-D-erythronate
+CPD-19884	3-dehydro-L-erythronate
+CPD-19888	2-isocapryloyl-3<i>S</i>-(phosphooxy)methyl-&gamma;-butyrolactone phosphate
+CPD-19889	[4-(6-methylheptanoyl)-5-oxo-2H-furan-3-yl]methyl phosphate
+CPD-19890	2-oxo-3-(phosphooxy)propyl 8-methyl-3-oxononanoate
+CPD-19918	SCB1
+CPD-19933	2-oxo-3-(phosphooxy)propyl 7-methyl-3-oxooctanoate
+CPD-19945	SCB2
+CPD-19946	SCB3
+CPD-19947	6-dehydro-SCB2
+CPD-19948	6-dehydro-SCB3
+CPD-19988	ethionamide
+CPD-19991	2-ethyl-4-amidopyridine
+CPD-19997	5-methyl-N-(4-nitrophenyl)thiophene-2-carboxamide
+CPD-19998	5-methyl-N-(4-nitrophenyl)-1,1-dioxo-1&lambda;<sup>6</sup>-thiophene-2-carboxamide
+CPD-2	Cs<sup>+</sup>
+CPD-20000	5-methyl-N-(4-nitrophenyl)-1-oxo-1&lambda;<sup>4</sup>-thiophene-2-carboxamide
+CPD-20001	2-((2-(1,3-dioxan-2-yl)ethyl)thio)-5-phenyl-1,3,4-oxadiazole
+CPD-20002	2-[2-(1,3-dioxan-2-yl)ethanesulfinyl]-5-phenyl-1,3,4-oxadiazole
+CPD-20026	21-phosphorifampicin
+CPD-20029	2-hydroxyputrescine
+CPD-20035	1-methyl-dAMP
+CPD-20036	1-methyl-dATP
+CPD-20067	&alpha;-D-mannosyl-(1&rarr;3)-<i>N</i>-acetyl-&alpha;-D-glucosaminyl-diphospho-<i>ditrans,octacis</i>-undecaprenol
+CPD-20069	&alpha;-D-mannosyl-(1&rarr;3)-&alpha;-D-mannosyl-(1&rarr;3)-&alpha;-D-mannosyl-(1&rarr;3)-<i>N</i>-acetyl-&alpha;-D-glucosaminyl-diphospho-<i>ditrans,octacis</i>-undecaprenol
+CPD-20070	&alpha;-D-Man-(1&rarr;3)-&alpha;-D-Man-(1&rarr;3)-&alpha;-D-Man-(1&rarr;2)-&alpha;-D-Man-(1&rarr;2)-&alpha;-D-Man-(1&rarr;3)-&alpha;-D-Man-(1&rarr;3)-&alpha;-Man-(1&rarr;3)-&alpha;-D-GlcNAc-diphospho-<i>ditrans,octacis</i>-undecaprenol
+CPD-201	4-hydroxybenzoyl-CoA
+CPD-20103	rhizobitoxine
+CPD-20104	dihydrorhizobitoxine
+CPD-20111	<i>S</i>-(hydroxymethyl)bacillithiol
+CPD-20112	<i>S</i>-formylbacillithiol
+CPD-20117	<i>p</i>-nitrophenyl-&beta;-D-galactofuranoside
+CPD-202	choloyl-CoA
+CPD-20340	ophthalmate
+CPD-20487	(4Z,8Z)-4,8-dimethyl-12-oxotrideca-4,8-dienal
+CPD-20490	(4Z,8Z,12Z,16Z,20Z,24Z)-4,8,12,16,20,24-hexamethyl-28-oxononacosa-4,8,12,16,20,24-hexaenal
+CPD-20491	(4Z,8Z,12Z,16Z,20Z)-4,8,12,16,20-pentamethyl-24-oxopentacosa-4,8,12,16,20-pentaenal
+CPD-20492	(4Z,8Z,12Z,16Z)-4,8,12,16-tetramethyl-20-oxohenicosa-4,8,12,16-tetraenal
+CPD-20493	(4Z,8Z,12Z)-4,8,12-trimethyl-16-oxoheptadeca-4,8,12-trienal
+CPD-20508	pyridin-1-ium-3,5-dicarboxylate mononucleotide
+CPD-20512	a [LarE]-dehydroalanine
+CPD-20513	pyridin-1-ium-3-carboxylate-5-thiocarboxylate mononucleotide
+CPD-20518	pyridin-1-ium-3,5-bisthiocarboxylate mononucleotide
+CPD-20546	nocamycin E
+CPD-20548	2,4-dibromophenol
+CPD-20551	2,4,6-tribromophenol
+CPD-20552	3,3',5,5'-tetrabromo-2,2'-biphenyldiol
+CPD-20553	hexabromo-2,2'-bipyrrole
+CPD-20554	pentabromopseudilin
+CPD-20559	2,6-dibromo-4-(2,4-dibromophenoxy)phenol
+CPD-20566	2,3,4-tribromo-1<i>H</i>-pyrrole
+CPD-20568	tribromopyrrole-2-carboxylate
+CPD-20581	4',4,6-tribromo-2,2-biphenol
+CPD-20584	2-bromo-4-(2,4-dibromophenoxy)phenol
+CPD-20585	2,4-dibromo-6-(2,4-dibromophenoxy)phenol
+CPD-20587	2,6-dibromo-4-(2,4,6-tribromophenoxy)phenol
+CPD-20594	3,5-dibromocatechol
+CPD-20595	3-bromo-5-(2,4-dibromo-6-hydroxyphenoxy)benzene-1,2-diol
+CPD-20596	5-bromo-3-(2,4-dibromo-6-hydroxyphenoxy)benzene-1,2-diol
+CPD-20597	5-bromo-3-(3,5-dibromo-2-hydroxyphenoxy)benzene-1,2-diol
+CPD-20598	3-bromo-5-(3,5-dibromo-2-hydroxyphenoxy)benzene-1,2-diol
+CPD-2061	1-iodopropane
+CPD-20624	isorenieratene
+CPD-20625	chlorobactene
+CPD-20626	&beta;-isorenieratene
+CPD-20627	1-hydroxychlorobactene
+CPD-20628	hydroxychlorobactene glucoside
+CPD-20629	lauryl-hydroxychlorobactene glucoside
+CPD-20647	7,8-dihydro-&beta;-carotene
+CPD-20664	2,2'-bis-(4-hydroxy-3-methybut-2-enyl)-&beta;,&beta;-carotene monoglucoside
+CPD-20665	2,2'-bis-(4-hydroxy-3-methybut-2-enyl)-&beta;,&beta;-carotene
+CPD-20670	sarcinaxanthin
+CPD-20671	decaprenoxanthin monoglucoside
+CPD-20672	sarcinaxanthin monoglucoside
+CPD-20673	sarcinaxanthin diglucoside
+CPD-20674	deoxyflexixanthin
+CPD-20681	4-oxopentanoyl-CoA
+CPD-20682	4-hydroxypentanoyl-CoA
+CPD-20683	4-(phosphooxy)pentanoyl-CoA
+CPD-20684	3-pentenoyl-CoA
+CPD-20688	4-hydroxypentanoate
+CPD-20689	3-pentenoate
+CPD-207	phenylacetyl-CoA
+CPD-20702	&alpha;-D-galacturonosyl-(1&rarr;4)-&beta;-D-glucuronosyl-(1&rarr;4)-&beta;-D-glucosyl-(C55 &omega;-saturated dolichyl phosphate)
+CPD-20724	5-amino-5-(4-hydroxybenzyl)-6-(D-ribitylimino)-5,6-dihydrouracil
+CPD-20746	N&alpha;,N&epsilon;-diacetyl-lysyl-D-alanine
+CPD-20749	UDP-<i>N</i>-acetyl-&alpha;-D-muramoyl-L-alanyl-L-glutamate
+CPD-20750	L-alanyl-&gamma;-D-glutamyl-L-lysyl-D-alanine
+CPD-20753	&beta;-tabtoxin
+CPD-20754	tabtoxinine-&beta;-lactam
+CPD-20758	<i>N</i>-acetyl-tabtoxinine-&beta;-lactam
+CPD-20759	(2S)-3-(4-hydroxyphenyl)-2-isocyanopropanoate
+CPD-20762	paerucumarin
+CPD-20766	(2<i>S</i>)-3-(1<i>H</i>-indol-3-yl)-2-isocyanopropanoate
+CPD-20768	4-[(<i>E</i>)-2-isocyanoethenyl]phenol
+CPD-20769	3-[(<i>Z</i>)-2-isocyanoethenyl]-1<i>H</i>-indole
+CPD-20770	(2<i>E</i>)-3-(4-hydroxyphenyl)-2-isocyanoprop-2-enoate
+CPD-20771	rhabduscin
+CPD-20795	3-geranyl-3-[(<i>Z</i>)-2-isocyanoethenyl]-1H-indole
+CPD-20797	12-<i>epi</i>-fischerindole U
+CPD-208	(<i>S</i>)-malyl-CoA
+CPD-20802	12-<i>epi</i>-hapalindole C
+CPD-20803	12-<i>epi</i>-fischerindole G
+CPD-20804	12-<i>epi</i>-hapalindole E
+CPD-20810	welwitindolinone B isothiocyanate
+CPD-20811	<i>N</i>-methylwelwitindolinone B isothiocyanate
+CPD-20812	welwitindolinone C isothiocyanate
+CPD-20813	<i>N</i>-methylwelwitindolinone C isothiocyanate
+CPD-20821	UDP-4-acetamido-4,6-dideoxy-&alpha;-L-galactose
+CPD-20826	adenine ribotide phosphate
+CPD-20827	phenyl-<i>Co</i>&beta;-adenosylcobamide 5'-phosphate
+CPD-20828	4-methylphenyl-<i>Co</i>&beta;-adenosylcobamide 5'-phosphate
+CPD-20829	benzimidazole ribotide phosphate
+CPD-20830	5-hydroxybenzimidazole ribotide phosphate
+CPD-20831	5-methoxybenzimidazole ribotide phosphate
+CPD-20832	5-methoxy-6-methylbenzimidazole ribotide phosphate
+CPD-20833	<i>Co</i>&alpha;-[&alpha;-(benzimidazolyl)]-<i>Co</i>&beta;-adenosylcobamide 5'-phosphate
+CPD-20836	<i>Co</i>&alpha;-[&alpha;-(5-methoxy-6-methylbenzimidazolyl)]-<i>Co</i>&beta;-adenosylcobamide 5'-phosphate
+CPD-20838	5-methylbenzimidazole ribotide phosphate
+CPD-20839	<i>Co</i>&alpha;-[&alpha;-(5-methylbenzimidazolyl)]-<i>Co</i>&beta;-adenosylcobamide 5'-phosphate
+CPD-20846	<i>Co</i>&alpha;-[&alpha;-(5-methylbenzimidazolyl)]-<i>Co</i>&beta;-adenosylcobamide
+CPD-20849	<i>Co</i>&alpha;-[&alpha;-(5-hydroxybenzimidazolyl)]-<i>Co</i>&beta;-adenosylcobamide
+CPD-20851	2-methyladenine ribotide phosphate
+CPD-20852	<i>Co</i>&alpha;-[&alpha;-(2-methyladenin-9-yl)]-<i>Co</i>&beta;-adenosylcobamide 5'-phosphate
+CPD-20853	<i>Co</i>&alpha;-[&alpha;-(2-methyladenin-7-yl)]-<i>Co</i>&beta;-adenosylcobamide
+CPD-20855	<i>Co</i>&alpha;-[&alpha;-(5-hydroxybenzimidazolyl)]-<i>Co</i>&beta;-adenosylcobamide 5'-phosphate
+CPD-20856	<i>Co</i>&alpha;-[&alpha;-(adenin-9-yl)]-<i>Co</i>&beta;-adenosylcobamide 5'-phosphate
+CPD-20866	2-hydroxy-4-aminobutanoate
+CPD-20867	(<i>S</i>)-azetidine-2-carboxylate
+CPD-20890	tetraphenylphosphonium
+CPD-20894	dequalinium
+CPD-20898	nigericin
+CPD-20899	valinomycin
+CPD-209	UDP-<i>N</i>-acetyl-&alpha;-D-muramoyl-L-alanyl-&gamma;-D-glutamyl-L-lysine
+CPD-20903	cob(II)inamide
+CPD-20908	cob(II)yrinate <i>a,c</i>-diamide-[corrinoid adenosyltranferase]
+CPD-20909	cob(I)yrinate <i>a,c</i>-diamide-[corrinoid adenosyltranferase]
+CPD-20920	tetrachlorosalicylanilide
+CPD-20921	bicozamycin
+CPD-20966	&beta;-D-glucosyl-1-phosphoundecaprenol
+CPD-20969	5,6-diaminouracil
+CPD-21000	pre-pseudomonine
+CPD-21001	<i>N</i>-hydroxyhistamine
+CPD-21007	vanchrobactin
+CPD-21009	baumannoferrin A
+CPD-21010	baumannoferrin B
+CPD-21011	<i>N</i><sup>5</sup>-2,4-diaminobutanoate-<i>N</i><sup>1</sup>-citryl-<i>N</i><sup>3</sup>-decanoyl-<i>N</i><sup>3</sup>-hydroxy-1,3-diaminopropane
+CPD-21012	<i>N</i><sup>1</sup>-citryl-<i>N</i><sup>3</sup>-decanoyl-<i>N</i><sup>3</sup>-hydroxy-1,3-diaminopropane
+CPD-21013	<i>N</i><sup>3</sup>-decanoyl-<i>N</i><sup>3</sup>-hydroxy-1,3-diaminopropane
+CPD-21015	norfloxacin
+CPD-21017	<i>N</i><sup>3</sup>-dec-2-enoyl-<i>N</i><sup>3</sup>-hydroxy-1,3-diaminopropane
+CPD-21019	<i>N</i><sup>1</sup>-citryl-<i>N</i><sup>3</sup>-dec-2-enoyl-<i>N</i><sup>3</sup>-hydroxy-1,3-diaminopropane
+CPD-21020	<i>N</i><sup>5</sup>-2,4-diaminobutanoate-<i>N</i><sup>1</sup>-citryl-<i>N</i><sup>3</sup>-dec-2-enoyl-<i>N</i><sup>3</sup>-hydroxy-1,3-diaminopropane
+CPD-21021	acinetoferrin
+CPD-21026	<i>N</i><sup>1</sup>-citryl-<i>N</i><sup>3</sup>-oct-2-enoyl-<i>N</i><sup>3</sup>-hydroxy-1,3-diaminopropane
+CPD-21027	<i>N</i><sup>3</sup>-oct-2-enoyl-<i>N</i><sup>3</sup>-hydroxy-1,3-diaminopropane
+CPD-21028	(citryl)-<i>N</i>-(3-aminopropyl)-<i>N</i>-hydroxyacetamide
+CPD-21035	commendamide
+CPD-21047	3-[(2-aminopentan-5-oylcarbamoyl)methyl]-3-hydroxybutanoate
+CPD-21056	toxoflavin
+CPD-21062	reumycin
+CPD-21063	1,6-didemethyltoxoflavin
+CPD-21067	6-demethyltoxoflavin
+CPD-21072	3-hydroxy-3-methylhexanoate
+CPD-21073	(2<i>E</i>)-3-methylhex-2-enoate
+CPD-21074	<i>N</i><sup>&alpha;</sup>-[(2<i>E</i>)-3-methylhex-2-enoyl]-L-glutamine
+CPD-21075	<i>N</i><sup>&alpha;</sup>-(3-hydroxy-3-methylhexanoyl)-L-glutamine
+CPD-21078	3-methyl-3-sulfanylhexan-1-ol
+CPD-21083	ethylenediamine-<i>N</i>,<i>N</i>'-disuccinate
+CPD-21084	<i>N</i>-carbobenzyloxy-L-glutamine
+CPD-21107	<i>S</i>-(6-hydroxy-4-methylhexan-4-yl)-L-cysteinylglycine
+CPD-21108	<i>S</i>-(6-hydroxy-4-methylhexan-4-yl)-L-cysteine
+CPD-21110	2-methyl-3-sulfanylbutan-1-ol
+CPD-21119	<i>S</i>-(4-hydroxy-3-methylbutan-2-yl)-L-cysteine
+CPD-21126	<i>S</i>-benzyl-L-cysteine
+CPD-21128	benzyl thiol
+CPD-21137	<i>S</i>-benzyl-L-cysteinylglycine
+CPD-21304	alloxanthine
+CPD-21340	<i>all-trans</i>-nonaprenyl diphosphate
+CPD-21359	core oligosaccharide-lipid A (<i>E. coli</i> K-12 core type) (no GlcNAc)
+CPD-21372	&gamma;-hexachlorocyclohexane
+CPD-21373	2,3,4,5,6-pentachlorocyclohexanol
+CPD-21376	3-(3,4-dihydroxyphenyl)-3-hydroxypropanoate
+CPD-21378	5-amino-1-(&beta;-D-ribosyl)imidazole
+CPD-21406	a partially deacetylated poly-&beta;-1,6-<i>N</i>-acetyl-D-glucosamine (fragment 1)
+CPD-21407	a partially deacetylated poly-&beta;-1,6-<i>N</i>-acetyl-D-glucosamine (fragment 2)
+CPD-21409	a partially deacetylated poly-&beta;-1,6-<i>N</i>-acetyl-D-glucosamine I
+CPD-21411	3-[(3a<i>S</i>,4<i>S</i>,5<i>R</i>,7a<i>S</i>)-5-hydroxy-7a-methyl-1-oxo-octahydro-1<i>H</i>-indene-4-carboxyl-CoA
+CPD-21412	(5<i>R</i>,7a<i>S</i>)-5-hydroxy-7a-methyl-1-oxo-3,5,6,7-tetrahydro-2<i>H</i>-indene-4-carboxyl-CoA
+CPD-21413	(5<i>R</i>,7a<i>S</i>)-7a-methyl-1,5-dioxo-3,5,6,7-tetrahydro-2<i>H</i>-indene-4-carboxyl-CoA
+CPD-21414	(3<i>R</i>)-2-(2-carboxyethyl)-3-methyl-6-oxocyclohex-1-ene-1-carboxyl-CoA
+CPD-21415	9-carboxy-6-methyl-3,7-dioxononanoyl-CoA
+CPD-21416	7-carboxy-4-methyl-5-oxoheptanoyl-CoA
+CPD-21417	(2E)-7-carboxy-4-methyl-5-oxohept-2-enoyl-CoA
+CPD-21427	5'-<i>O</i>-phosphonoadenylyl-(3'&rarr;5')-adenosine
+CPD-21429	<i>N</i>-[(3<i>S</i>)-3-amino-3-carboxypropyl]-D-histidine
+CPD-21431	2-[(L-alanin-3-ylcarbamoyl)methyl]-2-hydroxybutanedioate
+CPD-21432	2-[(2-aminoethylcarbamoyl)methyl]-2-hydroxybutanedioate
+CPD-21433	2-[(L-alanin-3-ylcarbamoyl)methyl]-3-(2-aminoethylcarbamoyl)-2-hydroxypropanoate
+CPD-21462	mupirocin F1
+CPD-21463	mupirocin C1
+CPD-21465	deoxymupirocin C
+CPD-21466	deoxymupirocin F
+CPD-21481	cytidine 5'-{[hydroxy(2-hydroxyethyl)phosphonoyl]phosphate}
+CPD-21485	dTDP-N-acetyl-&alpha;-D-glucosamine
+CPD-21492	(<i>R</i>)-3-(indol-3-yl)lactate
+CPD-21502	2-hydroxyparaconate
+CPD-21503	itatartarate
+CPD-21531	M-antigen (variant) monomer undecaprenyl diphosphate
+CPD-21577	monoglucosyl-enterobactin
+CPD-21578	salmochelin S4
+CPD-21579	salmochelin SX
+CPD-21581	triglucosyl-enterobactin
+CPD-21582	salmochelin S2
+CPD-21583	monoglucosyl-(2,3-dihydroxybenzoylserine)<sub>3</sub>
+CPD-21585	Fe<sup>3+</sup>-[diglucosyl-(2,3-dihydroxybenzoylserine)<sub>2</sub>] complex
+CPD-21588	triglucosyl-(2,3-dihydroxybenzoylserine)<sub>3</sub>
+CPD-21591	Fe<sup>3+</sup>-[diglucosyl-enterobactin] complex
+CPD-21607	Fe<sup>3+</sup>-[salmochelin S2] complex
+CPD-21608	Fe<sup>3+</sup>-[salmochelin SX] complex
+CPD-21609	Fe<sup>3+</sup>-[salmochelin S1] complex
+CPD-21610	Fe<sup>3+</sup>-[monoglucosyl-enterobactin] complex
+CPD-21611	Fe<sup>3+</sup>-[monoglucosyl-(2,3-dihydroxybenzoylserine)<sub>3</sub>] complex
+CPD-21685	6-sulfo-&alpha;-D-quinovose
+CPD-217	D-ornithine
+CPD-21708	N<sup>6</sup>-(6-phospho-D-glucosyl)-L-lysine
+CPD-21724	3&beta;-hydroxy-4&alpha;-methyl-5&alpha;-cholest-7-ene-4&beta;-carboxylate
+CPD-21730	4&beta;-carboxy-4&alpha;-methyl-5&alpha;-cholesta-8,24-dien-3&beta;-ol
+CPD-21736	4&beta;-carboxy-4&alpha;-methyl-5&alpha;-cholesta-8-en-3&beta;-ol
+CPD-21754	4-nitrocatecholsulfate
+CPD-21772	2-ethylhexanal
+CPD-21781	&alpha;-<i>N</i>-dichloroacetyl-<i>p</i>-aminophenylserinol
+CPD-21782	4-amino-4-deoxyprephenate
+CPD-21783	3-(4-aminophenyl)pyruvate
+CPD-21788	dichloroacetyl-[acp]
+CPD-21795	(1<i>R</i>,2<i>R</i>)-2-amino-1-(4-aminophenyl)propane-1,3-diol
+CPD-21800	luteothin
+CPD-21801	demethylluteothin
+CPD-21806	spectinabilin
+CPD-21835	demethyldeoxyspectinabilin
+CPD-21836	deoxyspectinabilin
+CPD-21840	4-nitrobenzoyl-CoA
+CPD-21851	streptovaricin C
+CPD-21853	streptovaricin G
+CPD-21865	rifamycin L
+CPD-21874	5-amino-5-deoxyshikimate
+CPD-21879	prostreptovaricin
+CPD-21880	3-methylprostreptovaricin
+CPD-21889	chaxamycin D
+CPD-21890	chaxamycin A
+CPD-21891	chaxamycin B
+CPD-21892	chaxamycin C
+CPD-21896	24-demethoxycarbonyl-24methylstreptovaricin G
+CPD-21897	24-demethoxycarbonyl-24-methylstreptovaricin C
+CPD-219	D-lysine
+CPD-21907	3-demethylchaxamycin A
+CPD-21908	prochaxamycin
+CPD-21909	3-demethylchaxamycin B
+CPD-21911	25-acetylchaxamycin C
+CPD-21917	naphthomycin A
+CPD-21922	naphthomycin E
+CPD-21923	pronaphthomycin
+CPD-21938	rifsaliniketal
+CPD-21956	oligomycin A
+CPD-21958	oligomycin C
+CPD-21966	9&beta;-mitosane core
+CPD-21967	carbamoylated 9&beta;-mitosane core
+CPD-21977	protoansatrienin
+CPD-220	D-arginine
+CPD-22077	&gamma;-L-glutamyl-(<i>S</i>)-2-aminobutanoate
+CPD-2209	N-acetyl-&alpha;-D-glucosaminyl-diphospho-trans,octacis-decaprenol
+CPD-221	&beta;-D-glucosyl-(1&rarr;4)-D-mannose
+CPD-22104	(3R,4R)-3,4-dihydroxy-3,4-dihydrobenzoyl-CoA
+CPD-22105	(4<i>R</i>,5<i>R</i>)-4,5-dihydroxycyclohex-2-ene-1-carbonyl-CoA
+CPD-22106	(5<i>R</i>)-5-hydroxycyclohexa-1,3-diene-1-carbonyl-CoA
+CPD-22107	(5<i>S</i>)-5-hydroxycyclohex-1-ene-1-carbonyl-CoA
+CPD-22119	3-<i>O</i>-methylprotoansatrienin
+CPD-22143	7-deoxycylindrospermopsin
+CPD-22144	desulfo-7-deoxycylindrospermopsin
+CPD-22145	7-<i>epi</i>-cylindrospermopsin
+CPD-22181	pederin precursor
+CPD-2222	(R)-3-(4-hydroxyphenyl)lactate
+CPD-225	<i>trans</i>-aconitate
+CPD-227	&alpha;-D-lyxopyranose
+CPD-233	L-&beta;-lysine
+CPD-2343	3-keto-L-gulonate 6-phosphate
+CPD-235	3-phosphonopyruvate
+CPD-237	(indol-3-yl)acetamide
+CPD-245	3-carboxy-<i>cis</i>,<i>cis</i>-muconate
+CPD-247	3-carboxy-2-hydroxymuconate semialdehyde
+CPD-2482	D-cycloserine
+CPD-253	4,5-<i>seco</i>-dopa
+CPD-255	(S)-acetoin
+CPD-26	hexulose 6-phosphate
+CPD-261	(4<i>S</i>)-perillyl alcohol
+CPD-277	3-fumarylpyruvate
+CPD-279	3-chloro-<i>cis</i>,<i>cis</i>-muconate
+CPD-280	glutarate semialdehyde
+CPD-2841	azide
+CPD-285	(-)<I>threo</I>-iso(homo)<SUB>2</SUB>citrate
+CPD-29	<i>p</i>-chloromercuribenzoate
+CPD-290	3,5-cyclohexadiene-1,2-diol-1-carboxylate
+CPD-291	2-oxopimelate
+CPD-292	(2E)-hexadecenal
+CPD-294	2-maleylacetate
+CPD-2961	D-gluconate 6-phosphate
+CPD-3	molybdate
+CPD-30	4-acetamidobutanal
+CPD-302	D-aspartate
+CPD-306	D-lysopine
+CPD-309	D-octopine
+CPD-313	propane-1,3-diamine
+CPD-316	reduced riboflavin
+CPD-323	cholest-4-en-3-one
+CPD-330	L-galactono-1,4-lactone
+CPD-3321	L-pyrrolysine
+CPD-335	(<i>R</i>)-3-hydroxybutanoate
+CPD-336	(-)<I>threo</I>-iso(homo)<SUB>3</SUB>citrate
+CPD-337	2-oxosuberate
+CPD-339	2-dehydro-6-phospho-D-gluconate
+CPD-341	indole-3-ethanol
+CPD-342	5&alpha;-androstane-3,17-dione
+CPD-343	3-deoxy-D-glycero-2,5-hexodiulosonate
+CPD-344	dTDP-L-pneumose
+CPD-346	(S,S)-2,3-butanediol
+CPD-35	4-acetamidobutanoate
+CPD-354	GDP-6-deoxy-&alpha;-D-talose
+CPD-3563	Tween 80
+CPD-3564	(S)-2-hydroxybutanoate
+CPD-3565	methyl-&alpha;-D-galactopyranoside
+CPD-3570	methyl &beta;-D-glucoside
+CPD-3571	propane-1,2,3-tricarboxylate
+CPD-358	(R)-lactaldehyde
+CPD-3582	methyl &alpha;-D-glucoside
+CPD-36	4-deoxy-&beta;-D-gluc-4-enuronosyl-(1,3)-<i>N</i>-acetyl-D-galactosamine
+CPD-360	D-xylono-1,5-lactone
+CPD-3617	decanoate
+CPD-363	3-dehydro-D-erythronate
+CPD-365	1-keto-D-<i>chiro</i>-inositol
+CPD-366	(2<i>R</i>)-phospho-3-sulfolactate
+CPD-367	(2<i>R</i>)-3-sulfolactate
+CPD-3682	ethylenediamine
+CPD-37	5-dehydro-4-deoxy-D-glucuronate
+CPD-370	<i>N</i>-acetyl-D-glucosaminate
+CPD-3706	adenosine 3'-monophosphate
+CPD-3707	adenosine 2',3'-cyclic monophosphate
+CPD-3708	guanosine 3'-monophosphate
+CPD-3709	guanosine 2',3'-cyclic monophosphate
+CPD-371	1-octanal
+CPD-3711	cytidine-3'-monophosphate
+CPD-3713	cytidine 2',3'-cyclic monophosphate
+CPD-372	D-ribitol 5-phosphate
+CPD-3724	uridine 3'-monophosphate
+CPD-3725	uridine 2'3'-cyclic monophosphate
+CPD-3734	thiophosphate
+CPD-3745	isethionate
+CPD-3766	menadione
+CPD-377	2-keto-D-gluconate
+CPD-380	3-sulfopyruvate
+CPD-3801	melibionate
+CPD-381	(<i>S</i>)-2-hydroxyglutarate
+CPD-387	iodide
+CPD-392	2-methyl-L-tryptophan
+CPD-397	S-methyl-L-methionine
+CPD-4	molybdopterin
+CPD-400	guaiacol
+CPD-403	3-hydroxy-4-methylanthranilate
+CPD-407	&gamma;-L-glutamyl-D-alanine
+CPD-4126	5-dehydroavenasterol
+CPD-4127	isofucosterol
+CPD-4184	4&alpha;-methyl-5&alpha;-cholesta-8-en-3-ol
+CPD-4187	7-dehydrocholesterol
+CPD-4205	<i>N</i><sup>6</sup>-(&Delta;<sup>2</sup>-isopentenyl)-adenosine 5'-monophosphate
+CPD-4206	<i>trans</i>-zeatin riboside monophosphate
+CPD-4209	<i>N<sup>6</sup></i>-dimethylallyladenine
+CPD-421	N<SUP>2</SUP>-succinyl-L-arginine
+CPD-4210	<i>trans</i>-zeatin
+CPD-4211	prenyl diphosphate
+CPD-4261	1,8-cineole
+CPD-444	<i>S</i>-methyl-5-thio-&alpha;-D-ribose 1-phosphate
+CPD-448	&beta;-D-glucopyranose 1-phosphate
+CPD-4501	miconazole
+CPD-4521	trans-1, 4-bis(2-chlorobenzylaminomethyl)cyclohexane dihydrochloride
+CPD-4522	triparanol
+CPD-4544	tellurite
+CPD-4578	3-dehydro-4-methylzymosterol
+CPD-458	galactinol
+CPD-4584	vanadate
+CPD-465	presqualene diphosphate
+CPD-468	L-2-aminoadipate
+CPD-469	<i>N</i>-acetyl-L-glutamate 5-semialdehyde
+CPD-470	L-2,4-diaminobutanoate
+CPD-471	(R)-3-amino-2-methylpropanoate
+CPD-472	dTDP-viosamine
+CPD-479	4-(methylsulfanyl)-2-oxobutanoate
+CPD-4821	kanamycin A
+CPD-4822	kanamycin B
+CPD-4823	kanamycin C
+CPD-4824	kanamycin X
+CPD-4841	dipicolinate
+CPD-4886	(4<i>S</i>)-limonene
+CPD-497	pseudouridine
+CPD-499	(<i>R</i>)-5-phosphomevalonate
+CPD-513	3-hydroxy-3-phenylpropanoyl-CoA
+CPD-514	3-oxo-3-phenylpropanoyl-CoA
+CPD-520	quercetin
+CPD-529	streptomycin 6-phosphate
+CPD-535	&beta;-D-fructose 2,6-bisphosphate
+CPD-536	glycerol 2-phosphate
+CPD-5401	p-chloromercuriphenylsulfonate
+CPD-543	choline sulfate
+CPD-548	<i>S</i>-formylglutathione
+CPD-55	octadecanal
+CPD-551	phosphonoacetaldehyde
+CPD-5541	phenylmethanesulfonyl fluoride
+CPD-560	5-(methylsulfanyl)-&alpha;-D-ribose
+CPD-564	<i>S</i>-ribosyl-L-homocysteine
+CPD-5721	thioguanine
+CPD-578	urea-1-carboxylate
+CPD-5802	Gro-P-ManNAc-GlcNAc-PP-undecaprenol
+CPD-582	guanylyl molybdenum cofactor
+CPD-5821	(<i>S</i>)-2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline
+CPD-583	<i>N</i>-formyl-L-aspartate
+CPD-5881	(6R)-4a-hydroxy-tetrahydrobiopterin
+CPD-592	4-guanidinobutanoate
+CPD-5921	(<i>R</i>)-3-(phenyl)lactate
+CPD-5923	5'-deoxy-5'-fluoroadenosine
+CPD-597	<i>N</i>-carbamoylputrescine
+CPD-600	<i>N</i>-formyl-L-glutamate
+CPD-6001	L-ribose
+CPD-601	S-Inosyl-L-homocysteine
+CPD-602	5-amino-6-(5-phospho-D-ribosylamino)uracil
+CPD-603	3-cyano-L-alanine
+CPD-6041	methotrexate
+CPD-605	lumichrome
+CPD-606	CDP-glycerol
+CPD-6082	3-aminopropanal
+CPD-613	2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate
+CPD-618	(2<i>R</i>,3<i>S</i>)-2-methylisocitrate
+CPD-621	2-hydroxy-3-oxoadipate
+CPD-622	(2<i>S</i>,3<i>S</i>)-2-methylcitrate
+CPD-623	resorcinol
+CPD-6301	<i>N-P</i>-tosyl-L-phenylalanyl chloromethyl ketone
+CPD-633	gentisate
+CPD-642	precorrin-3A
+CPD-643	precorrin-3B
+CPD-645	5-dehydro-2-deoxy-D-gluconate 6-phosphate
+CPD-650	(3<i>R</i>)-3-hydroxybutanoyl-CoA
+CPD-651	precorrin-4
+CPD-653	(<i>S</i>)-NADHX
+CPD-654	2,5-dioxopentanoate
+CPD-659	L-arogenate
+CPD-66	2-hydroxy-3-oxosuccinate
+CPD-660	(R)-malate
+CPD-662	precorrin-5
+CPD-663	UDP-4-dehydro-6-deoxy-&alpha;-D-glucose
+CPD-665	1-propanal
+CPD-667	<i>O</i>-acetyl-L-homoserine
+CPD-67	2-phosphoglycolate
+CPD-672	(<i>S</i>)-3-aminobutanoyl-CoA
+CPD-674	cinnamate
+CPD-6746	1D-<i>myo</i>-inositol 2-monophosphate
+CPD-675	precorrin-6A
+CPD-676	<i>trans</i>-caffeate
+CPD-679	precorrin-6B
+CPD-689	cob(II)yrinate <i>a,c</i>-diamide
+CPD-69	cyanate
+CPD-6901	cerulenin
+CPD-691	adenosylcobyrate
+CPD-6947	demethylphylloquinone
+CPD-6972	4-(2'-carboxyphenyl)-4-oxobutyryl-CoA
+CPD-6981	rosmarinate
+CPD-6982	(R)-3-(3,4-dihydroxyphenyl)lactate
+CPD-6995	L-threitol
+CPD-700	ergosta-5,7,24(28)-trien-3&beta;-ol
+CPD-7000	isobutanal
+CPD-7002	dihydrogeranylgeranyl diphosphate
+CPD-7003	tetrahydrogeranylgeranyl diphosphate
+CPD-7004	dihydrogeranylgeranyl chlorophyll a
+CPD-7005	geranylgeranyl chlorophyll <i>a</i>
+CPD-7006	tetrahydrogeranylgeranyl chlorophyll <i>a</i>
+CPD-7013	geranylgeranyl chlorophyll b
+CPD-7014	chlorophyllide <i>b</i>
+CPD-7016	7<sup>1</sup>-hydroxychlorophyll <i>a</i>
+CPD-702	4-nitrobenzyl alcohol
+CPD-703	4-nitrobenzaldehyde
+CPD-704	4-nitrobenzoate
+CPD-7046	sulfide(2-)
+CPD-705	4-hydroxylaminobenzoate
+CPD-706	24-methylenecholesterol
+CPD-7082	potassium cyanide
+CPD-7092	momilactone A
+CPD-7093	oryzalexin A
+CPD-71	(25<i>R</i>)-3&alpha;,7&alpha;,12&alpha;-trihydroxy-5&beta;-cholestanoyl-CoA
+CPD-7158	3-demethylubiquinol-9
+CPD-7162	<i>Co</i>&alpha;-[&alpha;-(5-hydroxybenzimidazolyl)]-cobamide
+CPD-7163	<i>Co</i>&alpha;-[&alpha;-(5-hydroxybenzimidazolyl)]-<i>Co</i>&beta;-methylcobamide
+CPD-7167	1-guanidino-1-deoxy-<i>scyllo</i>-inositol 4-phosphate
+CPD-72	(25<i>R</i>)-3&alpha;,7&alpha;-dihydroxy-5&beta;-cholestanoyl-CoA
+CPD-7206	8'-apo-&beta;-carotenal
+CPD-721	3-<i>O</i>-methylgallate
+CPD-722	<I>d</I>-biotin <I>d</I>-sulfoxide
+CPD-7221	(3Z)-dodec-3-enoyl-CoA
+CPD-7235	lithocholate
+CPD-7246	<i>N</i>-acetyl-&alpha;-D-galactosamine 1-phosphate
+CPD-725	13(S)-HPOTE
+CPD-7257	3&alpha;,7&alpha;,12&alpha;-trihydroxy-24-oxo-5-&beta;-cholestanoyl CoA
+CPD-7266	oligosaccharide with &beta;-D-xylopyranosyl-(1->4)-&beta;-D-xylopyranosyl-(1->4)-&beta;-D-xylopyranose at the reducing end
+CPD-7267	oligosaccharide with &beta;-D-xylopyranosyl-(1->4)-&alpha;-D-xylopyranose at the reducing end
+CPD-73	2-furoyl-CoA
+CPD-734	(-)-jasmonate
+CPD-7367	3-amino-4-hydroxybenzaldehyde
+CPD-7368	4-hydroxy-3-nitrobenzaldehyde
+CPD-7388	<i>p</i>-mercuribenzoate
+CPD-7400	ammelide
+CPD-7408	<i>all-trans</i> phytofluene
+CPD-7409	&beta;-cryptoxanthin
+CPD-7419	&beta;-zeacarotene
+CPD-7425	oxidized coenzyme F430
+CPD-7496	prolycopene
+CPD-7526	9,9'-di-<i>cis</i>-&zeta;-carotene
+CPD-7535	9,15,9'-tri-<i>cis</i>-&zeta;-carotene
+CPD-7564	Ni-sirohydrochlorin
+CPD-7590	Ni-sirohydrochlorin <i>a</i>,<i>c</i>-diamide
+CPD-7592	15,17<sup>3</sup>-<i>seco</i>-F430-17<sup>3</sup>-acid
+CPD-76	3-(4-methylpent-3-en-1-yl)-pent-2-enedioyl-CoA
+CPD-7602	7,8-didemethyl-8-hydroxy-5-deazariboflavin
+CPD-7613	coenzyme &alpha;-F<sub>420</sub>-3
+CPD-7616	3,4-dihydroxybenzaldehyde
+CPD-7618	geranate
+CPD-7620	1-heptanal
+CPD-763	arsenite
+CPD-7630	(-)-epicatechin
+CPD-764	phosphonoacetate
+CPD-7643	(5-formylfuran-3-yl)methyl phosphate
+CPD-7644	[5-(aminomethyl)furan-3-yl]methyl phosphate
+CPD-7646	(4-{4-[2-(&gamma;-L-glutamylamino)ethyl]phenoxymethyl}furan-2-yl)methanamine
+CPD-7652	4-(&beta;-D-ribofuranosyl)aminobenzene-5'-phosphate
+CPD-7670	dimethyl sulfide
+CPD-7671	methanethiol
+CPD-7672	3-(methylsulfanyl)propanoate
+CPD-7673	3-sulfanylpropanoate
+CPD-7682	1-piperideine 6-carboxylate
+CPD-7695	<i>ditrans,octacis</i>-undecaprenyldiphospho-<i>N</i>-acetyl-(<i>N</i>-acetyl-&beta;-D-glucosaminyl)muramoyl-L-alanyl-&gamma;-D-glutamyl-L-lysyl-D-alanyl-D-alanine
+CPD-7733	aurachin C
+CPD-7734	2-<i>n</i>-nonyl-4-hydroxyquinoline-<i>N</i>-oxide
+CPD-7737	(2-carboxy-2,5-dihydro-5-oxofuran-2-yl)-acetate
+CPD-782	(3,4-dihydroxyphenyl)acetate
+CPD-783	2-hydroxy-5-carboxymethylmuconate semialdehyde
+CPD-7836	myristate
+CPD-784	5-carboxymethyl-2-hydroxymuconate
+CPD-7847	(3S,3'S)-astaxanthin
+CPD-785	(3E,5R)-5-carboxy-2-oxohept-3-enedioate
+CPD-7850	echinenone
+CPD-7851	canthaxanthin
+CPD-7852	adonixanthin
+CPD-7857	(6<i>E</i>)-8-hydroxygeraniol
+CPD-786	(4Z)-2-oxohept-4-enedioate
+CPD-7867	1-dodecanol
+CPD-7880	dodecanal
+CPD-7970	carbonylcyanide m-chlorophenylhydrazone
+CPD-7988	Triton X-100
+CPD-8050	<i>scyllo</i>-inositol
+CPD-8065	verbascose
+CPD-8066	ajugose
+CPD-8123	MoO<sub>2</sub>-molybdopterin cofactor
+CPD-8130	hydroxyquinol
+CPD-8179	2,4-dinitrophenol
+CPD-821	L-proline betaine
+CPD-822	N<sup>2</sup>-succinyl-L-glutamate 5-semialdehyde
+CPD-824	5-guanidino-2-oxopentanoate
+CPD-825	4-guanidinobutyraldehyde
+CPD-827	5-dehydro-2-deoxy-D-gluconate
+CPD-8486	syringate
+CPD-8490	decanal
+CPD-85	1,2-dihydroxy-5-(methylsulfanyl)pent-1-en-3-one
+CPD-8610	4,4-dimethyl-5&alpha;-cholesta-8-en-3&beta;-ol
+CPD-8614	4&alpha;-methyl-5&alpha;-cholesta-8-en-3-one
+CPD-863	(+)-<i>exo</i>-5-hydroxycamphor
+CPD-864	(+)-bornane-2,5-dione
+CPD-8646	7-dehydrodesmosterol
+CPD-8742	(3<i>E</i>)-2-oxohex-3-enedioate
+CPD-8781	(2Z,4E)-2-hydroxy-5-methyl-6-oxohexa-2,4-dienoate
+CPD-8782	2-hydroxy-6-oxohepta-2,4-dienoate
+CPD-8785	(<i>4R</i>)-limonene
+CPD-881	11-<i>cis</i>-retinal
+CPD-8815	4-methylsalicylate
+CPD-8816	&gamma;-resorcylate
+CPD-8819	2,2'-dipyridyl
+CPD-882	11-<i>cis</i>-retinol
+CPD-8829	cibacron blue 3GA
+CPD-884	6-aminohexanoate
+CPD-8876	dodecyl sulfate
+CPD-8886	Sr2+
+CPD-8887	glyoxal
+CPD-8891	(<i>R</i>)-propane-1,2-diol
+CPD-8905	(+)-pinoresinol
+CPD-8906	(-)-pinoresinol
+CPD-8907	(+)-lariciresinol
+CPD-8908	(-)-lariciresinol
+CPD-8939	agarotetraose
+CPD-8973	methyl parathion
+CPD-8974	dimethylthiophosphate
+CPD-8981	&beta;-alaninamide
+CPD-8989	L-methionine-(<i>S</i>)-<i>S</i>-oxide
+CPD-8990	L-methionine-(<i>R</i>)-<i>S</i>-oxide
+CPD-8999	5-(methylsulfanyl)-2,3-dioxopentyl 1-phosphate
+CPD-9000	4-(&gamma;-L-glutamylamino)butanoate
+CPD-9009	2,4-dichlorophenoxyacetate
+CPD-901	mercuriphenyl acetate
+CPD-9011	streptothricin F
+CPD-9012	<i>N</i><sup>&beta;</sup>-acetylstreptothricin F
+CPD-9024	allopurinol
+CPD-9026	5-formyl-3-hydroxy-2-methylpyridine-4-carboxylate
+CPD-9037	methylcob(III)alamin
+CPD-904	<i>N</i>-methyl-L-proline
+CPD-9040	cobalt-precorrin-3
+CPD-9041	cobalt-precorrin-4
+CPD-9042	cobalt-precorrin-5A
+CPD-9043	cobalt-precorrin-6A
+CPD-9044	cobalt-precorrin-6B
+CPD-9045	cobalt-precorrin-8
+CPD-9047	cobalt-precorrin-5B
+CPD-9048	cobalt-precorrin-7
+CPD-9049	cobyrinate
+CPD-9051	2-deoxy-2-amino glucitol-6-phosphate
+CPD-9055	L-sorbosone 1,4-lactone
+CPD-9064	3-devinyl-3-(1-hydroxyethyl)chlorophyllide <i>a</i>
+CPD-9065	3-deacetyl-3-(1-hydroxyethyl)bacteriochlorophyllide <i>a</i>
+CPD-9066	bacteriochlorophyllide <i>a</i>
+CPD-9067	bacteriochlorophyll <i>a</i>
+CPD-9087	geranylgeraniol
+CPD-9088	geranylgeranyl bacteriochlorophyllide <i>a</i>
+CPD-9089	phyta-2,10,14-trienyl bacteriochlorophyllide <i>a</i>
+CPD-9090	phyta-2,14-dienyl bacteriochlorophyllide <i>a</i>
+CPD-9091	bacteriochlorophyll <i>b</i>
+CPD-9096	bacteriopheophytin <i>a</i>
+CPD-9097	3-deacetyl-3-vinylbacteriochlorophyllide <i>a</i>
+CPD-9098	geranylgeranyl bacteriopheophytin
+CPD-9099	dihydrogeranylgeranyl bacteriopheophytin
+CPD-9100	tetrahydrogeranylgeranyl bacteriopheophytin
+CPD-9124	O-carbamoyl-deacetylcephalosporin C
+CPD-9125	7-&alpha;-hydroxy-O-carbamoyl-deacetylcephalosporin C
+CPD-9134	4-methyl-5-nitrocatechol
+CPD-9135	2-hydroxy-5-methylquinone
+CPD-9151	3-chlorocatechol
+CPD-9152	4-chlorocatechol
+CPD-9169	2-hydroxylaminobenzoate
+CPD-9175	<i>N</i>-acetyl-L-cysteine
+CPD-9189	2-<i>O</i>-(&alpha;-D-glucopyranosyl)-3-phospho-D-glycerate
+CPD-9190	2-<i>O</i>-(&alpha;-D-glucopyranosyl)-D-glycerate
+CPD-9196	penicillin V
+CPD-9208	3-exomethylenecephalosporin-C
+CPD-9220	methicillin
+CPD-9227	cephalexin
+CPD-9231	imipenem
+CPD-9245	palmitoleate
+CPD-9247	<i>cis</i>-vaccenate
+CPD-927	2,2',3-trihydroxybiphenyl
+CPD-928	(2Z,2E)-2-hydroxy-6-oxo-6-(2-hydroxyphenyl)-hexa-2,4-dienoate
+CPD-9280	ethiin
+CPD-9288	hexane
+CPD-9300	<i>S</i>-ethyl-L-cysteine
+CPD-9327	vanillylamine
+CPD-9372	&gamma;-glutamyl-isopropylamide
+CPD-9375	L-2-aminopropionaldehyde
+CPD-9382	serinol
+CPD-9406	(2<i>S</i>)-ethylmalonyl-CoA
+CPD-9408	2-methylfumaryl-CoA
+CPD-9409	(2<i>R</i>,3<i>S</i>)-&beta;-methylmalyl-CoA
+CPD-9415	nocardicin C
+CPD-9416	isonocardicin C
+CPD-9417	nocardicin F
+CPD-9418	nocardicin G
+CPD-9429	adenosine 5'-propyl phosphate
+CPD-9444	(2<i>Z</i>,6<i>E</i>)-farnesyl diphosphate
+CPD-9446	1,5-anhydro-D-mannitol
+CPD-945	2'-hydroxybiphenyl-2-sulfinate
+CPD-9451	2-isopropylmaleate
+CPD-946	2-hydroxybiphenyl
+CPD-9466	2-hydroxyethylphosphonate
+CPD-9517	(2S)-2-amino-4-deoxy-chorismate
+CPD-9522	phenazine-1-carboxylate
+CPD-9550	6,6-kestotetraose
+CPD-961	<i>N<SUP>6</SUP></i>-acetyl-<i>N<SUP>6</SUP></i>-hydroxy-L-lysine
+CPD-9610	all-<i>trans</i>-decaprenyl diphosphate
+CPD-9646	<i>di-trans,octa-cis</i>-undecaprenyl phosphate
+CPD-9663	2-<i>epi</i>-5-<i>epi</i>-valiolone
+CPD-9665	valienone
+CPD-9666	validone
+CPD-9667	valienone 7-phosphate
+CPD-9668	validone 7-phosphate
+CPD-9669	validoxylamine A
+CPD-9698	CDP-&alpha;-tyvelose
+CPD-9701	CDP-ascarylose
+CPD-9720	menaquinone-<i>9</i>
+CPD-9756	CDP-3,6-dideoxy-D-<i>glycero</i>-4-hexulose
+CPD-9768	(2<i>E</i>)-hexadecenoate
+CPD-9776	cocaine
+CPD-9777	ecgonine methyl ester
+CPD-9849	&beta;-dihydromenaquinone-9
+CPD-9862	2-decaprenylphenol
+CPD-9863	2-nonaprenylphenol
+CPD-9864	3-decaprenyl-4-hydroxybenzoate
+CPD-9865	6-(<i>all-trans</i>-decaprenyl)-2-methoxy-phenol
+CPD-9866	2-methoxy-6-(<i>all-trans</i>-nonaprenyl)phenol
+CPD-9867	3-(<i>all-trans</i>-decaprenyl)benzene-1,2-diol
+CPD-9868	3-(<i>all-trans</i>-nonaprenyl)benzene-1,2-diol
+CPD-9869	<i>all trans</i>-decaprenyl-2-methoxy-6-1,4-benzoquinol
+CPD-9870	2-methoxy-6-<i>all trans</i>-nonaprenyl-1,4-benzoquinol
+CPD-9871	6-methoxy-3-methyl-2-<i>all-trans</i>-decaprenyl-1,4-benzoquinol
+CPD-9872	6-methoxy-3-methyl-2-<i>all-trans</i>-nonaprenyl-1,4-benzoquinol
+CPD-9873	3-demethylubiquinol-10
+CPD-9893	chelirubine
+CPD-9905	3&beta;-hydroxy-9&beta;-pimara-7,15-diene-19,6&beta;-olide
+CPD-9906	15-<i>cis</i>-4,4'-diapophytoene
+CPD-9908	<i>all-trans</i>-4,4'-diapophytofluene
+CPD-9910	<i>all-trans</i>-4,4'-diapo-&zeta;-carotene
+CPD-9911	<i>all-trans</i>-4,4'-diaponeurosporene
+CPD-9912	4,4'-diaponeurosporenal
+CPD-9913	4,4'-diaponeurosporenoate
+CPD-9915	glucosyl-4,4'-diaponeurosporenoate
+CPD-9923	(1<i>R</i>,6<i>R</i>)-6-hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate
+CPD-9924	2-succinyl-5-enolpyruvoyl-6-hydroxy-3-cyclohexene-1-carboxylate
+CPD-9925	1,4-dihydroxy-2-naphthoyl-CoA
+CPD-9937	diphenylamine
+CPD-9939	harmaline
+CPD-9949	1-phenylpropane-1,2-dione
+CPD-9958	ubiquinol-<i>10</i>
+CPD-9959	(+)-<i>epi</i>-isozizaene
+CPD-9960	(5<i>S</i>)-albaflavenol
+CPD-9961	(5<i>R</i>)-albaflavenol
+CPD-9962	albaflavenone
+CPD-9965	icosanoyl-CoA
+CPD-9978	(6<i>E</i>)-8-oxogeranial
+CPD-9985	petrobactin
+CPD-9986	achromobactin
+CPD-9989	pre-acinetobactin
+CPD-9992	pyochelin
+CPD-9995	carboxynorspermidine
+CPD-9999	<i>N</i>-acetylphosphinothricin
+CPD0-1025	bromohydrin of isopentenyl pyrophosphate
+CPD0-1032	(R)-&beta;-lysine
+CPD0-1053	UDP-[3-F]galactofuranose
+CPD0-1063	2-<I>O</I>-(6-phospho-&alpha;-D-mannosyl)-D-glycerate
+CPD0-1068	(methyl)phosphonate
+CPD0-1074	(aminomethyl)phosphonate
+CPD0-1080	GlcNAc-1,6-anhMurNAc-L-Ala-&gamma;-D-Glu-DAP-D-Ala
+CPD0-1081	<i>N</i>-acetyl-&beta;-D-glucosamine-1,6-anhydro-<i>N</i>-acetyl-&beta;-D-muramate
+CPD0-1082	L-alanyl-&gamma;-D-glutamyl-<i>meso</i>-2,6-diaminopimeloyl-D-alanine
+CPD0-1083	<i>aldehydo</i>-L-galactonate
+CPD0-1086	glutaminyl-&beta;-ketophosphonate-adenosine
+CPD0-1088	CHAPS
+CPD0-1090	L-idarate
+CPD0-1092	D-idarate
+CPD0-1112	&beta;-L-rhamnopyranose
+CPD0-1113	fosfomycin
+CPD0-1123	<i>N</i>-acetyl-&beta;-neuraminate
+CPD0-1133	maltoheptaose
+CPD0-1137	<i>P</i><sup>1</sup>,<i>P</i><sup>5</sup>-<i>bis</i>(5'-adenosyl) pentaphosphate
+CPD0-1143	azaguanine
+CPD0-1151	lipid A-core 1-diphosphate
+CPD0-1156	2-methyl-1,4-benzoquinone
+CPD0-1157	methyl-1,4-benzoquinol
+CPD0-1158	(3<i>E</i>,5<i>Z</i>)-tetradeca-3,5-dienoyl-CoA
+CPD0-1159	(3E,5Z)-tetradecadienoate
+CPD0-1162	(2E,5Z)-tetradecenoyl-CoA
+CPD0-1163	(S)-3-hydroxy-(5Z)-tetradecenoyl-CoA
+CPD0-1187	adenosine-2',5'-bisphosphate
+CPD0-1189	4-amino-4-deoxy-&alpha;-L-arabinopyranosyl <i>ditrans,octacis</i>-undecaprenyl phosphate
+CPD0-1193	partially deacetylated poly-&beta;-1,6-<i>N</i>-acetyl-D-glucosamine
+CPD0-1194	5'-D-arabinosyladenine triphosphate
+CPD0-1198	L-lyxonate
+CPD0-1202	isoprimeverose
+CPD0-1231	2-mercaptoglutarate
+CPD0-1234	isoleucine tetrazole
+CPD0-1237	<i>N</i>-3-fumaroyl-L-2,3-diaminopropanoate
+CPD0-1251	dihydrohomopteroate
+CPD0-1252	dihydro-10-thiopteroate
+CPD0-1253	dihydroisopteroate
+CPD0-1255	10-methyl-5,6,7,8-tetrahydropteroylglutamate
+CPD0-1267	isophthalate
+CPD0-1277	polymyxin B1
+CPD0-1280	tetraacyldisaccharide 4-phosphate
+CPD0-1281	lipid IV<SUB>B</SUB>
+CPD0-1283	lipid A (<i>E. coli</i>)
+CPD0-1284	lipid A (<i>R. sphaeroides</i>)
+CPD0-1308	glyphosate
+CPD0-1313	mersalyl acid
+CPD0-1319	5'-deoxyuridine
+CPD0-1320	5'-azido-5-deoxyuridine
+CPD0-1321	5'-iodo-5'-deoxyuridine
+CPD0-1322	5'-amino-5'-deoxyuridine
+CPD0-1327	5-fluorouracil
+CPD0-1328	N-acetylmuramate(alpha-methyl)-L-alanyl-D-glutamate
+CPD0-1329	N-acetylmuramate(beta-methyl)-L-alanyl-D-glutamate
+CPD0-1330	1-phospho-N-acetylmuramoyl-L-alanyl-D-glutamate
+CPD0-1331	dihydrouridine-diphosphate-<i>N</i>-acetylmuramoyl-L-alanyl-D-glutamate
+CPD0-1357	2-iodo-L-isoleucine-NHSO<sub>2</sub>-AMP
+CPD0-1358	actinonin
+CPD0-1359	calpeptin
+CPD0-1360	4-(4-hydroxyphenoxy)-3,5-diiodophenyl acetate
+CPD0-1363	5-((2-iodoacetamido)ethyl)-1-aminonapthalene sulfate
+CPD0-1370	&alpha;-(2,6-anhydro-3-deoxy-D-arabino-heptulopyranosid)onate 7-phosphate
+CPD0-1372	&alpha;-(2,6-anhydro-3-deoxy-D-arabino-heptulopyranosid)onate 7-phosphonate
+CPD0-1373	&beta;-(2,6-anhydro-3-deoxy-D-arabino-heptulopyranosid)onate 7-phosphate
+CPD0-1374	DAHP-o-methyl glycoside
+CPD0-1380	<i>N</i>-benzylglycine
+CPD0-1413	levallorphan
+CPD0-1414	tetracycline
+CPD0-1415	pGpp
+CPD0-1422	dipalmitoyl phosphatidate
+CPD0-1423	1-stearoyl-2-stearoyl-<i>sn</i>-glycerol 3-phosphate
+CPD0-1425	1,2-dimyristoyl-<i>sn</i>-glycerol 3-phosphate
+CPD0-1426	pyrithiamine phosphate
+CPD0-1436	fumagillin
+CPD0-1445	L-alanyl-L-glutamate
+CPD0-1455	<i>S</i>-hexylglutathione
+CPD0-1456	UDP-<i>N</i>-acetyl-&alpha;-D-muramoyl-L-alanine
+CPD0-1457	ethyleneglycol phosphate
+CPD0-1458	1,3-propanediol-P
+CPD0-1465	adenosine 5'[&beta;,&gamma;-methylene]triphosphate
+CPD0-1470	guanidinium
+CPD0-1472	tetrahydropteroyl-&alpha;-glutamylglutamate
+CPD0-1473	pteroyl-&gamma;-glutamyl-&gamma;-glutamylglutamate
+CPD0-1474	5-methyl-tetrahydropteroyl-&alpha;-glutamylglutamate
+CPD0-1476	chloral hydrate
+CPD0-1486	rCdRP
+CPD0-1487	5-fluoroanthranilate
+CPD0-1488	5-methylanthranilate
+CPD0-1489	4-methylanthranilate
+CPD0-1490	3-methylanthranilate
+CPD0-1496	sodium arsenite
+CPD0-1507	O-methylserine
+CPD0-1512	N-acetylglucosaminolactone
+CPD0-1520	muramate
+CPD0-1545	penem CGP31608
+CPD0-1546	bolton and Hunter derivative of ampicillin
+CPD0-1552	Bz<sub>2</sub>ATP
+CPD0-1562	DL-selenocystine
+CPD0-1564	D-cystine
+CPD0-1574	N10-formyl-2,4-diaminodideazafolate
+CPD0-1575	&beta;-thiogardideazafolate
+CPD0-1576	N10-(bromoacetyl)-5,8-dideazafolate
+CPD0-1581	trimethoprim
+CPD0-1583	pyrimethamine
+CPD0-1584	2,4-diamino-6-ethyl-5,3'-(2-cyclohexylphenoxy)prop-1'-yloxypyrimidine
+CPD0-1585	2,4-diamino-6-ethyl-5,3'-(2-trifluoromethylphenoxy)prop-1'-yloxypyrimidine
+CPD0-1586	2,4-diamino-6-methyl-5,3'-(3-nitrophenoxy)prop-1'-yloxypyrimidine
+CPD0-1587	2,4-diamino-6-methyl-5,3'-(2-trifluoromethylphenoxy)prop-1'-yloxypyrimidine
+CPD0-1588	2,4-diamino-6-methyl-5,3'-(3-trifluoromethylphenoxy)prop-1'-yloxypyrimidine
+CPD0-1590	1-(p-butylphenyl)-2,2-dimethyl-4,6-diamino-1,2-dihydro-s-triazine
+CPD0-1591	5-[[4-methoxy-3-(phenylmethoxy)phenyl]methyl]-2,4-pyrimidinediamine
+CPD0-1594	2,4-diamino-6-ethyl-5,3'-(2-trifluoromethyl-4-sulphonamidophenoxy)prop-1'-yloxypyrimidine
+CPD0-1596	10-formyl-tetrahydropterote
+CPD0-1604	2-hydroxy-3-butynoate
+CPD0-1610	NaCN
+CPD0-1612	4-deoxy-D-glucarate
+CPD0-1613	xylarohydroxamate
+CPD0-1629	digitonin
+CPD0-1643	<i>N</i>-acetyl-&alpha;-D-muramate 1-phosphate
+CPD0-1646	&alpha;-D-galactosamine-1-phosphate
+CPD0-1651	MgADP
+CPD0-1655	mannonic amide
+CPD0-1656	glucuronamide
+CPD0-1667	phenyl-&beta;-D-glucoside
+CPD0-1668	phenyl-&alpha;-D-glucoside
+CPD0-1669	&beta; -methyl maltoside
+CPD0-1699	6-carboxy-5,6,7,8-tetrahydropterin
+CPD0-1708	5-chloro-2-propyl-3-[2''-(1H-tetrazol-5-ylmethyl)-[1,1',4',1'']terphenyl-4-yl]-3H-imidazo[4,5-b]pyridine
+CPD0-1882	cytidylyl molybdenum cofactor
+CPD0-1883	5'-O-[N-(L-glutamyl)-sulfamoyl] adenosine
+CPD0-1884	glutamyl-&beta;-ketophosphonate-adenosine
+CPD0-1905	8-oxo-dGTP
+CPD0-1932	1-methylguanine
+CPD0-1938	ethidium
+CPD0-1942	(S)-2-aminobutanoate
+CPD0-1965	N&alpha;,N&epsilon;-diacetyl-lysyl-D-alanyl-D-alanine
+CPD0-2018	5-methylcytosine
+CPD0-2019	2&beta;-deoxy Kdo
+CPD0-2021	bacimethrin pyrophosphate
+CPD0-2030	glycerophosphoserine
+CPD0-2056	norophthalmate
+CPD0-2060	2,6-diaminopurine
+CPD0-2067	captopril
+CPD0-2099	3,4,-dihydroxybutylphosphonate
+CPD0-2101	5,6,7,8-tetrahydromonapterin
+CPD0-2108	(2<i>E</i>)-oct-2-enoyl-CoA
+CPD0-2113	1-stearoyl-<i>sn</i>-glycerol 3-phosphate
+CPD0-2121	<i>trans</i>-hex-2-enoyl-CoA
+CPD0-2189	4-hydroxy-L-threonine
+CPD0-2190	L-alanyl-D-glutamate
+CPD0-2279	<i>E. coli</i> O16 antigen monomer-diphosphoundecaprenol
+CPD0-2298	(<i>S</i>)-ureidoglycine
+CPD0-2306	casuarine
+CPD0-2331	3-ureidoacrylate
+CPD0-2338	(<i>Z</i>)-3-ureidoacrylate peracid
+CPD0-2339	aminoacrylate
+CPD0-2340	(<i>Z</i>)-3-peroxyaminoacrylate
+CPD0-2357	furfural
+CPD0-2362	2-(1,2-epoxy-1,2-dihydrophenyl)acetyl-CoA
+CPD0-2363	2-oxepin-2(3H)-ylideneacetyl-CoA
+CPD0-2364	3-oxo-5,6-didehydrosuberyl-CoA
+CPD0-2370	<i>S</i>-(acet-2-yl)-glutathione
+CPD0-2463	5-phospho-&alpha;-D-ribose 1,2-cyclic phosphate
+CPD0-2467	3-hydroxy-5-phosphooxypentane-2,4-dione
+CPD0-2468	3,4,4-trihydroxy-5-phosphooxypentan-2-one
+CPD0-2472	(<i>R</i>)-NADHX
+CPD0-2474	(<i>S</i>)-NADPHX
+CPD0-2477	3-propylcatechol
+CPD0-2479	&alpha;-D-ribose-1-(methyl)phosphonate-5-triphosphate
+CPD0-2480	&alpha;-D-ribose-1-methylphosphonate 5-phosphate
+CPD0-2482	ferric-[<i>N</i>-(2,3-dihydroxybenzoyl)-L-serine trimer] complex
+CPD0-2483	<i>N</i>-(2,3-dihydroxybenzoyl)-L-serine trimer
+CPD0-2499	methyl &beta;-D-glucoside 6-phosphate
+CPD0-2500	<i>p</i>-nitrophenyl-&alpha;-D-galactopyranoside
+CPD0-2501	<i>N</i>-monoacetylchitobiose 6'-phosphate
+CPD0-2518	(acetamidomethyl)phosphonate
+CPD0-2521	[(<i>S</i>)-1-aminoethyl]phosphonate
+CPD0-2552	m<sup>7</sup>GTP
+CPD0-2558	2-hydroxycyclohepta-1,4,6-triene-1-carboxyl-CoA
+CPD0-2581	pseudomonate A
+CPD0-2595	2-hydroxypropyl-&beta;-cyclodextrin
+CPD0-2597	faropenem
+CPD0-2598	AM-112
+CPD0-2599	mecillinam
+CPD0-2600	doripenem
+CPD0-2601	ceftobiprole
+CPD0-2602	cefepime
+CPD0-2634	pGp
+CPD0-2640	M-antigen monomer undecaprenyl diphosphate
+CPD0-2652	1-palmitoyl-2-oleoyl-<i>sn</i>-glycero-3-[phospho-rac-(1-glycerol)]
+CPD0-2653	diphosphatidylglycerol
+CPD0-441	fosmidomycin
+CPD0-881	<i>N</i>-acetyl-D-muramate 6-phosphate
+CPD0-882	1,6-anhydro-<i>N</i>-acetyl-&beta;-muramate
+CPD0-888	4-deoxy-4-formamido-&alpha;-L-arabinopyranosyl <i>ditrans,octacis</i>-undecaprenyl phosphate
+CPD0-889	<i>N</i>-(4-aminobenzoyl)-L-glutamate
+CPD0-903	N-ethylsuccinimide
+CPD0-929	heptosyl-Kdo<sub>2</sub>-lipid A
+CPD0-930	(heptosyl)<sub>2</sub>-Kdo<sub>2</sub>-lipid A
+CPD0-932	glucosyl-(heptosyl)<sub>2</sub>-Kdo<sub>2</sub>-lipid A
+CPD0-933	glucosyl-(heptosyl)<sub>2</sub>-Kdo<sub>2</sub>-lipid A-phosphate
+CPD0-934	glucosyl-(heptosyl)<sub>3</sub>-Kdo<sub>2</sub>-lipid A-phosphate
+CPD0-935	glucosyl-(heptosyl)<sub>3</sub>-Kdo<sub>2</sub>-lipid A-bisphosphate
+CPD0-936	galactosyl-glucosyl-(heptosyl)<sub>3</sub>-Kdo<sub>2</sub>-lipid A-bisphosphate
+CPD0-937	galactosyl-(glucosyl)<sub>2</sub>-(heptosyl)<sub>3</sub>-Kdo<sub>2</sub>-lipid A-bisphosphate
+CPD0-938	galactosyl-(glucosyl)<sub>3</sub>-(heptosyl)<sub>3</sub>-Kdo<sub>2</sub>-lipid A-bisphosphate
+CPD0-939	core oligosaccharide-lipid A (<i>E. coli</i> K-12 core type)
+CPD1F-114	<i>all-trans</i>-lycopene
+CPD1F-126	&gamma;-carotene
+CPD1F-129	&beta;-carotene
+CPD1F-130	zeaxanthin
+CPD1F-437	quercetin-3-glucoside
+CPD1F-98	<i>all-trans</i>-&zeta;-carotene
+CPD1G-0	1-(2-amino-2-deoxy-&alpha;-D-glucopyranosyl)-1D-myo-inositol
+CPD1G-105	6-O-cis-methoxy-mycolyl-&beta;-D-mannopyranosyl-1-phosphoheptaprenol
+CPD1G-106	6-O-trans-methoxy-mycolyl-&beta;-D-mannopyranosyl-1-phosphoheptaprenol
+CPD1G-107	6-O-cis-keto-mycolyl-&beta;-D-mannopyranosyl-1-phosphoheptaprenol
+CPD1G-108	6-O-trans-keto-mycolyl-&beta;-D-mannopyranosyl-1-phosphoheptaprenol
+CPD1G-120	deacetylmycothiol
+CPD1G-130	mycothiol-bimane conjugate
+CPD1G-1344	&alpha;, &alpha;'-trehalose 6-&alpha;-mycolate
+CPD1G-1345	trehalose-cis-methoxy-mono-mycolate
+CPD1G-1346	trehalose-trans-methoxy-mono-mycolate
+CPD1G-1353	trehalose-cis-keto-mono-mycolate
+CPD1G-1354	trehalose-trans-keto-mono-mycolate
+CPD1G-1532	arabinogalactan-cis-methoxy-mycolate
+CPD1G-1533	arabinogalactan-trans-methoxy-mycolate
+CPD1G-1534	arabinogalactan-cis-keto-mycolate
+CPD1G-1535	arabinogalactan-trans-keto-mycolate
+CPD1G-185	bimane <i>N</i>-acetyl-L-cysteinyl conjugate
+CPD1G-2	mycothiol
+CPD1G-277	cerotoyl-CoA
+CPD1G-332	2-carboxy-cerotoyl-CoA
+CPD1G-69	D-mannopyranosyl-1-phosphoheptaprenol
+CPD1G-768	6-O-&alpha;-mycolyl-trehalose 6-phosphate
+CPD1G-771	6-O-cis-methoxy-mycolyl-trehalose 6-phosphate
+CPD1G-772	6-O-trans-methoxy-mycolyl-trehalose 6-phosphate
+CPD1G-773	6-O-cis-keto-mycolyl-trehalose 6-phosphate
+CPD1G-774	6-O-trans-keto-mycolyl-trehalose 6-phosphate
+CPD1G-83	6-O-mycolyl-&beta;-D-mannopyranosyl-1-phosphoheptaprenol
+CPD1G-852	trehalose-cis-methoxy-di-mycolate
+CPD1G-853	trehalose-trans-methoxy-di-mycolate
+CPD1G-854	trehalose-cis-keto-di-mycolate
+CPD1G-855	trehalose-trans-keto-di-mycolate
+CPD1UA-41	(4-octanoyl-5-oxo-2H-furan-3-yl)methyl phosphate
+CPD1UA-42	[4-(6-methyloctanoyl)-5-oxo-2H-furan-3-yl]methyl phosphate
+CPD1UA-44	[(3S)-4-octanoyl-5-oxooxolan-3-yl]methyl phosphate
+CPD1UA-45	[(3S)-4-(6-methyloctanoyl)-5-oxooxolan-3-yl]methyl phosphate
+CPD1UA-57	2-oxo-3-(phosphooxy)propyl 8-methyl-3-oxodecanoate
+CPD1UA-58	2-oxo-3-(phosphooxy)propyl 3-oxodecanoate
+CPD3O-4151	4-tyrosol
+CPD490-7	(6R)-tetrahydrobiopterin-&beta;-D-glucoside
+CPD66-28	pregn-5-ene-3,20-dione
+CPD66-29	5-androstene-3,17-dione
+CPD8J2-1	(<i>S</i>)-malyl <i>N</i>-acetyl-&alpha;-D-glucosaminide
+CPD8J2-2	(<i>S</i>)-malyl &alpha;-D-glucosaminide
+CPD8J2-3	bacillithiol
+CPDMETA-13643	pentalenate
+CPDMETA-13650	3-oxo-5,6-didehydrosuberyl-CoA semialdehyde
+CPDMETA-13651	perakine
+CPDMETA-13652	raucaffrinoline
+CPDN-385	trans-O-hydroxybenzylidenepyruvate
+CPDQT-27	6-(methylsulfanyl)-2-oxohexanoate
+CPDQT-28	7-(methylsulfanyl)-2-oxoheptanoate
+CPDQT-29	8-(methylsulfanyl)-2-oxooctanoate
+CPDQT-30	9-(methylsulfanyl)-2-oxononanoate
+CPDQT-31	2-[(3'-methylsulfanyl)propyl]malate
+CPDQT-32	2-[(4'-methylsulfanyl)butyl]malate
+CPDQT-33	2-[(5'-methylsulfanyl)pentyl]malate
+CPDQT-34	2-[(6'-methylsulfanyl)hexyl]malate
+CPDQT-340	L-dihomomethionine
+CPDQT-35	2-[(7'-methylsulfanyl)heptyl]malate
+CPDQT-36	3-[(3'-methylsulfanyl)propyl]malate
+CPDQT-37	3-[(4'-methylsulfanyl)butyl]malate
+CPDQT-38	3-[(5'-methylsulfanyl)pentyl]malate
+CPDQT-39	3-[(6'-methylsulfanyl)hexyl]malate
+CPDQT-4	&beta;-L-galactose 1-phosphate
+CPDQT-40	3-[(7'-methylsulfanyl)heptyl]malate
+CPDQT-41	10-(methylsulfanyl)-2-oxodecanoate
+CR+3	Cr<sup>3+</sup>
+CREATINE	creatine
+CREATINE-P	<i>N</i><sup>&omega;</sup>-phosphocreatine
+CROTONOBETAINYL-COA	crotonobetainyl-CoA
+CROTONYL-COA	crotonyl-CoA
+CTP	CTP
+CU+	Cu<SUP>+</SUP>
+CU+2	Cu<SUP>2+</SUP>
+CUSO4	copper sulfate
+CYANURIC-ACID	cyanuric acid
+CYCLOHEXANOL	cyclohexanol
+CYCLOHEXANONE	cyclohexanone
+CYCLOPENTANOL	cyclopentanol
+CYCLOPENTANONE	cyclopentanone
+CYS	L-cysteine
+CYS-GLY	L-cysteinylglycine
+CYSTAMINE	cystamine
+CYSTINE	L-cystine
+CYTIDINE	cytidine
+CYTOSINE	cytosine
+CoM	coenzyme M
+D-6-P-GLUCONO-DELTA-LACTONE	6-phospho D-glucono-1,5-lactone
+D-ALA-D-ALA	D-alanyl-D-alanine
+D-ALANINE	D-alanine
+D-ALLOSE-6-PHOSPHATE	<i>aldehydo</i>-D-allose 6-phosphate
+D-ALLULOSE-6-PHOSPHATE	D-allulose 6-phosphate
+D-ALTRONATE	D-altronate
+D-BETA-D-HEPTOSE-1-P	D-<i>glycero</i>-&beta;-D-<i>manno</i>-heptose 1-phosphate
+D-BETA-D-HEPTOSE-17-DIPHOSPHATE	D-<i>glycero</i>-&beta;-D-<i>manno</i>-heptose 1,7-bisphosphate
+D-CARNITINE	D-carnitine
+D-ERYTHRO-IMIDAZOLE-GLYCEROL-P	D-erythro-imidazole-glycerol-phosphate
+D-ERYTHRULOSE	D-erythrulose
+D-GALACTARATE	D-galactarate
+D-GALACTONATE	D-galactonate
+D-GALACTONO-1-4-LACTONE	D-galactono-1,4-lactone
+D-GLT	D-glutamate
+D-GLUCARATE	D-glucarate
+D-LACTATE	(<i>R</i>)-lactate
+D-LACTOYL-COA	(<i>R</i>)-lactoyl-CoA
+D-MANNONATE	D-mannonate
+D-METHYL-MALONYL-COA	(S)-methylmalonyl-CoA
+D-MYO-INOSITOL-1-MONOPHOSPHATE	1D-<i>myo</i>-inositol 1-monophosphate
+D-PROLINE	D-proline
+D-RIBULOSE	D-ribulose
+D-RIBULOSE-1-P	D-ribulose 1-phosphate
+D-SERINE	D-serine
+D-SORBITOL-6-P	D-sorbitol 6-phosphate
+D-TAGATURONATE	D-tagaturonate
+D-TARTRATE	D-tartrate
+D-THREONINE	D-threonine
+D-XYLONATE	D-xylonate
+D-XYLULOSE	D-xylulose
+D-aspartate-peptidoglycan	<i>ditrans,octacis</i>-undecaprenyldiphospho-<i>N</i>-acetyl-(<i>N</i>-acetylglucosaminyl)muramoyl-L-alanyl-&gamma;-D-glutamyl-N-(&beta;-D-asparatyl)-L-lysyl-D-alanyl-D-alanine
+DADP	dADP
+DAIDZEIN	daidzein
+DAMP	dAMP
+DATP	dATP
+DCDP	dCDP
+DCMP	dCMP
+DCTP	dCTP
+DEACETOXYCEPHALOSPORIN-C	deacetoxycephalosporin C
+DEACETYLCEPHALOSPORIN-C	deacetylcephalosporin C
+DEAMIDO-NAD	nicotinate adenine dinucleotide
+DEHYDRO-3-DEOXY-L-RHAMNONATE	2-dehydro-3-deoxy-L-rhamnonate
+DEHYDRO-DEOXY-GALACTONATE-PHOSPHATE	2-dehydro-3-deoxy-D-galactonate 6-phosphate
+DEHYDROQUINATE	3-dehydroquinate
+DELTA-TOCOPHEROL	&delta;-tocopherol
+DELTA1-PIPERIDEINE-2-6-DICARBOXYLATE	(<i>S</i>)-2,3,4,5-tetrahydrodipicolinate
+DELTA1-PYRROLINE_2-CARBOXYLATE	1-pyrroline-2-carboxylate
+DELTA3-ISOPENTENYL-PP	isopentenyl diphosphate
+DEMETHYLMACROCIN	demethylmacrocin
+DEOXY-D-RIBOSE-1-PHOSPHATE	2-deoxy-&alpha;-D-ribose 1-phosphate
+DEOXYADENOSINE	2'-deoxyadenosine
+DEOXYAMIDINOPROCLAVAMINATE	deoxyamidinoproclavaminate
+DEOXYCHOLATE	deoxycholate
+DEOXYCHOLYL-COA	deoxycholoyl-CoA
+DEOXYCYTIDINE	2'-deoxycytidine
+DEOXYGUANOSINE	2'-deoxyguanosine
+DEOXYINOSINE	2'-deoxyinosine
+DEOXYURIDINE	2'-deoxyuridine
+DEOXYXYLULOSE-5P	1-deoxy-D-xylulose 5-phosphate
+DEPHOSPHO-COA	3'-dephospho-CoA
+DESMOSTEROL-CPD	desmosterol
+DGDP	dGDP
+DGMP	dGMP
+DGTP	dGTP
+DI-H-OROTATE	(<i>S</i>)-dihydroorotate
+DI-H-URACIL	5,6-dihydrouracil
+DIACETYL	diacetyl
+DIACETYLCHITOBIOSE-6-PHOSPHATE	<I>N,N'</i>-diacetylchitobiose 6'-phosphate
+DIAMINO-OH-PHOSPHORIBOSYLAMINO-PYR	2,5-diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one
+DICHLOROETHENE	<i>cis</i>-1,2-dichloroethene
+DICOUMAROL	dicoumarol
+DIETHYLDITHIOCARBAMATE	diethyldithiocarbamate
+DIETHYLPYROCARBONATE	diethylpyrocarbonate
+DIHYDRO-DIOH-BENZOATE	(2<i>S</i>,3<i>S</i>)-2,3-dihydroxy-2,3-dihydrobenzoate
+DIHYDRO-NEO-PTERIN	7,8-dihydroneopterin
+DIHYDRO-THYMINE	5,6-dihydrothymine
+DIHYDROCHELIRUBINE	dihydrochelirubine
+DIHYDROCLAVAMINATE	dihydroclavaminate
+DIHYDROFOLATE	7,8-dihydrofolate monoglutamate
+DIHYDRONEOPTERIN-P	7,8-dihydroneopterin 3'-phosphate
+DIHYDRONEOPTERIN-P3	7,8-dihydroneopterin 3'-triphosphate
+DIHYDROPTERIN-CH2OH-PP	(7,8-dihydropterin-6-yl)methyl diphosphate
+DIHYDROSANGUINARINE	dihydrosanguinarine
+DIHYDROXY-ACETONE-PHOSPHATE	glycerone phosphate
+DIHYDROXY-BUTANONE-P	1-deoxy-L-glycero-tetrulose 4-phosphate
+DIHYDROXYACETONE	dihydroxyacetone
+DIHYDROXYNAPHTHOATE	1,4-dihydroxy-2-naphthoate
+DIHYDROXYPENTANEDIONE	autoinducer 2
+DIHYDROXYPHENYLGLYCOLALDEHYDE	3,4-dihydroxyphenylglycolaldehyde
+DIISOPROPYL-FLUOROPHOSPHATE	diisopropyl fluorophosphate
+DIISOPROPYL-PHOSPHATE	diisopropyl phosphate
+DIMETHYL-GLYCINE	<i>N,N</i>-dimethylglycine
+DIMETHYLAMINE	dimethylamine
+DIMETHYLARSINATE	cacodylate
+DIMETHYLBENZIMIDAZOLE	5,6-dimethylbenzimidazole
+DITHIO-NITROBENZOATE	5,5'-dithio-bis-2-nitrobenzoate
+DITHIOTHREITOL	L-dithiothreitol
+DIUMYCIN	diumycin
+DIVINYL-PROTOCHLOROPHYLLIDE-A	3,8-divinyl protochlorophyllide <i>a</i>
+DIVINYLCHLOROPHYLLIDE-A	3,8-divinyl chlorophyllide <i>a</i>
+DMPBQ	2,3-dimethyl-6-phytyl-1,4-benzoquinol
+DOCOSANOATE	behenate
+DODECANOATE	laurate
+DPG	3-phospho-D-glyceroyl-phosphate
+DTDP-D-FUCOSE	dTDP-&alpha;-D-fucopyranose
+DTDP-D-GLUCOSE	dTDP-&alpha;-D-glucose
+DTDP-DEOH-DEOXY-GLUCOSE	dTDP-4-dehydro-6-deoxy-&alpha;-D-glucopyranose
+DTDP-DEOH-DEOXY-MANNOSE	dTDP-4-dehydro-&beta;-L-rhamnose
+DTDP-RHAMNOSE	dTDP-&beta;-L-rhamnose
+DUMP	dUMP
+DUTP	dUTP
+ECTOINE	ectoine
+EDTA	EDTA
+EGTA	EGTA
+ENTEROBACTIN	enterobactin
+EPOXYSQUALENE	(3<i>S</i>)-2,3-epoxy-2,3-dihydrosqualene
+ERYTHRITOL	erythritol
+ERYTHRONATE-4P	4-phospho-D-erythronate
+ERYTHROSE-4P	D-erythrose 4-phosphate
+ERYTHRULOSE	L-erythrulose
+ETHANOL-AMINE	ethanolamine
+ETHYL-2-METHYLACETOACETATE	ethyl-2-methylacetoacetate
+ETHYL-2R-METHYL-3S-HYDROXYBUTANOATE	ethyl-(2R)-methyl-(3S)-hydroxybutanoate
+ETHYLACETATE	ethyl acetate
+ETHYLENE-CMPD	ethene
+ETOH	ethanol
+Elemental-Sulfur	S<sup>0</sup>
+F-	fluoride
+FAD	FAD
+FADH2	FADH<SUB>2</SUB>
+FARNESYL-PP	(2<i>E</i>,6<i>E</i>)-farnesyl diphosphate
+FE+2	Fe<SUP>2+</SUP>
+FE+3	Fe<SUP>3+</SUP>
+FERRIC-ENTEROBACTIN-COMPLEX	ferric-enterobactin complex
+FERULIC-ACID	ferulate
+FERULOYL-COA	<i>trans</i>-feruloyl-CoA
+FMN	FMN
+FMNH2	FMNH<SUB>2</SUB>
+FORMALDEHYDE	formaldehyde
+FORMATE	formate
+FRU1P	&beta;-D-fructofuranose 1-phosphate
+FRUCTOSE-16-DIPHOSPHATE	&beta;-D-fructose 1,6-bisphosphate
+FRUCTOSE-6P	&beta;-D-fructofuranose 6-phosphate
+FRUCTOSELYSINE	N<sup>6</sup>-(D-fructosyl)-L-lysine
+FRUCTOSELYSINE-6-PHOSPHATE	N<sup>6</sup>-(6-phospho-D-fructosyl)-L-lysine
+FUCULOSE-1P	L-fuculose 1-phosphate
+FUM	fumarate
+G3P	3-phospho-D-glycerate
+GALACTITOL	galactitol
+GALACTOSE	&beta;-D-galactopyranose
+GALACTOSE-1P	&alpha;-D-galactose 1-phosphate
+GAMA-TOCOPHEROL	&gamma;-tocopherol
+GAMMA-BUTYROBETAINE	&gamma;-butyrobetaine
+GAMMA-BUTYROBETAINYL-COA	&gamma;-butyrobetainyl-CoA
+GAMMA-GLUTAMYL-GAMMA-AMINOBUTYRALDEH	4-(&gamma;-L-glutamylamino)butanal
+GAMMA-GLUTAMYL-PUTRESCINE	&gamma;-glutamyl-L-putrescine
+GAMMA-PENTACHLOROCYCLOHEXANE	&gamma;-pentachlorocyclohexene
+GAP	D-glyceraldehyde 3-phosphate
+GDP	GDP
+GDP-4-DEHYDRO-6-DEOXY-D-MANNOSE	GDP-4-dehydro-&alpha;-D-rhamnose
+GDP-D-GLUCOSE	GDP-&alpha;-D-glucose
+GDP-L-GALACTOSE	GDP-&beta;-L-galactose
+GDP-MANNOSE	GDP-&alpha;-D-mannose
+GDP-TP	pppGpp
+GERANIAL	geranial
+GERANYL-PP	geranyl diphosphate
+GERANYLGERANYL-PP	geranylgeranyl diphosphate
+GLC	&beta;-D-glucopyranose
+GLC-1-P	&alpha;-D-glucopyranose 1-phosphate
+GLC-6-P	&beta;-D-glucose 6-phosphate
+GLC-D-LACTONE	D-glucono-1,5-lactone
+GLN	L-glutamine
+GLOBOMYCIN	globomycin
+GLT	L-glutamate
+GLUCONATE	D-gluconate
+GLUCOSAMINATE	2-amino-2-deoxy-D-gluconate
+GLUCOSAMINE-1P	&alpha;-D-glucosamine 1-phosphate
+GLUTAMATE-1-SEMIALDEHYDE	(S)-4-amino-5-oxopentanoate
+GLUTARATE	glutarate
+GLUTARYL-COA	glutaryl-CoA
+GLUTATHIONE	glutathione
+GLY	glycine
+GLYCERALD	D-glyceraldehyde
+GLYCERATE	(<i>R</i>)-glycerate
+GLYCEROL	glycerol
+GLYCEROL-3P	<i>sn</i>-glycerol 3-phosphate
+GLYCEROPHOSPHOGLYCEROL	glycerophosphoglycerol
+GLYCOL	ethylene glycol
+GLYCOLALDEHYDE	glycolaldehyde
+GLYCOLLATE	glycolate
+GLYOX	glyoxylate
+GMP	GMP
+GTP	GTP
+GUANIDOACETIC_ACID	guanidinoacetate
+GUANINE	guanine
+GUANOSINE	guanosine
+GUANOSINE-5DP-3DP	ppGpp
+HCN	hydrogen cyanide
+HCO3	hydrogencarbonate
+HEPTADECANE-CPD	heptadecane
+HEPTOSYL-KDO2-LIPID-IVA	heptosyl-Kdo<sub>2</sub>-lipid IV<sub>A</sub>
+HEXANAL	1-hexanal
+HEXANOATE	hexanoate
+HEXANOL-CMPD	1-hexanol
+HEXANOYL-COA	hexanoyl-CoA
+HG+2	Hg<SUP>2+</SUP>
+HIS	L-histidine
+HISTAMINE	histamine
+HISTIDINOL	histidinol
+HMP	4-amino-2-methyl-5-pyrimidinemethanol
+HOMO-CIT	(2<i>R</i>)-homocitrate
+HOMO-CYS	L-homocysteine
+HOMO-I-CIT	(1<i>R</i>,2<i>S</i>)-homoisocitrate
+HOMO-SER	L-homoserine
+HOMOARGININE	L-homoarginine
+HOMOCYSTINE	L,L-homocystine
+HOMOGENTISATE	homogentisate
+HOMOMETHIONINE	L-homomethionine
+HOP-2229-ENE	hop-22(29)-ene
+HOPAN-22-OL	hopan-22-ol
+HS	hydrogen sulfide
+HSCN	thiocyanate
+HX	HX
+HYDRAZINE	hydrazine
+HYDROGEN-PEROXIDE	hydrogen peroxide
+HYDROQUINONE	hydroquinone
+HYDROXY-METHYL-BUTENYL-DIP	(<i>E</i>)-4-hydroxy-3-methylbut-2-en-1-yl diphosphate
+HYDROXY-UREA	hydroxyurea
+HYDROXYAMINOBENZENE	<i>N</i>-phenylhydroxylamine
+HYDROXYATRAZINE	hydroxyatrazine
+HYDROXYBENZOQUINONE	2-hydroxy-1,4-benzoquinone
+HYDROXYLAMINE	hydroxylamine
+HYDROXYMALONATE	2-hydroxymalonate
+HYDROXYMETHYLBILANE	preuroporphyrinogen
+HYDROXYMUCONATE-SALD	(2Z,4E)-2-hydroxy-6-oxohexa-2,4-dienoate
+HYDROXYNAPHTHOQUINONE	juglone
+HYDROXYPROPANAL	3-hydroxypropanal
+HYDRPHENYLAC-CPD	(4-hydroxyphenyl)acetaldehyde
+HYGROMYCIN-B	hygromycin-B
+HYPOTAURINE	hypotaurine
+HYPOXANTHINE	hypoxanthine
+IDP	IDP
+ILE	L-isoleucine
+IMIDAZOLE-ACETOL-P	imidazole acetol-phosphate
+IMINOASPARTATE	2-iminosuccinate
+IMP	IMP
+INDOLE	indole
+INDOLE-3-ACETYL-ALA	(indol-3-yl)acetyl-L-alanine
+INDOLE-3-GLYCEROL-P	(1<i>S</i>,2<i>R</i>)-1-C-(indol-3-yl)glycerol 3-phosphate
+INDOLE_ACETALDEHYDE	(indol-3-yl)acetaldehyde
+INDOLE_ACETATE_AUXIN	(indol-3-yl)acetate
+INDOLE_PYRUVATE	(indol-3-yl)pyruvate
+INDOXYL	indoxyl
+INOSINE	inosine
+INOSITOL-1456-TETRAKISPHOSPHATE	D-<i>myo</i>-inositol (1,4,5,6)-tetrakisphosphate
+IODOACETAMIDE	iodoacetamide
+IODOACETATE	iodoacetate
+IPRONIAZID	iproniazid
+ISO-PROPANOL	propan-2-ol
+ISOBUTANOL	isobutanol
+ISOBUTYRATE	isobutanoate
+ISOBUTYRYL-COA	isobutanoyl-CoA
+ISOCHORISMATE	isochorismate
+ISONIAZIDE	isoniazid
+ISONOCARDICIN-A	isonocardicin A
+ISOPENICILLIN-N	isopenicillin N
+ISOPHENOXAZINE	isophenoxazine
+ISOPROPYLAMINE	isopropylamine
+ISOVALERATE	isovalerate
+ISOVALERYL-COA	isovaleryl-CoA
+ITACONATE	itaconate
+ITP	ITP
+K+	K<SUP>+</SUP>
+K-HEXANOYL-COA	3-oxohexanoyl-CoA
+KDO	3-deoxy-&alpha;-D-<i>manno</i>-2-octulosonate
+KDO-LIPID-IVA	&alpha;-Kdo-(2&rarr;6)-lipid IV<sub>A</sub>
+KDO2-LAUROYL-LIPID-IVA	&alpha;-Kdo-(2->4)-&alpha;-Kdo-(2->6)-(lauroyl)-lipid IV<SUB>A</SUB>
+KDO2-LIPID-A	&alpha;-D-Kdo-(2&rarr;4)-&alpha;-D-Kdo-(2&rarr;6)-lipid A
+KDO2-LIPID-IVA	&alpha;-Kdo-(2->4)-&alpha;-Kdo-(2->6)-lipid IV<SUB>A</SUB>
+KDO2-LIPID-IVA-COLD	(Kdo)<SUB>2</SUB>-lipid A, cold adapted
+KDO2-PALMITOLEOYL-LIPID-IVA	Kdo<SUB>2</SUB>-(palmitoleoyl)-lipid IV<SUB>A</SUB>
+KOJIC-ACID	kojic acid
+KYNURENATE	kynurenate
+L-1-GLYCEROPHOSPHORYLETHANOL-AMINE	<i>sn</i>-glycero-3-phosphoethanolamine
+L-23-DIAMINOPROPANOATE	L-2,3-diaminopropanoate
+L-ALA-GAMMA-D-GLU-DAP	L-alanyl-&gamma;-D-glutamyl-<i>meso</i>-diaminopimelate
+L-ALPHA-ALANINE	L-alanine
+L-ARA4N-MODIFIED-KDO2-LIPID-A	4'-&alpha;-L-Ara4<i>N</i>-&alpha;-Kdo-(2&rarr;4)-&alpha;-Kdo-(2&rarr;6)-[P4'-&alpha;-L-ara4<i>N</i>]-lipid A
+L-ARABITOL	L-arabinitol
+L-ARGININE-P	<i>N</i><sup>&omega;</sup>-phospho-L-arginine
+L-ARGININO-SUCCINATE	L-arginino-succinate
+L-ASPARTATE	L-aspartate
+L-ASPARTATE-SEMIALDEHYDE	L-aspartate 4-semialdehyde
+L-BETA-ASPARTYL-P	L-aspartyl-4-phosphate
+L-CARNITINYL-COA	L-carnitinyl-CoA
+L-CITRULLINE	L-citrulline
+L-CYSTATHIONINE	L-cystathionine
+L-CYSTEATE	L-cysteate
+L-DELTA1-PYRROLINE_5-CARBOXYLATE	(<i>S</i>)-1-pyrroline-5-carboxylate
+L-DI-GMP	5'-phosphoguanylyl(3'&rarr;5')guanosine
+L-DIHYDROXY-PHENYLALANINE	L-dopa
+L-FUCULOSE	L-fuculose
+L-GAMMA-GLUTAMYLCYSTEINE	&gamma;-L-glutamyl-L-cysteine
+L-GLUTAMATE_GAMMA-SEMIALDEHYDE	L-glutamate-5-semialdehyde
+L-GLYCERALDEHYDE-3-PHOSPHATE	L-glyceraldehyde 3-phosphate
+L-GULONATE	L-gulonate
+L-GULONO-1-4-LACTONE	L-gulono-1,4-lactone
+L-HISTIDINOL-P	L-histidinol phosphate
+L-IDONATE	L-idonate
+L-LACTATE	(<i>S</i>)-lactate
+L-N2-2-CARBOXYETHYLARGININE	L-N<SUP>2</SUP>-(2-carboxyethyl)arginine
+L-ORNITHINE	L-ornithine
+L-PANTOATE	(R)-pantoate
+L-PHOSPHINOTHRICIN	L-phosphinothricin
+L-PIPECOLATE	L-pipecolate
+L-RHAMNONATE	L-rhamnonate
+L-RHAMNONO-14-LACTONE	L-rhamnono-1,4-lactone
+L-RIBULOSE-5-P	L-ribulose 5-phosphate
+L-SELENOCYSTEINE	L-selenocysteine
+L-SORBOSONE	L-sorbosone
+L-THREO-3-METHYL-ASPARTATE	(2S, 3S)-3-methylaspartate
+L-THREONATE	L-threonate
+L-THREONINE-O-3-PHOSPHATE	L-threonine 3-O-phosphate
+L-THYROXINE	L-thyroxine
+L-XYLULOSE	L-xylulose
+L-XYLULOSE-5-P	L-xylulose 5-phosphate
+LACTALD	(<i>S</i>)-lactaldehyde
+LACTOYL-COA	(<i>S</i>)-lactoyl-CoA
+LANOSTEROL	lanosterol
+LAUROYLCOA-CPD	lauroyl-CoA
+LEU	L-leucine
+LI+	Li<sup>+</sup>
+LINOLEIC_ACID	linoleate
+LINOLENIC_ACID	&alpha;-linolenate
+LIOTHYRONINE	3,5,3'-triiodo-L-thyronine
+LIPID-IV-A	lipid IV<sub>A</sub>
+LIPOIC-ACID	(<i>R</i>)-lipoate
+LIPOL-AMP	lipol-AMP
+LIPOYL-AMP	(lipoyl)adenylate
+LL-DIAMINOPIMELATE	L,L-diaminopimelate
+LYS	L-lysine
+MAL	(<i>S</i>)-malate
+MALEAMATE	maleamate
+MALEATE	maleate
+MALONATE	malonate
+MALONATE-S-ALD	3-oxopropanoate
+MALONYL-COA	malonyl-CoA
+MALTOHEXAOSE	maltohexaose
+MALTOPENTAOSE	maltopentaose
+MALTOTETRAOSE	maltotetraose
+MALTOTRIOSE	maltotriose
+MANNITOL	D-mannitol
+MANNITOL-1P	D-mannitol 1-phosphate
+MANNOSE-1P	&alpha;-D-mannose 1-phosphate
+MELIBIOSE	melibiose
+MENADIOL	menadiol
+MESACONATE	mesaconate
+MESO-DIAMINOPIMELATE	<i>meso</i>-diaminopimelate
+MESO-TARTRATE	<i>meso</i>-tartrate
+MET	L-methionine
+META-XYLENE	1,3-dimethylbenzene
+METHYL-ACETATE	methyl acetate
+METHYL-BETA-D-GALACTOSIDE	methyl-&beta;-D-galactoside
+METHYL-GLYOXAL	methylglyoxal
+METHYL-MALONYL-COA	(R)-methylmalonyl-CoA
+METHYLAMINE	methylamine
+METHYLARSONATE	methylarsonate
+METHYLARSONITE	methylarsonite
+METHYLENETETRAHYDROMETHANOPTERIN	5,10-methylene-tetrahydromethanopterin
+METOH	methanol
+MEVALONATE	(<i>R</i>)-mevalonate
+MEVALONATE-DP	(<i>R</i>)-3,5-bisphosphomevalonate
+MG+2	Mg<SUP>2+</SUP>
+MG-PROTOPORPHYRIN	Mg-protoporphyrin
+MG-PROTOPORPHYRIN-MONOMETHYL-ESTER	magnesium-protoporphyrin IX 13-monomethyl ester
+MN+2	Mn<SUP>2+</SUP>
+MN+3	Mn<sup>+3</sup>
+MOENOMYCIN	moenomycin
+MONO-VINYL-PROTOCHLOROPHYLLIDE-A	protochlorophyllide <i>a</i>
+MONOMER0-4342	a [prolipoprotein]-<i>S</i>-1,2-diacyl-<i>sn</i>-glyceryl-L-cysteine
+MONOMETHYL-ESTER-OF-TRANS-ACONITATE	(E)-3-(methoxycarbonyl)pent-2-enedioate
+MPBQ	2-methyl-6-phytyl-1,4-benzoquinol
+MYO-INOSITOL	<I>myo</I>-inositol
+Me-CoM	methyl-CoM
+N-23-DIHYDROXYBENZOYL-L-SERINE	<i>N</i>-(2,3-dihydroxybenzoyl)-L-serine
+N-5-PHOSPHORIBOSYL-ANTHRANILATE	<i>N</i>-(5-phosphoribosyl)-anthranilate
+N-5S-5-AMINO-5-CARBOXYPENTANOYL-L-CY	<i>N</i>-[(5<i>S</i>)-5-amino-5-carboxypentanoyl]-L-cysteinyl-D-valine
+N-ACETYL-9-O-ACETYLNEURAMINATE	<i>N</i>-acetyl-9-<i>O</i>-acetylneuraminate
+N-ACETYL-D-GALACTOSAMINE-6-PHOSPHATE	<i>N</i>-acetyl-D-galactosamine 6-phosphate
+N-ACETYL-D-GLUCOSAMINE	<i>N</i>-acetyl-&beta;-D-glucosamine
+N-ACETYL-D-GLUCOSAMINE-1-P	<i>N</i>-acetyl-&alpha;-D-glucosamine 1-phosphate
+N-ACETYL-D-MANNOSAMINE-6P	<i>N</i>-acetyl-D-mannosamine 6-phosphate
+N-ACETYL-GLUTAMYL-P	<i>N</i>-acetylglutamyl-phosphate
+N-ACETYL-NEURAMINATE-9P	<i>N</i>-acetyl-&beta;-neuraminate 9-phosphate
+N-BROMOSUCCINIMIDE	N-bromosuccinimide
+N-ETHYLMALEIMIDE	<i>N</i>-ethylmaleimide
+N-FORMIMINO-L-GLUTAMATE	<i>N</i>-formimino-L-glutamate
+N-FORMYLKYNURENINE	<i>N</i>-Formyl-L-kynurenine
+N-METHYLTRYPTOPHAN	<I>N</I>-methyl-L-tryptophan
+N-QUINOLIN-8-YLMETHANESULFONAMI	<i>N</i>-(quinolin-8-yl)methanesulfonamide
+N-SUCCINYL-2-AMINO-6-KETOPIMELATE	<i>N</i>-succinyl-2-amino-6-ketopimelate
+N-SUCCINYLLL-2-6-DIAMINOPIMELATE	<i>N</i>-succinyl-L,L-2,6-diaminopimelate
+N2-SUCCINYLGLUTAMATE	N<SUP>2</SUP>-succinylglutamate
+N2-SUCCINYLORNITHINE	N<sup>2</sup>-succinyl-L-ornithine
+N5-METHYLGLUTAMINE	<i>N</i><sup>5</sup>-methyl-L-glutamine
+NA+	Na<SUP>+</SUP>
+NACL	sodium chloride
+NAD	NAD<sup>+</sup>
+NADH	NADH
+NADP	NADP<sup>+</sup>
+NADPH	NADPH
+NARINGENIN-7-O-BETA-D-GLUCOSIDE	prunin
+NARINGIN	naringin
+NEUROSPORENE	<i>all-trans</i> neurosporene
+NH42SO4	ammonium sulfate
+NI+2	Ni<SUP>2+</SUP>
+NIACINAMIDE	nicotinamide
+NIACINE	nicotinate
+NICOTINAMIDE_NUCLEOTIDE	&beta;-nicotinamide D-ribonucleotide
+NICOTINAMIDE_RIBOSE	1-(&beta;-D ribofuranosyl)nicotinamide
+NICOTINATE_NUCLEOTIDE	&beta;-nicotinate D-ribonucleotide
+NICOTINE	(<i>S</i>)-nicotine
+NITRATE	nitrate
+NITRIC-OXIDE	nitric oxide
+NITRITE	nitrite
+NITROGEN-MOLECULE	N<sub>2</sub>
+NITROUS-OXIDE	nitrous oxide
+NOCARDICIN-A	nocardicin A
+NOCARDICIN-E	nocardicin E
+NONAPRENYL-4-HYDROXYBENZOATE	3-nonaprenyl-4-hydroxybenzoate
+NORSPERMIDINE	norspermidine
+NaF	NaF
+O-PHENANTHROLINE	<i>o</i>-phenanthroline
+O-PHOSPHO-L-HOMOSERINE	O-phospho-L-homoserine
+O-SUCCINYL-L-HOMOSERINE	O-succinyl-L-homoserine
+O-SUCCINYLBENZOATE	2-succinylbenzoate
+OCTANOL	1-octanol
+OCTAPRENYL-DIPHOSPHATE	all-<i>trans</i>-octaprenyl diphosphate
+OCTAPRENYL-METHOXY-BENZOQUINONE	2-methoxy-6-<i>all trans</i>-octaprenyl-1,4-benzoquinol
+OCTAPRENYL-METHYL-METHOXY-BENZQ	6-methoxy-3-methyl-2-<i>all-trans</i>-octaprenyl-1,4-benzoquinol
+OCTAPRENYL-METHYL-OH-METHOXY-BENZQ	3-demethylubiquinol-<i>8</i>
+OH	OH<SUP>-</SUP>
+OH-MYRISTOYL	UDP-2-N,3-O-bis[(3R)-3-hydroxytetradecanoyl]-&alpha;-D-glucosamine
+OH-PYR	hydroxypyruvate
+OLEANDOMYCIN	oleandomycin
+OLEATE-CPD	oleate
+OLEOYL-COA	oleoyl-CoA
+OROTATE	orotate
+OROTIDINE-5-PHOSPHATE	orotidine 5'-phosphate
+OX-COENZYME-F420	oxidized coenzyme F<sub>420</sub>-2
+OXALACETIC_ACID	oxaloacetate
+OXALATE	oxalate
+OXAMATE	oxamate
+OXIDIZED-GLUTATHIONE	glutathione disulfide
+OXYGEN-MOLECULE	oxygen
+P-AMINO-BENZOATE	4-aminobenzoate
+P-BENZOQUINONE	1,4-benzoquinone
+P-COUMAROYL-COA	(<i>E</i>)-4-coumaroyl-CoA
+P-HYDROXY-PHENYLPYRUVATE	3-(4-hydroxyphenyl)pyruvate
+P-NITROPHENOL	4-nitrophenol
+P-RIBOSYL-4-SUCCCARB-AMINOIMIDAZOLE	5'-phosphoribosyl-4-(N-succinocarboxamide)-5-aminoimidazole
+P3I	triphosphate
+PALMITALDEHYDE	palmitaldehyde
+PALMITATE	palmitate
+PALMITYL-COA	palmitoyl-CoA
+PANTETHEINE-P	4'-phosphopantetheine
+PANTOTHENATE	(<i>R</i>)-pantothenate
+PAPS	3'-phosphoadenylyl-sulfate
+PB+2	Pb<sup>2+</sup>
+PENICILLIN-G	penicillin G
+PENICILLIN-N	penicillin N
+PENTANOYLCOA-CPD	pentanoyl-CoA
+PHE	L-phenylalanine
+PHENOL	phenol
+PHENYL-PYRUVATE	3-phenyl-2-oxopropanoate
+PHENYLACETALDEHYDE	phenylacetaldehyde
+PHENYLACETALDOXIME	(<i>Z</i>)-phenylacetaldehyde oxime
+PHENYLACETATE	phenylacetate
+PHENYLACETONITRILE	phenylacetonitrile
+PHENYLGLYOXAL	phenylglyoxal
+PHENYLGLYOXYLATE	phenylglyoxylate
+PHENYLHYDRAZINE	phenylhydrazine
+PHMB	p-hydroxymercuribenzoate
+PHOSPHATIDYLETHANOLAMINE-KDO2	7-O-[2-aminoethoxy(hydroxy)phosphoryl]-&alpha;-D-Kdo-(2&rarr;4)-&alpha;-D-Kdo-(2&rarr;6)-lipid IV<sub>A</sub>
+PHOSPHO-ENOL-PYRUVATE	phospho<i>enol</i>pyruvate
+PHOSPHORIBOSYL-AMP	1-(5-phospho-&beta;-D-ribosyl)-AMP
+PHOSPHORIBOSYL-ATP	1-(5-phospho-&beta;-D-ribosyl)-ATP
+PHOSPHORIBOSYL-CARBOXY-AMINOIMIDAZOLE	5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate
+PHOSPHORIBOSYL-FORMAMIDO-CARBOXAMIDE	5-formamido-1-(5-phospho-D-ribosyl)-imidazole-4-carboxamide
+PHOSPHORIBOSYL-FORMIMINO-AICAR-P	1-(5-phospho-&beta;-D-ribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide
+PHOSPHORIBULOSYL-FORMIMINO-AICAR-P	phosphoribulosylformimino-AICAR-phosphate
+PHOSPHORYL-CHOLINE	phosphocholine
+PHOSPHORYL-ETHANOLAMINE	<i>O</i>-phosphoethanolamine
+PHTHALATE	phthalate
+PHYTANATE	phytanate
+PHYTYL-PYROPHOSPHATE	phytyl diphosphate
+PICOLINATE	picolinate
+PORPHOBILINOGEN	porphobilinogen
+PPI	diphosphate
+PQQ	pyrroloquinoline quinone
+PRECURSOR-Z	cyclic pyranopterin phosphate
+PREGNENOLONE	pregnenolone
+PREPHENATE	prephenate
+PRO	L-proline
+PROCLAVAMINATE	proclavaminate
+PROGESTERONE	progesterone
+PROPANE-1-2-DIOL	(<i>S</i>)-propane-1,2-diol
+PROPANOL	propan-1-ol
+PROPIONATE	propanoate
+PROPIONYL-COA	propanoyl-CoA
+PROPIONYL-P	propanoyl phosphate
+PROTAMINE	protamine
+PROTOHEME	protoheme
+PROTON	H<SUP>+</SUP>
+PROTOPORPHYRINOGEN	protoporphyrinogen IX
+PROTOPORPHYRIN_IX	protoporphyrin IX
+PRPP	5-phospho-&alpha;-D-ribose 1-diphosphate
+PSEUDOURIDINE-5-P	pseudouridine 5'-phosphate
+PSICOSELYSINE	N<sup>6</sup>-(D-psicosyl)-L-lysine
+PUTRESCINE	putrescine
+PYRAZINAMIDE	pyrazinamide
+PYRAZINOIC-ACID	pyrazine-2-carboxylate
+PYRIDINE	pyridine
+PYRIDOXAL	pyridoxal
+PYRIDOXAL_PHOSPHATE	pyridoxal 5'-phosphate
+PYRIDOXINE	pyridoxine
+PYRUVATE	pyruvate
+Pi	phosphate
+QUINATE	L-quinate
+QUININE	quinine
+QUINOLINATE	quinolinate
+R-1-AMINOPROPAN-2-YL-PHOSPHATE	(<i>R</i>)-1-amino-2-propanol <i>O</i>-2-phosphate
+RB+	Rb<SUP>+</SUP>
+REDUCED-MENAQUINONE	menaquinol-<i>8</i>
+RETINAL	<i>all-trans</i>-retinal
+RETINOATE	<i>all-trans</i>-retinoate
+RHAMNULOSE-1P	L-rhamnulose 1-phosphate
+RIBITOL	ribitol
+RIBOFLAVIN	riboflavin
+RIBOSE-15-BISPHOSPHATE	&alpha;-D-ribose 1,5-bisphosphate
+RIBOSE-1P	&alpha;-D-ribose-1-phosphate
+RIBULOSE-5P	D-ribulose 5-phosphate
+RIFAMYCIN-O	rifamycin O
+RUTIN	rutin
+RX	RX
+S-2-AMINOETHYL-L-CYSTEINE	<i>S</i>-(2-aminoethyl)-L-cysteine
+S-24-DINITROPHENYLGLUTATHIONE	2,4-dinitrophenyl-S-glutathione
+S-3-HYDROXYBUTANOYL-COA	(<i>S</i>)-3-hydroxybutanoyl-CoA
+S-ADENOSYLMETHIONINAMINE	<i>S</i>-adenosyl 3-(methylsulfanyl)propylamine
+S-ADENOSYLMETHIONINE	<i>S</i>-adenosyl-L-methionine
+S-ALLANTOIN	(<i>S</i>)-(+)-allantoin
+S-LACTOYL-GLUTATHIONE	(<i>R</i>)-<i>S</i>-lactoylglutathione
+S-METHYLGLUTATHIONE	<i>S</i>-methylglutathione
+S-TUBERCIDINYLHOMOCYSTEINE	S-tubercidinylhomocysteine
+S2O3	thiosulfate
+S2O4	dithionite
+SALICYLALDEHYDE	salicylaldehyde
+SANGUINARINE	sanguinarine
+SARCOSINE	sarcosine
+SEPO3	selenophosphate
+SER	L-serine
+SHIKIMATE	shikimate
+SHIKIMATE-5P	shikimate 3-phosphate
+SINAPALDEHYDE	sinapaldehyde
+SINAPATE	sinapate
+SINAPOYL-COA	sinapoyl-CoA
+SINAPYL-ALCOHOL	sinapyl alcohol
+SINEFUNGIN	sinefungin
+SIROHEME	siroheme
+SIROHYDROCHLORIN	sirohydrochlorin
+SN-GERANYLGERANYLGLYCERYL-1-PHOSPHATE	3-(<i>O</i>-geranylgeranyl)-<i>sn</i>-glycerol 1-phosphate
+SN-GLYCEROL-1-PHOSPHATE	<i>sn</i>-glycerol 1-phosphate
+SO3	sulfite
+SORBITOL	D-sorbitol
+SPERMIDINE	spermidine
+SPERMINE	spermine
+SQUALENE	squalene
+SS-DIMETHYL-BETA-PROPIOTHETIN	dimethylsulfoniopropanoate
+STAUROSPORINE	staurosporine
+STEARIC_ACID	stearate
+STEAROYL-COA	stearoyl-CoA
+STREPTIDINE-6-PHOSPHATE	streptidine 6-phosphate
+STREPTOMYCIN	streptomycin
+SUC	succinate
+SUC-COA	succinyl-CoA
+SUCC-S-ALD	succinate semialdehyde
+SUCROSE	sucrose
+SUCROSE-6P	sucrose 6<sup>F</sup>-phosphate
+SULFATE	sulfate
+SULFO-CYSTEINE	<i>S</i>-sulfo-L-cysteine
+SULFOACETALDEHYDE	sulfoacetaldehyde
+SULFUR-DIOXIDE	sulfur dioxide
+SUPER-OXIDE	superoxide
+T2-C4-DECADIENYL-COA	trans-&Delta;<SUP>2</SUP>, cis-&Delta;<SUP>4</SUP>-decadienoyl-CoA
+T2-DECENOYL-COA	(2E)-dec-2-enoyl-CoA
+TAGATOSE	<i>keto</i>-D-tagatose
+TAGATOSE-1-6-DIPHOSPHATE	D-tagatofuranose 1,6-bisphosphate
+TAGATOSE-6-PHOSPHATE	D-tagatofuranose 6-phosphate
+TARTRATE	L-tartrate
+TARTRONATE-S-ALD	tartronate semialdehyde
+TAURINE	taurine
+TDP	dTDP
+TDP-D-FUCOSAMINE	dTDP-4-amino-4,6-dideoxy-&alpha;-D-galactose
+TDP-FUC4NAC	dTDP-4-acetamido-4,6-dideoxy-&alpha;-D-galactose
+TEREPHTHALATE	terephthalate
+TESTOSTERONE	testosterone
+TETRACHLOROETHENE	tetrachloroethene
+TETRAHYD-CPD	1,3,6,8-naphthalenetetrol
+THF	5,6,7,8-tetrahydrofolate
+THIABENDAZOLE	thiabendazole
+THIAMINE	thiamine
+THIAMINE-P	thiamine phosphate
+THIAMINE-PYROPHOSPHATE	thiamine diphosphate
+THR	L-threonine
+THREO-3-HYDROXY-L-ASPARTATE	(3<i>S</i>)-3-hydroxy-L-aspartate
+THREO-DS-ISO-CITRATE	D-<i>threo</i>-isocitrate
+THYMIDINE	thymidine
+THYMINE	thymine
+THZ	5-(2-hydroxyethyl)-4-methylthiazole
+THZ-P	4-methyl-5-(2-phosphooxyethyl)thiazole
+TIRON	tiron
+TMP	dTMP
+TOLUENE	toluene
+TOLUENECISDHDIOL	(1S,2R)-3-methylcyclohexa-3,5-diene-1,2-diol
+TRANS-2-CHLORO-4-CARBOXYMETHYLENEBUT-2-E	2-chloro-<i>trans</i>-dienelactone
+TRANS-2-HEXENAL	(E)-2-hexenal
+TRANS-2-HEXENOL	(E)-2-hexenol
+TRANS-23-DEHYDROADIPYL-COA	trans-2,3-dehydroadipyl-coA
+TRANS-3-METHYL-GLUTACONYL-COA	3-methylglutaconyl-CoA
+TREHALOSE	&alpha;,&alpha;-trehalose
+TREHALOSE-6P	&alpha;,&alpha;-trehalose 6-phosphate
+TRICHLOROETHENE	trichloroethene
+TRICHLOROPHENOL	2,4,6-trichlorophenol
+TRIMETHYLAMINE	trimethylamine
+TRIMETHYLAMINE-N-O	trimethylamine <i>N</i>-oxide
+TRP	L-tryptophan
+TTP	dTTP
+TUNGSTATE	tungstate
+TYR	L-tyrosine
+TYRAMINE	tyramine
+UDP	UDP
+UDP-4-AMINO-4-DEOXY-L-ARABINOSE	UDP-4-amino-4-deoxy-&beta;-L-arabinopyranose
+UDP-AA-GLUTAMATE	UDP-<i>N</i>-acetyl-&alpha;-D-muramoyl-L-alanyl-D-glutamate
+UDP-AAGM-DIAMINOHEPTANEDIOATE	UDP-<I>N</I>-acetyl-&alpha;-D-muramoyl-L-alanyl-&gamma;-D-glutamyl-<I>meso</I>-2,6-diaminopimelate
+UDP-ACETYL-CARBOXYVINYL-GLUCOSAMINE	UDP-<i>N</i>-acetyl-&alpha;-D-glucosamine-enolpyruvate
+UDP-D-GALACTO-14-FURANOSE	UDP-&alpha;-D-galactofuranose
+UDP-D-XYLOSE	UDP-&alpha;-D-xylose
+UDP-GLUCURONATE	UDP-&alpha;-D-glucuronate
+UDP-L-ARA4-FORMYL-N	UDP-4-deoxy-4-formamido-&beta;-L-arabinopyranose
+UDP-L-RHAMNOSE	UDP-&beta;-L-rhamnose
+UDP-MANNAC	UDP-<i>N</i>-acetyl-&alpha;-D-mannosamine
+UDP-MANNACA	UDP-<i>N</i>-acetyl-&alpha;-D-mannosaminuronate
+UDP-MURNAC-TETRAPEPTIDE	UDP-<i>N</i>-acetylmuramoyl-L-alanyl-&gamma;-D-glutamyl-<I>meso</I>-2,6-diaminopimeloyl-D-alanine
+UDP-N-ACETYL-2-AMINO-D-GLUCURONATE	UDP-<i>N</i>-acetyl-&alpha;-D-glucosaminouronate
+UDP-N-ACETYL-D-GLUCOSAMINE	UDP-<i>N</i>-acetyl-&alpha;-D-glucosamine
+UDP-N-ACETYLMURAMATE	UDP-<i>N</i>-acetyl-&alpha;-D-muramate
+UDP-N-ACETYLMURAMOYL-L-ALANYL-D-GLUTAMYL	UDP-<i>N</i>-acetyl-&alpha;-D-muramoyl-L-alanyl-&gamma;-D-glutamyl-N<sup>6</sup>-(L-alanyl)-L-lysyl-D-alanyl-D-alanine
+UDP-OHMYR-ACETYLGLUCOSAMINE	UDP-3-<i>O</i>-[(3<i>R</i>)-3-hydroxymyristoyl]-<i>N</i>-acetyl-&alpha;-D-glucosamine
+UDP-OHMYR-GLUCOSAMINE	UDP-3-<i>O</i>-(3-hydroxymyristoyl)-&alpha;-D-glucosamine
+UDP-SULFOQUINOVOSE	UDP-&alpha;-D-sulfoquinovopyranose
+UMP	UMP
+UNDECAPRENYL-DIPHOSPHATE	<i>di-trans,octa-cis</i>-undecaprenyl diphosphate
+URACIL	uracil
+URATE	urate
+UREA	urea
+URIDINE	uridine
+UROCANATE	urocanate
+UROPORPHYRINOGEN-III	uroporphyrinogen-III
+UTP	UTP
+VAL	L-valine
+VALERATE	pentanoate
+VALIDAMYCIN-A	validamycin A
+VANILLATE	vanillate
+VANILLIN	vanillin
+VANILLYL_MANDELATE	vanillyl mandelate
+WATER	H<sub>2</sub>O
+XANTHINE	xanthine
+XANTHOSINE	xanthosine
+XYLITOL	xylitol
+XYLOSE	&alpha;-D-xylopyranose
+XYLULOSE-5-PHOSPHATE	D-xylulose 5-phosphate
+ZN+2	Zn<SUP>2+</SUP>

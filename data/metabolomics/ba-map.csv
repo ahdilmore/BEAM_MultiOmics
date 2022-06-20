@@ -1,0 +1,33 @@
+﻿metabolomics_name,common_name ,abbreviation,kind,status
+"(R)-4-((3R,5S,7R,8R,9S,10S,12S,13R,14S,17R)-3,7,12-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid",cholic acid,CA,primary,unconjugated
+"(4R)-4-((3R,5R,7R,9S,10S,13R,14S,17R)-3,7-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid",allochenodeoxycholic acid,flat-CDCA,primary,unconjugated
+"(R)-4-((3R,5R,6R,8S,9S,10R,13R,14S,17R)-3,6-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid",murideoxycholic acid,MDCA,secondary,deconjugated
+"(4R)-4-((3R,5S,7S,9S,10S,12S,13R,14S,17R)-3,7,12-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid",ursocholic acid,UC,secondary,deconjugated
+"(4R)-4-((3R,5R,6S,7R,9S,10R,12S,13R,17R)-3,6,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid","3a,6b,7b,12a-Tetrahydroxy-5b-cholanoic acid",unknown,secondary,deconjugated
+"(4R)-4-((3R,5S,6R,7R,9S,10R,12S,13R,14S,17R)-3,6,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid","(3a,5a,6a,7b,12a)-3,6,7,12-Tetrahydroxycholan-24-oic acid",unknown,secondary,deconjugated
+"(4R)-4-((3S,5R,6S,7R,9S,10R,13R,14S,17R)-3,6,7-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid","(3b,5b,6b,7b)-3,6,7-Trihydroxycholan-24-oic acid",unknown,secondary,deconjugated
+"(4R)-4-((3S,5R,9S,10S,13R,14S,17R)-3-hydroxy-10,13-dimethyl-12-oxohexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid","(3b,5b)-3-Hydroxy-12-oxocholan-24-oic acid",unknown,secondary,deconjugated
+"(R)-4-((3R,5R,6R,7R,8R,9S,10R,12S,13R,14S,17R)-3,6,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid","(3a,5b,6a,7b,12a)-3,6,7,12-Tetrahydroxycholan-24-oic acid",unknown,secondary,deconjugated
+"(R)-4-((3R,5S,8R,9S,10S,12R,13R,14S,17R)-3,12-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid","(3a,5a,12b)-3,12-Dihydroxycholan-24-oic acid",unknown,secondary,deconjugated
+"(R)-4-((3R,5R,8R,9S,10S,12S,13R,14S,17R)-3,12-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pent-2-enoic acid","(3a,5b,12a,22E)-3,12-Dihydroxychol-22-en-24-oic acid",unknown,secondary,deconjugated
+"(R)-4-((3R,5S,6R,7R,8S,9S,10S,13R,14S,17R)-6-ethyl-3,7-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid",obeticholic aicd,OCA,secondary,deconjugated
+12-ketodeoxycholic acid,12-ketodeoxycholic acid,12-ketoDCA,secondary,deconjugated
+chenodeoxycholic acid,chenodeoxycholic acid,CDCA,primary,unconjugated
+cholic acid,cholic acid,CA,primary,unconjugated
+deoxycholic acid,deoxycholic acid,DCA,secondary,deconjugated
+glycocholic acid,glycocholic acid,GC,secondary,conjugated
+hyocholic acid,hyocholic acid,HC,primary,unconjugated
+hyodeoxycholic acid,hyodeoxycholic acid,HDCA,secondary,unconjugated
+leucine conjugated chenodeoxycholic acid,leucine conjugated chenodeoxycholic acid,leucine-CDCA,primary,conjugated
+lithocholic acid,lithocholic acid,LCA,secondary,conjugated
+taurocholic acid,taurocholic acid,TCA,primary,conjugated
+threonine conjugated chenodeoxycholic acid,threonine conjugated chenodeoxycholic acid,threonine-CDCA,primary,conjugated
+ursocholic acid,ursocholic acid,UC,secondary,conjugated
+ursodeoxycholic acid,ursodeoxycholic acid,UDCA,secondary,conjugated
+"(3r,5s,7r,8r,9s,10s,12s,13r,14s,17r)-17-((2r,5r)-5,7-dihydroxyheptan-2-yl)-10,13-dimethylhexadecahydro-1h-cyclopenta[a]phenanthrene-3,7,12-triol",unknown,unknown,unknown,unknown
+"(r)-4-((3s,5s,7r,8r,9s,10s,12s,13r,14s,17r)-3,7,12-trihydroxy-10,13-dimethylhexadecahydro-1h-cyclopenta[a]phenanthren-17-yl)pentanoic acid",unknown,unknown,unknown,unknown
+"(r)-4-((3s,5s,7r,8r,9s,10s,13r,14s,17r)-3,7-dihydroxy-10,13-dimethyl-12-oxohexadecahydro-1h-cyclopenta[a]phenanthren-17-yl)pentanoic acid",unknown,unknown,unknown,unknown
+"(r)-4-((3s,5s,7s,8r,9s,10s,12s,13r,14s,17r)-3,7,12-trihydroxy-10,13-dimethylhexadecahydro-1h-cyclopenta[a]phenanthren-17-yl)pentanoic acid",unknown,unknown,unknown,unknown
+"(r)-4-((3s,5s,8r,9s,10s,12s,13r,14s,17r)-3,12-dihydroxy-10,13-dimethylhexadecahydro-1h-cyclopenta[a]phenanthren-17-yl)pentanoic acid",unknown,unknown,unknown,unknown
+"(r)-4-((5r,8r,9s,10s,13r,14s,17r)-10,13-dimethyl-3-oxohexadecahydro-1h-cyclopenta[a]phenanthren-17-yl)pentanoic acid",unknown,unknown,unknown,unknown
+"(r)-4-((8s,9s,10r,13r,14s,17r)-10,13-dimethyl-3-oxo-2,3,8,9,10,11,12,13,14,15,16,17-dodecahydro-1h-cyclopenta[a]phenanthren-17-yl)pentanoic acid",unknown,unknown,unknown,unknown

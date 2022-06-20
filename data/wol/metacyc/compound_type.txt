@@ -1,0 +1,3656 @@
+1-AMINO-PROPAN-2-OL	Compounds
+1-CARBOXYVINYL-CARBOXYPHOSPHONATE	Organophosphonates
+1-CHLORO-24-DINITROBENZENE	C-nitro-compounds
+1-KESTOTRIOSE	Inulin
+1-KETO-2-METHYLVALERATE	Compounds
+1-L-MYO-INOSITOL-1-P	Myo-inositol-monophosphates
+1-PALMITOYLGLYCEROL-3-PHOSPHATE	LC-ACYL-SN-GLYCEROL-3P	Saturated-2-Lysophosphatidates
+11-DEOXYCORTICOSTERONE	Compounds
+12-DEHYDROTETRACYCLINE	Compounds
+12-DICHLOROETHANE	Compounds
+13-HYDROXY-MAGNESIUM-PROTOPORP	Organometallics
+131-OXO-MAGNESIUM-PROTOPORPHYRIN-IX-13-M	Organometallics
+15-ANHYDRO-D-FRUCTOSE	Compounds
+15-ANHYDRO-D-GLUCITOL	Compounds
+1516-DIHYDROBILIVERDIN	Compounds
+17-BETA-HYDROXY-5ALPHA-ANDROSTAN-3-O	17-BETA-HYDROXYANDROSTAN-3-ONE	3-Oxosteroids	Androgens
+2-2-METHYLTHIOETHYLMALIC-ACID	CPD-19482
+2-3-DIHYDROXYBENZOATE	Aromatic-Acid	Catechols
+2-3-DIHYDROXYPHENYL-PROPIONATE	Phenylpropanoids
+2-5-DIHYDROXYPYRIDINE	Compounds
+2-5-TRIPHOSPHORIBOSYL-3-DEPHOSPHO-	Compounds
+2-ACETO-2-HYDROXY-BUTYRATE	CPD-12642
+2-ACETO-LACTATE	CPD-12642
+2-AMINO-3-3-OXOPROP-2-ENYL-BUT-2-ENEDI	Compounds
+2-AMINO-MUCONATE	Compounds
+2-AMINOACRYLATE	Enamines
+2-AMINOBENZOYL-COA	All-Coas
+2-AMINOMUCONATE_SEMIALDEHYDE	Compounds
+2-AMINOPHENOL	Phenols
+2-BROMOPORPHOBILINOGEN	Bromoaromtic-Compounds
+2-C-METHYL-D-ERYTHRITOL-4-PHOSPHATE	Compounds
+2-CARBOXYMUCONATE	Compounds
+2-CHLOROETHANOL	Compounds
+2-CHLOROMALEYLACETATE	Chlorides
+2-CL-5-OXO-2-5-DIH-FURAN-2-ACETATE	Compounds
+2-CL-MUCONATE	Chlorides
+2-D-THREO-HYDROXY-3-CARBOXY-ISOCAPROATE	Compounds
+2-DEHYDRO-3-DEOXY-D-GALACTONATE	2-Oxo-carboxylates
+2-DEHYDRO-3-DEOXY-D-GLUCONATE	2-Oxo-carboxylates
+2-DEHYDROPANTOATE	Compounds
+2-DEOXY-D-GLUCOSE-6-PHOSPHATE	Compounds
+2-DH-3-DO-D-ARABINONATE	Ketoaldonates
+2-FUROATE	Compounds
+2-HYDROXY-3-KETO-5-METHYLTHIO-1-PHOSPHOP	Compounds
+2-KETO-3-DEOXY-6-P-GLUCONATE	Compounds
+2-KETO-3-METHYL-VALERATE	CPD-21103
+2-KETO-6-AMINO-CAPROATE	2-Oxo-carboxylates
+2-KETO-GLUTARAMATE	2-Oxo-carboxylates
+2-KETO-ISOVALERATE	2-Oxo-carboxylates
+2-KETOGLUTARATE	2-Oxo-carboxylates	dicarboxylate
+2-MERCAPTOETHANOL	Compounds
+2-METHYL-6-SOLANYL-14-BENZOQUINONE	Reduced-Quinones
+2-METHYL-BUTYRYL-COA	All-Coas
+2-O-ALPHA-MANNOSYL-D-GLYCERATE	Glycerates
+2-OCTAPRENYL-6-HYDROXYPHENOL	3-Polyrenyl-benzene-1-2-diols
+2-OCTAPRENYL-6-METHOXYPHENOL	2-Methoxy-6-polyprenyl-phenols
+2-OCTAPRENYLPHENOL	2-Polyprenyl-Phenol
+2-OXO-5-METHYLTHIOPENTANOIC-ACID	CPD-19485
+2-OXOBUTANOATE	2-Oxo-carboxylates
+2-PG	CPD-16758
+2-PHOSPHO-4-CYTIDINE-5-DIPHOSPHO-2-C-MET	CDP-SUGARS	Sugar-Phosphate
+2-PROTOCATECHUOYLPHLOROGLUCINOLCARBOXYLA	Compounds
+2-TRANS6-TRANS-FARNESAL	Aldehydes	CPD-20303
+2-TRANS6-TRANS-FARNESOL	Farnesols	Methyl-Branched-Lipids
+24-DICHLOROPHENOL	Chloroaromatic-Compounds
+245-DNOL	Compounds
+25-DDOL	Compounds
+25-DICHLORO-CISCIS-MUCONATE	Chlorides
+25-DICHLOROHYDROQUINONE	Chlorides	Reduced-Quinones
+25-DICHLOROPHENOL	Chloroaromatic-Compounds
+25-DIDEHYDRO-D-GLUCONATE	Compounds
+26-DICHLORO-P-HYDROQUINONE	Reduced-Quinones
+2C-METH-D-ERYTHRITOL-CYCLODIPHOSPHATE	Compounds
+2K-4CH3-PENTANOATE	2-Oxo-carboxylates	Methyl-Branched-Fatty-Acids	Short-chain-fatty-acids
+2K-ADIPATE	2-Oxo-carboxylates
+3-4-DIHYDROXYBENZOATE	Aromatic-Acid	Catechols
+3-5-ADP	Compounds
+3-BETA-D-GLUCOSYLGLUCOSE	Compounds
+3-BETA-HYDROXYANDROST-5-EN-17-ONE	3b-hydroxy-D5-steroids
+3-BROMOPYRUVATE	2-Oxo-carboxylates	Bromide
+3-CARBOXY-3-HYDROXY-ISOCAPROATE	Compounds
+3-DEHYDRO-SHIKIMATE	Compounds
+3-DEMETHYLSTAUROSPORINE	Indolocarbazoles
+3-DEOXY-D-ARABINO-HEPTULOSONATE-7-P	Compounds
+3-ENOLPYRUVYL-SHIKIMATE-5P	Compounds
+3-HYDROHYDROXYPHOSPHORYLPYRUVATE	Phosphinates
+3-HYDROXY-3-4-METHYLPENT-3-EN-1-YLG-COA	All-Coas
+3-HYDROXY-3-METHYL-GLUTARYL-COA	All-Coas
+3-HYDROXY-5917-TRIOXO-45910-DISECOA	Compounds
+3-HYDROXY-ANTHRANILATE	Compounds
+3-HYDROXY-L-KYNURENINE	Hydroxy-L-Amino-Acids
+3-HYDROXY-PROPIONATE	Compounds
+3-HYDROXY-PROPIONYL-COA	All-Coas
+3-HYDROXYADIPYL-COA	All-Coas
+3-HYDROXYAMINOPHENOL	Compounds
+3-HYDROXYBENZOATE	Benzoates
+3-HYDROXYPHENYL-PROPIONATE	Aromatic-Acid	Monocarboxylates	Phenylpropanoids
+3-HYDROXYPIMELYL-COA	Compounds
+3-KETO-ADIPATE	CPD-12642
+3-KETO-ADIPYL-COA	3-KETOACYL-COA
+3-KETOBUTYRATE	CPD-12642
+3-MERCAPTO-PYRUVATE	Compounds
+3-METHYLBENZYL-ALCOHOL	Aryl-Alcohols
+3-Methyl-Adenines	Alkylated-Bases
+3-OCTAPRENYL-4-HYDROXYBENZOATE	4-Hydroxy-3-polyprenylbenzoates
+3-OXO-5-BETA-CHOLANATE	Compounds
+3-OXO-CHOLYL-COA	3-Oxosteroyl-CoA
+3-OXO-DELTA4-CHOLYL-COA	Compounds
+3-OXO-DELTA4-DEOXYCHOLYL-COA	Compounds
+3-OXO-DELTA46-CHOLYL-COA	Compounds
+3-OXO-DEOXYCHOLYL-COA	3-Oxosteroyl-CoA
+3-OXOADIPATE-ENOL-LACTONE	Compounds
+3-OXOPIMELOYL-COA	Compounds
+3-P-HYDROXYPYRUVATE	Compounds
+3-P-SERINE	Phosphoserines
+3-UREIDO-ISOBUTYRATE	Ureidocarboxylates
+3-UREIDO-PROPIONATE	Ureido-Compounds
+34-DICHLOROANILINE	Compounds
+34-DIHYDROXYPHENYLACETALDEHYDE	Compounds
+34-DIHYDROXYPHENYLPYRUVATE	2-Oxo-carboxylates	Aromatic-Oxoacids
+35-DICHLOROCATECHOL	Catechols	Chloroaromatic-Compounds
+36-DICHLOROCATECHOL	Catechols	Chloroaromatic-Compounds
+3Z-PHYCOCYANOBILIN	Phycocyanobilins
+3Z-PHYCOERYTHROBILIN	Phycoerythrobilins
+4-ALPHA-METHYL-5-ALPHA	3-Beta-Hydroxysterols
+4-ALPHA-METHYL-5-ALPHA-CHOLEST-7-EN-3-ON	4alpha-Methyl-3-Oxosteroids
+4-AMINO-4-DEOXYCHORISMATE	Compounds
+4-AMINO-BUTYRALDEHYDE	Aliphatic-Omega-Amino-Aldehydes
+4-AMINO-BUTYRATE	Compounds
+4-CARBOXYMETHYLENEBUT-2-EN-4-OLIDE	Gamma-lactones
+4-CYTIDINE-5-DIPHOSPHO-2-C	CDP-SUGARS
+4-DEOXY-BETA-D-GLUC-4-ENURONOSYL-6S	Disaccharides
+4-FLUOROBENZOATE	CPD-10572
+4-HYDROXY-2-KETOVALERATE	2-Oxo-carboxylates	CPD-21382
+4-HYDROXY-BUTYRATE	Omega-Hydroxy-Short-Chain-Fatty-Acid
+4-HYDROXY-BUTYRYL-COA	All-Coas
+4-HYDROXY-L-PROLINE	Hydroxy-L-Amino-Acids
+4-HYDROXYBENZALDEHYDE	Compounds
+4-HYDROXYPHENYLACETATE	Compounds
+4-IMIDAZOLONE-5-PROPIONATE	Compounds
+4-MALEYL-ACETOACETATE	Compounds
+4-METHYL-824-CHOLESTADIENOL	3-Beta-Hydroxysterols
+4-METHYLBENZYL-ALCOHOL	Aryl-Alcohols
+4-METHYLCATECHOL	Catechols
+4-OH-4-ACETYL-2-OXOGLUTARATE	2-Oxo-Acids	Tricarboxylates
+4-OXALOMESACONATE	2-Oxo-Acids	Tricarboxylates
+4-P-PANTOTHENATE	Compounds
+4-PHOSPHONOOXY-THREONINE	Compounds
+4-hydroxybenzoate	Aromatics
+44-DIMETHYL-5ALPHA-CHOLEST-7-EN-3BET	3beta-OH-44-dimethyl-sterols
+44-DIMETHYL-824-CHOLESTADIENOL	3-Beta-Hydroxysterols
+44-DIMETHYL-CHOLESTA-814-24-TRIENOL	3-Beta-Hydroxysterols	Delta-14-steroids
+5-AMINO-LEVULINATE	Compounds
+5-AMINOPENTANOATE	Compounds
+5-BETA-L-THREO-PENTAPYRANOSYL-4-ULOSE-	UDP-hex4-ulose
+5-DEHYDROGLUCONATE	Compounds
+5-HYDROXY-CTP	Modified-Nucleotides
+5-HYDROXYINDOLE_ACETALDEHYDE	Indole-Derivatives
+5-HYDROXYINDOLE_ACETATE	Indole-Derivatives
+5-HYDROXYISOURATE	Compounds
+5-IODOPENTAPHOSPHONATE	Organoiodine-Compounds	Organophosphonates
+5-KETO-4-DEOXY-D-GLUCARATE	Compounds
+5-METHYL-THF	5-METHYL-THF-GLU-N
+5-METHYLTHIOADENOSINE	Compounds
+5-METHYLTHIOINOSINE	Modified-Nucleosides
+5-OXOPROLINE	Compounds
+5-P-BETA-D-RIBOSYL-AMINE	Compounds
+5-P-RIBOSYL-N-FORMYLGLYCINEAMIDE	Compounds
+5-PHOSPHO-RIBOSYL-GLYCINEAMIDE	Compounds
+5-PHOSPHORIBOSYL-5-AMINOIMIDAZOLE	Compounds
+5-PHOSPHORIBOSYL-N-FORMYLGLYCINEAMIDINE	Compounds
+6-CARBOXYHEX-2-ENOYL-COA	Compounds
+6-CHQ	Compounds
+6-HYDROXY-NICOTINATE	Compounds
+6-KESTOSE	Levan
+6-OXO-HEXANOATE	Compounds
+7-8-DIHYDROPTEROATE	Pteroates
+7-CYANO-7-DEAZAGUANINE	Nitriles
+7-METHYLGUANOSINE-5-PHOSPHATE	Compounds
+7-O-PHOSPHOHYGROMYCIN-B	Compounds
+ACET	Monocarboxylates	Short-Chain-Carboxylates
+ACETALD	n-Alkanals
+ACETAMIDE	Monocarboxylic-Acid-Amides
+ACETOACETYL-COA	Short-Chain-oxoacyl-CoAs
+ACETOL	Compounds
+ACETONE	KETONE
+ACETYL-COA	All-Coas
+ACETYL-D-GLUCOSAMINYLDIPHOSPHO-UNDECAPRE	Prenylated-Glycans
+ACETYL-ETCETERA-GLUCOSAMINYLDIPHOSPHOUND	Compounds
+ACETYL-GLU	N-Alpha-Acetylated-Amino-Acids
+ACETYL-P	Compounds
+ACETYLSERINE	O-Acetylated-Amino-Acids
+ACRYLATE	Compounds
+ACRYLYL-COA	All-Coas
+ACTINOMYCIN-D	ACTINOMYCIN
+ADENINE	Purine-Bases	Purines
+ADENOSINE	Purine-Ribonucleosides
+ADENOSINE5TRIPHOSPHO5ADENOSINE	Diadenosine-polyphosphates
+ADENOSINE_DIPHOSPHATE_RIBOSE	ADP-RIBOSE-P-OR-NOP
+ADENOSYL-HOMO-CYS	Modified-Amino-Acids
+ADENOSYL-P4	Diadenosine-polyphosphates	P1P4-BIS5-NUCLEOSYL-TETRAPHOSPHATE
+ADENOSYLCOBALAMIN	Adenosylcobamide	Cobalamins
+ADENOSYLCOBALAMIN-5-P	Cobamide-phosphate
+ADENOSYLCOBINAMIDE	Organometallics
+ADENOSYLCOBINAMIDE-GDP	Organometallics
+ADENOSYLCOBINAMIDE-P	Organometallics
+ADENYLOSUCC	Modified-Nucleotides
+ADIPATE	Compounds
+ADP	All-Nucleosides	Purine-ribonucleosides-5-PP
+ADP-D-GLUCOSE	ADP-SUGARS	NDP-alpha-D-glucoses
+ADP-L-GLYCERO-D-MANNO-HEPTOSE	ADP-SUGARS
+AEROBACTIN	Hydroxamate-siderophores
+AG+	Monovalent-Inorganic-Cations
+AGMATHINE	Aliphatic-Amines
+AICAR	Carboxamides
+ALL-TRANS-HEPTAPRENYL-DIPHOSPHATE	TRANS-POLYISOPRENYL-PP
+ALL-TRANS-HEXAPRENYL-DIPHOSPHATE	TRANS-POLYISOPRENYL-PP
+ALL-TRANS-PENTAPRENYL-DIPHOSPHATE	TRANS-POLYISOPRENYL-PP
+ALLYSINE	Compounds
+ALPHA-D-GALACTOSE	D-galactopyranose
+ALPHA-D-MANNOSYL-3-PHOSPHOGLYCERATE	Glycerates
+ALPHA-GLUCOSE	Glucopyranose
+ALPHA-GLUCOSE-16-BISPHOSPHATE	GLUCOSE-16-DIPHOSPHATE
+ALPHA-MALTOSE	MALTOSE
+ALPHA-RIBAZOLE	Compounds
+ALPHA-RIBAZOLE-5-P	Compounds
+ALPHA-TOCOPHEROL	Tocopherols
+ALPHAALPHA-TREHALOSE-66-BISMYCOLATE	Compounds
+AMIDINOPROCLAVAMINATE	Compounds
+AMINO-HYDROXYMETHYL-METHYL-PYR-P	Compounds
+AMINO-HYDROXYMETHYL-METHYLPYRIMIDINE-PP	Compounds
+AMINO-OH-HYDROXYMETHYL-DIHYDROPTERIDINE	Pterins
+AMINO-OXOBUT	CPD-12642	Modified-Amino-Acids
+AMINO-RIBOSYLAMINO-1H-3H-PYR-DIONE	Modified-Bases
+AMINOHYDROQUINONE	Compounds
+AMMONIA	Compounds
+AMMONIUM	Monovalent-Inorganic-Cations
+AMP	All-Nucleosides	Purine-ribonucleosides-5-P
+ANDROST4ENE	3-Oxo-Delta-4-Steroids
+ANHYDROTETRACYCLINE	Compounds
+ANTHRANILATE	Compounds
+ANTIMONITE	Inorganic-Anions
+APS	Compounds
+ARACHIDIC_ACID	Long-Chain-234-Saturated-Fatty-Acids	Saturated-Fatty-Acids
+ARG	Amino-Acids-20	Basic-Amino-Acids	L-Amino-Acids	Positively-charged-polar-amino-acids
+ARSENATE	Inorganic-Anions
+ASCORBATE	Vitamins
+ASN	Amino-Acids-20	L-Amino-Acids	Uncharged-polar-amino-acids
+ASOLECTIN	Compounds
+ATABRINE	Compounds
+ATP	All-Nucleosides	Purine-ribonucleosides-5-PPP
+ATRAZINE	s-Triazines
+Alpha-lactose	CPD-15972
+B-ALANINE	Beta-amino-acids
+BA+2	Divalent-Inorganic-Cations
+BACIMETHRIN	Compounds
+BENZALDEHYDE	Aryl-Aldehyde
+BENZENE	Aromatics
+BENZIMIDAZOLE	Compounds
+BENZOATE	Benzoates
+BENZOYL-ACETATE	Aromatics	CPD-12642
+BENZOYLCOA	All-Coas
+BENZYL-ALCOHOL	Aryl-Alcohols
+BETA-D-FRUCTOSE	Beta-D-Fructofuranosides	Fructofuranose
+BETA-D-MANNOSYLPHOSPHODECAPRENOL	Polyprenyl-Mannosyl-Phosphates
+BETA-D-XYLOSE	D-Xylopyranose
+BETA-HCH	Compounds
+BETA-TOCOPHEROL	Tocopherols
+BETAINE	Methylated-methyl-acceptors	Monocarboxylates	Quaternary-Amines
+BETAINE-ALDEHYDE-HYDRATE	Quaternary-Amines
+BETAINE_ALDEHYDE	Quaternary-Amines
+BH4NA	Inorganic-Salts
+BIFURCOSE	Graminans
+BILIRUBIN	Bilins
+BILIVERDINE	Bilins
+BIO-5-AMP	Compounds
+BIOTIN	Vitamins
+BIPHENYL-23-DIOL	Catechols
+BIS-GAMMA-GLUTAMYLCYSTINE	Compounds
+BIS-GERANYLGERANYLGLYCEROL-PHOSPHATE	CPD-17767
+BISOHMYR-GLC	Glycolipids
+BISOHMYR-GLUCOSAMINYL-1P	Compounds
+BR-	Halide-Anions
+BRIJ97	Compounds
+BROMOACETATE	Bromide
+BUTANAL	n-Alkanals
+BUTANOL	Short-Chain-Alcohols	Short-Chain-Primary-Alcohols
+BUTHIONINE-SULFOXIMINE	L-Amino-Acids
+BUTYRIC_ACID	Saturated-Fatty-Acids	Short-Chain-234-Saturated-Fatty-Acids
+BUTYRYL-COA	Short-Chain-234-Saturated-acyl-CoAs
+C-DI-GMP	Cyclic-Purine-Dinucleotides
+C1	UDP-NAcMur-Peptides
+C3	UDP-NAcMur-Peptides
+C4	NAcMur-Peptide-Undecaprenols
+C5	NAcMur-Peptide-Undecaprenols
+C55-PP-GLCNAC-MANNACA	Prenylated-Glycans
+C55-PP-GLCNAC-MANNACA-FUC4NAC	Prenylated-Glycans
+C6	NAcMur-Peptide-NAcGlc-Undecaprenols
+CA+2	Divalent-Inorganic-Cations
+CADAVERINE	Aliphatic-Alpha-Omega-Diamines
+CAFFEOYL-COA	All-Coas	Phenylpropanoids
+CAMP	All-Nucleosides	Cyclic-3-5-Nucleoside-Monophosphates
+CANAVANINE	Compounds
+CARBAMATE	Carbamates
+CARBAMOYL-P	Primary-Amines
+CARBAMYUL-L-ASPARTATE	N-Carbamoyl-L-Amino-Acids
+CARBON-DIOXIDE	Compounds
+CARBON-MONOXIDE	Compounds
+CARBOXYETHYL-3-5-CYCLOHEXADIENE-1-2-DIOL	Compounds
+CARBOXYPHENYLAMINO-DEOXYRIBULOSE-P	Sugar-Phosphate
+CARNITINE	DL-CARNITINE	Monocarboxylates
+CATECHOL	Catechols
+CD+2	Divalent-Inorganic-Cations
+CDP	Pyrimidine-ribonucleosides-5-PP	Pyrimidines
+CDP-36-DIDEOXY-D-MANNOSE	CDP-SUGARS
+CDP-CHOLINE	Nucleoside-Diphosphocholines
+CDP-D-GLUCOSE	CDP-SUGARS	NDP-alpha-D-glucoses
+CELLOBIOSE	CPD-15975
+CH33ADO	Modified-Nucleosides
+CH4	Short-Chain-Alkanes
+CHALCONE-CMPD	Chalcones	KETONE	Unsaturated-carbonyl-compounds
+CHLORALAN-CPD	3-CHLORO-DL-ALANINE
+CHLORAMPHENICOL	Antibiotics
+CHLOROHYDROQUINONE	Reduced-Quinones
+CHLOROPHYLL-A	CPD-18899
+CHLOROPHYLL-B	Chlorophylls	Organometallics
+CHLOROPHYLLIDE-A	Chlorophyllides	Organometallics
+CHOLATE	Bile-acids
+CHOLESTEROL	3-Beta-Hydroxysterols
+CHOLINE	Quaternary-Amines
+CHORISMATE	dicarboxylate
+CINNAMOYL-COA	3-Aryl-Acryloyl-CoAs	Phenylpropanoids
+CIS-2-CHLORO-4-CARBOXYMETHYLENEBUT-2-EN-	Gamma-lactones
+CIS-3-HEXENAL	Aldehydes
+CIS-3-HEXENOL	Alcohols
+CIS-3-PHENYLCYCLOHEXA-35-DIENE-12-DIOL	Compounds
+CIS-ACONITATE	Tricarboxylates
+CIS-CIS-MUCONATE	Compounds
+CIT	Compounds
+CL-	Halide-Anions
+CLAVAMINATE	Compounds
+CMP	Pyrimidine-ribonucleosides-5-P
+CMP-KDO	CMP-SUGARS
+CMP-N-ACETYL-NEURAMINATE	CMP-SUGARS	CPD-189	Pyrimidines
+CO+2	Divalent-Inorganic-Cations
+CO-A	Coenzymes
+COBALT-FACTOR-III	Organometallics
+COFORMYCIN	Compounds
+COPROPORPHYRINOGEN_III	Compounds
+COPROPORPHYRIN_III	Porphyrins
+CORTISOL	Glucocorticoids
+COUMARATE	3-Aryl-Acrylates	Hydroxy-carboxylates	Phenylpropanoids
+CPD-1001	Monoterpenes
+CPD-10011	Phosphinates
+CPD-10012	Compounds
+CPD-10013	Compounds
+CPD-10014	Compounds
+CPD-10016	Compounds
+CPD-10017	Compounds
+CPD-1002	Phenols
+CPD-1003	Aryl-Aldehyde
+CPD-1004	Compounds
+CPD-10044	4-isopropenyl-7-methyloxepan-2-one
+CPD-10047	6-Hydroxy-3-isopropenylheptanoates
+CPD-1005	Compounds
+CPD-1006	Compounds
+CPD-10064	4-isopropenyl-7-methyloxepan-2-one
+CPD-10065	6-Hydroxy-3-isopropenylheptanoates
+CPD-10068	6-isopropenyl-3-methyloxepan-2-one
+CPD-10069	6-isopropenyl-3-methyloxepan-2-one
+CPD-1007	Compounds
+CPD-1008	Compounds
+CPD-10080	Compounds
+CPD-10082	Compounds
+CPD-10088	Compounds
+CPD-10091	Compounds
+CPD-10092	Bromide	C-nitro-compounds
+CPD-101	Compounds
+CPD-10116	Diterpenes
+CPD-10117	Diterpenes
+CPD-10135	A-factor-type-lactones
+CPD-10151	Compounds
+CPD-10158	Sesquiterpenoid-Derivatives
+CPD-10159	Sesquiterpenoid-Derivatives
+CPD-10160	Sesquiterpenoid-Derivatives
+CPD-102	OMEGA-HYDROXY-FATTY-ACID
+CPD-1022	Compounds
+CPD-10220	Compounds
+CPD-10223	Compounds
+CPD-10224	Amino-Sugars
+CPD-10225	Compounds
+CPD-10227	Compounds
+CPD-10228	Compounds
+CPD-10229	Compounds
+CPD-1023	Compounds
+CPD-10230	Compounds
+CPD-10231	Compounds
+CPD-10237	Rifamycins
+CPD-10238	Rifamycins
+CPD-10239	Rifamycins
+CPD-10241	Rifamycins
+CPD-10242	Rifamycins
+CPD-10246	Aliphatic-Sulfonates
+CPD-10267	Medium-Chain-234-Saturated-acyl-CoAs
+CPD-10269	CPD0-2186	Long-Chain-234-Saturated-acyl-CoAs
+CPD-10290	Antibiotics	Gramicidins
+CPD-10313	UDP-sugar
+CPD-10314	UDP-sugar
+CPD-10324	Compounds
+CPD-10336	Chlorophylls
+CPD-10337	Chlorophylls
+CPD-10353	ACETOIN
+CPD-10419	Compounds
+CPD-10420	Compounds
+CPD-10437	Sulfones
+CPD-10473	ORGANOSULFUR	Thioesters
+CPD-10483	Compounds
+CPD-10484	Aromatics
+CPD-105	4-HYDROXYMANDELATE
+CPD-10505	All-Coas
+CPD-10534	Sterols
+CPD-10551	Compounds
+CPD-10556	3alpha-hydroxysteroyl-CoA
+CPD-10576	Chloroaromatic-Compounds
+CPD-10588	Compounds
+CPD-10591	Compounds
+CPD-10597	Phenols
+CPD-10598	Aromatics	KETONE
+CPD-10599	Aromatics
+CPD-106	4-HYDROXYMANDELATE
+CPD-10600	Compounds
+CPD-10608	Gamma-lactones
+CPD-10609	Chloroaromatic-Compounds
+CPD-10614	Compounds
+CPD-10615	Compounds
+CPD-10616	Catechols	Chloroaromatic-Compounds
+CPD-10622	Catechols	Chloroaromatic-Compounds
+CPD-10623	Compounds
+CPD-10624	Chloroaromatic-Compounds
+CPD-10626	Catechols	Chloroaromatic-Compounds
+CPD-1063	Compounds
+CPD-10631	Chlorides
+CPD-10632	Compounds
+CPD-10633	Gamma-lactones
+CPD-10634	Chlorides
+CPD-10635	Chlorides
+CPD-10636	Gamma-lactones
+CPD-10637	Chlorides
+CPD-10640	Compounds
+CPD-10642	Triterpenes
+CPD-10646	Compounds
+CPD-10654	Chloroaromatic-Compounds
+CPD-10656	dicarboxylate
+CPD-10659	Aryl-Alcohols	Chloroaromatic-Compounds
+CPD-10663	Chloroaromatic-Compounds
+CPD-10664	Compounds
+CPD-1067	Compounds
+CPD-10679	Aromatics
+CPD-10680	Aromatics
+CPD-10681	Aromatics
+CPD-10683	Disaccharide-phosphates
+CPD-10684	Disaccharides
+CPD-107	KETONE
+CPD-1070	Compounds
+CPD-10735	Compounds
+CPD-10737	CMP-SUGARS
+CPD-10740	Ether-linked-phospholipids
+CPD-10741	Phosphoglycerides
+CPD-10750	UDP-hex4-ulose
+CPD-10751	UDP-4S-amino-sugars
+CPD-10752	UDP-sugar
+CPD-10753	Carbohydrate-Derivatives
+CPD-10754	Compounds
+CPD-10755	CMP-SUGARS
+CPD-10766	Pterins
+CPD-10774	Compounds
+CPD-1078	CDP-SUGARS
+CPD-10780	Acyl-homoserine-lactones
+CPD-10781	Acyl-homoserine-lactones
+CPD-10782	Acyl-homoserine-lactones
+CPD-10783	Acyl-homoserine-lactones
+CPD-10784	Acyl-homoserine-lactones
+CPD-10785	Acyl-homoserine-lactones
+CPD-10786	Hydroxyketones
+CPD-10789	Methanopterines-and-derivatives
+CPD-10792	Compounds
+CPD-10796	Phenylpropanoids
+CPD-10797	Phenylpropanoids
+CPD-108	Methylphenols	Protein-bound-uremic-retention-solutes
+CPD-10801	Acyl-homoserines
+CPD-10802	Acyl-homoserines
+CPD-10803	Acyl-homoserines
+CPD-10804	Acyl-homoserines
+CPD-10805	Acyl-homoserines
+CPD-10809	Compounds
+CPD-10818	Compounds
+CPD-10821	ACYLCHLORIDE
+CPD-10823	Compounds
+CPD-1086	Modified-Bases
+CPD-10862	Chloroaromatic-Compounds
+CPD-10864	Chloroaromatic-Compounds
+CPD-10865	Chloroaromatic-Compounds
+CPD-10866	Chloroaromatic-Compounds
+CPD-10868	Chloroaromatic-Compounds
+CPD-10870	Chloroaromatic-Compounds
+CPD-1091	Ureido-Compounds
+CPD-1092	Compounds
+CPD-1099	Trisaccharides
+CPD-110	Aromatic-Acid
+CPD-11020	2-Oxo-carboxylates	Chlorides
+CPD-1106	Aminoalkylphosphonates
+CPD-1107	D-myo-inositol-pentakisphosphates
+CPD-111	Catechols
+CPD-1111	Compounds
+CPD-1112	Vitamins-B6
+CPD-1114	Compounds
+CPD-1121	Myo-inositol-bisphosphates
+CPD-11220	Chloroaromatic-Compounds
+CPD-11222	Aromatic-Acid
+CPD-11241	Disaccharides
+CPD-11253	12-Hydroxyjasmonates
+CPD-11260	12-Hydroxyjasmonates
+CPD-11281	Perthiols	S-Substituted-Glutathione
+CPD-1133	Modified-Inositols
+CPD-1134	Ketoaldonates
+CPD-1136	Tricarboxylates
+CPD-11419	Aromatics
+CPD-11420	Compounds
+CPD-11426	Diterpenes
+CPD-11445	Compounds
+CPD-11446	carotenoids
+CPD-11447	carotenoids
+CPD-11448	carotenoids
+CPD-11449	carotenoids
+CPD-11450	CPD-11452
+CPD-11456	Carotenes
+CPD-11457	carotenoids
+CPD-11459	carotenoids
+CPD-11460	carotenoids
+CPD-11461	carotenoids
+CPD-11463	carotenoids
+CPD-11464	carotenoids
+CPD-11465	carotenoids
+CPD-11466	Ketocarotenoids
+CPD-11468	carotenoids
+CPD-11469	carotenoids
+CPD-11470	carotenoids
+CPD-11471	carotenoids
+CPD-11477	Aliphatic-Alpha-Omega-Diamines
+CPD-11479	Aliphatic-Alpha-Omega-Diamines
+CPD-11480	Aliphatic-Alpha-Omega-Diamines
+CPD-11481	Aliphatic-Alpha-Omega-Diamines
+CPD-11520	All-Coas
+CPD-11521	All-Coas
+CPD-11524	All-Coas
+CPD-11525	All-Coas
+CPD-11528	All-Coas
+CPD-11529	All-Coas
+CPD-11533	Triterpenes
+CPD-11569	C-nitro-compounds
+CPD-11571	N-hydroxylated-Amino-Acids
+CPD-11572	Furans
+CPD-11573	Compounds
+CPD-11592	tRNA-Adenosines
+CPD-11607	Disaccharides
+CPD-1162	Beta-D-glucosides	SUGAR-6-PHOSPHATES
+CPD-11621	Carboxamides
+CPD-11622	Compounds
+CPD-11625	CPD-11633
+CPD-11653	Lipid-A-containing-Glycolipids
+CPD-11678	Hemes	Organometallics
+CPD-11729	Organophosphonates
+CPD-11735	Phosphinates
+CPD-11736	Organophosphonates
+CPD-11737	Organophosphonates
+CPD-11738	Organophosphorus-Compounds
+CPD-11740	Organophosphorus-Compounds
+CPD-11742	Phosphinates
+CPD-11744	Phosphinates
+CPD-11746	Phosphinates
+CPD-11747	Compounds
+CPD-11748	Compounds
+CPD-11749	Compounds
+CPD-11751	Chloroaromatic-Compounds
+CPD-11754	Chloroaromatic-Compounds
+CPD-11755	Chloroaromatic-Compounds
+CPD-11756	Compounds
+CPD-11770	Pterins
+CPD-11786	Chloroaromatic-Compounds
+CPD-11789	Indolocarbazoles
+CPD-11791	Chloroaromatic-Compounds
+CPD-11792	Chloroaromatic-Compounds
+CPD-1181	Beta-D-glucosides	SUGAR-6-PHOSPHATES
+CPD-11853	Aromatic-Acid
+CPD-11859	Aromatic-Acid
+CPD-11860	Aromatic-Acid
+CPD-11861	Aromatic-Acid
+CPD-11863	Compounds
+CPD-11866	Aromatics	S-Substituted-Glutathione
+CPD-11867	Erythro-GGE
+CPD-11868	Erythro-GGE
+CPD-11869	Threo-GGE
+CPD-11870	Threo-GGE
+CPD-11871	MPHPV
+CPD-11872	MPHPV
+CPD-11873	Aromatics
+CPD-11876	Compounds
+CPD-11879	Catechols
+CPD-11880	Aromatics	S-Substituted-Glutathione
+CPD-11881	All-Coas
+CPD-11890	Chloroaromatic-Compounds
+CPD-11905	Indolocarbazoles
+CPD-11906	Indolocarbazoles
+CPD-11909	DTDP-SUGARS
+CPD-11910	Indolocarbazoles
+CPD-11915	DTDP-SUGARS
+CPD-11916	DTDP-SUGARS
+CPD-11917	CPD-17767
+CPD-11919	Phosphoglycerides
+CPD-11920	CPD-17767
+CPD-11950	Aromatic-Acid
+CPD-11953	Compounds
+CPD-11955	Compounds
+CPD-11963	Aliphatic-Amines
+CPD-11964	Aliphatic-Amines
+CPD-11968	Hydroxamate-siderophores
+CPD-11971	Aliphatic-Amines
+CPD-11972	Aliphatic-Amines
+CPD-11984	Mono-trans-poly-cis-polyprenyl-PP	Sesquiterpenes
+CPD-11994	CIS-TRANS-POLYISOPRENYL-P	Polyisoprenyl-Monophosphates	Sesquiterpenes
+CPD-11997	Carbohydrate-Derivatives
+CPD-11998	Peptidoglycans
+CPD-11999	Peptidoglycans
+CPD-12000	Peptidoglycans
+CPD-12004	2-3-Butanediols
+CPD-12024	Methylated-Amino-Acids
+CPD-12028	Glycolipids
+CPD-12029	Glycolipids
+CPD-12030	1-5-Galactofuran
+CPD-12039	Glycolipids
+CPD-12040	Glycolipids
+CPD-12041	Glycolipids
+CPD-12045	L-arabinofuranose
+CPD-12046	L-arabinofuranose
+CPD-12050	1-6-Galactofuran
+CPD-12051	Mycobacterial-Arabinogalactans
+CPD-12054	Mycobacterial-Arabinogalactans
+CPD-12060	Mycobacterial-Arabinogalactans
+CPD-12061	Mycobacterial-Arabinogalactans
+CPD-12063	Mycobacterial-Arabinogalactans
+CPD-12064	Compounds
+CPD-12084	Compounds
+CPD-12085	Amino-acid-adenylates
+CPD-12097	N-gamma-Acylated-L-Amino-Acids	N-hydroxylated-Amino-Acids
+CPD-121	Compounds
+CPD-12101	N-Acetyl-Amino-Acids	N-gamma-Acylated-L-Amino-Acids	N-hydroxylated-Amino-Acids
+CPD-12112	All-Coas
+CPD-12115	Demethylmenaquinols
+CPD-12116	Demethylmenaquinols
+CPD-12117	Demethylmenaquinols
+CPD-12124	Menaquinols
+CPD-12125	Menaquinols
+CPD-12135	Compounds
+CPD-12151	Aromatic-D-Amino-Acids
+CPD-12152	Compounds
+CPD-12164	Indole-Derivatives
+CPD-12173	3-HYDROXY-ISOBUTYRYL-COA
+CPD-12175	3-HYDROXY-ISOBUTYRATE
+CPD-12197	Compounds
+CPD-12199	Compounds
+CPD-122	Compounds
+CPD-12230	Peptidoglycan-with-L-lysine-pentapeptide
+CPD-12231	Peptidoglycan-dimer
+CPD-12242	NAcMur-Peptide-NAcGlc-Undecaprenols
+CPD-12245	Antibiotics
+CPD-12259	Peptidoglycans
+CPD-12260	Peptidoglycans
+CPD-12261	Peptidoglycan-DD-crosslinks
+CPD-12266	Compounds
+CPD-12269	UDP-sugar
+CPD-12271	NAcMur-Peptide-NAcGlc-Undecaprenols
+CPD-12278	Compounds
+CPD-12279	Compounds
+CPD-12281	Lipid-A-containing-Glycolipids
+CPD-12284	Lipid-A-containing-Glycolipids
+CPD-12285	Lipid-A-containing-Glycolipids
+CPD-12286	Lipid-A-containing-Glycolipids
+CPD-12294	Cephems
+CPD-12295	NAcMur-Peptide-NAcGlc-Undecaprenols
+CPD-12297	NAcMur-Peptide-NAcGlc-Undecaprenols
+CPD-12298	NAcMur-Peptide-NAcGlc-Undecaprenols
+CPD-12302	NAcMur-Peptide-NAcGlc-Undecaprenols
+CPD-12310	Peptidoglycans
+CPD-12311	Peptidoglycan-with-L-lysine-pentapeptide
+CPD-12313	Compounds
+CPD-12321	carotenoids
+CPD-12334	Compounds
+CPD-12335	Compounds
+CPD-12336	GDP-SUGARS
+CPD-12349	2-Oxo-carboxylates
+CPD-12365	All-Nucleosides
+CPD-12366	All-Nucleosides
+CPD-12367	All-Nucleosides
+CPD-124	Compounds
+CPD-12427	Modified-Bases
+CPD-12430	2-Oxo-carboxylates
+CPD-12435	Disaccharides
+CPD-12451	Bile-acids
+CPD-12452	Bile-acids
+CPD-12460	Mono-trans-poly-cis-polyprenyl-PP	Sesquiterpenes
+CPD-12461	Polyprenol-Groups	Tri-trans-polycis-polyprenyl-PPs
+CPD-12480	Compounds
+CPD-125	Compounds
+CPD-12563	Compounds
+CPD-12565	Organo-Sulfates
+CPD-12575	NDP-alpha-D-glucoses	NDP-glucoses	UDP-GLUCOSE	UDP-sugar
+CPD-12576	Compounds
+CPD-12578	Compounds
+CPD-12579	Compounds
+CPD-12580	Compounds
+CPD-12585	Farnesoates
+CPD-12587	Polyisoprenyl-Monophosphates	TRANS-POLYISOPRENYL-P
+CPD-12589	Carboxylate-siderophores
+CPD-12590	Carboxylate-siderophores
+CPD-12609	Isoflavones
+CPD-12610	Inorganic-Minerals
+CPD-12611	carotenoids
+CPD-12612	carotenoids
+CPD-12613	carotenoids
+CPD-12614	carotenoids
+CPD-12615	carotenoids
+CPD-12616	Ketocarotenoids
+CPD-12617	Ketocarotenoids
+CPD-12626	carotenoids
+CPD-12645	All-Coas
+CPD-12670	Compounds
+CPD-12671	Chlorides	Pentoses
+CPD-12672	Chlorides	Gamma-lactones	Pentoses
+CPD-12673	Chlorides	Monocarboxylates
+CPD-12675	All-Coas	Chlorides
+CPD-12676	Modified-Nucleosides
+CPD-12677	Chlorides	Modified-Nucleotides
+CPD-12679	All-Coas	Chlorides
+CPD-12680	All-Coas	Chlorides
+CPD-12692	2-3-dihydroxypropane-1-sulfonate
+CPD-12693	2-3-dihydroxypropane-1-sulfonate
+CPD-12694	SULFONATES
+CPD-12695	C-nitro-compounds	Nitroaromatic-Compounds
+CPD-12696	C-nitro-compounds	Nitroaromatic-Compounds
+CPD-12703	All-Coas
+CPD-12706	Fluorides	PENTOSE-1-PHOSPHATES
+CPD-12707	Fluorides	PENTOSE-1-PHOSPHATES
+CPD-12738	CPD0-2079
+CPD-12760	Compounds
+CPD-12762	Compounds
+CPD-12768	Prenylated-Glycans
+CPD-12769	Prenylated-Glycans
+CPD-12771	Prenylated-Glycans
+CPD-12772	Prenylated-Glycans
+CPD-12773	Prenylated-Glycans
+CPD-12774	Chloroaromatic-Compounds	Enamines
+CPD-12775	Chloroaromatic-Compounds
+CPD-12777	CPD-15694	Medium-Chain-3-Hydroxyacyl-CoAs
+CPD-12781	Prenylated-Glycans
+CPD-12782	Prenylated-Glycans
+CPD-12783	Prenylated-Glycans
+CPD-12784	Prenylated-Glycans
+CPD-12785	Prenylated-Glycans
+CPD-12792	Anthraquinones	Dyes
+CPD-12797	Compounds
+CPD-12811	Hexitols
+CPD-12825	Threitols
+CPD-12829	Plastoquinols
+CPD-12830	Reduced-Quinones
+CPD-12831	CPD-11501	ETR-Quinols
+CPD-12847	Secondary-Metabolites
+CPD-12849	2-Hydroxy-carboxylates	Tricarboxylates
+CPD-12855	Inositol-Phosphates
+CPD-12856	Inositol-Phosphates
+CPD-12869	Secondary-Metabolites
+CPD-12896	All-Coas
+CPD-12934	Jadomycin-B
+CPD-12938	Jadomycin-A
+CPD-12949	Angucyclins
+CPD-12950	Angucyclins
+CPD-12951	Angucyclins
+CPD-12952	Angucyclins
+CPD-12955	POLYKETIDE
+CPD-12957	Angucyclins
+CPD-12960	Antibiotics
+CPD-12969	Organophosphonates
+CPD-12970	Organophosphonates
+CPD-1301	THF-GLU-N
+CPD-13013	Glycerates
+CPD-13015	Glycerates
+CPD-13018	UDP-sugar
+CPD-1302	5-METHYL-THF-GLU-N
+CPD-13034	Compounds
+CPD-13043	Modified-Bases
+CPD-13056	7-Deazapurines	Antibiotics	Nitriles
+CPD-13059	2-Oxo-carboxylates
+CPD-13095	Nitriles
+CPD-13097	Nitriles
+CPD-13099	Nitriles
+CPD-13100	Compounds
+CPD-13108	Candicidins
+CPD-13109	Compounds
+CPD-13118	GUANOSINE_DIPHOSPHATE_FUCOSE
+CPD-13121	Delta-GalA-rhamnogalacturonan	Disaccharides
+CPD-13122	Modified-Sugars	Unsaturated-Pyranuronate
+CPD-13144	Antibiotics	Nitroaromatic-Compounds
+CPD-13149	carotenoids
+CPD-13150	carotenoids
+CPD-13151	dicarboxylate
+CPD-13160	GDP-SUGARS
+CPD-13161	GDP-SUGARS
+CPD-13162	GDP-SUGARS
+CPD-13163	GDP-SUGARS
+CPD-13164	GDP-SUGARS
+CPD-13165	Carbohydrate-Derivatives
+CPD-13166	Carbohydrate-Derivatives
+CPD-13167	CMP-SUGARS
+CPD-13171	carotenoids
+CPD-13182	Compounds
+CPD-13184	Compounds
+CPD-13187	Gellan	Tetrasaccharides
+CPD-13188	Trisaccharides
+CPD-13205	Cellodextrins	Tetrasaccharides
+CPD-13227	Chitodextrins
+CPD-13228	Unsaturated-aldehydes
+CPD-13229	Short-Chain-Primary-Alcohols
+CPD-13262	Compounds
+CPD-13290	1-3-D-xylooligosaccharides	Disaccharides
+CPD-13291	1-3-D-xylooligosaccharides	Trisaccharides
+CPD-13292	1-3-D-xylooligosaccharides	Tetrasaccharides
+CPD-13294	Alpha-L-Arabinosides	Furanosides	PNP-Modified-Glycosides
+CPD-13323	Unsaturated-aldehydes
+CPD-13324	Aromatics
+CPD-13339	Compounds
+CPD-13357	DIOH-ISOVALERATE
+CPD-13369	Apocarotenoids	LONG-CHAIN-KETONE
+CPD-13380	DTDP-SUGARS
+CPD-13381	DTDP-SUGARS	NDP-4-dehydro-26-dideoxy-D-glucose
+CPD-13384	DTDP-SUGARS
+CPD-13385	Compounds
+CPD-13420	CPD-19821
+CPD-13430	L-Hexoses
+CPD-13432	Agaro-oligosaccharides
+CPD-13434	Neoagaro-oligosaccharides
+CPD-13435	Neoagaro-oligosaccharides
+CPD-13436	Neoagaro-oligosaccharides
+CPD-13438	Agaro-oligosaccharides
+CPD-13440	Agarans	Disaccharides
+CPD-13445	Carrageenose-oligosaccharides
+CPD-13446	Carrageenose-oligosaccharides
+CPD-13447	Carrageenose-oligosaccharides
+CPD-13448	Carrageenose-oligosaccharides
+CPD-13451	Carrageenan-oligosaccharides	Tetrasaccharides
+CPD-13452	Carrageenan-oligosaccharides	Hexasaccharides
+CPD-13453	Carrageenan-oligosaccharides	Disaccharides
+CPD-13462	N-acetyl-D-mannosamine	N-acetyl-alpha-D-hexosamines
+CPD-13469	D-GLUCOSAMINE-6-P
+CPD-13473	Compounds
+CPD-13483	Modified-Amino-Acids
+CPD-13489	Polyamines
+CPD-13518	Basic-Amino-Acids	L-Amino-Acids	Positively-charged-polar-amino-acids
+CPD-13524	Retinols
+CPD-13530	dicarboxylate
+CPD-13533	CPD-15660	Short-Chain-3R-Hydroxyacyl-CoAs
+CPD-13534	Short-Chain-oxoacyl-CoAs
+CPD-13546	All-Coas
+CPD-13547	All-Coas
+CPD-13559	D-mannopyranose
+CPD-13575	Thiazoles
+CPD-13576	Thiazoles
+CPD-13577	Pyrimidines
+CPD-13578	Pyrimidines
+CPD-13584	Nitriles	Organic-Anions
+CPD-13616	Sesquiterpenes
+CPD-13617	Sesquiterpenes
+CPD-13618	Sesquiterpenes
+CPD-13619	Antibiotics	Sesquiterpenes
+CPD-13620	Sesquiterpenes
+CPD-13621	Antibiotics	Sesquiterpenes
+CPD-13622	Antibiotics	Sesquiterpenes
+CPD-13623	Antibiotics	Sesquiterpenes
+CPD-13624	Antibiotics	Sesquiterpenes
+CPD-13625	Sesquiterpenes
+CPD-13632	Antibiotics	Sesquiterpenes
+CPD-13638	Antibiotics	Sesquiterpenes
+CPD-13679	Steroids
+CPD-13680	3-Oxo-Delta-4-Steroids
+CPD-13682	Compounds
+CPD-13684	3-Beta-Hydroxysterols
+CPD-13689	Steroids
+CPD-13691	Steroids
+CPD-13692	Steroids
+CPD-13694	Steroids
+CPD-13696	Steroids
+CPD-13699	Steroids
+CPD-13700	Steroids
+CPD-13704	3-Oxo-Delta-4-Steroids
+CPD-13709	3-Oxo-Delta-4-Steroids
+CPD-13711	Compounds
+CPD-13712	Compounds
+CPD-13714	Xanthophylls
+CPD-13722	CPD-21381
+CPD-13734	HEME_A
+CPD-13739	Steroids
+CPD-13752	Steroids
+CPD-13754	Compounds
+CPD-13755	Compounds
+CPD-13756	Compounds
+CPD-13767	Hydroperoxy-octadecatrienoates
+CPD-13768	Hydroperoxy-Fatty-Acids
+CPD-13773	2-Phenyloxirane
+CPD-13775	DTDP-SUGARS
+CPD-13776	DTDP-SUGARS
+CPD-13777	DTDP-SUGARS
+CPD-13781	DTDP-SUGARS
+CPD-13783	DTDP-SUGARS
+CPD-13784	DTDP-SUGARS
+CPD-13804	Erythromycins
+CPD-13805	Erythromycins
+CPD-13806	Erythromycins
+CPD-13820	Macrolide-Antibiotics
+CPD-13821	Macrolide-Antibiotics
+CPD-13822	Macrolide-Antibiotics
+CPD-13824	Macrolide-Antibiotics
+CPD-13825	Macrolide-Antibiotics
+CPD-13826	Macrolide-Antibiotics
+CPD-13827	Macrolide-Antibiotics
+CPD-13830	Macrolide-Antibiotics
+CPD-13831	Macrolide-Antibiotics
+CPD-13832	Macrolide-Antibiotics
+CPD-13833	Macrolide-Antibiotics
+CPD-13834	Macrolide-Antibiotics
+CPD-13835	Macrolide-Antibiotics
+CPD-13837	Erythromycins
+CPD-13841	DTDP-SUGARS	NDP-4-dehydro-6-deoxy-D-glucose
+CPD-13845	DTDP-SUGARS
+CPD-13846	UDP-4R-amino-sugars
+CPD-13847	UDP-hex4-ulose
+CPD-13850	Diterpenes
+CPD-13851	Modified-Nucleotides
+CPD-13852	Modified-Nucleotides
+CPD-13853	All-Nucleosides
+CPD-13927	Ureido-Compounds
+CPD-13930	Compounds
+CPD-13931	Compounds
+CPD-13932	Benzoin
+CPD-13940	Cobamide-phosphate
+CPD-13946	Macrolide-Antibiotics
+CPD-13947	Macrolides
+CPD-13949	Macrolide-Antibiotics
+CPD-13951	Erythromycins
+CPD-13952	DTDP-SUGARS	NDP-34-didehydro-26-dideoxy-D-glucose
+CPD-13954	DTDP-SUGARS
+CPD-13955	Aureolic-Acids	Carbohydrate-containing-antibiotics
+CPD-13956	DTDP-SUGARS
+CPD-13957	DTDP-SUGARS
+CPD-13958	DTDP-SUGARS
+CPD-13962	Aminoglycoside-Antibiotics	Anthracyclines
+CPD-13965	Carbohydrate-containing-antibiotics
+CPD-13967	DTDP-SUGARS
+CPD-13970	DTDP-SUGARS
+CPD-13972	Rhodomycins
+CPD-13973	Aminoglycoside-Antibiotics	Anthracyclines
+CPD-13982	Compounds
+CPD-13985	DTDP-SUGARS
+CPD-13987	DTDP-SUGARS
+CPD-13992	Compounds
+CPD-13993	Compounds
+CPD-13997	Maltose-phosphates
+CPD-14	Inorganic-Anions
+CPD-14015	Compounds
+CPD-14016	Compounds
+CPD-14017	Disaccharides
+CPD-14021	UDP-sugar
+CPD-14053	TETRA-H-BIOPTERIN
+CPD-14069	Hydroxamate-siderophores
+CPD-14077	Compounds
+CPD-14081	Compounds
+CPD-14082	Compounds
+CPD-14086	C-Methylated-Amino-Acids	D-Amino-Acids
+CPD-14087	Disaccharides
+CPD-14091	Compounds
+CPD-14092	Compounds
+CPD-14093	Amides
+CPD-14094	Compounds
+CPD-14096	Compounds
+CPD-14097	Amides
+CPD-14100	Compounds
+CPD-14101	All-Nucleosides
+CPD-14102	Compounds
+CPD-14104	Furans
+CPD-14105	Furans
+CPD-14112	Compounds
+CPD-14114	Isoflavones
+CPD-14115	Isoflavones
+CPD-14116	CDP-SUGARS
+CPD-14117	CDP-SUGARS
+CPD-14120	Carbohydrates
+CPD-14122	Carbohydrates
+CPD-14123	Carbohydrates
+CPD-14125	Compounds
+CPD-14126	Compounds
+CPD-14127	Compounds
+CPD-14128	Compounds
+CPD-14133	NADPHX
+CPD-14137	Deoxystreptamine-Antib
+CPD-14138	Kanamycins
+CPD-14139	Kanamycins
+CPD-14141	Neomycins
+CPD-14143	Deoxystreptamine-Antib
+CPD-14149	Compounds
+CPD-14151	Compounds
+CPD-14153	Kanamycins
+CPD-14154	Deoxystreptamine-Antib
+CPD-14155	Compounds
+CPD-14156	Compounds
+CPD-14158	Deoxystreptamine-Antib
+CPD-14159	Kanamycins
+CPD-14161	Kanamycins
+CPD-14162	Kanamycins
+CPD-14164	Compounds
+CPD-14165	Compounds
+CPD-14166	Neomycins
+CPD-14167	Neomycins
+CPD-14168	Neomycins
+CPD-14177	Deoxystreptamine-Antib
+CPD-14178	Deoxystreptamine-Antib
+CPD-14185	Deoxystreptamine-Antib
+CPD-14186	Neomycins
+CPD-14187	Neomycins
+CPD-14188	Neomycins
+CPD-14189	Deoxystreptamine-Antib
+CPD-14191	Deoxystreptamine-Antib
+CPD-14193	Butirosins
+CPD-14197	Kanamycins
+CPD-142	2-Oxo-carboxylates
+CPD-14209	Gentamycins
+CPD-14214	Gentamycins
+CPD-1422	Aromatics
+CPD-14220	1-Alkenes
+CPD-14223	1-Alkenes
+CPD-14229	1-Alkenes
+CPD-14238	Non-branched-alkenes
+CPD-14239	ACYL-COA
+CPD-14241	CPD-19853
+CPD-14248	UDP-sugar
+CPD-14254	Carbohydrate-Derivatives
+CPD-14256	Carbohydrate-Derivatives
+CPD-14257	Carbohydrate-Derivatives
+CPD-14258	Carbohydrate-Derivatives
+CPD-14259	Carbohydrate-Derivatives
+CPD-14270	LC-alcohol-LC-acyl-ester
+CPD-14295	Carbohydrate-Derivatives
+CPD-14296	Carbohydrate-Derivatives
+CPD-14297	Carbohydrate-Derivatives
+CPD-14298	Compounds
+CPD-143	C-nitro-compounds
+CPD-14319	Compounds
+CPD-14320	Compounds
+CPD-14323	Compounds
+CPD-14324	Compounds
+CPD-14332	Compounds
+CPD-14348	Carbohydrate-containing-antibiotics
+CPD-14349	Carbohydrate-containing-antibiotics
+CPD-14353	POLYKETIDE
+CPD-14355	Carbohydrate-containing-antibiotics
+CPD-14359	Compounds
+CPD-14360	Compounds
+CPD-144	C-nitro-compounds
+CPD-14415	Dipeptides-Of-L-Amino-Acids
+CPD-14436	Dipeptides-Of-L-Amino-Acids	Modified-Peptides
+CPD-14437	Dipeptides-Of-L-Amino-Acids	Modified-Peptides
+CPD-14445	Compounds
+CPD-14447	Compounds
+CPD-14463	Compounds
+CPD-145	C-nitro-compounds
+CPD-14517	Triterpenes
+CPD-14518	Hopanoids
+CPD-14519	Hopanoids
+CPD-14520	Hopanoids
+CPD-14521	Hopanoids
+CPD-14522	Compounds
+CPD-14523	Compounds
+CPD-14524	Compounds
+CPD-14541	Aromatic-Amino-Acids
+CPD-14545	C-nitro-compounds	Imidazoles	a-natural-antibiotic
+CPD-14546	Compounds
+CPD-14550	Compounds
+CPD-14553	Alpha-D-Galactosides	UDP-sugar
+CPD-14555	Beta-amino-acids
+CPD-14560	Compounds
+CPD-14562	UDP-sugar
+CPD-14625	Compounds
+CPD-14627	Compounds
+CPD-14628	Compounds
+CPD-14629	Compounds
+CPD-14630	Compounds
+CPD-14631	Compounds
+CPD-14632	Compounds
+CPD-14633	Compounds
+CPD-14634	Compounds
+CPD-14635	Branched-Amino-Acids	Hydroxy-L-Amino-Acids
+CPD-14636	Hydroxy-L-Amino-Acids
+CPD-14638	Non-standard-amino-acids
+CPD-14668	Aromatic-D-Amino-Acids	Beta-amino-acids
+CPD-14678	DTDP-SUGARS
+CPD-14680	DTDP-SUGARS
+CPD-14681	DTDP-SUGARS
+CPD-14682	DTDP-SUGARS
+CPD-14683	DTDP-SUGARS
+CPD-14736	Amino-Acids
+CPD-14762	O-acetyl-ADP-riboses
+CPD-14786	CDP-SUGARS
+CPD-14787	CDP-SUGARS
+CPD-14793	DTDP-SUGARS
+CPD-14795	UDP-N-ACETYL-GALACTOSAMINE
+CPD-14806	Monocarboxylates
+CPD-14808	Modified-Inositols
+CPD-1484	Metal-Ions
+CPD-14872	Compounds
+CPD-14873	Aryl-Amines
+CPD-14874	Secondary-Metabolites
+CPD-14875	Secondary-Metabolites
+CPD-14876	N-acetylarylamines
+CPD-14877	N-acetylarylamines
+CPD-1492	Divalent-Inorganic-Cations
+CPD-14925	CIS-DELTA3-ENOYL-COA	Medium-Chain-Acyl-CoAs
+CPD-14926	Long-Chain-Aldehydes
+CPD-14927	Monounsaturated-fatty-acids
+CPD-14966	Compounds
+CPD-14994	IN-CHAIN-HYDROXY-FATTY-ACID
+CPD-15	Compounds
+CPD-15020	Compounds
+CPD-15032	Xanthophylls
+CPD-15033	Xanthophylls
+CPD-15034	carotenoids
+CPD-15035	Disaccharides
+CPD-15036	Organo-Sulfates
+CPD-15047	Diterpenes
+CPD-15056	Enamines
+CPD-15061	Secondary-Alcohols
+CPD-15094	Disaccharides
+CPD-15095	Modified-Sugars
+CPD-15097	Modified-Sugars
+CPD-15121	Nucleosides-Analogues
+CPD-15124	CPD-741
+CPD-15127	Monocarboxylates
+CPD-15157	Compounds
+CPD-15158	Modified-Nucleotides
+CPD-15171	Compounds
+CPD-15189	Bile-acids
+CPD-15209	Cycic-Dipeptides
+CPD-15210	Cycic-Dipeptides
+CPD-15211	Compounds
+CPD-15213	Organic-heteroptetracyclic-compounds
+CPD-15222	Aldehydes	Apocarotenoids
+CPD-15225	Cyclic-Purine-Dinucleotides
+CPD-15230	Deoxystreptamine-Antib
+CPD-15232	Deoxystreptamine-Antib
+CPD-15236	Modified-Inositols
+CPD-15237	Lipid-A-containing-Glycolipids
+CPD-15238	LOS	Lipid-A-containing-Glycolipids
+CPD-15240	Alpha-D-Glucuronides	C-nitro-compounds
+CPD-15242	LOS
+CPD-15244	Long-Chain-oxoacyl-CoAs
+CPD-15250	CPD-17768
+CPD-15253	Ether-linked-phospholipids
+CPD-15254	Kanamycins
+CPD-15255	CPD-17768
+CPD-15257	Phosphoglycerides
+CPD-15258	Phosphoglycerides
+CPD-15277	Histidine-Derivatives
+CPD-15279	Histidine-Derivatives
+CPD-15280	Histidine-Derivatives	N-methylated-Amino-Acids
+CPD-15320	Ureido-Compounds
+CPD-15321	Ureido-Compounds
+CPD-15323	Aromatic-Acid
+CPD-15324	Aromatic-Acid
+CPD-15326	2-Oxo-carboxylates	Aromatic-Acid
+CPD-15344	Aromatic-Oxoacids
+CPD-15377	D-Xylose
+CPD-15384	CPD-17583
+CPD-15407	DTDP-SUGARS
+CPD-15408	Chlorides
+CPD-15409	Chlorides
+CPD-15413	Basic-Amino-Acids	L-Amino-Acids	Positively-charged-polar-amino-acids
+CPD-15415	Compounds
+CPD-15416	Compounds
+CPD-15417	Antibiotics
+CPD-15419	Compounds
+CPD-15420	Compounds
+CPD-15422	Compounds
+CPD-15423	Compounds
+CPD-15424	Compounds
+CPD-15425	Kanamycins
+CPD-15430	Prenylated-Glycans
+CPD-15431	Prenylated-Glycans
+CPD-15435	Compounds
+CPD-15436	CPD0-2228	Long-Chain-234-Saturated-acyl-CoAs
+CPD-15467	Aromatic-Oxoacids
+CPD-15495	DTDP-SUGARS
+CPD-15496	DTDP-SUGARS
+CPD-15502	Compounds
+CPD-15512	Compounds
+CPD-15528	Aclacinomycins
+CPD-15529	Aclacinomycins
+CPD-15530	GLUCURONATE
+CPD-15531	Modified-Bases	Pyrimidines
+CPD-15532	POLYKETIDE
+CPD-15533	Anthracyclines	POLYKETIDE
+CPD-15539	Compounds
+CPD-15541	Aclacinomycins
+CPD-15542	Antibiotics
+CPD-15545	Prenylated-Glycans
+CPD-15546	Prenylated-Glycans
+CPD-15547	Prenylated-Glycans
+CPD-15548	DTDP-SUGARS
+CPD-15551	Sulfones
+CPD-15554	HOMOSERINE-LACTONE
+CPD-15555	Auxins	Indole-Derivatives
+CPD-15586	Compounds
+CPD-15596	DTDP-SUGARS
+CPD-15598	DTDP-SUGARS
+CPD-15616	Ketohexoses	L-sorbose
+CPD-15633	D-GALACTURONATE
+CPD-15639	Carboxylates
+CPD-15642	UDP-hex4-ulose
+CPD-15643	UDP-sugar
+CPD-15644	UDP-sugar
+CPD-15645	UDP-sugar
+CPD-15646	UDP-sugar
+CPD-15647	UDP-sugar
+CPD-15648	UDP-sugar
+CPD-15670	UDP-sugar
+CPD-15673	UDP-sugar
+CPD-15716	Disaccharide-phosphates
+CPD-15720	Anthracyclines
+CPD-15721	Anthracyclines
+CPD-15730	Rhodomycins
+CPD-15731	DTDP-SUGARS
+CPD-15739	Anthracyclines
+CPD-15740	Anthracyclines
+CPD-15744	Antibiotics
+CPD-15746	DTDP-SUGARS
+CPD-15754	Compounds
+CPD-15764	DTDP-SUGARS
+CPD-15765	Aclacinomycins
+CPD-15766	DTDP-SUGARS
+CPD-15770	DTDP-SUGARS
+CPD-15771	Anthracyclines	Aromatic-Acid
+CPD-15780	Rhodomycins
+CPD-15781	Compounds
+CPD-15783	Rhodomycins
+CPD-15785	Aclacinomycins
+CPD-15787	Rhodomycins
+CPD-15797	Compounds
+CPD-158	C-nitro-compounds	Catechols	Nitroaromatic-Compounds
+CPD-15803	Compounds
+CPD-15826	HEXOSE-6-PHOSPHATES
+CPD-15830	SULFONATES
+CPD-15848	Compounds
+CPD-15873	Mo-molybdopterin-cofactor
+CPD-15874	Mo-molybdopterin-cofactor
+CPD-15887	Aromatics
+CPD-15894	Compounds
+CPD-159	Compounds
+CPD-15902	Compounds
+CPD-15903	Compounds
+CPD-15904	Compounds
+CPD-15916	Thiopurines
+CPD-15926	DTDP-SUGARS
+CPD-15933	Macrolide-Antibiotics
+CPD-15934	Macrolide-Antibiotics
+CPD-15936	POLYKETIDE
+CPD-15940	Macrolide-Antibiotics
+CPD-15943	Compounds
+CPD-15944	Compounds
+CPD-15945	Compounds
+CPD-15946	Compounds
+CPD-15947	Compounds
+CPD-15948	Compounds
+CPD-15961	Antibiotics	Organophosphonates
+CPD-15963	Organophosphonates
+CPD-15967	Aminoalkylphosphonates
+CPD-15968	Aminoalkylphosphonates
+CPD-15995	Compounds
+CPD-15996	Macrolide-Antibiotics
+CPD-15997	Macrolide-Antibiotics
+CPD-15998	Macrolide-Antibiotics
+CPD-15999	Compounds
+CPD-16	Compounds
+CPD-16183	Nucleobase-analogues
+CPD-16423	DTDP-SUGARS
+CPD-16424	DTDP-SUGARS
+CPD-16436	DTDP-SUGARS
+CPD-16467	dicarboxylate
+CPD-16491	Compounds
+CPD-16501	SULFONATES
+CPD-16502	Hexose-1-Phosphate	SULFONATES
+CPD-16511	Aromatic-L-Amino-Acids
+CPD-16512	Aromatic-L-Amino-Acids
+CPD-16522	Gamma-lactones
+CPD-16526	Aminoalkylphosphonates
+CPD-16557	Compounds
+CPD-16568	Glucocorticoids
+CPD-16577	GLUCOSE-16-DIPHOSPHATE
+CPD-16582	All-Coas
+CPD-16584	ORGANOSULFUR
+CPD-16586	ORGANOSULFUR
+CPD-16588	ORGANOSULFUR
+CPD-16589	ORGANOSULFUR
+CPD-16606	UDP-4S-amino-sugars
+CPD-16607	Compounds
+CPD-16612	Oryzalexins
+CPD-16613	Oryzalexins
+CPD-16614	Oryzalexins
+CPD-16632	Secondary-Metabolites
+CPD-16633	Secondary-Metabolites
+CPD-16637	Anthracyclines
+CPD-16638	Antibiotics
+CPD-16639	Antibiotics
+CPD-16644	Antibiotics
+CPD-16647	Antibiotics
+CPD-16663	Disaccharides
+CPD-16666	Diterpenes
+CPD-16667	Diterpenes
+CPD-16668	Diterpenes
+CPD-16677	Anthracyclines	POLYKETIDE
+CPD-16678	Anthracyclines	POLYKETIDE
+CPD-16697	Compounds
+CPD-16759	Compounds
+CPD-16760	Chloroaromatic-Compounds
+CPD-16781	ALKALOID
+CPD-16782	ALKALOID
+CPD-16788	Organophosphonates
+CPD-16790	L-Amino-Acids	Organophosphonates
+CPD-16791	Organophosphonates
+CPD-16792	Organophosphonates
+CPD-16793	Organophosphonates
+CPD-16794	Organophosphonates
+CPD-16795	Organophosphonates
+CPD-16796	Organophosphonates
+CPD-16801	Chloroaromatic-Compounds
+CPD-16803	Pyridines
+CPD-16804	Compounds
+CPD-16843	Compounds
+CPD-16855	Compounds
+CPD-16866	SULFONATES
+CPD-16867	SULFONATES
+CPD-16868	SULFONATES
+CPD-16873	Compounds
+CPD-16883	Prenylated-Glycans
+CPD-16885	Compounds
+CPD-16886	Compounds
+CPD-16887	Aliphatic-aldehydes-or-ketones
+CPD-16935	Cyclic-Ketones
+CPD-16937	All-Coas
+CPD-16939	Unsaturated-Fatty-Acids
+CPD-16941	Compounds
+CPD-16942	Oxo-Fatty-Acids
+CPD-16953	Pterins
+CPD-16954	Pterins
+CPD-16955	Pterins
+CPD-16964	Compounds
+CPD-16965	Compounds
+CPD-16992	Antibiotics	Polypyrroles
+CPD-16993	Antibiotics
+CPD-16994	n-Acetyl-n-2-keto-compounds
+CPD-16995	E-2-keto-alk-3-ene
+CPD-16996	E-2-keto-alk-3-ene
+CPD-16997	Unsaturated-carbonyl-compounds
+CPD-16998	Chalcones	KETONE	Unsaturated-carbonyl-compounds
+CPD-16999	4-Acetyl-2-keto-compounds
+CPD-170	Tetrasaccharides
+CPD-17000	4-Acetyl-2-keto-compounds
+CPD-17001	n-Acetyl-n-2-keto-compounds
+CPD-17002	n-Acetyl-n-2-keto-compounds
+CPD-17003	n-Acetyl-n-2-keto-compounds
+CPD-17007	Pyrroles
+CPD-17008	Pyrroles
+CPD-17011	Polypyrroles
+CPD-17012	Polypyrroles
+CPD-17013	Polypyrroles
+CPD-17017	Sugar-bisphosphates
+CPD-17018	Sugar-1-Phosphate
+CPD-17024	Chlorides
+CPD-17059	Heme-d1
+CPD-17063	HEME_O
+CPD-17068	Hemes
+CPD-17069	Hemes
+CPD-17070	Porphyrins
+CPD-17075	CPD-18966
+CPD-17076	CPD-18967
+CPD-17077	CPD-18968
+CPD-17078	CPD-18969
+CPD-17079	CPD-18970
+CPD-17082	Fe3-siderophores
+CPD-17084	Perillyl-Alcohols
+CPD-17095	Modified-Amino-Acids
+CPD-17100	Furans
+CPD-17102	Furans
+CPD-17103	Furans
+CPD-17105	Cobalamins	Organometallics
+CPD-17106	Compounds
+CPD-17129	Aldonic-Acids
+CPD-17138	Delta-lactones
+CPD-17143	Modified-Nucleotides	Pyrimidines
+CPD-17157	Delta-lactones
+CPD-17160	Modified-Bases
+CPD-17161	Modified-Bases
+CPD-17162	Modified-Bases
+CPD-17163	Modified-Bases
+CPD-17165	Antibiotics
+CPD-17166	Antibiotics
+CPD-17168	Antibiotics
+CPD-17169	Antibiotics
+CPD-17170	Antibiotics
+CPD-17171	Beta-amino-acids
+CPD-17175	Amino-Acid-Derivatives
+CPD-17176	Modified-Bases
+CPD-17179	Compounds
+CPD-17180	Compounds
+CPD-17183	Amino-Acid-Derivatives
+CPD-17184	Amino-Acid-Derivatives
+CPD-17189	Adenosylcobamide	Co-a-adenyl-cobamide
+CPD-17193	Macrolide-Antibiotics
+CPD-17205	GDP-SUGARS
+CPD-17206	GDP-SUGARS
+CPD-17207	Macrolide-Antibiotics
+CPD-17210	Macrolide-Antibiotics
+CPD-17212	Macrolide-Antibiotics
+CPD-17222	Phycocyanobilins
+CPD-17223	Phycoerythrobilins
+CPD-17273	2-Palmitoyl-L-Phosphatidate
+CPD-17275	Sterols
+CPD-173	Compounds
+CPD-17301	Ketocarotenoids
+CPD-17302	Ketocarotenoids
+CPD-17304	Ketocarotenoids
+CPD-17309	carotenoids
+CPD-17319	L-PHOSPHATIDATE
+CPD-17406	GDP-SUGARS
+CPD-17407	GDP-SUGARS
+CPD-17409	GDP-SUGARS
+CPD-17411	GDP-SUGARS
+CPD-17416	Cycic-Dipeptides
+CPD-17418	GDP-SUGARS
+CPD-17419	GDP-SUGARS
+CPD-17488	Compounds
+CPD-17489	Compounds
+CPD-17490	Compounds
+CPD-17492	D-2-hydroxyacids
+CPD-17496	PNP-Modified-Glycosides
+CPD-17498	Antibiotics
+CPD-17499	Antibiotics
+CPD-17500	Antibiotics
+CPD-17506	DTDP-SUGARS
+CPD-17508	DIPEPTIDES
+CPD-17509	L-Amino-Acids
+CPD-17510	2-Oxo-carboxylates
+CPD-17511	2-Oxo-carboxylates
+CPD-17519	CPD-21965
+CPD-17520	CPD-21965
+CPD-17521	CPD-21965
+CPD-17522	CPD-21965
+CPD-17530	Lipid-A-containing-Glycolipids
+CPD-17531	L-Amino-Acids
+CPD-17536	2-Oxo-carboxylates
+CPD-17539	Dapdiamides
+CPD-17540	Dapdiamides
+CPD-17541	Dapdiamides
+CPD-17551	2-Oxo-carboxylates
+CPD-17552	2-Oxo-carboxylates
+CPD-17565	C-nitro-compounds
+CPD-17566	C-nitro-compounds
+CPD-17567	C-nitro-compounds
+CPD-17568	C-nitro-compounds
+CPD-17570	Aci-Nitro-Compounds
+CPD-17572	C-nitro-compounds
+CPD-17573	Compounds
+CPD-17574	Compounds
+CPD-1763	Sesquiterpenes
+CPD-17635	All-Coas
+CPD-17660	Ketocarotenoids
+CPD-17661	Ketocarotenoids
+CPD-17662	Ketocarotenoids
+CPD-17663	Ketocarotenoids
+CPD-17664	Ketocarotenoids
+CPD-17665	Ketocarotenoids
+CPD-17670	Compounds
+CPD-17674	Hydrazides
+CPD-17675	Hydrazides
+CPD-17686	Medium-Chain-234-Saturated-Fatty-Acids	Monounsaturated-fatty-acids
+CPD-17696	Glycoalkaloids
+CPD-17697	Compounds
+CPD-17701	Disaccharides
+CPD-17702	Disaccharides
+CPD-17705	Modified-Sugars	Unsaturated-Pyranuronate
+CPD-17706	Trisaccharides
+CPD-17714	Disaccharides
+CPD-17751	Disaccharides
+CPD-17752	Compounds
+CPD-17753	Aromatic-Nitriles
+CPD-17755	Compounds
+CPD-17756	Disaccharides
+CPD-17764	Compounds
+CPD-17766	CPD-17768
+CPD-17782	Compounds
+CPD-17820	Polyisoprenyl-Monophosphates
+CPD-17858	Archeal-Dolichol-P
+CPD-17859	Archeal-Dil-GlcNAc-P
+CPD-17860	CPD-18232
+CPD-17862	Archaeal-dolichyl-phosphooligosaccharide
+CPD-17870	Compounds
+CPD-17889	Archaeal-dolichyl-phosphooligosaccharide
+CPD-17890	Archaeal-dolichyl-phosphooligosaccharide
+CPD-17891	Archaeal-dolichyl-phosphooligosaccharide
+CPD-17892	Archaeal-dolichyl-phosphooligosaccharide
+CPD-17893	Archaeal-dolichyl-phosphooligosaccharide
+CPD-17894	CPD-171
+CPD-17940	Holothins
+CPD-17947	Peptidoglycans
+CPD-17948	Holothins
+CPD-17952	CPD-18980
+CPD-17968	Peptidoglycans
+CPD-17969	Peptidoglycans
+CPD-17986	CPD0-1176
+CPD-17989	Peptidoglycans
+CPD-180	Inositol-Phosphates
+CPD-18004	carotenoids
+CPD-18005	carotenoids
+CPD-18006	carotenoids
+CPD-18007	carotenoids
+CPD-18008	carotenoids
+CPD-18011	Compounds
+CPD-18012	Modified-Bases
+CPD-18029	Amino-Acids-20	Aromatic-L-Amino-Acids	L-Amino-Acids	Uncharged-polar-amino-acids
+CPD-18030	Tetrahydroisoquinolines
+CPD-18046	Kanamycins
+CPD-18047	Kanamycins
+CPD-18048	Deoxystreptamine-Antib
+CPD-18049	Kanamycins
+CPD-18050	Kanamycins
+CPD-18051	Kanamycins
+CPD-18052	Deoxystreptamine-Antib
+CPD-18053	Deoxystreptamine-Antib
+CPD-18062	CMP-SUGARS
+CPD-18063	Compounds
+CPD-18064	Compounds
+CPD-18065	Lipid-A-containing-Glycolipids
+CPD-18066	Lipid-A-containing-Glycolipids
+CPD-18072	Compounds
+CPD-18073	Compounds
+CPD-18105	Compounds
+CPD-18120	Phenylpropanoids
+CPD-18126	Phenylpropanoids
+CPD-18131	Phenylpropanoids
+CPD-18164	DTDP-SUGARS
+CPD-18172	3-Methyl-Saturated-Fatty-Acids	OMEGA-HYDROXY-FATTY-ACID	Saturated-Fatty-Acids
+CPD-18175	Even-Straight-Chain-234-Sat-FA	Long-Chain-234-Saturated-Fatty-Acids	Methyl-Branched-Fatty-Acids	Saturated-Fatty-Acids
+CPD-18176	OMEGA-HYDROXY-FATTY-ACID
+CPD-18177	Monoterpene-Derivatives	Omega-Hydroxy-Me-Branched-Lipids
+CPD-18178	Isoprenoid-Derivatives	Omega-Hydroxy-Me-Branched-Lipids
+CPD-18179	Isoprenoid-Derivatives
+CPD-18194	Dihydromenaquinones
+CPD-18196	Dihydromenaquinones
+CPD-18198	Holothins
+CPD-18199	Holothins
+CPD-18201	Holothins
+CPD-18202	Holothins
+CPD-18203	Holothins
+CPD-18224	Antibiotics
+CPD-18229	Compounds
+CPD-18237	Antibiotics
+CPD-18238	Compounds
+CPD-18239	Compounds
+CPD-18251	Modified-Amino-Acids	Ureido-Compounds
+CPD-18253	Compounds
+CPD-18258	Compounds
+CPD-1826	Compounds
+CPD-18260	Cofactors	Reduced-Flavins
+CPD-18264	Compounds
+CPD-1827	All-Coas
+CPD-1828	GDP-SUGARS
+CPD-1829	Cobalamins	Organometallics
+CPD-18290	Phenols
+CPD-18291	Benzoates
+CPD-18294	Benzoates
+CPD-183	Compounds
+CPD-18309	Dapdiamides
+CPD-18312	Compounds
+CPD-18313	Compounds
+CPD-18319	CPD-18314
+CPD-18320	Compounds
+CPD-18321	Compounds
+CPD-18327	Compounds
+CPD-18328	Compounds
+CPD-18331	Compounds
+CPD-18332	Compounds
+CPD-18333	Compounds
+CPD-18334	Compounds
+CPD-18346	CPD0-2227	Long-Chain-234-Saturated-acyl-CoAs
+CPD-18348	LC-ACYL-SN-GLYCEROL-3P	Saturated-2-Lysophosphatidates
+CPD-18350	2-Palmitoleoyl-L-Phosphatidate
+CPD-18351	2-Palmitoleoyl-L-Phosphatidate	Phosphatidates-34-2
+CPD-18379	LC-ACYL-SN-GLYCEROL-3P	Saturated-2-Lysophosphatidates
+CPD-18380	2-Palmitoleoyl-L-Phosphatidate
+CPD-18390	L-PHOSPHATIDATE
+CPD-184	Compounds
+CPD-18432	Antibiotics
+CPD-18433	Antibiotics
+CPD-18434	Compounds
+CPD-18435	Compounds
+CPD-18436	In-Situ-Cofactors
+CPD-18437	Compounds
+CPD-18438	Hydroxy-D-Amino-Acids
+CPD-18443	Hydroxy-D-Amino-Acids
+CPD-18447	dicarboxylate
+CPD-18448	Compounds
+CPD-18452	Compounds
+CPD-18453	Compounds
+CPD-18456	Carbohydrate-Derivatives
+CPD-18458	UDP-sugar
+CPD-18460	UDP-sugar
+CPD-18462	UDP-4R-amino-sugars
+CPD-18464	CMP-SUGARS
+CPD-18495	Compounds
+CPD-18497	Compounds
+CPD-18499	Inorganic-Salts
+CPD-18500	Inorganic-Salts
+CPD-18501	Inorganic-Salts
+CPD-18508	Compounds
+CPD-18530	Quinomycins
+CPD-18532	Hydroxy-L-Amino-Acids
+CPD-18533	Compounds
+CPD-18534	Compounds
+CPD-18536	Compounds
+CPD-18537	Compounds
+CPD-18538	Hydroxy-L-Amino-Acids
+CPD-18539	Compounds
+CPD-18541	Quinomycins
+CPD-18544	Compounds
+CPD-18545	Compounds
+CPD-18549	Quinomycins
+CPD-18550	Compounds
+CPD-18559	Compounds
+CPD-18561	Compounds
+CPD-18562	CPD-18702
+CPD-18569	Tetramethylated-Mycocerosic-Acids
+CPD-18578	Phenolphthiocerol-A
+CPD-18580	Phthiocerol-A
+CPD-18587	Phosphinates
+CPD-18588	Amino-acid-adenylates
+CPD-18589	Compounds
+CPD-18590	Compounds
+CPD-18600	CPD-18716
+CPD-18613	Glycolipids
+CPD-18617	Compounds
+CPD-18619	Compounds
+CPD-18623	Compounds
+CPD-18627	Phthiodiolone-A
+CPD-18629	Phthiodiolone-A
+CPD-18630	Glycolipids	Phthiotriols-A
+CPD-18633	Phthiocerol-A
+CPD-18635	Compounds
+CPD-18636	Phthiodiolenone-A
+CPD-18637	Phthiodiolenone-A
+CPD-18644	ALKALOID	Steroids
+CPD-18645	ALKALOID
+CPD-18654	Phenolphthiotriol-A
+CPD-18655	Phenolphthiodiolone-A
+CPD-18657	Compounds
+CPD-18660	Phenolphthiodiolenone-A
+CPD-18665	CPD-18669
+CPD-18670	Phenolcarboxyphthiodiolenones
+CPD-18671	Phenolcarboxyphthiodiolenones
+CPD-18672	Carboxyphthiodiolenones
+CPD-18685	Compounds
+CPD-18686	Compounds
+CPD-18687	Compounds
+CPD-18688	Compounds
+CPD-18690	Compounds
+CPD-18691	Compounds
+CPD-18694	Phenolphthiodiolone-A
+CPD-18703	CPD-18702
+CPD-18704	CPD-18715
+CPD-18706	CPD-18714
+CPD-18713	CPD-18715
+CPD-18727	Antibiotics	Rifamycins
+CPD-18733	Aurachins
+CPD-18735	Tetrasaccharides
+CPD-18736	Aurachins
+CPD-18740	Compounds
+CPD-18741	Compounds
+CPD-18745	Compounds
+CPD-18746	Compounds
+CPD-18748	Compounds
+CPD-18750	Compounds
+CPD-18765	Antibiotics
+CPD-18766	Antibiotics
+CPD-18767	Compounds
+CPD-18773	Compounds
+CPD-18776	Compounds
+CPD-18777	Compounds
+CPD-18779	Compounds
+CPD-18780	Compounds
+CPD-18787	Compounds
+CPD-18788	Compounds
+CPD-18789	Compounds
+CPD-18790	Aminoglycoside-Antibiotics
+CPD-18796	Bile-acids
+CPD-18797	Bile-acids
+CPD-18798	Bile-acids
+CPD-18805	Peptidoglycans
+CPD-18807	Peptidoglycans
+CPD-18808	Peptidoglycans
+CPD-18819	3-Oxosteroyl-CoA
+CPD-18820	All-Coas
+CPD-18821	All-Coas
+CPD-18823	3-Oxosteroyl-CoA
+CPD-18825	Bile-acids
+CPD-18826	Bile-acids
+CPD-18833	Xenobiotic
+CPD-18836	Xenobiotic
+CPD-18840	Chlorophyllides	Organometallics
+CPD-18841	3-vinyl-bacteriochlorophyllide-d
+CPD-18842	3-vinyl-bacteriochlorophyllide-d
+CPD-18843	3-vinyl-bacteriochlorophyllide-d
+CPD-18844	3-vinyl-bacteriochlorophyllide-d
+CPD-18845	CPD-18866
+CPD-18846	CPD-18866
+CPD-18848	CPD-18866
+CPD-18849	CPD-18866
+CPD-18850	CPD-9093
+CPD-18851	CPD-9093
+CPD-18852	CPD-9093
+CPD-18853	CPD-9093
+CPD-18858	CPD-18867
+CPD-18859	CPD-9092
+CPD-18860	CPD-18867
+CPD-18861	CPD-18867
+CPD-18862	CPD-18867
+CPD-18863	CPD-9092
+CPD-18864	CPD-9092
+CPD-18865	CPD-9092
+CPD-18870	CPD-9094
+CPD-18871	CPD-9094
+CPD-18872	CPD-9094
+CPD-18873	CPD-9094
+CPD-18879	Chlorophyllide-e
+CPD-18880	Chlorophyllide-e
+CPD-18881	Chlorophyllide-e
+CPD-18882	Chlorophyllide-e
+CPD-18885	Chlorophyllides	Organometallics
+CPD-18886	Chlorophyllides	Organometallics
+CPD-18887	Chlorophyllides	Organometallics
+CPD-18890	Bacteriochlorins	Organometallics
+CPD-18905	CPD-18899
+CPD-18908	Hydroxy-L-Amino-Acids
+CPD-18913	Trisaccharides
+CPD-18916	Compounds
+CPD-18923	Androgens
+CPD-18924	3-Oxo-Delta-4-Steroids
+CPD-18928	Compounds
+CPD-18929	Polypyrroles
+CPD-18934	Compounds
+CPD-18935	Modified-Amino-Acids
+CPD-18937	Compounds
+CPD-18963	CPD-18968
+CPD-18964	CPD-18969
+CPD-18965	Compounds
+CPD-18977	Pseudomonic-Acids
+CPD-18978	Marinolic-Acids
+CPD-18979	Marinoloyl-Coa
+CPD-18981	Pseudomonoyl-CoAs
+CPD-19005	Compounds
+CPD-19008	Compounds
+CPD-19012	Compounds
+CPD-19013	Compounds
+CPD-19014	Compounds
+CPD-19037	Compounds
+CPD-19040	Compounds
+CPD-19043	Compounds
+CPD-19044	Compounds
+CPD-19066	Steroids
+CPD-19067	Steroids
+CPD-19072	3-Beta-Hydroxysterols
+CPD-19074	3-Beta-Hydroxysterols
+CPD-19092	Primary-Alkyl-Sulfate-Esters
+CPD-191	Prenylated-Glycans
+CPD-19111	Compounds
+CPD-19114	Aromatics
+CPD-19118	Aromatics
+CPD-19133	Sugar-Phosphate
+CPD-19135	ERYTHRULOSE-1P
+CPD-19136	ERYTHRULOSE-1P
+CPD-19138	Sugar-Phosphate
+CPD-19144	CPD0-2186	Long-Chain-234-Saturated-acyl-CoAs
+CPD-19147	CPD0-2228	Long-Chain-234-Saturated-acyl-CoAs
+CPD-19148	Medium-Chain-234-Saturated-acyl-CoAs
+CPD-19150	medium-Chain-Trans-23-Dehydroacyl-CoA
+CPD-19151	Medium-Chain-3S-Hydroxyacyl-CoAs
+CPD-19153	Medium-Chain-oxoacyl-CoAs
+CPD-19154	Long-Chain-3S-Hydroxyacyl-CoAs
+CPD-19155	Long-Chain-3S-Hydroxyacyl-CoAs
+CPD-19157	Long-Chain-oxoacyl-CoAs
+CPD-19158	Long-Chain-oxoacyl-CoAs
+CPD-19159	Long-Chain-3S-Hydroxyacyl-CoAs
+CPD-19160	Long-Chain-oxoacyl-CoAs
+CPD-19161	Long-Chain-Trans-23-Dehydroacyl-CoA
+CPD-19162	Long-Chain-Trans-23-Dehydroacyl-CoA
+CPD-19163	Long-Chain-Trans-23-Dehydroacyl-CoA
+CPD-19167	Long-Chain-oxoacyl-CoAs
+CPD-19168	Long-Chain-3S-Hydroxyacyl-CoAs
+CPD-19169	Long-Chain-oxoacyl-CoAs
+CPD-19170	Long-Chain-Trans-23-Dehydroacyl-CoA
+CPD-19171	Long-Chain-3S-Hydroxyacyl-CoAs
+CPD-19172	Long-Chain-Trans-23-Dehydroacyl-CoA
+CPD-19179	Compounds
+CPD-19181	a-DNA-methyl-phosphotriester
+CPD-19185	DNA-N
+CPD-19187	Compounds
+CPD-19188	Compounds
+CPD-19199	Trisaccharides
+CPD-19202	Pentapeptides
+CPD-19203	Pentapeptides
+CPD-19205	Dipeptides-With-C-Terminal-Arg
+CPD-19209	Nocardicins
+CPD-19220	Compounds
+CPD-19233	Quinones
+CPD-19235	Compounds
+CPD-19236	Compounds
+CPD-19237	Monocarboxylic-Acid-Amides
+CPD-19238	Compounds
+CPD-19239	Compounds
+CPD-19240	Aminoalkylphosphonates
+CPD-19241	Aminoalkylphosphonates
+CPD-19242	Aminoalkylphosphonates
+CPD-19243	Aminoalkylphosphonates
+CPD-19251	carotenoids
+CPD-19252	Tetracyclines
+CPD-19254	carotenoids
+CPD-19255	Tetracyclines
+CPD-19260	Tetracyclines
+CPD-19261	Tetracyclines
+CPD-19267	carotenoids
+CPD-19268	Tetracyclines
+CPD-19270	Compounds
+CPD-19271	Compounds
+CPD-19272	Compounds
+CPD-19273	Compounds
+CPD-19274	Compounds
+CPD-19275	Compounds
+CPD-19285	carotenoids
+CPD-19288	Compounds
+CPD-19289	DTDP-SUGARS
+CPD-19290	DTDP-SUGARS
+CPD-19301	Teichoic-P-Gro
+CPD-19302	Teichoic-acid-components
+CPD-19307	Teichoic-acid-components
+CPD-19313	CPD-18969
+CPD-19314	CPD-18969
+CPD-19317	Compounds
+CPD-19322	Compounds
+CPD-19323	Compounds
+CPD-19324	Compounds
+CPD-19326	Compounds
+CPD-19327	Compounds
+CPD-19328	Compounds
+CPD-19339	D-SEDOHEPTULOSE-7-P
+CPD-19340	Teichoic-P-Gro
+CPD-19341	Teichoic-P-Gro
+CPD-19342	Teichoic-P-Gro
+CPD-19343	CPD-19345
+CPD-19349	Compounds
+CPD-19350	Compounds
+CPD-19351	CPD-19352
+CPD-19360	UDP-sugar
+CPD-19361	UDP-sugar
+CPD-19362	UDP-sugar
+CPD-19364	Compounds
+CPD-19365	Compounds
+CPD-19366	Compounds
+CPD-19387	Compounds
+CPD-19388	Histidine-Derivatives
+CPD-194	C-nitro-compounds
+CPD-19404	Benzoates
+CPD-19405	Compounds
+CPD-19407	Compounds
+CPD-19408	Compounds
+CPD-19410	Compounds
+CPD-1943	Compounds
+CPD-19461	Tetrasaccharides
+CPD-19471	Chloroaromatic-Compounds
+CPD-195	Medium-Chain-234-Saturated-Fatty-Acids	Saturated-Fatty-Acids
+CPD-19543	Modified-Amino-Acids
+CPD-19557	Compounds
+CPD-19561	Compounds
+CPD-19562	Compounds
+CPD-196	Medium-Chain-234-Saturated-acyl-CoAs
+CPD-19661	Compounds
+CPD-19682	Cholesteryl-glucosides
+CPD-19710	Bilins
+CPD-19713	Bilins
+CPD-19714	Bilins
+CPD-19731	CPD-12642
+CPD-19745	Aldehydes	Aldodioses
+CPD-19754	Amino-Acid-Derivatives
+CPD-19757	Compounds
+CPD-19778	Compounds
+CPD-19779	Compounds
+CPD-19780	Compounds
+CPD-19781	Compounds
+CPD-19782	2-Oxo-carboxylates
+CPD-19833	Antibiotics	Oxidized-Flavins
+CPD-19834	Oxidized-Flavins
+CPD-19835	Oxidized-Flavins
+CPD-19847	3-AMINO-6-ACETAMIDOHEXANOATE
+CPD-19856	2-Alkyl-3-hydroxy-fatty-acids
+CPD-19857	CPD-19854
+CPD-19876	Hydroxy-carboxylates
+CPD-19877	Hydroxy-carboxylates
+CPD-19879	Aldonic-acid-phosphates
+CPD-19880	Aldonic-acid-phosphates
+CPD-19881	Aldonic-acid-phosphates
+CPD-19882	2-Oxo-carboxylates	Hydroxy-carboxylates
+CPD-19883	2-Oxo-carboxylates	Hydroxy-carboxylates
+CPD-19884	CPD-12642	Hydroxy-carboxylates
+CPD-19888	CPD-19944
+CPD-19889	CPD-19943
+CPD-19890	CPD-19941
+CPD-19918	IM-2-type-lactones
+CPD-19933	CPD-19941
+CPD-19945	IM-2-type-lactones
+CPD-19946	IM-2-type-lactones
+CPD-19947	A-factor-type-lactones
+CPD-19948	A-factor-type-lactones
+CPD-19988	Antibiotics
+CPD-19991	Antibiotics
+CPD-19997	Compounds
+CPD-19998	Compounds
+CPD-2	Monovalent-Inorganic-Cations
+CPD-20000	Compounds
+CPD-20001	Compounds
+CPD-20002	Compounds
+CPD-20026	Rifamycins
+CPD-20029	Aliphatic-Alpha-Omega-Diamines
+CPD-20035	Modified-Nucleotides
+CPD-20036	Modified-Nucleotides
+CPD-20067	Prenylated-Glycans
+CPD-20069	Prenylated-Glycans
+CPD-20070	Prenylated-Glycans
+CPD-201	All-Coas
+CPD-20103	CPD-20107
+CPD-20104	Compounds
+CPD-20111	Compounds
+CPD-20112	Compounds
+CPD-20117	C-nitro-compounds	Galactosides	PNP-Modified-Glycosides
+CPD-202	3alpha-hydroxysteroyl-CoA
+CPD-20340	TRIPEPTIDES
+CPD-20487	Isoprenoid-Derivatives
+CPD-20490	Isoprenoid-Derivatives
+CPD-20491	Isoprenoid-Derivatives
+CPD-20492	Isoprenoid-Derivatives
+CPD-20493	Isoprenoid-Derivatives
+CPD-20508	Compounds
+CPD-20512	CPD-17449
+CPD-20513	Compounds
+CPD-20518	Compounds
+CPD-20546	Antibiotics
+CPD-20548	Bromoaromtic-Compounds
+CPD-20551	Bromoaromtic-Compounds
+CPD-20552	Bromoaromtic-Compounds
+CPD-20553	Bromoaromtic-Compounds
+CPD-20554	Bromoaromtic-Compounds
+CPD-20559	PBDEs
+CPD-20566	Bromoaromtic-Compounds
+CPD-20568	Bromoaromtic-Compounds
+CPD-20581	Bromoaromtic-Compounds
+CPD-20584	PBDEs
+CPD-20585	PBDEs
+CPD-20587	PBDEs
+CPD-20594	Bromoaromtic-Compounds
+CPD-20595	PBDEs
+CPD-20596	PBDEs
+CPD-20597	PBDEs
+CPD-20598	PBDEs
+CPD-2061	Iodoalkanes
+CPD-20624	carotenoids
+CPD-20625	carotenoids
+CPD-20626	carotenoids
+CPD-20627	carotenoids
+CPD-20628	carotenoids
+CPD-20629	carotenoids
+CPD-20647	Carotenes
+CPD-20664	carotenoids
+CPD-20665	carotenoids
+CPD-20670	carotenoids
+CPD-20671	carotenoids
+CPD-20672	carotenoids
+CPD-20673	carotenoids
+CPD-20674	Ketocarotenoids
+CPD-20681	All-Coas
+CPD-20682	All-Coas
+CPD-20683	All-Coas
+CPD-20684	All-Coas
+CPD-20688	IN-CHAIN-HYDROXY-FATTY-ACID
+CPD-20689	Monounsaturated-fatty-acids
+CPD-207	All-Coas
+CPD-20702	Archaeal-dolichyl-phosphooligosaccharide
+CPD-20724	Modified-Bases
+CPD-20746	DIPEPTIDES
+CPD-20749	UDP-sugar
+CPD-20750	OLIGOPEPTIDES
+CPD-20753	Beta-Lactams
+CPD-20754	Beta-Lactams
+CPD-20758	Beta-Lactams
+CPD-20759	Isocyanides
+CPD-20762	Isocyanides
+CPD-20766	Isocyanides
+CPD-20768	Isocyanides
+CPD-20769	Indole-Derivatives	Isocyanides
+CPD-20770	Isocyanides
+CPD-20771	Isocyanides
+CPD-20795	Isocyanides
+CPD-20797	Fischerindoles	Isocyanides
+CPD-208	CPD-15846
+CPD-20802	Hapalindoles	Isocyanides
+CPD-20803	Fischerindoles	Isocyanides
+CPD-20804	Hapalindoles	Isocyanides
+CPD-20810	Welwitindolinones
+CPD-20811	Welwitindolinones
+CPD-20812	Welwitindolinones
+CPD-20813	Welwitindolinones
+CPD-20821	NDP-glucoses	UDP-sugar
+CPD-20826	All-Nucleosides	Purine-ribonucleosides-5-P
+CPD-20827	Cobamide-phosphate
+CPD-20828	Cobamide-phosphate
+CPD-20829	Compounds
+CPD-20830	Compounds
+CPD-20831	Compounds
+CPD-20832	Compounds
+CPD-20833	Cobamide-phosphate
+CPD-20836	Cobamide-phosphate
+CPD-20838	Compounds
+CPD-20839	Cobamide-phosphate
+CPD-20846	Adenosylcobamide	Co-a-5-methylbenzimidazolyl-cobamides
+CPD-20849	Adenosylcobamide	Co-a-5-hydroxybenzimidazolyl-cobamides
+CPD-20851	All-Nucleosides	Purine-ribonucleosides-5-P
+CPD-20852	Cobamide-phosphate
+CPD-20853	Adenosylcobamide	Co-a-2-methyladenyl-cobamide
+CPD-20855	Cobamide-phosphate
+CPD-20856	Cobamide-phosphate
+CPD-20866	Compounds
+CPD-20867	CPD0-1104
+CPD-20890	Compounds
+CPD-20894	Quaternary-Amines	an-antimicrobial-agent
+CPD-20898	Drugs
+CPD-20899	Drugs
+CPD-209	UDP-sugar
+CPD-20903	Organometallics
+CPD-20908	Organometallics
+CPD-20909	Organometallics
+CPD-20920	Chloroaromatic-Compounds	Drugs
+CPD-20921	Antibiotics	Drugs
+CPD-20966	POLYPRENYLPHOSPHATE-GLUCOSE
+CPD-20969	Diamines
+CPD-21000	Compounds
+CPD-21001	Compounds
+CPD-21007	Catecholate-siderophores
+CPD-21009	Hydroxamate-siderophores
+CPD-21010	Hydroxamate-siderophores
+CPD-21011	Hydroxamate-siderophores
+CPD-21012	Hydroxamate-siderophores
+CPD-21013	Hydroxamate-siderophores
+CPD-21015	a-fluoroquinolone-
+CPD-21017	Hydroxamate-siderophores
+CPD-21019	Hydroxamate-siderophores
+CPD-21020	Hydroxamate-siderophores
+CPD-21021	Hydroxamate-siderophores
+CPD-21026	Hydroxamate-siderophores
+CPD-21027	Hydroxamate-siderophores
+CPD-21028	Compounds
+CPD-21035	N-alpha-Acylated-L-Amino-Acids
+CPD-21047	Carboxylate-siderophores
+CPD-21056	Organic-heterobicyclic-compounds
+CPD-21062	Organic-heterobicyclic-compounds
+CPD-21063	Organic-heterobicyclic-compounds
+CPD-21067	Organic-heterobicyclic-compounds
+CPD-21072	Compounds
+CPD-21073	Compounds
+CPD-21074	CPD-21081
+CPD-21075	CPD-21081
+CPD-21078	CPD-21112
+CPD-21083	Compounds
+CPD-21084	Carbamates
+CPD-21107	CPD-6262
+CPD-21108	S-Substituted-L-Cysteines
+CPD-21110	CPD-21112
+CPD-21119	S-Substituted-L-Cysteines
+CPD-21126	S-Substituted-L-Cysteines
+CPD-21128	Aromatics
+CPD-21137	CPD-6262
+CPD-21304	Purine-Related
+CPD-21340	Polyisoprenyl-Diphosphates
+CPD-21359	LOS
+CPD-21372	Compounds
+CPD-21373	Compounds
+CPD-21376	All-Coas
+CPD-21378	Compounds
+CPD-21406	Polysaccharides
+CPD-21407	Polysaccharides
+CPD-21409	Polysaccharides
+CPD-21411	All-Coas
+CPD-21412	All-Coas
+CPD-21413	All-Coas
+CPD-21414	All-Coas
+CPD-21415	All-Coas
+CPD-21416	All-Coas
+CPD-21417	All-Coas
+CPD-21427	Dinucleotide
+CPD-21429	N-Substituted-Amino-Acids
+CPD-21431	Compounds
+CPD-21432	Compounds
+CPD-21433	Compounds
+CPD-21462	Pseudomonic-Acids
+CPD-21463	Pseudomonic-Acids
+CPD-21465	Pseudomonic-Acids
+CPD-21466	Pseudomonic-Acids
+CPD-21481	Organophosphonates
+CPD-21485	DTDP-SUGARS	NDP-alpha-D-glucoses
+CPD-21492	INDOLE_LACTATE	R-3-Aryl-Lactates
+CPD-21502	Compounds
+CPD-21503	Tricarboxylates
+CPD-21531	Prenylated-Glycans
+CPD-21577	Salmochelins
+CPD-21578	Salmochelins
+CPD-21579	Salmochelins
+CPD-21581	Salmochelins
+CPD-21582	Salmochelins
+CPD-21583	Salmochelins
+CPD-21585	Fe3-siderophores	Salmochelins
+CPD-21588	Salmochelins
+CPD-21591	Fe3-siderophores	Salmochelins
+CPD-21607	Fe3-siderophores	Salmochelins
+CPD-21608	Fe3-siderophores	Salmochelins
+CPD-21609	Fe3-siderophores	Salmochelins
+CPD-21610	Fe3-siderophores	Salmochelins
+CPD-21611	Fe3-siderophores	Salmochelins
+CPD-21685	CPD-10247
+CPD-217	25-DIAMINOPENTANOATE	D-Amino-Acids
+CPD-21708	Sugar-Phosphate
+CPD-21724	3beta-OH-4b-carboxy-4a-methyl-sterols
+CPD-21730	3beta-OH-4a-carboxy-4b-methyl-sterols
+CPD-21736	3beta-OH-4a-carboxy-4b-methyl-sterols
+CPD-21754	C-nitro-compounds	Catechols	Nitroaromatic-Compounds
+CPD-21772	n-Alkanals
+CPD-21781	Compounds
+CPD-21782	Compounds
+CPD-21783	Compounds
+CPD-21788	C-nitro-compounds
+CPD-21795	Compounds
+CPD-21800	Compounds
+CPD-21801	Compounds
+CPD-21806	Antibiotics	Nitroaromatic-Compounds
+CPD-21835	Compounds
+CPD-21836	Compounds
+CPD-21840	All-Coas	Aromatics	C-nitro-compounds
+CPD-21851	Streptovaricins
+CPD-21853	Streptovaricins
+CPD-21865	Antibiotics	Rifamycins
+CPD-21874	Compounds
+CPD-21879	Streptovaricins
+CPD-21880	Streptovaricins
+CPD-21889	Chaxamycins
+CPD-21890	Chaxamycins
+CPD-21891	Chaxamycins
+CPD-21892	Chaxamycins
+CPD-21896	Streptovaricins
+CPD-21897	Streptovaricins
+CPD-219	D-Amino-Acids
+CPD-21907	Chaxamycins
+CPD-21908	Chaxamycins
+CPD-21909	Chaxamycins
+CPD-21911	Chaxamycins
+CPD-21917	Naphthomycins
+CPD-21922	Naphthomycins
+CPD-21923	Naphthomycins
+CPD-21938	POLYKETIDE
+CPD-21956	CPD-11926
+CPD-21958	CPD-11926
+CPD-21966	CPD-21965
+CPD-21967	CPD-21965
+CPD-21977	Ansatrienins
+CPD-220	D-Amino-Acids
+CPD-22077	Dipeptides-Of-L-Amino-Acids
+CPD-2209	Glycolipids
+CPD-221	Disaccharides
+CPD-22104	All-Coas
+CPD-22105	All-Coas
+CPD-22106	All-Coas
+CPD-22107	All-Coas
+CPD-22119	Ansatrienins
+CPD-22143	Compounds
+CPD-22144	Compounds
+CPD-22145	Compounds
+CPD-22181	Pederins
+CPD-2222	4-HYDROXYPHENYLLACTATE	R-3-Aryl-Lactates
+CPD-225	Tricarboxylates
+CPD-227	D-Aldoses
+CPD-233	Compounds
+CPD-2343	Compounds
+CPD-235	Compounds
+CPD-237	Indole-Derivatives
+CPD-245	Tricarboxylates
+CPD-247	Compounds
+CPD-2482	Antibiotics
+CPD-253	Compounds
+CPD-255	ACETOIN
+CPD-26	Compounds
+CPD-261	Perillyl-Alcohols
+CPD-277	Compounds
+CPD-279	Chlorides
+CPD-280	Compounds
+CPD-2841	Compounds
+CPD-285	2-Hydroxy-carboxylates	Tricarboxylates
+CPD-29	Compounds
+CPD-290	Diols
+CPD-291	2-Oxo-carboxylates
+CPD-292	Compounds
+CPD-294	Compounds
+CPD-2961	Carbohydrate-acid-derivatives
+CPD-3	Inorganic-Anions
+CPD-30	Compounds
+CPD-302	D-Amino-Acids
+CPD-306	N-Substituted-Amino-Acids
+CPD-309	N-Substituted-Amino-Acids
+CPD-313	Compounds
+CPD-316	Reduced-Flavins
+CPD-323	Steroids
+CPD-330	Gamma-lactones
+CPD-3321	Non-standard-amino-acids
+CPD-335	3-HYDROXY-BUTYRATE
+CPD-336	2-Hydroxy-carboxylates	Tricarboxylates
+CPD-337	2-Oxo-carboxylates
+CPD-339	Compounds
+CPD-341	Indole-Derivatives
+CPD-342	3-Oxo-5-Alpha-Steroids
+CPD-343	Compounds
+CPD-344	DTDP-SUGARS
+CPD-346	2-3-Butanediols
+CPD-35	Compounds
+CPD-354	GDP-SUGARS
+CPD-3563	Compounds
+CPD-3564	Hydroxy-Butyrates	L-2-hydroxyacids
+CPD-3565	Alpha-D-Galactosides
+CPD-3570	Beta-D-glucosides	CPD0-1666
+CPD-3571	Tricarboxylates
+CPD-358	Lactaldehydes
+CPD-3582	CPD0-1666
+CPD-36	Disaccharides
+CPD-360	Compounds
+CPD-3617	Medium-Chain-234-Saturated-Fatty-Acids	Saturated-Fatty-Acids
+CPD-363	CPD-12642	Hydroxy-carboxylates
+CPD-365	Modified-Inositols
+CPD-366	CPD-11803
+CPD-367	RS-3-Sulfolactate
+CPD-3682	All-Amines
+CPD-37	Glycans
+CPD-370	Carbohydrate-Derivatives
+CPD-3706	3-Phosphomonucleotides	All-Nucleosides
+CPD-3707	All-Nucleosides	Cyclic-2-3-Ribonucleoside-Monophosphates	Cyclic-Nucleoside-Monophosphates	Cyclic-Ribonucleoside-Monophosphates
+CPD-3708	3-Phosphomonucleotides	All-Nucleosides
+CPD-3709	All-Nucleosides	Cyclic-2-3-Ribonucleoside-Monophosphates	Cyclic-Nucleoside-Monophosphates	Cyclic-Ribonucleoside-Monophosphates
+CPD-371	n-Alkanals
+CPD-3711	3-Phosphomonucleotides	Pyrimidines
+CPD-3713	Cyclic-2-3-Ribonucleoside-Monophosphates	Cyclic-Nucleoside-Monophosphates	Cyclic-Ribonucleoside-Monophosphates	Pyrimidines
+CPD-372	Alditol-phosphates	Sugar-Phosphate
+CPD-3724	3-Phosphomonucleotides	Pyrimidines
+CPD-3725	Cyclic-2-3-Ribonucleoside-Monophosphates	Cyclic-Nucleoside-Monophosphates	Cyclic-Ribonucleoside-Monophosphates	Pyrimidines
+CPD-3734	Compounds
+CPD-3745	Alkanesulfonates
+CPD-3766	CPD-11501	Quinones
+CPD-377	2-Oxo-carboxylates
+CPD-380	SULFONATES
+CPD-3801	Disaccharides
+CPD-381	2-HYDROXYGLUTARIC_ACID	L-2-hydroxyacids
+CPD-387	Halide-Anions
+CPD-392	C-Methylated-Amino-Acids
+CPD-397	Methylated-Amino-Acids	ORGANOSULFUR
+CPD-4	Coenzymes	Pterins
+CPD-400	Guaiacols
+CPD-403	Compounds
+CPD-407	5-L-GLUTAMYL-AMINO-ACID
+CPD-4126	Delta5-Delta7-Steroids
+CPD-4127	Triterpenes
+CPD-4184	3-Beta-Hydroxysterols	Triterpenes
+CPD-4187	3-Beta-Hydroxysterols	Delta5-Delta7-Steroids
+CPD-4205	Compounds
+CPD-4206	Compounds
+CPD-4209	Adenine-Cytokinins	Modified-Bases
+CPD-421	Compounds
+CPD-4210	Adenine-Cytokinins	N6-Alkylaminopurine
+CPD-4211	Compounds
+CPD-4261	Monoterpenes
+CPD-444	Compounds
+CPD-448	D-glucose-1-phosphates
+CPD-4501	Compounds
+CPD-4521	Compounds
+CPD-4522	Compounds
+CPD-4544	Compounds
+CPD-4578	3-Oxosteroids
+CPD-458	Galactosyl-Inositols
+CPD-4584	Inorganic-Anions
+CPD-465	Triterpenes
+CPD-468	Amino-Acids
+CPD-469	Compounds
+CPD-470	L-Amino-Acids
+CPD-471	3-AMINO-ISOBUTYRATE
+CPD-472	DTDP-SUGARS
+CPD-479	CPD-19485
+CPD-4821	Kanamycins
+CPD-4822	Kanamycins
+CPD-4823	Kanamycins
+CPD-4824	Kanamycins
+CPD-4841	Pyrimidines
+CPD-4886	Limonenes
+CPD-497	Compounds
+CPD-499	Compounds
+CPD-513	All-Coas	Phenylpropanoids
+CPD-514	All-Coas	Phenylpropanoids
+CPD-520	3prime-Hydroxy-Flavones	Flavonols	Pentahydroxyflavones
+CPD-529	Compounds
+CPD-535	Compounds
+CPD-536	Compounds
+CPD-5401	Compounds
+CPD-543	Quaternary-Amines
+CPD-548	S-Substituted-Glutathione
+CPD-55	n-Alkanals
+CPD-551	Organophosphonates
+CPD-5541	Compounds
+CPD-560	Compounds
+CPD-564	Modified-Amino-Acids
+CPD-5721	Thiopurines
+CPD-578	Compounds
+CPD-5802	Teichoic-P-Gro
+CPD-582	Mo-molybdopterin-cofactor
+CPD-5821	Ureido-Compounds
+CPD-583	N-alpha-Acylated-L-Amino-Acids
+CPD-5881	Tetrahydropterins
+CPD-592	Compounds
+CPD-5921	CPD-7999	R-3-Aryl-Lactates
+CPD-5923	Deoxynucleoside-Derivatives	Fluorides
+CPD-597	Compounds
+CPD-600	N-Acylated-Aliphatic-Amino-Acids	N-alpha-Acylated-L-Amino-Acids
+CPD-6001	L-Pentoses
+CPD-601	Modified-Amino-Acids
+CPD-602	Modified-Nucleotides
+CPD-603	Nitriles
+CPD-6041	Compounds
+CPD-605	Compounds
+CPD-606	Compounds
+CPD-6082	Compounds
+CPD-613	Compounds
+CPD-618	2-Hydroxy-carboxylates	Tricarboxylates
+CPD-621	Compounds
+CPD-622	Tricarboxylates
+CPD-623	Benzenediols
+CPD-6301	Compounds
+CPD-633	Hydroxy-carboxylates	Monocarboxylates
+CPD-642	Precorrins
+CPD-643	Precorrins
+CPD-645	Ketoaldonates
+CPD-650	3-Hydroxybutanoyl-CoAs	Short-Chain-3R-Hydroxyacyl-CoAs
+CPD-651	Precorrins
+CPD-653	NADHX
+CPD-654	2-Oxo-carboxylates
+CPD-659	Compounds
+CPD-66	Compounds
+CPD-660	RS-Malate
+CPD-662	Precorrins
+CPD-663	NDP-4-dehydro-6-deoxy-D-glucose	UDP-hex4-ulose
+CPD-665	n-Alkanals
+CPD-667	Amino-Acid-Derivatives
+CPD-67	Monocarboxylates
+CPD-672	CPD-19747
+CPD-674	3-Aryl-Acrylates	Phenylpropanoids
+CPD-6746	Myo-inositol-monophosphates
+CPD-675	Precorrins
+CPD-676	CAFFEATE
+CPD-679	Precorrins
+CPD-689	Organometallics
+CPD-69	Compounds
+CPD-6901	Antibiotics
+CPD-691	Organometallics
+CPD-6947	Quinones
+CPD-6972	Compounds
+CPD-6981	Compounds
+CPD-6982	Compounds
+CPD-6995	Threitols
+CPD-700	Delta5-Delta7-Steroids
+CPD-7000	n-Alkanals
+CPD-7002	Compounds
+CPD-7003	Compounds
+CPD-7004	Organometallics
+CPD-7005	Organometallics
+CPD-7006	Organometallics
+CPD-7013	Organometallics
+CPD-7014	Chlorophyllides	Organometallics
+CPD-7016	Organometallics
+CPD-702	Aryl-Alcohols	C-nitro-compounds
+CPD-703	Aryl-Aldehyde	C-nitro-compounds
+CPD-704	Aromatics	C-nitro-compounds
+CPD-7046	Inorganic-Anions
+CPD-705	Compounds
+CPD-706	Steroids
+CPD-7082	Organic-Salts
+CPD-7092	Diterpenes
+CPD-7093	Oryzalexins
+CPD-71	All-Coas
+CPD-7158	Demethylated-Ubiquinols
+CPD-7162	Co-a-5-hydroxybenzimidazolyl-cobamides
+CPD-7163	Co-a-5-hydroxybenzimidazolyl-cobamides	Methylcobamides
+CPD-7167	Inositol-Phosphates
+CPD-72	All-Coas
+CPD-7206	Apocarotenoids
+CPD-721	Aromatic-Acid
+CPD-722	Compounds
+CPD-7221	CIS-DELTA3-ENOYL-COA	Medium-Chain-Acyl-CoAs
+CPD-7235	Bile-acids
+CPD-7246	N-acetyl-a-D-hexosamine-1-phosphates
+CPD-725	Hydroperoxy-octadecatrienoates
+CPD-7257	All-Coas
+CPD-7266	Compounds
+CPD-7267	Compounds
+CPD-73	All-Coas
+CPD-734	Jasmonic-Acids
+CPD-7367	Aryl-Amines
+CPD-7368	C-nitro-compounds
+CPD-7388	Compounds
+CPD-7400	Aromatics
+CPD-7408	carotenoids
+CPD-7409	Xanthophylls
+CPD-7419	Carotenes
+CPD-7425	CPD-19766
+CPD-7496	carotenoids
+CPD-7526	Carotenes
+CPD-7535	Carotenes
+CPD-7564	Organometallics
+CPD-7590	Corphins	Organometallics
+CPD-7592	Corphins	Organometallics
+CPD-76	All-Coas
+CPD-7602	Compounds
+CPD-7613	Compounds
+CPD-7616	Aryl-Aldehyde
+CPD-7618	Acids
+CPD-7620	n-Alkanals
+CPD-763	Compounds
+CPD-7630	CPD-10414
+CPD-764	Organophosphonates
+CPD-7643	Compounds
+CPD-7644	Compounds
+CPD-7646	Compounds
+CPD-7652	Compounds
+CPD-7670	ORGANOSULFUR
+CPD-7671	Thiols
+CPD-7672	All-Carboxy-Acids	Thiols
+CPD-7673	ORGANOSULFUR
+CPD-7682	Compounds
+CPD-7695	NAcMur-Peptide-NAcGlc-Undecaprenols
+CPD-7733	Aurachins
+CPD-7734	Compounds
+CPD-7737	Compounds
+CPD-782	Catechols
+CPD-783	Compounds
+CPD-7836	Long-Chain-234-Saturated-Fatty-Acids	Saturated-Fatty-Acids
+CPD-784	Compounds
+CPD-7847	CPD-11473
+CPD-785	2-Oxo-carboxylates	Tricarboxylates
+CPD-7850	Ketocarotenoids
+CPD-7851	Ketocarotenoids
+CPD-7852	Ketocarotenoids
+CPD-7857	Monoterpenols
+CPD-786	2-Oxo-carboxylates
+CPD-7867	Medium-Chain-Primary-Alcohols
+CPD-7880	Medium-Chain-Aldehydes	n-Alkanals
+CPD-7970	Aromatic-Nitriles
+CPD-7988	Compounds
+CPD-8050	Inositols
+CPD-8065	Pentasaccharides
+CPD-8066	Hexasaccharides
+CPD-8123	Mo-molybdopterin-cofactor
+CPD-8130	Alcohols
+CPD-8179	C-nitro-compounds
+CPD-821	Amino-Acid-Derivatives	Quaternary-Amines
+CPD-822	Compounds
+CPD-824	2-Oxo-carboxylates
+CPD-825	Compounds
+CPD-827	Ketoaldonates
+CPD-8486	Aromatic-Acid
+CPD-8490	Medium-Chain-Aldehydes	n-Alkanals
+CPD-85	Compounds
+CPD-8610	3-Beta-Hydroxysterols
+CPD-8614	4alpha-Methyl-3-Oxosteroids
+CPD-863	Compounds
+CPD-864	Compounds
+CPD-8646	3-Beta-Hydroxysterols	Delta5-Delta7-Steroids
+CPD-8742	2-Oxo-carboxylates	dicarboxylate
+CPD-8781	Compounds
+CPD-8782	Compounds
+CPD-8785	Limonenes
+CPD-881	Retinals
+CPD-8815	Compounds
+CPD-8816	Compounds
+CPD-8819	Compounds
+CPD-882	Retinols
+CPD-8829	Dyes
+CPD-884	Compounds
+CPD-8876	Primary-Alkyl-Sulfate-Esters
+CPD-8886	Divalent-Inorganic-Cations
+CPD-8887	Compounds
+CPD-8891	DL-12-Propanediol
+CPD-8905	CPD-20974
+CPD-8906	CPD-20974
+CPD-8907	CPD-20973
+CPD-8908	CPD-20973
+CPD-8939	Agaro-oligosaccharides
+CPD-8973	Aryl-Dialkyl-Phosphate
+CPD-8974	Compounds
+CPD-8981	Compounds
+CPD-8989	L-Methionine-sulfoxides
+CPD-8990	L-Methionine-sulfoxides
+CPD-8999	Compounds
+CPD-9000	Compounds
+CPD-9009	Compounds
+CPD-901	Compounds
+CPD-9011	Peptidyl-nucleosides
+CPD-9012	Compounds
+CPD-9024	Compounds
+CPD-9026	Compounds
+CPD-9037	CPD-20938	Methylcobamides
+CPD-904	Amino-Acid-Derivatives
+CPD-9040	Organometallics	Precorrins
+CPD-9041	Organometallics	Precorrins
+CPD-9042	Organometallics	Precorrins
+CPD-9043	Organometallics	Precorrins
+CPD-9044	Organometallics	Precorrins
+CPD-9045	Organometallics	Precorrins
+CPD-9047	Organometallics	Precorrins
+CPD-9048	Organometallics	Precorrins
+CPD-9049	Corrins	Organometallics
+CPD-9051	Compounds
+CPD-9055	Hexoses
+CPD-9064	Chlorophyllides	Organometallics
+CPD-9065	Bacteriochlorins	Chlorophyllides	Organometallics
+CPD-9066	Chlorophyllides	Organometallics
+CPD-9067	Bacteriochlorophyll-a
+CPD-9087	Methyl-Branched-Lipids	Prenols
+CPD-9088	Compounds
+CPD-9089	Organometallics
+CPD-9090	Organometallics
+CPD-9091	Bacteriochlorins	Organometallics
+CPD-9096	Pheophytins
+CPD-9097	Bacteriochlorins	Chlorophyllides	Organometallics
+CPD-9098	Pheophytins
+CPD-9099	Pheophytins
+CPD-9100	Pheophytins
+CPD-9124	3-CARBAMOYLOXYMETHYLCEPHEM
+CPD-9125	Cephalosporins
+CPD-9134	C-nitro-compounds	Catechols	Nitroaromatic-Compounds
+CPD-9135	Compounds
+CPD-9151	Catechols	Chloroaromatic-Compounds
+CPD-9152	Catechols	Chloroaromatic-Compounds
+CPD-9169	Aromatics
+CPD-9175	N-Alpha-Acetylated-Amino-Acids
+CPD-9189	Glycerates
+CPD-9190	Glycerates
+CPD-9196	PENICILLIN
+CPD-9208	Cephalosporins
+CPD-9220	PENICILLIN
+CPD-9227	Cephems
+CPD-9231	Carbapenems
+CPD-9245	CPD66-39	Long-Chain-234-Saturated-Fatty-Acids	Monounsaturated-fatty-acids
+CPD-9247	Vaccenate
+CPD-927	Compounds
+CPD-928	Compounds
+CPD-9280	ORGANOSULFUR	S-Alkyl-L-Cysteine-S-Oxides
+CPD-9288	Medium-Chain-Alkanes
+CPD-9300	S-Alkyl-L-Cysteines
+CPD-9327	ALKALOID
+CPD-9372	Compounds
+CPD-9375	Aldehydes
+CPD-9382	Compounds
+CPD-9406	All-Coas
+CPD-9408	All-Coas
+CPD-9409	All-Coas
+CPD-9415	Nocardicins
+CPD-9416	Nocardicins
+CPD-9417	Nocardicins
+CPD-9418	Nocardicins
+CPD-9429	Compounds
+CPD-9444	CIS-TRANS-POLYISOPRENYL-PP	Sesquiterpenes
+CPD-9446	Monosaccharides
+CPD-945	Alkyl-Sulfinates
+CPD-9451	Compounds
+CPD-946	Compounds
+CPD-9466	Organophosphonates
+CPD-9517	Compounds
+CPD-9522	Antibiotics
+CPD-9550	Levan
+CPD-961	N-ACYL-L-AMINO-ACID	N-hydroxylated-Amino-Acids
+CPD-9610	TRANS-POLYISOPRENYL-PP
+CPD-9646	CIS-TRANS-POLYISOPRENYL-P	Polyisoprenyl-Monophosphates
+CPD-9663	Compounds
+CPD-9665	Compounds
+CPD-9666	Compounds
+CPD-9667	Compounds
+CPD-9668	Compounds
+CPD-9669	Compounds
+CPD-9698	CDP-SUGARS
+CPD-9701	CDP-SUGARS
+CPD-9720	Menaquinones
+CPD-9756	CDP-SUGARS
+CPD-9768	2-HEXADECENOATES
+CPD-9776	ALKALOID
+CPD-9777	ALKALOID
+CPD-9849	Dihydromenaquinones
+CPD-9862	2-Polyprenyl-Phenol
+CPD-9863	2-Polyprenyl-Phenol
+CPD-9864	4-Hydroxy-3-polyprenylbenzoates
+CPD-9865	2-Methoxy-6-polyprenyl-phenols
+CPD-9866	2-Methoxy-6-polyprenyl-phenols
+CPD-9867	3-Polyrenyl-benzene-1-2-diols
+CPD-9868	3-Polyrenyl-benzene-1-2-diols
+CPD-9869	2-Methoxy-6-Polyprenyl-14-Benzoquinols
+CPD-9870	2-Methoxy-6-Polyprenyl-14-Benzoquinols
+CPD-9871	6Methoxy5Methyl2Polyprenyl14Benzoquinol
+CPD-9872	6Methoxy5Methyl2Polyprenyl14Benzoquinol
+CPD-9873	Demethylated-Ubiquinols
+CPD-9893	ALKALOID
+CPD-9905	Compounds
+CPD-9906	Compounds
+CPD-9908	Triterpenes
+CPD-9910	Triterpenes
+CPD-9911	Triterpenes
+CPD-9912	Triterpenes
+CPD-9913	Triterpenes
+CPD-9915	Compounds
+CPD-9923	Compounds
+CPD-9924	Compounds
+CPD-9925	Compounds
+CPD-9937	Compounds
+CPD-9939	ALKALOID
+CPD-9949	Compounds
+CPD-9958	Ubiquinols
+CPD-9959	Sesquiterpenes
+CPD-9960	Compounds
+CPD-9961	Compounds
+CPD-9962	Antibiotics
+CPD-9965	Long-Chain-234-Saturated-acyl-CoAs
+CPD-9978	Monoterpenals
+CPD-9985	Catecholate-siderophores
+CPD-9986	Carboxylate-siderophores
+CPD-9989	Hydroxamate-siderophores
+CPD-9992	Thiazoline-siderophores
+CPD-9995	Compounds
+CPD-9999	Compounds
+CPD0-1025	Bromide
+CPD0-1032	Beta-amino-acids
+CPD0-1053	Compounds
+CPD0-1063	Compounds
+CPD0-1068	Alkylphosphonates
+CPD0-1074	Aminoalkylphosphonates
+CPD0-1080	CPD0-1176
+CPD0-1081	Compounds
+CPD0-1082	Tetrapeptides
+CPD0-1083	Aldonic-Acids
+CPD0-1086	Organophosphonates
+CPD0-1088	Compounds
+CPD0-1090	Alpha-omega-dicarboxylates
+CPD0-1092	Alpha-omega-dicarboxylates
+CPD0-1112	L-rhamnopyranose
+CPD0-1113	Antibiotics	Organophosphonates
+CPD0-1123	N-ACETYLNEURAMINATE
+CPD0-1133	Linear-Malto-Oligosaccharides
+CPD0-1137	Diadenosine-polyphosphates
+CPD0-1143	Modified-Bases
+CPD0-1151	LOS
+CPD0-1156	Compounds
+CPD0-1157	Compounds
+CPD0-1158	Lipids
+CPD0-1159	Long-Chain-Fatty-Acids	Polyunsaturated-fatty-acids
+CPD0-1162	All-Coas
+CPD0-1163	Long-Chain-3S-Hydroxyacyl-CoAs
+CPD0-1187	Compounds
+CPD0-1189	Compounds
+CPD0-1193	Polysaccharides
+CPD0-1194	Modified-Nucleotides
+CPD0-1198	Compounds
+CPD0-1202	Disaccharides	Xyloglucan-oligosaccharides
+CPD0-1231	Compounds
+CPD0-1234	Compounds
+CPD0-1237	Compounds
+CPD0-1251	Pteroates
+CPD0-1252	Pteroates
+CPD0-1253	Pteroates
+CPD0-1255	THF-Derivatives
+CPD0-1267	dicarboxylate
+CPD0-1277	Polymyxins
+CPD0-1280	Oligosaccharides
+CPD0-1281	Compounds
+CPD0-1283	Lipid-A
+CPD0-1284	Lipid-A
+CPD0-1308	All-Amino-Acids	Organophosphonates
+CPD0-1313	ORGANOSULFUR
+CPD0-1319	Pyrimidine-5-Deoxyribonucleosides
+CPD0-1320	Modified-Uridines
+CPD0-1321	Iodoaromtic-Compounds	Modified-Uridines
+CPD0-1322	Modified-Uridines
+CPD0-1327	Uracil-Analogues
+CPD0-1328	Compounds
+CPD0-1329	Compounds
+CPD0-1330	Compounds
+CPD0-1331	Compounds
+CPD0-1357	Iodoaromtic-Compounds
+CPD0-1358	Compounds
+CPD0-1359	Compounds
+CPD0-1360	Iodoaromtic-Compounds
+CPD0-1363	Iodoaromtic-Compounds
+CPD0-1370	Carbohydrate-Derivatives
+CPD0-1372	Carbohydrate-Derivatives	Organophosphonates
+CPD0-1373	Carbohydrate-Derivatives
+CPD0-1374	Compounds
+CPD0-1380	N-Acylated-Amino-Acids
+CPD0-1413	Compounds
+CPD0-1414	Tetracyclines
+CPD0-1415	All-Nucleosides
+CPD0-1422	2-Palmitoyl-L-Phosphatidate
+CPD0-1423	L-PHOSPHATIDATE
+CPD0-1425	L-PHOSPHATIDATE
+CPD0-1426	Compounds
+CPD0-1436	Compounds
+CPD0-1445	Dipeptides-With-L-Ala-At-N-Terminal
+CPD0-1455	CPD-20939
+CPD0-1456	UDP-sugar
+CPD0-1457	Compounds
+CPD0-1458	Compounds
+CPD0-1465	Compounds
+CPD0-1470	Compounds
+CPD0-1472	THF-GLU-N
+CPD0-1473	Compounds
+CPD0-1474	Compounds
+CPD0-1476	Compounds
+CPD0-1486	Compounds
+CPD0-1487	Fluoroaromatic-Compounds
+CPD0-1488	Compounds
+CPD0-1489	Compounds
+CPD0-1490	Compounds
+CPD0-1496	Compounds
+CPD0-1507	O-Methylated-Amino-Acids
+CPD0-1512	Compounds
+CPD0-1520	Compounds
+CPD0-1545	Antibiotics
+CPD0-1546	Compounds
+CPD0-1552	Compounds
+CPD0-1562	Alpha-Amino-Acids
+CPD0-1564	Non-standard-amino-acids	cystine
+CPD0-1574	Compounds
+CPD0-1575	Compounds
+CPD0-1576	Bromoaromtic-Compounds
+CPD0-1581	Antibiotics	Pyrimidines
+CPD0-1583	Compounds
+CPD0-1584	Compounds
+CPD0-1585	Compounds
+CPD0-1586	C-nitro-compounds
+CPD0-1587	Compounds
+CPD0-1588	Compounds
+CPD0-1590	Compounds
+CPD0-1591	Compounds
+CPD0-1594	Compounds
+CPD0-1596	Compounds
+CPD0-1604	Compounds
+CPD0-1610	Compounds
+CPD0-1612	Compounds
+CPD0-1613	Compounds
+CPD0-1629	Glycosides
+CPD0-1643	Compounds
+CPD0-1646	Compounds
+CPD0-1651	Organic-Salts
+CPD0-1655	Compounds
+CPD0-1656	Compounds
+CPD0-1667	Compounds
+CPD0-1668	Compounds
+CPD0-1669	Compounds
+CPD0-1699	Tetrahydropterins
+CPD0-1708	Compounds
+CPD0-1882	Mo-molybdopterin-cofactor
+CPD0-1883	Compounds
+CPD0-1884	Organophosphonates
+CPD0-1905	All-Nucleosides
+CPD0-1932	Modified-Bases
+CPD0-1938	Compounds
+CPD0-1942	2-Aminobutyrate
+CPD0-1965	TRIPEPTIDES
+CPD0-2018	Modified-Bases
+CPD0-2019	Compounds
+CPD0-2021	Compounds
+CPD0-2030	Glycerophosphodiesters
+CPD0-2056	TRIPEPTIDES
+CPD0-2060	Nucleobase-analogues
+CPD0-2067	Compounds
+CPD0-2099	Organophosphonates
+CPD0-2101	Tetrahydropterins
+CPD0-2108	medium-Chain-Trans-23-Dehydroacyl-CoA
+CPD0-2113	LC-ACYL-SN-GLYCEROL-3P	Saturated-2-Lysophosphatidates	Stearoyl-lipid
+CPD0-2121	medium-Chain-Trans-23-Dehydroacyl-CoA
+CPD0-2189	Hydroxy-L-Amino-Acids
+CPD0-2190	Dipeptides-With-L-Ala-At-N-Terminal
+CPD0-2279	Prenylated-Glycans
+CPD0-2298	Ureido-Compounds
+CPD0-2306	Compounds
+CPD0-2331	Ureido-Compounds
+CPD0-2338	Ureido-Compounds
+CPD0-2339	Compounds
+CPD0-2340	Compounds
+CPD0-2357	Furans
+CPD0-2362	Compounds
+CPD0-2363	Compounds
+CPD0-2364	Compounds
+CPD0-2370	S-Substituted-Glutathione
+CPD0-2463	Compounds
+CPD0-2467	Compounds
+CPD0-2468	Compounds
+CPD0-2472	NADHX
+CPD0-2474	NADPHX
+CPD0-2477	Compounds
+CPD0-2479	Compounds
+CPD0-2480	Compounds
+CPD0-2482	Fe3-siderophores
+CPD0-2483	Compounds
+CPD0-2499	Beta-D-glucosides	CPD0-1666
+CPD0-2500	Alpha-D-Galactosides	C-nitro-compounds
+CPD0-2501	Disaccharide-phosphates
+CPD0-2518	Compounds
+CPD0-2521	Aminoalkylphosphonates
+CPD0-2552	Compounds
+CPD0-2558	Compounds
+CPD0-2581	Antibiotics	Pseudomonic-Acids
+CPD0-2595	Cyclodextrins
+CPD0-2597	Beta-Lactams
+CPD0-2598	Antibiotics
+CPD0-2599	Beta-Lactams
+CPD0-2600	Carbapenems
+CPD0-2601	Cephalosporins
+CPD0-2602	Cephalosporins
+CPD0-2634	Compounds
+CPD0-2640	Prenylated-Glycans
+CPD0-2652	Glycerolipids
+CPD0-2653	Compounds
+CPD0-441	Antibiotics
+CPD0-881	Compounds
+CPD0-882	Compounds
+CPD0-888	Compounds
+CPD0-889	Compounds
+CPD0-903	Compounds
+CPD0-929	Lipid-A-containing-Glycolipids
+CPD0-930	Lipid-A-containing-Glycolipids
+CPD0-932	Lipid-A-containing-Glycolipids
+CPD0-933	Lipid-A-containing-Glycolipids
+CPD0-934	Lipid-A-containing-Glycolipids
+CPD0-935	Lipid-A-containing-Glycolipids
+CPD0-936	Lipid-A-containing-Glycolipids
+CPD0-937	Lipid-A-containing-Glycolipids
+CPD0-938	LOS
+CPD0-939	LOS
+CPD1F-114	carotenoids
+CPD1F-126	Carotenes
+CPD1F-129	Carotenes
+CPD1F-130	Xanthophylls
+CPD1F-437	Flavonol-3-O-B-D-Glucosides
+CPD1F-98	Carotenes
+CPD1G-0	Compounds
+CPD1G-105	Mannosyl-mycolates
+CPD1G-106	Mannosyl-mycolates
+CPD1G-107	Mannosyl-mycolates
+CPD1G-108	Mannosyl-mycolates
+CPD1G-120	Thiols
+CPD1G-130	Bromide	CPD-15479
+CPD1G-1344	Trehalose-Mycolates
+CPD1G-1345	Trehalose-Mycolates
+CPD1G-1346	Trehalose-Mycolates
+CPD1G-1353	Trehalose-Mycolates
+CPD1G-1354	Trehalose-Mycolates
+CPD1G-1532	Mycolyl-Arabinogalactan
+CPD1G-1533	Mycolyl-Arabinogalactan
+CPD1G-1534	Mycolyl-Arabinogalactan
+CPD1G-1535	Mycolyl-Arabinogalactan
+CPD1G-185	Bromide	Mercapturates
+CPD1G-2	Thiols
+CPD1G-277	VERY-LONG-CHAIN-FATTY-ACYL-COA	Very-long-Chain-234-Saturated-acyl-CoAs
+CPD1G-332	VERY-LONG-CHAIN-FATTY-ACYL-COA
+CPD1G-69	Compounds
+CPD1G-768	Trehalose-Mycolates
+CPD1G-771	Trehalose-Mycolates
+CPD1G-772	Trehalose-Mycolates
+CPD1G-773	Trehalose-Mycolates
+CPD1G-774	Trehalose-Mycolates
+CPD1G-83	Mannosyl-mycolates
+CPD1G-852	Trehalose-Mycolates
+CPD1G-853	Trehalose-Mycolates
+CPD1G-854	CPD1G-833
+CPD1G-855	Trehalose-Mycolates
+CPD1UA-41	Secondary-Metabolites
+CPD1UA-42	Secondary-Metabolites
+CPD1UA-44	Secondary-Metabolites
+CPD1UA-45	Secondary-Metabolites
+CPD1UA-57	CPD-19941
+CPD1UA-58	CPD-19941
+CPD3O-4151	Aromatics
+CPD490-7	Tetrahydropterins
+CPD66-28	Compounds
+CPD66-29	Compounds
+CPD8J2-1	Compounds
+CPD8J2-2	Compounds
+CPD8J2-3	Compounds
+CPDMETA-13643	Sesquiterpenes
+CPDMETA-13650	Compounds
+CPDMETA-13651	Ajmalan-MIAs
+CPDMETA-13652	Ajmalan-MIAs
+CPDN-385	2-Oxo-carboxylates
+CPDQT-27	CPD-19485
+CPDQT-28	CPD-19485
+CPDQT-29	CPD-19485
+CPDQT-30	CPD-19485
+CPDQT-31	CPD-19482
+CPDQT-32	CPD-19482
+CPDQT-33	CPD-19482
+CPDQT-34	CPD-19482
+CPDQT-340	N-homo-methionine
+CPDQT-35	CPD-19482
+CPDQT-36	CPD-19483
+CPDQT-37	CPD-19483
+CPDQT-38	CPD-19483
+CPDQT-39	CPD-19483
+CPDQT-4	Hexose-1-Phosphate
+CPDQT-40	CPD-19483
+CPDQT-41	2-Oxo-carboxylates
+CR+3	Metal-Ions
+CREATINE	Non-alpha-amino-acids
+CREATINE-P	Non-alpha-amino-acids	Phosphorylated-Amino-Acids
+CROTONOBETAINYL-COA	All-Coas
+CROTONYL-COA	Short-Chain-Trans-23-Dehydroacyl-CoA
+CTP	Pyrimidine-ribonucleosides-5-PPP	Pyrimidines
+CU+	Monovalent-Inorganic-Cations
+CU+2	Divalent-Inorganic-Cations
+CUSO4	Inorganic-Salts
+CYANURIC-ACID	Aromatics
+CYCLOHEXANOL	Compounds
+CYCLOHEXANONE	Compounds
+CYCLOPENTANOL	Compounds
+CYCLOPENTANONE	Compounds
+CYS	Amino-Acids-20	L-Amino-Acids	Non-polar-amino-acids	Uncharged-polar-amino-acids
+CYS-GLY	Dipeptides-With-C-Terminal-glycine
+CYSTAMINE	Compounds
+CYSTINE	Non-standard-amino-acids	cystine
+CYTIDINE	Pyrimidine-Ribonucleosides
+CYTOSINE	Pyrimidine-Bases	Pyrimidines
+CoM	Coenzymes	SULFONATES
+D-6-P-GLUCONO-DELTA-LACTONE	Compounds
+D-ALA-D-ALA	Dipeptides-Of-D-Amino-Acids
+D-ALANINE	D-Amino-Acids
+D-ALLOSE-6-PHOSPHATE	HEXOSE-6-PHOSPHATES
+D-ALLULOSE-6-PHOSPHATE	SUGAR-6-PHOSPHATES
+D-ALTRONATE	Aldonic-Acids
+D-BETA-D-HEPTOSE-1-P	Compounds
+D-BETA-D-HEPTOSE-17-DIPHOSPHATE	Compounds
+D-CARNITINE	DL-CARNITINE
+D-ERYTHRO-IMIDAZOLE-GLYCEROL-P	Compounds
+D-ERYTHRULOSE	D-Tetroses
+D-GALACTARATE	Alpha-omega-dicarboxylates
+D-GALACTONATE	Aldonic-Acids
+D-GALACTONO-1-4-LACTONE	Gamma-lactones
+D-GLT	D-Amino-Acids	Glutamates
+D-GLUCARATE	Alpha-omega-dicarboxylates
+D-LACTATE	Lactate
+D-LACTOYL-COA	Lactoyl-CoAs
+D-MANNONATE	Aldonic-Acids	Monocarboxylates
+D-METHYL-MALONYL-COA	Methylmalonyl-CoA
+D-MYO-INOSITOL-1-MONOPHOSPHATE	Myo-inositol-monophosphates
+D-PROLINE	D-Amino-Acids
+D-RIBULOSE	D-Pentoses	Ribuloses
+D-RIBULOSE-1-P	PENTOSE-1-PHOSPHATES
+D-SERINE	D-Amino-Acids	Serines
+D-SORBITOL-6-P	Alditol-phosphates
+D-TAGATURONATE	Hexuronates
+D-TARTRATE	Compounds
+D-THREONINE	D-Amino-Acids
+D-XYLONATE	Aldonic-Acids	Monosaccharides
+D-XYLULOSE	D-Pentoses	Xylulose
+D-aspartate-peptidoglycan	NAcMur-Peptide-NAcGlc-Undecaprenols
+DADP	All-Nucleosides	Purine-deoxyribonucleosides-5-PP
+DAIDZEIN	4-Hydroxyisoflavones	Isoflavones
+DAMP	All-Nucleosides	Purine-deoxyribonucleosides-5-P
+DATP	All-Nucleosides	Purine-deoxyribonucleosides-5-PPP
+DCDP	Pyrimidine-deoxyribonucleosides-5-PP	Pyrimidines
+DCMP	Pyrimidine-deoxyribonucleosides-5-P	Pyrimidines
+DCTP	Pyrimidine-deoxyribonucleosides-5-PPP	Pyrimidines
+DEACETOXYCEPHALOSPORIN-C	Cephalosporins
+DEACETYLCEPHALOSPORIN-C	HYDROXYMETHYLCEPH-3-EM-4-CARBOXYLATE
+DEAMIDO-NAD	Dinucleotide
+DEHYDRO-3-DEOXY-L-RHAMNONATE	Ketoaldonates
+DEHYDRO-DEOXY-GALACTONATE-PHOSPHATE	Compounds
+DEHYDROQUINATE	Compounds
+DELTA-TOCOPHEROL	Tocopherols
+DELTA1-PIPERIDEINE-2-6-DICARBOXYLATE	Compounds
+DELTA1-PYRROLINE_2-CARBOXYLATE	Compounds
+DELTA3-ISOPENTENYL-PP	Compounds
+DEMETHYLMACROCIN	Compounds
+DEOXY-D-RIBOSE-1-PHOSPHATE	DEOXY-RIBOSE-1P
+DEOXYADENOSINE	All-Nucleosides	Purine-Deoxyribonucleosides
+DEOXYAMIDINOPROCLAVAMINATE	Compounds
+DEOXYCHOLATE	Bile-acids
+DEOXYCHOLYL-COA	3alpha-hydroxysteroyl-CoA
+DEOXYCYTIDINE	Pyrimidine-Deoxyribonucleosides
+DEOXYGUANOSINE	All-Nucleosides	Purine-Deoxyribonucleosides
+DEOXYINOSINE	All-Nucleosides	Purine-Deoxyribonucleosides
+DEOXYURIDINE	Pyrimidine-Deoxyribonucleosides
+DEOXYXYLULOSE-5P	PENTOSE-5-PHOSPHATES
+DEPHOSPHO-COA	All-Coas
+DESMOSTEROL-CPD	3-Beta-Hydroxysterols
+DGDP	All-Nucleosides	Purine-deoxyribonucleosides-5-PP
+DGMP	All-Nucleosides	Purine-deoxyribonucleosides-5-P
+DGTP	All-Nucleosides	Purine-deoxyribonucleosides-5-PPP
+DI-H-OROTATE	Compounds
+DI-H-URACIL	Modified-Bases
+DIACETYL	Methylketones
+DIACETYLCHITOBIOSE-6-PHOSPHATE	Disaccharide-phosphates
+DIAMINO-OH-PHOSPHORIBOSYLAMINO-PYR	Compounds
+DICHLOROETHENE	Compounds
+DICOUMAROL	Toxins
+DIETHYLDITHIOCARBAMATE	Compounds
+DIETHYLPYROCARBONATE	Compounds
+DIHYDRO-DIOH-BENZOATE	Compounds
+DIHYDRO-NEO-PTERIN	Pterins
+DIHYDRO-THYMINE	All-Nucleosides	Modified-Bases	Pyrimidines
+DIHYDROCHELIRUBINE	Compounds
+DIHYDROCLAVAMINATE	Compounds
+DIHYDROFOLATE	DIHYDROFOLATE-GLU-N
+DIHYDRONEOPTERIN-P	Pterins
+DIHYDRONEOPTERIN-P3	Pterins
+DIHYDROPTERIN-CH2OH-PP	Pterins
+DIHYDROSANGUINARINE	Compounds
+DIHYDROXY-ACETONE-PHOSPHATE	Sugar-Phosphate
+DIHYDROXY-BUTANONE-P	Compounds
+DIHYDROXYACETONE	Monosaccharides
+DIHYDROXYNAPHTHOATE	Compounds
+DIHYDROXYPENTANEDIONE	Compounds
+DIHYDROXYPHENYLGLYCOLALDEHYDE	Catechols
+DIISOPROPYL-FLUOROPHOSPHATE	Compounds
+DIISOPROPYL-PHOSPHATE	Compounds
+DIMETHYL-GLYCINE	N-methylated-Amino-Acids
+DIMETHYLAMINE	Compounds
+DIMETHYLARSINATE	Compounds
+DIMETHYLBENZIMIDAZOLE	Compounds
+DITHIO-NITROBENZOATE	C-nitro-compounds
+DITHIOTHREITOL	Thiols
+DIUMYCIN	Compounds
+DIVINYL-PROTOCHLOROPHYLLIDE-A	Chlorophyllides	Organometallics
+DIVINYLCHLOROPHYLLIDE-A	Chlorophyllides	Organometallics
+DMPBQ	Reduced-Quinones
+DOCOSANOATE	Long-Chain-234-Saturated-Fatty-Acids	Saturated-Fatty-Acids
+DODECANOATE	Medium-Chain-234-Saturated-Fatty-Acids	Saturated-Fatty-Acids
+DPG	Glycerates
+DTDP-D-FUCOSE	DTDP-SUGARS
+DTDP-D-GLUCOSE	DTDP-SUGARS	NDP-alpha-D-glucoses
+DTDP-DEOH-DEOXY-GLUCOSE	DTDP-4-DEHYDRO-6-DEOXY-D-GALACTOSE	DTDP-SUGARS	NDP-4-dehydro-6-deoxy-D-glucose
+DTDP-DEOH-DEOXY-MANNOSE	DTDP-SUGARS
+DTDP-RHAMNOSE	DTDP-SUGARS
+DUMP	Pyrimidine-deoxyribonucleosides-5-P	Pyrimidines
+DUTP	Pyrimidine-deoxyribonucleosides-5-PPP	Pyrimidines
+ECTOINE	Compounds
+EDTA	Non-Metabolic-Compounds
+EGTA	Compounds
+ENTEROBACTIN	Catecholate-siderophores
+EPOXYSQUALENE	Triterpenes
+ERYTHRITOL	Tetritols
+ERYTHRONATE-4P	Sugar-Phosphate
+ERYTHROSE-4P	Sugar-Phosphate
+ERYTHRULOSE	L-Tetroses
+ETHANOL-AMINE	Compounds
+ETHYL-2-METHYLACETOACETATE	Compounds
+ETHYL-2R-METHYL-3S-HYDROXYBUTANOATE	Compounds
+ETHYLACETATE	Acetate-esters
+ETHYLENE-CMPD	1-Alkenes	Plant-Hormones
+ETOH	Short-Chain-Alcohols	Short-Chain-Primary-Alcohols
+Elemental-Sulfur	Inorganic-Compounds
+F-	Halide-Anions
+FAD	Flavin-Electorin-Carriers	Oxidized-Flavins
+FADH2	Flavin-Electorin-Carriers	Reduced-Flavins
+FARNESYL-PP	Methyl-Branched-Lipids	Sesquiterpenes	TRANS-POLYISOPRENYL-PP
+FE+2	Divalent-Inorganic-Cations
+FE+3	Metal-Ions
+FERRIC-ENTEROBACTIN-COMPLEX	Fe3-siderophores
+FERULIC-ACID	Phenylpropanoids
+FERULOYL-COA	All-Coas	Phenylpropanoids
+FMN	Flavin-Electorin-Carriers	Oxidized-Flavins
+FMNH2	Flavin-Electorin-Carriers	Reduced-Flavins
+FORMALDEHYDE	n-Alkanals
+FORMATE	Short-Chain-Carboxylates
+FRU1P	D-fructofuranose-1-phosphate
+FRUCTOSE-16-DIPHOSPHATE	HEXOSE-6-PHOSPHATES	Sugar-bisphosphates
+FRUCTOSE-6P	CPD-18719
+FRUCTOSELYSINE	Modified-Amino-Acids
+FRUCTOSELYSINE-6-PHOSPHATE	Sugar-Phosphate
+FUCULOSE-1P	Hexose-1-Phosphate
+FUM	C4-dicarboxylates
+G3P	CPD-16758	Glycerates
+GALACTITOL	Hexitols
+GALACTOSE	D-galactopyranose
+GALACTOSE-1P	Alpha-Hexose-1-Phosphates	D-galactose-1-phosphate
+GAMA-TOCOPHEROL	Tocopherols
+GAMMA-BUTYROBETAINE	Monocarboxylates	Quaternary-Amines
+GAMMA-BUTYROBETAINYL-COA	All-Coas
+GAMMA-GLUTAMYL-GAMMA-AMINOBUTYRALDEH	Compounds
+GAMMA-GLUTAMYL-PUTRESCINE	Compounds
+GAMMA-PENTACHLOROCYCLOHEXANE	Compounds
+GAP	CPD0-2032
+GDP	All-Nucleosides	Purine-ribonucleosides-5-PP
+GDP-4-DEHYDRO-6-DEOXY-D-MANNOSE	GDP-SUGARS
+GDP-D-GLUCOSE	GDP-SUGARS	NDP-alpha-D-glucoses
+GDP-L-GALACTOSE	GDP-SUGARS
+GDP-MANNOSE	GDP-SUGARS
+GDP-TP	Modified-Nucleotides
+GERANIAL	Monoterpenals
+GERANYL-PP	Monoterpenyl-Diphosphates	Polyisoprenyl-Diphosphates
+GERANYLGERANYL-PP	TRANS-POLYISOPRENYL-PP
+GLC	Glucopyranose
+GLC-1-P	Alpha-D-aldose-1-phosphates	Alpha-Hexose-1-Phosphates	D-glucose-1-phosphates
+GLC-6-P	D-glucopyranose-6-phosphate
+GLC-D-LACTONE	Delta-lactones
+GLN	Amino-Acids-20	L-Amino-Acids	Neutral-Amino-Acids	Uncharged-polar-amino-acids
+GLOBOMYCIN	Compounds
+GLT	Amino-Acids-20	Glutamates	L-Amino-Acids	Negatively-charged-polar-amino-acids
+GLUCONATE	Aldonic-Acids	Monocarboxylates
+GLUCOSAMINATE	Monocarboxylates
+GLUCOSAMINE-1P	Compounds
+GLUTAMATE-1-SEMIALDEHYDE	Compounds
+GLUTARATE	Compounds
+GLUTARYL-COA	All-Coas
+GLUTATHIONE	All-Glutathiones	Thiols
+GLY	Amino-Acids-20	Neutral-Amino-Acids	Non-polar-amino-acids	Uncharged-polar-amino-acids
+GLYCERALD	CPD0-1551	D-Aldoses
+GLYCERATE	D-2-hydroxyacids	Glycerates
+GLYCEROL	Sugar-alcohols
+GLYCEROL-3P	Glycerol-1-phosphate
+GLYCEROPHOSPHOGLYCEROL	Glycerophosphodiesters
+GLYCOL	glycols
+GLYCOLALDEHYDE	Aldehydes	Aldodioses
+GLYCOLLATE	Monocarboxylates
+GLYOX	2-Oxo-carboxylates
+GMP	All-Nucleosides	Purine-ribonucleosides-5-P
+GTP	All-Nucleosides	Purine-ribonucleosides-5-PPP
+GUANIDOACETIC_ACID	Compounds
+GUANINE	Purine-Bases	Purines
+GUANOSINE	Purine-Ribonucleosides
+GUANOSINE-5DP-3DP	Modified-Nucleotides
+HCN	Nitriles
+HCO3	Inorganic-Anions
+HEPTADECANE-CPD	Long-Chain-Alkanes
+HEPTOSYL-KDO2-LIPID-IVA	Lipid-A-containing-Glycolipids
+HEXANAL	n-Alkanals
+HEXANOATE	Medium-Chain-234-Saturated-Fatty-Acids	Saturated-Fatty-Acids
+HEXANOL-CMPD	Medium-Chain-Primary-Alcohols
+HEXANOYL-COA	Medium-Chain-234-Saturated-acyl-CoAs
+HG+2	Divalent-Inorganic-Cations
+HIS	Amino-Acids-20	Aromatic-L-Amino-Acids	Basic-Amino-Acids	L-Amino-Acids	Positively-charged-polar-amino-acids
+HISTAMINE	Compounds
+HISTIDINOL	Compounds
+HMP	Compounds
+HOMO-CIT	Tricarboxylates
+HOMO-CYS	Non-standard-amino-acids	Protein-bound-uremic-retention-solutes
+HOMO-I-CIT	Tricarboxylates
+HOMO-SER	Non-standard-amino-acids
+HOMOARGININE	Amino-Acids
+HOMOCYSTINE	Non-standard-amino-acids
+HOMOGENTISATE	Compounds
+HOMOMETHIONINE	N-homo-methionine
+HOP-2229-ENE	Compounds
+HOPAN-22-OL	Hopanoids
+HS	Inorganic-Compounds
+HSCN	Thiols
+HX	Compounds
+HYDRAZINE	Hydrazines
+HYDROGEN-PEROXIDE	Compounds
+HYDROQUINONE	Benzenediols	Reduced-Quinones
+HYDROXY-METHYL-BUTENYL-DIP	Compounds
+HYDROXY-UREA	Compounds
+HYDROXYAMINOBENZENE	Compounds
+HYDROXYATRAZINE	Compounds
+HYDROXYBENZOQUINONE	Compounds
+HYDROXYLAMINE	Compounds
+HYDROXYMALONATE	Compounds
+HYDROXYMETHYLBILANE	Compounds
+HYDROXYMUCONATE-SALD	Compounds
+HYDROXYNAPHTHOQUINONE	Quinones
+HYDROXYPROPANAL	Compounds
+HYDRPHENYLAC-CPD	Aryl-Aldehyde
+HYGROMYCIN-B	Deoxystreptamine-Antib
+HYPOTAURINE	Compounds
+HYPOXANTHINE	All-Nucleosides	Purine-Bases
+IDP	All-Nucleosides	Purine-ribonucleosides-5-PP
+ILE	Amino-Acids-20	Branched-Amino-Acids	L-Amino-Acids	Non-polar-amino-acids
+IMIDAZOLE-ACETOL-P	Compounds
+IMINOASPARTATE	Imines
+IMP	All-Nucleosides	Purine-ribonucleosides-5-P
+INDOLE	Indoles
+INDOLE-3-ACETYL-ALA	Indole-Derivatives	Modified-Amino-Acids
+INDOLE-3-GLYCEROL-P	Indole-Containing-Compounds
+INDOLE_ACETALDEHYDE	Indole-Derivatives
+INDOLE_ACETATE_AUXIN	Auxins	Indole-Derivatives
+INDOLE_PYRUVATE	Indole-Derivatives
+INDOXYL	Indole-Derivatives
+INOSINE	Purine-Ribonucleosides
+INOSITOL-1456-TETRAKISPHOSPHATE	Myo-inositol-tetra-kis-phosphates
+IODOACETAMIDE	Organoiodine-Compounds
+IODOACETATE	Organoiodine-Compounds
+IPRONIAZID	Compounds
+ISO-PROPANOL	Compounds
+ISOBUTANOL	Compounds
+ISOBUTYRATE	Compounds
+ISOBUTYRYL-COA	All-Coas
+ISOCHORISMATE	Compounds
+ISONIAZIDE	Antibiotics	Hydrazides
+ISONOCARDICIN-A	Nocardicins
+ISOPENICILLIN-N	PENICILLIN
+ISOPHENOXAZINE	Compounds
+ISOPROPYLAMINE	Compounds
+ISOVALERATE	Compounds
+ISOVALERYL-COA	All-Coas
+ITACONATE	Compounds
+ITP	All-Nucleosides	Purine-ribonucleosides-5-PPP
+K+	Monovalent-Inorganic-Cations
+K-HEXANOYL-COA	Medium-Chain-oxoacyl-CoAs
+KDO	CPD-21351
+KDO-LIPID-IVA	Lipid-A-containing-Glycolipids
+KDO2-LAUROYL-LIPID-IVA	Lipid-A-containing-Glycolipids
+KDO2-LIPID-A	A-DEEP-ROUGH-FORM-LIPOPOLYSACCHARIDE	Lipid-A-containing-Glycolipids
+KDO2-LIPID-IVA	A-DEEP-ROUGH-FORM-LIPOPOLYSACCHARIDE	Lipid-A-containing-Glycolipids
+KDO2-LIPID-IVA-COLD	Lipid-A-containing-Glycolipids
+KDO2-PALMITOLEOYL-LIPID-IVA	Lipid-A-containing-Glycolipids
+KOJIC-ACID	Compounds
+KYNURENATE	Compounds
+L-1-GLYCEROPHOSPHORYLETHANOL-AMINE	Glycerophosphodiesters
+L-23-DIAMINOPROPANOATE	23-Diaminopropanoate	L-Amino-Acids
+L-ALA-GAMMA-D-GLU-DAP	TRIPEPTIDES
+L-ALPHA-ALANINE	Amino-Acids-20	L-Amino-Acids	Neutral-Amino-Acids	Non-polar-amino-acids
+L-ARA4N-MODIFIED-KDO2-LIPID-A	Lipid-A-containing-Glycolipids
+L-ARABITOL	Pentitols
+L-ARGININE-P	Phosphorylated-Amino-Acids
+L-ARGININO-SUCCINATE	Compounds
+L-ASPARTATE	Amino-Acids-20	C4-dicarboxylates	L-Amino-Acids	Negatively-charged-polar-amino-acids
+L-ASPARTATE-SEMIALDEHYDE	Non-standard-amino-acids
+L-BETA-ASPARTYL-P	L-Amino-Acids	Modified-Amino-Acids
+L-CARNITINYL-COA	All-Coas
+L-CITRULLINE	Alpha-Amino-Acids	Ureido-Compounds
+L-CYSTATHIONINE	L-Amino-Acids
+L-CYSTEATE	SULFONATES
+L-DELTA1-PYRROLINE_5-CARBOXYLATE	CPD-478
+L-DI-GMP	Compounds
+L-DIHYDROXY-PHENYLALANINE	Catechols	Non-standard-amino-acids
+L-FUCULOSE	L-Hexoses
+L-GAMMA-GLUTAMYLCYSTEINE	5-L-GLUTAMYL-L-AMINO-ACID
+L-GLUTAMATE_GAMMA-SEMIALDEHYDE	Non-standard-amino-acids
+L-GLYCERALDEHYDE-3-PHOSPHATE	CPD0-2032
+L-GULONATE	Aldonic-Acids
+L-GULONO-1-4-LACTONE	Compounds
+L-HISTIDINOL-P	Compounds
+L-IDONATE	Aldonic-Acids
+L-LACTATE	L-2-hydroxyacids	Lactate
+L-N2-2-CARBOXYETHYLARGININE	Compounds
+L-ORNITHINE	25-DIAMINOPENTANOATE	L-Amino-Acids	Non-standard-amino-acids
+L-PANTOATE	Monocarboxylates
+L-PHOSPHINOTHRICIN	Phosphinates
+L-PIPECOLATE	CPD-20333
+L-RHAMNONATE	Compounds
+L-RHAMNONO-14-LACTONE	Compounds
+L-RIBULOSE-5-P	Ribulose-phosphates
+L-SELENOCYSTEINE	CPD0-1561	L-Amino-Acids	Non-polar-amino-acids
+L-SORBOSONE	Aldohexoses
+L-THREO-3-METHYL-ASPARTATE	C-Methylated-Amino-Acids
+L-THREONATE	Hydroxy-carboxylates
+L-THREONINE-O-3-PHOSPHATE	Phosphorylated-Amino-Acids
+L-THYROXINE	THRYROXINE
+L-XYLULOSE	L-Pentoses	Xylulose
+L-XYLULOSE-5-P	PENTOSE-5-PHOSPHATES
+LACTALD	Lactaldehydes
+LACTOYL-COA	Lactoyl-CoAs
+LANOSTEROL	14-alpha-methylsteroids	3-Beta-Hydroxysterols
+LAUROYLCOA-CPD	Medium-Chain-234-Saturated-acyl-CoAs
+LEU	Amino-Acids-20	Branched-Amino-Acids	L-Amino-Acids	Neutral-Amino-Acids	Non-polar-amino-acids
+LI+	Monovalent-Inorganic-Cations
+LINOLEIC_ACID	Long-Chain-234-Saturated-Fatty-Acids	Omega-6-Fatty-Acids
+LINOLENIC_ACID	Long-Chain-234-Saturated-Fatty-Acids	Omega-3-Fatty-Acids
+LIOTHYRONINE	Hormones	Iodoaromtic-Compounds	Protein-Modified-Amino-Acids
+LIPID-IV-A	Lipid-A
+LIPOIC-ACID	Coenzymes
+LIPOL-AMP	Compounds
+LIPOYL-AMP	Compounds
+LL-DIAMINOPIMELATE	CPD-20332	L-Amino-Acids
+LYS	Amino-Acids-20	Basic-Amino-Acids	L-Amino-Acids	Lysine-or-DAP	Positively-charged-polar-amino-acids
+MAL	RS-Malate
+MALEAMATE	Compounds
+MALEATE	C4-dicarboxylates
+MALONATE	Compounds
+MALONATE-S-ALD	CPD-12642
+MALONYL-COA	All-Coas
+MALTOHEXAOSE	Linear-Malto-Oligosaccharides
+MALTOPENTAOSE	Linear-Malto-Oligosaccharides
+MALTOTETRAOSE	Linear-Malto-Oligosaccharides	Tetrasaccharides
+MALTOTRIOSE	Linear-Malto-Oligosaccharides	Short-glucans	Trisaccharides
+MANNITOL	Hexitols
+MANNITOL-1P	Alditol-phosphates
+MANNOSE-1P	Alpha-Hexose-1-Phosphates
+MELIBIOSE	Disaccharides
+MENADIOL	Reduced-Quinones
+MESACONATE	Compounds
+MESO-DIAMINOPIMELATE	CPD-20332	L-Amino-Acids	Lysine-or-DAP
+MESO-TARTRATE	Compounds
+MET	Amino-Acids-20	L-Amino-Acids	Non-polar-amino-acids
+META-XYLENE	Aromatics
+METHYL-ACETATE	Compounds
+METHYL-BETA-D-GALACTOSIDE	Beta-D-Galactosides
+METHYL-GLYOXAL	Ketals
+METHYL-MALONYL-COA	Methylmalonyl-CoA
+METHYLAMINE	Compounds
+METHYLARSONATE	Compounds
+METHYLARSONITE	Compounds
+METHYLENETETRAHYDROMETHANOPTERIN	Methanopterines-and-derivatives
+METOH	Short-Chain-Alcohols
+MEVALONATE	Compounds
+MEVALONATE-DP	Compounds
+MG+2	Divalent-Inorganic-Cations
+MG-PROTOPORPHYRIN	Organometallics	Porphyrins
+MG-PROTOPORPHYRIN-MONOMETHYL-ESTER	Organometallics	Porphyrins
+MN+2	Divalent-Inorganic-Cations
+MN+3	Metal-Ions
+MOENOMYCIN	Antibiotics
+MONO-VINYL-PROTOCHLOROPHYLLIDE-A	Chlorophyllides	Organometallics
+MONOMER0-4342	Protein-Modified-Amino-Acids
+MONOMETHYL-ESTER-OF-TRANS-ACONITATE	Compounds
+MPBQ	Reduced-Quinones
+MYO-INOSITOL	Inositols
+Me-CoM	Coenzymes
+N-23-DIHYDROXYBENZOYL-L-SERINE	Compounds
+N-5-PHOSPHORIBOSYL-ANTHRANILATE	Compounds
+N-5S-5-AMINO-5-CARBOXYPENTANOYL-L-CY	Compounds
+N-ACETYL-9-O-ACETYLNEURAMINATE	N-ACETYL-O-ACETYLNEURAMINATE
+N-ACETYL-D-GALACTOSAMINE-6-PHOSPHATE	Compounds
+N-ACETYL-D-GLUCOSAMINE	N-acetyl-D-glucosamine
+N-ACETYL-D-GLUCOSAMINE-1-P	N-acetyl-a-D-hexosamine-1-phosphates
+N-ACETYL-D-MANNOSAMINE-6P	CPD-841
+N-ACETYL-GLUTAMYL-P	Compounds
+N-ACETYL-NEURAMINATE-9P	CPD-624
+N-BROMOSUCCINIMIDE	Bromide
+N-ETHYLMALEIMIDE	Compounds
+N-FORMIMINO-L-GLUTAMATE	N-Acylated-Aliphatic-Amino-Acids
+N-FORMYLKYNURENINE	Compounds
+N-METHYLTRYPTOPHAN	N-Alpha-Methyl-L-Amino-Acids
+N-QUINOLIN-8-YLMETHANESULFONAMI	Compounds
+N-SUCCINYL-2-AMINO-6-KETOPIMELATE	Compounds
+N-SUCCINYLLL-2-6-DIAMINOPIMELATE	Compounds
+N2-SUCCINYLGLUTAMATE	Compounds
+N2-SUCCINYLORNITHINE	Compounds
+N5-METHYLGLUTAMINE	N-Methyl-L-Amino-Acids
+NA+	Monovalent-Inorganic-Cations
+NACL	Inorganic-Salts
+NAD	NAD-P-OR-NOP
+NADH	NADH-P-OR-NOP
+NADP	NAD-P-OR-NOP
+NADPH	NADH-P-OR-NOP
+NARINGENIN-7-O-BETA-D-GLUCOSIDE	FLAVANONE-7-O-GLUCOSIDES
+NARINGIN	Flavonone-rhamnosyl-glucosides
+NEUROSPORENE	carotenoids
+NH42SO4	Inorganic-Salts
+NI+2	Divalent-Inorganic-Cations
+NIACINAMIDE	Aliphatic-Amides	Vitamins
+NIACINE	Vitamins
+NICOTINAMIDE_NUCLEOTIDE	Nicotinamide-Mononucleotides
+NICOTINAMIDE_RIBOSE	Carbohydrates
+NICOTINATE_NUCLEOTIDE	Compounds
+NICOTINE	ALKALOID
+NITRATE	Inorganic-Anions
+NITRIC-OXIDE	Inorganic-Compounds	Radicals
+NITRITE	Inorganic-Anions
+NITROGEN-MOLECULE	Non-Metabolic-Compounds
+NITROUS-OXIDE	Inorganic-Compounds	Non-Metabolic-Compounds
+NOCARDICIN-A	Nocardicins
+NOCARDICIN-E	Nocardicins
+NONAPRENYL-4-HYDROXYBENZOATE	4-Hydroxy-3-polyprenylbenzoates
+NORSPERMIDINE	Compounds
+NaF	Inorganic-Salts
+O-PHENANTHROLINE	Compounds
+O-PHOSPHO-L-HOMOSERINE	Non-standard-amino-acids
+O-SUCCINYL-L-HOMOSERINE	Non-standard-amino-acids
+O-SUCCINYLBENZOATE	Compounds
+OCTANOL	Medium-Chain-Primary-Alcohols
+OCTAPRENYL-DIPHOSPHATE	TRANS-POLYISOPRENYL-PP
+OCTAPRENYL-METHOXY-BENZOQUINONE	2-Methoxy-6-Polyprenyl-14-Benzoquinols
+OCTAPRENYL-METHYL-METHOXY-BENZQ	6Methoxy5Methyl2Polyprenyl14Benzoquinol
+OCTAPRENYL-METHYL-OH-METHOXY-BENZQ	Demethylated-Ubiquinols
+OH	Inorganic-Anions
+OH-MYRISTOYL	UDP-sugar
+OH-PYR	Compounds
+OLEANDOMYCIN	Macrolide-Antibiotics
+OLEATE-CPD	Long-Chain-234-Saturated-Fatty-Acids	Monounsaturated-fatty-acids	Omega-9-Fatty-Acids
+OLEOYL-COA	CPD0-2227	Long-Chain-234-Saturated-acyl-CoAs
+OROTATE	Monocarboxylates	Pyrimidines
+OROTIDINE-5-PHOSPHATE	Compounds
+OX-COENZYME-F420	Oxidized-Factor-F420
+OXALACETIC_ACID	C4-dicarboxylates
+OXALATE	dicarboxylate
+OXAMATE	Compounds
+OXIDIZED-GLUTATHIONE	All-Glutathiones
+OXYGEN-MOLECULE	Inorganic-Compounds
+P-AMINO-BENZOATE	Benzoates
+P-BENZOQUINONE	Compounds
+P-COUMAROYL-COA	3-Aryl-Acryloyl-CoAs	Phenylpropanoids
+P-HYDROXY-PHENYLPYRUVATE	2-Oxo-carboxylates	Aromatic-Oxoacids
+P-NITROPHENOL	C-nitro-compounds	Phenols
+P-RIBOSYL-4-SUCCCARB-AMINOIMIDAZOLE	Compounds
+P3I	Polyphosphates
+PALMITALDEHYDE	n-Alkanals
+PALMITATE	Even-Straight-Chain-234-Sat-FA	Long-Chain-234-Saturated-Fatty-Acids	Saturated-Fatty-Acids
+PALMITYL-COA	Long-Chain-234-Saturated-acyl-CoAs
+PANTETHEINE-P	Compounds
+PANTOTHENATE	Compounds
+PAPS	Compounds
+PB+2	Divalent-Inorganic-Cations
+PENICILLIN-G	PENICILLIN
+PENICILLIN-N	PENICILLIN
+PENTANOYLCOA-CPD	Short-Chain-234-Saturated-acyl-CoAs
+PHE	Amino-Acids-20	Aromatic-L-Amino-Acids	Non-polar-amino-acids	Phenylpropanoids
+PHENOL	Phenols
+PHENYL-PYRUVATE	2-Oxo-carboxylates	Aromatic-Oxoacids
+PHENYLACETALDEHYDE	Aryl-Aldehyde
+PHENYLACETALDOXIME	Aldoxime
+PHENYLACETATE	Aromatic-Acid	Auxins	Monocarboxylates	Phenyl-Acetates
+PHENYLACETONITRILE	Aromatic-Nitriles
+PHENYLGLYOXAL	Compounds
+PHENYLGLYOXYLATE	2-Oxo-carboxylates
+PHENYLHYDRAZINE	Hydrazines
+PHMB	Compounds
+PHOSPHATIDYLETHANOLAMINE-KDO2	Lipid-A-containing-Glycolipids
+PHOSPHO-ENOL-PYRUVATE	Monocarboxylates
+PHOSPHORIBOSYL-AMP	Modified-Nucleosides
+PHOSPHORIBOSYL-ATP	Modified-Nucleosides
+PHOSPHORIBOSYL-CARBOXY-AMINOIMIDAZOLE	Compounds
+PHOSPHORIBOSYL-FORMAMIDO-CARBOXAMIDE	Carboxamides
+PHOSPHORIBOSYL-FORMIMINO-AICAR-P	Carboxamides
+PHOSPHORIBULOSYL-FORMIMINO-AICAR-P	Carboxamides
+PHOSPHORYL-CHOLINE	Compounds
+PHOSPHORYL-ETHANOLAMINE	Compounds
+PHTHALATE	Compounds
+PHYTANATE	3-Methyl-Saturated-Fatty-Acids	Saturated-Fatty-Acids
+PHYTYL-PYROPHOSPHATE	Diterpenes
+PICOLINATE	Compounds
+PORPHOBILINOGEN	Compounds
+PPI	Polyphosphates
+PQQ	Quinones
+PRECURSOR-Z	Pterins
+PREGNENOLONE	C21-Steroids	Steroid-Hormones
+PREPHENATE	Compounds
+PRO	Amino-Acids-20	L-Amino-Acids	Neutral-Amino-Acids	Non-polar-amino-acids
+PROCLAVAMINATE	Compounds
+PROGESTERONE	3-Oxo-Delta-4-Steroids	C21-Steroids	Progestogens
+PROPANE-1-2-DIOL	DL-12-Propanediol
+PROPANOL	Short-Chain-Alcohols	Short-Chain-Primary-Alcohols
+PROPIONATE	Short-Chain-Carboxylates
+PROPIONYL-COA	Short-Chain-234-Saturated-acyl-CoAs
+PROPIONYL-P	Compounds
+PROTAMINE	Compounds
+PROTOHEME	Heme-b
+PROTON	Monovalent-Inorganic-Cations	Subatomic-Particles
+PROTOPORPHYRINOGEN	Porphyrins
+PROTOPORPHYRIN_IX	Porphyrins
+PRPP	Sugar-Phosphate
+PSEUDOURIDINE-5-P	Compounds
+PSICOSELYSINE	Compounds
+PUTRESCINE	Aliphatic-Alpha-Omega-Diamines
+PYRAZINAMIDE	Antibiotics	Carboxamides
+PYRAZINOIC-ACID	Antibiotics
+PYRIDINE	Pyridines
+PYRIDOXAL	Vitamins-B6
+PYRIDOXAL_PHOSPHATE	Vitamins-B6
+PYRIDOXINE	Vitamins-B6
+PYRUVATE	2-Oxo-carboxylates	Short-Chain-Carboxylates
+Pi	Phosphates
+QUINATE	Compounds
+QUININE	Quinoline-MIAs
+QUINOLINATE	Compounds
+R-1-AMINOPROPAN-2-YL-PHOSPHATE	Compounds
+RB+	Monovalent-Inorganic-Cations
+REDUCED-MENAQUINONE	Menaquinols
+RETINAL	Aldehydes	Retinals
+RETINOATE	Retinoates
+RHAMNULOSE-1P	Hexose-1-Phosphate
+RIBITOL	Pentitols
+RIBOFLAVIN	Oxidized-Flavins	Vitamins
+RIBOSE-15-BISPHOSPHATE	Compounds
+RIBOSE-1P	PENTOSE-1-PHOSPHATES
+RIBULOSE-5P	Ribulose-phosphates
+RIFAMYCIN-O	Rifamycins
+RUTIN	Flavonol-3-O-L-Rham-16-D-Glus
+RX	Compounds
+S-2-AMINOETHYL-L-CYSTEINE	S-Substituted-L-Cysteines
+S-24-DINITROPHENYLGLUTATHIONE	C-nitro-compounds	S-Substituted-Glutathione
+S-3-HYDROXYBUTANOYL-COA	3-Hydroxybutanoyl-CoAs	Short-Chain-3S-Hydroxyacyl-CoAs
+S-ADENOSYLMETHIONINAMINE	Compounds
+S-ADENOSYLMETHIONINE	Amino-Acid-Derivatives
+S-ALLANTOIN	ALLANTOIN
+S-LACTOYL-GLUTATHIONE	2-hydroxyacyl-glutathiones
+S-METHYLGLUTATHIONE	CPD-20939
+S-TUBERCIDINYLHOMOCYSTEINE	Modified-Amino-Acids
+S2O3	Inorganic-Anions
+S2O4	Compounds
+SALICYLALDEHYDE	Aldehydes	Aromatics	Secondary-Metabolites
+SANGUINARINE	Compounds
+SARCOSINE	N-methylated-Amino-Acids
+SEPO3	Compounds
+SER	Amino-Acids-20	L-Amino-Acids	Neutral-Amino-Acids	Serines	Uncharged-polar-amino-acids
+SHIKIMATE	Compounds
+SHIKIMATE-5P	Compounds
+SINAPALDEHYDE	Phenylpropanoids
+SINAPATE	Phenylpropanoids
+SINAPOYL-COA	All-Coas	Phenylpropanoids
+SINAPYL-ALCOHOL	Phenylpropanoids
+SINEFUNGIN	Compounds
+SIROHEME	Hemes
+SIROHYDROCHLORIN	Corrins
+SN-GERANYLGERANYLGLYCERYL-1-PHOSPHATE	Compounds
+SN-GLYCEROL-1-PHOSPHATE	Glycerol-1-phosphate
+SO3	Inorganic-Anions
+SORBITOL	Hexitols
+SPERMIDINE	Aliphatic-Alpha-Omega-Diamines
+SPERMINE	Aliphatic-Alpha-Omega-Diamines
+SQUALENE	Triterpenes
+SS-DIMETHYL-BETA-PROPIOTHETIN	Compounds
+STAUROSPORINE	Indolocarbazoles
+STEARIC_ACID	Even-Straight-Chain-234-Sat-FA	Long-Chain-234-Saturated-Fatty-Acids	Saturated-Fatty-Acids
+STEAROYL-COA	Long-Chain-234-Saturated-acyl-CoAs
+STREPTIDINE-6-PHOSPHATE	Compounds
+STREPTOMYCIN	Aminoglycoside-Antibiotics
+SUC	C4-dicarboxylates
+SUC-COA	All-Coas
+SUCC-S-ALD	Compounds
+SUCROSE	Disaccharides
+SUCROSE-6P	Disaccharide-phosphates
+SULFATE	Inorganic-Anions
+SULFO-CYSTEINE	S-Substituted-L-Cysteines
+SULFOACETALDEHYDE	SULFONATES
+SULFUR-DIOXIDE	Non-Metabolic-Compounds
+SUPER-OXIDE	Inorganic-Anions	Radicals
+T2-C4-DECADIENYL-COA	medium-Chain-Trans-23-Dehydroacyl-CoA
+T2-DECENOYL-COA	medium-Chain-Trans-23-Dehydroacyl-CoA
+TAGATOSE	D-tagatose	Ketohexoses
+TAGATOSE-1-6-DIPHOSPHATE	HEXOSE-6-PHOSPHATES	Sugar-bisphosphates
+TAGATOSE-6-PHOSPHATE	HEXOSE-6-PHOSPHATES
+TARTRATE	Compounds
+TARTRONATE-S-ALD	Compounds
+TAURINE	SULFONATES
+TDP	Pyrimidine-deoxyribonucleosides-5-PP	Pyrimidines
+TDP-D-FUCOSAMINE	CPD-14020
+TDP-FUC4NAC	DTDP-SUGARS
+TEREPHTHALATE	Compounds
+TESTOSTERONE	Androgens
+TETRACHLOROETHENE	Compounds
+TETRAHYD-CPD	Aromatics
+THF	THF-GLU-N
+THIABENDAZOLE	Compounds
+THIAMINE	Vitamins
+THIAMINE-P	Compounds
+THIAMINE-PYROPHOSPHATE	Compounds
+THR	Amino-Acids-20	L-Amino-Acids	Uncharged-polar-amino-acids
+THREO-3-HYDROXY-L-ASPARTATE	3-Hydroxy-L-aspartate
+THREO-DS-ISO-CITRATE	Isocitrate
+THYMIDINE	Pyrimidine-Deoxyribonucleosides
+THYMINE	Pyrimidine-Bases
+THZ	Thiazoles
+THZ-P	Thiazoles
+TIRON	Organic-Salts
+TMP	Pyrimidine-deoxyribonucleosides-5-P	Pyrimidines
+TOLUENE	Aromatics
+TOLUENECISDHDIOL	Diols
+TRANS-2-CHLORO-4-CARBOXYMETHYLENEBUT-2-E	Gamma-lactones
+TRANS-2-HEXENAL	Alk-2-enals
+TRANS-2-HEXENOL	Alcohols
+TRANS-23-DEHYDROADIPYL-COA	Compounds
+TRANS-3-METHYL-GLUTACONYL-COA	All-Coas
+TREHALOSE	CPD-15990
+TREHALOSE-6P	CPD-15991
+TRICHLOROETHENE	Compounds
+TRICHLOROPHENOL	Chloroaromatic-Compounds
+TRIMETHYLAMINE	Tertiary-Amines
+TRIMETHYLAMINE-N-O	Tertiary-Amines
+TRP	Amino-Acids-20	Aromatic-L-Amino-Acids	L-Amino-Acids	Non-polar-amino-acids
+TTP	Pyrimidine-deoxyribonucleosides-5-PPP	Pyrimidines
+TUNGSTATE	Inorganic-Anions
+TYR	Amino-Acids-20	Aromatic-L-Amino-Acids	L-Amino-Acids	Uncharged-polar-amino-acids
+TYRAMINE	Aralkylamines
+UDP	Pyrimidine-ribonucleosides-5-PP	Pyrimidines
+UDP-4-AMINO-4-DEOXY-L-ARABINOSE	UDP-4S-amino-sugars
+UDP-AA-GLUTAMATE	UDP-sugar
+UDP-AAGM-DIAMINOHEPTANEDIOATE	UDP-N-acetylmuramoyl-Tripeptide
+UDP-ACETYL-CARBOXYVINYL-GLUCOSAMINE	UDP-sugar
+UDP-D-GALACTO-14-FURANOSE	UDP-sugar
+UDP-D-XYLOSE	CPD-12548
+UDP-GLUCURONATE	UDP-sugar
+UDP-L-ARA4-FORMYL-N	Compounds
+UDP-L-RHAMNOSE	UDP-sugar
+UDP-MANNAC	UDP-sugar
+UDP-MANNACA	UDP-NAC-MANNOS
+UDP-MURNAC-TETRAPEPTIDE	UDP-NAcMur-Tetrapeptides
+UDP-N-ACETYL-2-AMINO-D-GLUCURONATE	Compounds
+UDP-N-ACETYL-D-GLUCOSAMINE	CPD-14549
+UDP-N-ACETYLMURAMATE	UDP-sugar
+UDP-N-ACETYLMURAMOYL-L-ALANYL-D-GLUTAMYL	UDP-sugar
+UDP-OHMYR-ACETYLGLUCOSAMINE	UDP-sugar
+UDP-OHMYR-GLUCOSAMINE	UDP-sugar
+UDP-SULFOQUINOVOSE	UDP-sugar
+UMP	Pyrimidine-ribonucleosides-5-P
+UNDECAPRENYL-DIPHOSPHATE	Di-trans-poly-cis-polyprenyl-PP
+URACIL	Pyrimidine-Bases	Pyrimidines
+URATE	Organonitrogen-Heterocyclic-Compounds
+UREA	Monocarboxylic-Acid-Amides
+URIDINE	Pyrimidine-Ribonucleosides
+UROCANATE	Compounds
+UROPORPHYRINOGEN-III	Porphyrins
+UTP	Pyrimidine-ribonucleosides-5-PPP	Pyrimidines
+VAL	Amino-Acids-20	Branched-Amino-Acids	L-Amino-Acids	Non-polar-amino-acids
+VALERATE	Saturated-Fatty-Acids	Short-Chain-234-Saturated-Fatty-Acids
+VALIDAMYCIN-A	Aminoglycoside-Antibiotics
+VANILLATE	Aromatic-Acid
+VANILLIN	Aryl-Aldehyde
+VANILLYL_MANDELATE	Guaiacols
+WATER	Compounds
+XANTHINE	Compounds
+XANTHOSINE	Purine-Ribonucleosides
+XYLITOL	Pentitols
+XYLOSE	D-Xylopyranose
+XYLULOSE-5-PHOSPHATE	PENTOSE-5-PHOSPHATES
+ZN+2	Divalent-Inorganic-Cations

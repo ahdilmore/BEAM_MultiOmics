@@ -1,0 +1,1276 @@
+engelman_met_id,PATHWAY_SORTORDER,BIOCHEMICAL,SUPER_PATHWAY,SUB_PATHWAY,COMP_ID_UPDATED,PLATFORM,CHEMICAL_ID,RI,MASS,CAS,PUBCHEM,KEGG,HMDB
+met57814,412,(N(1) + N(8))-acetylspermidine,Amino Acid,Polyamine Metabolism,57814,LC/MS Pos Early,100016038,3080,188.1757,,,,
+met48761,4702,"1,2,3-benzenetriol sulfate (1)",Xenobiotics,Chemical,48761,LC/MS Neg,100006373,1453,204.9812,,,,
+met48762,4699,"1,2,3-benzenetriol sulfate (2)",Xenobiotics,Chemical,48762,LC/MS Neg,100006374,1709,204.9812,,,,
+met52603,1805,"1,2-dilinoleoyl-GPC (18:2/18:2)",Lipid,Phosphatidylcholine (PC),52603,LC/MS Pos Late,100008903,2006,782.5694,998-06-1,5288075,,HMDB08138
+met19130,1731,"1,2-dipalmitoyl-GPC (16:0/16:0)",Lipid,Phosphatidylcholine (PC),19130,LC/MS Pos Late,100000657,2365,734.5694,63-89-8,452110,,HMDB00564
+met34404,3683,"1,3,7-trimethylurate",Xenobiotics,Xanthine Metabolism,34404,LC/MS Neg,100001397,1985,209.068,5415-44-1,79437,C16361,HMDB02123
+met32391,3680,"1,3-dimethylurate",Xenobiotics,Xanthine Metabolism,32391,LC/MS Neg,100001106,1671.4,195.0524,944-73-0,70346,,HMDB01857
+met20675,905,"1,5-anhydroglucitol (1,5-AG)",Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",20675,LC/MS Neg,100000580,802,163.0612,154-58-5,64960,C07326,HMDB02712
+met34400,3681,"1,7-dimethylurate",Xenobiotics,Xanthine Metabolism,34400,LC/MS Neg,100001399,1578.6,195.0524,33868-03-0,91611,C16356,HMDB11103
+met44621,2223,1-(1-enyl-oleoyl)-GPE (P-18:1)*,Lipid,Lysoplasmalogen,44621,LC/MS Pos Late,100005372,1566,464.3136,,,,
+met52689,2202,1-(1-enyl-palmitoyl)-2-arachidonoyl-GPC (P-16:0/20:4)*,Lipid,Plasmalogen,52689,LC/MS Pos Late,100009014,2154,766.5745,,,,HMDB11220
+met52673,2194,1-(1-enyl-palmitoyl)-2-arachidonoyl-GPE (P-16:0/20:4)*,Lipid,Plasmalogen,52673,LC/MS Pos Late,100009002,2270,724.5276,,,,HMDB11352
+met52682,2203,1-(1-enyl-palmitoyl)-2-linoleoyl-GPC (P-16:0/18:2)*,Lipid,Plasmalogen,52682,LC/MS Pos Late,100009009,2226,742.5745,,,,HMDB11211
+met52677,2191,1-(1-enyl-palmitoyl)-2-linoleoyl-GPE (P-16:0/18:2)*,Lipid,Plasmalogen,52677,LC/MS Pos Late,100009069,2351,700.5276,,,,HMDB11343
+met52478,2196,1-(1-enyl-palmitoyl)-2-oleoyl-GPC (P-16:0/18:1)*,Lipid,Plasmalogen,52478,LC/MS Pos Late,100009007,2443,744.5902,,,,
+met52477,2190,1-(1-enyl-palmitoyl)-2-oleoyl-GPE (P-16:0/18:1)*,Lipid,Plasmalogen,52477,LC/MS Pos Late,100009005,2600,702.5432,,,,HMDB11342
+met52713,2193,1-(1-enyl-palmitoyl)-2-palmitoleoyl-GPC (P-16:0/16:1)*,Lipid,Plasmalogen,52713,LC/MS Pos Late,100009160,2218,716.5589,,,,HMDB11207
+met52716,2192,1-(1-enyl-palmitoyl)-2-palmitoyl-GPC (P-16:0/16:0)*,Lipid,Plasmalogen,52716,LC/MS Pos Late,100009162,2454,718.5745,,11146967,,HMDB11206
+met52474,2220,1-(1-enyl-palmitoyl)-GPC (P-16:0)*,Lipid,Lysoplasmalogen,52474,LC/MS Pos Late,100002875,1547,480.3449,,10917802,,HMDB10407
+met39270,2221,1-(1-enyl-palmitoyl)-GPE (P-16:0)*,Lipid,Lysoplasmalogen,39270,LC/MS Neg,100003000,6285,436.2833,,,,
+met52475,2206,1-(1-enyl-stearoyl)-2-arachidonoyl-GPE (P-18:0/20:4)*,Lipid,Plasmalogen,52475,LC/MS Pos Late,100008999,2511,752.5589,,9547058,,HMDB05779
+met52748,2199,1-(1-enyl-stearoyl)-2-linoleoyl-GPE (P-18:0/18:2)*,Lipid,Plasmalogen,52748,LC/MS Pos Late,100009225,2633,728.5589,,,,HMDB11376
+met52614,2198,1-(1-enyl-stearoyl)-2-oleoyl-GPE (P-18:0/18:1),Lipid,Plasmalogen,52614,LC/MS Pos Late,100008919,2950,730.5745,144371-68-6,,,HMDB11375
+met39271,2225,1-(1-enyl-stearoyl)-GPE (P-18:0)*,Lipid,Lysoplasmalogen,39271,LC/MS Neg,100003001,6500,464.3146,,,,
+met33228,2035,1-arachidonoyl-GPC (20:4n6)*,Lipid,Lysophospholipid,33228,LC/MS Pos Late,100001551,1460,544.3398,,,C05208,HMDB10395
+met35186,2075,1-arachidonoyl-GPE (20:4n6)*,Lipid,Lysophospholipid,35186,LC/MS Pos Late,100001571,1470,502.2928,,42607465,,HMDB11517
+met34214,2109,1-arachidonoyl-GPI (20:4)*,Lipid,Lysophospholipid,34214,LC/MS Neg,100001654,5482,619.2889,,,,HMDB61690
+met34397,2248,1-arachidonylglycerol (20:4),Lipid,Monoacylglycerol,34397,LC/MS Neg,100001433,6250,303.2329,35474-99-8,5282281,C13857,HMDB11549
+met61505,2049,1-cerotoyl-GPC (26:0)*,Lipid,Lysophospholipid,61505,LC/MS Pos Late,100015772,1990,636.4963,,,,HMDB29205
+met38140,4541,1-hydroxy-2-naphthalenecarboxylate,Xenobiotics,Drug - Other,38140,LC/MS Neg,100002394,3930,187.0401,86-48-6,6844,C03203,
+met49617,2046,1-lignoceroyl-GPC (24:0),Lipid,Lysophospholipid,49617,LC/MS Pos Late,100002873,1907,608.465,325171-59-3,,,HMDB10405
+met45951,2020,1-linolenoyl-GPC (18:3)*,Lipid,Lysophospholipid,45951,LC/MS Pos Late,100005350,1410,518.3241,,,,HMDB10388
+met52710,1809,1-linoleoyl-2-arachidonoyl-GPC (18:2/20:4n6)*,Lipid,Phosphatidylcholine (PC),52710,LC/MS Pos Late,100009131,1969,806.5694,,,,HMDB08147
+met53176,1806,1-linoleoyl-2-linolenoyl-GPC (18:2/18:3)*,Lipid,Phosphatidylcholine (PC),53176,LC/MS Pos Late,100009343,1939,780.5538,,,,HMDB08141
+met52690,1996,1-linoleoyl-GPA (18:2)*,Lipid,Lysophospholipid,52690,LC/MS Neg,100009082,5483,433.2361,,,,HMDB07856
+met34419,2018,1-linoleoyl-GPC (18:2),Lipid,Lysophospholipid,34419,LC/MS Pos Late,100001395,1465,520.3398,,11988421,C04100,HMDB10386
+met36600,2064,1-linoleoyl-GPE (18:2)*,Lipid,Lysophospholipid,36600,LC/MS Pos Late,100001570,1482,478.2928,,52925130,,HMDB11507
+met54885,2097,1-linoleoyl-GPG (18:2)*,Lipid,Lysophospholipid,54885,LC/MS Neg,100009227,5516,507.2728,,,,
+met36594,2105,1-linoleoyl-GPI (18:2)*,Lipid,Lysophospholipid,36594,LC/MS Neg,100001778,5494,595.2889,,,,
+met27447,2243,1-linoleoylglycerol (18:2),Lipid,Monoacylglycerol,27447,LC/MS Neg,100001040,6477,279.2329,2277-28-3,5283469,,
+met32350,82,1-methyl-4-imidazoleacetate,Amino Acid,Histidine Metabolism,32350,LC/MS Pos Early,100001208,2064,141.0659,2625-49-2,75810,C05828,HMDB02820
+met48114,413,1-methylguanidine,Amino Acid,Guanidino and Acetamido Metabolism,48114,LC/MS Pos Early,100000715,2149,74.0713,22661-87-6,10111,C02294,HMDB01522
+met30460,65,1-methylhistidine,Amino Acid,Histidine Metabolism,30460,LC/MS Neg,100001051,1227,168.0779,332-80-9,92105,C01152,HMDB00001
+met27665,3476,1-methylnicotinamide,Cofactors and Vitamins,Nicotinate and Nicotinamide Metabolism,27665,LC/MS Pos Early,55,1940,137.0709,1005-24-9,10129985,C02918,HMDB00699
+met34395,3678,1-methylurate,Xenobiotics,Xanthine Metabolism,34395,LC/MS Pos Early,100001400,1461,183.0513,708-79-2,69726,C16359,HMDB03099
+met34389,3684,1-methylxanthine,Xenobiotics,Xanthine Metabolism,34389,LC/MS Neg,100001405,1568.8,165.0418,6136-37-4,80220,C16358,HMDB10738
+met53195,1721,1-myristoyl-2-arachidonoyl-GPC (14:0/20:4)*,Lipid,Phosphatidylcholine (PC),53195,LC/MS Pos Late,100009139,1914,754.5381,,,,HMDB07883
+met19258,1717,1-myristoyl-2-palmitoyl-GPC (14:0/16:0),Lipid,Phosphatidylcholine (PC),19258,LC/MS Pos Late,100000672,2147,706.5381,69525-80-0,129657,,HMDB07869
+met52697,1804,1-oleoyl-2-docosahexaenoyl-GPC (18:1/22:6)*,Lipid,Phosphatidylcholine (PC),52697,LC/MS Pos Late,100009130,2011,832.5851,,,,HMDB08123
+met53209,1884,1-oleoyl-2-docosahexaenoyl-GPE (18:1/22:6)*,Lipid,Phosphatidylethanolamine (PE),53209,LC/MS Pos Late,100009220,2119,790.5381,,,,
+met48258,2015,1-oleoyl-GPC (18:1),Lipid,Lysophospholipid,48258,LC/MS Pos Late,100001272,1540,522.3554,19420-56-5,16081932,,HMDB02815
+met35628,2062,1-oleoyl-GPE (18:1),Lipid,Lysophospholipid,35628,LC/MS Pos Late,100001569,1554,480.3085,89576-29-4,9547071,,HMDB11506
+met45968,2095,1-oleoyl-GPG (18:1)*,Lipid,Lysophospholipid,45968,LC/MS Neg,100005716,5610,509.2885,,,,
+met36602,2103,1-oleoyl-GPI (18:1)*,Lipid,Lysophospholipid,36602,LC/MS Neg,100001777,5599,597.3045,,,,
+met21184,2242,1-oleoylglycerol (18:1),Lipid,Monoacylglycerol,21184,LC/MS Neg,100000924,6650,281.2486,111-03-5,5283468,,HMDB11567
+met53180,1760,1-palmitoleoyl-2-linolenoyl-GPC (16:1/18:3)*,Lipid,Phosphatidylcholine (PC),53180,LC/MS Pos Late,100009345,1850,754.5381,,,,HMDB08008
+met33230,2007,1-palmitoleoyl-GPC (16:1)*,Lipid,Lysophospholipid,33230,LC/MS Pos Late,100001511,1450,494.3241,,24779461,,HMDB10383
+met52431,2239,1-palmitoleoylglycerol (16:1)*,Lipid,Monoacylglycerol,52431,LC/MS Neg,100008952,6094,253.2173,,,,HMDB11565
+met52462,1748,1-palmitoyl-2-arachidonoyl-GPC (16:0/20:4n6),Lipid,Phosphatidylcholine (PC),52462,LC/MS Pos Late,100008914,2091,782.5694,35418-58-7,10747814,,HMDB07982
+met52464,1855,1-palmitoyl-2-arachidonoyl-GPE (16:0/20:4)*,Lipid,Phosphatidylethanolamine (PE),52464,LC/MS Pos Late,100008990,2198,740.5225,,9546800,,HMDB05323
+met52467,1954,1-palmitoyl-2-arachidonoyl-GPI (16:0/20:4)*,Lipid,Phosphatidylinositol (PI),52467,LC/MS Polar,100008993,892,857.5186,,,,HMDB09789
+met52454,1744,1-palmitoyl-2-dihomo-linolenoyl-GPC (16:0/20:3n3 or 6)*,Lipid,Phosphatidylcholine (PC),52454,LC/MS Pos Late,100008985,2199,784.5851,,,,
+met52610,1754,1-palmitoyl-2-docosahexaenoyl-GPC (16:0/22:6),Lipid,Phosphatidylcholine (PC),52610,LC/MS Pos Late,100008915,2023,806.5694,59403-54-2,6441886,,HMDB07991
+met52465,1857,1-palmitoyl-2-docosahexaenoyl-GPE (16:0/22:6)*,Lipid,Phosphatidylethanolamine (PE),52465,LC/MS Pos Late,100008991,2119,764.5225,,9546799,,HMDB05324
+met42446,1738,1-palmitoyl-2-linoleoyl-GPC (16:0/18:2),Lipid,Phosphatidylcholine (PC),42446,LC/MS Pos Late,1537,2160,758.5694,40811-94-7,5287971,,HMDB07973
+met42449,1852,1-palmitoyl-2-linoleoyl-GPE (16:0/18:2),Lipid,Phosphatidylethanolamine (PE),42449,LC/MS Pos Late,100001870,2275,716.5225,,9546747,,HMDB05322
+met52450,1952,1-palmitoyl-2-linoleoyl-GPI (16:0/18:2),Lipid,Phosphatidylinositol (PI),52450,LC/MS Polar,1528,910,833.5185,,,,HMDB09784
+met52461,1735,1-palmitoyl-2-oleoyl-GPC (16:0/18:1),Lipid,Phosphatidylcholine (PC),52461,LC/MS Pos Late,1539,2358,760.5851,26853-31-6;26853-31-6,6436017,,HMDB07972
+met19263,1851,1-palmitoyl-2-oleoyl-GPE (16:0/18:1),Lipid,Phosphatidylethanolamine (PE),19263,LC/MS Pos Late,1526,2509,718.5381,26662-94-2,5283496,,HMDB05320
+met52669,1950,1-palmitoyl-2-oleoyl-GPI (16:0/18:1)*,Lipid,Phosphatidylinositol (PI),52669,LC/MS Polar,100009066,893,835.5342,,,,HMDB09783
+met52470,1732,1-palmitoyl-2-palmitoleoyl-GPC (16:0/16:1)*,Lipid,Phosphatidylcholine (PC),52470,LC/MS Pos Late,100008984,2160,732.5538,,,,HMDB07969
+met52616,1733,1-palmitoyl-2-stearoyl-GPC (16:0/18:0),Lipid,Phosphatidylcholine (PC),52616,LC/MS Pos Late,100008921,2653,762.6007,59403-51-9,,,HMDB07970
+met33955,2005,1-palmitoyl-GPC (16:0),Lipid,Lysophospholipid,33955,LC/MS Pos Late,100001263,1525,496.3398,17364-16-8,86554,,HMDB10382
+met35631,2053,1-palmitoyl-GPE (16:0),Lipid,Lysophospholipid,35631,LC/MS Pos Late,100001567,1544,454.2928,53862-35-4,9547069,,HMDB11503
+met35305,2098,1-palmitoyl-GPI (16:0),Lipid,Lysophospholipid,35305,LC/MS Neg,100001655,5564,571.2889,,,,HMDB61695
+met61868,83,1-ribosyl-imidazoleacetate*,Amino Acid,Histidine Metabolism,61868,LC/MS Pos Early,100001668,2006,259.0925,29605-99-0,5117448,C05131,HMDB02331
+met42450,1781,1-stearoyl-2-arachidonoyl-GPC (18:0/20:4),Lipid,Phosphatidylcholine (PC),42450,LC/MS Pos Late,100001869,2300,810.6007,35418-59-8,16219824,,HMDB08048
+met52447,1872,1-stearoyl-2-arachidonoyl-GPE (18:0/20:4),Lipid,Phosphatidylethanolamine (PE),52447,LC/MS Pos Late,100008977,2424,768.5538,,5289133,,HMDB09003
+met52449,1969,1-stearoyl-2-arachidonoyl-GPI (18:0/20:4),Lipid,Phosphatidylinositol (PI),52449,LC/MS Polar,100000616,870,885.5495,383907-33-3,,,HMDB09815
+met52611,1787,1-stearoyl-2-docosahexaenoyl-GPC (18:0/22:6),Lipid,Phosphatidylcholine (PC),52611,LC/MS Pos Late,100008916,2197,834.6013,59403-52-0,,,HMDB08057
+met52466,1876,1-stearoyl-2-docosahexaenoyl-GPE (18:0/22:6)*,Lipid,Phosphatidylethanolamine (PE),52466,LC/MS Pos Late,100008992,2317,792.5538,,9546798,,HMDB05334
+met52452,1773,1-stearoyl-2-linoleoyl-GPC (18:0/18:2)*,Lipid,Phosphatidylcholine (PC),52452,LC/MS Pos Late,100008980,2380,786.6007,,,,HMDB08039
+met52446,1867,1-stearoyl-2-linoleoyl-GPE (18:0/18:2)*,Lipid,Phosphatidylethanolamine (PE),52446,LC/MS Pos Late,100008976,2522,744.5538,,9546749,,HMDB08994
+met52468,1958,1-stearoyl-2-linoleoyl-GPI (18:0/18:2),Lipid,Phosphatidylinositol (PI),52468,LC/MS Polar,100008994,910,861.5499,,,,HMDB09809
+met52438,1770,1-stearoyl-2-oleoyl-GPC (18:0/18:1),Lipid,Phosphatidylcholine (PC),52438,LC/MS Pos Late,100008904,2644,788.6164,56421-10-4,,,HMDB08038
+met42448,1864,1-stearoyl-2-oleoyl-GPE (18:0/18:1),Lipid,Phosphatidylethanolamine (PE),42448,LC/MS Pos Late,100001856,2858,746.5694,,,,HMDB08993
+met52623,1943,1-stearoyl-2-oleoyl-GPG (18:0/18:1),Lipid,Phosphatidylglycerol (PG),52623,LC/MS Polar,100001866,717,775.5495,322647-48-3,,,
+met33961,2013,1-stearoyl-GPC (18:0),Lipid,Lysophospholipid,33961,LC/MS Pos Late,100001271,1606,524.3711,19420-57-6,497299,,HMDB10384
+met42398,2060,1-stearoyl-GPE (18:0),Lipid,Lysophospholipid,42398,LC/MS Pos Late,100001461,1626,482.3241,69747-55-3,9547068,,HMDB11130
+met19324,2101,1-stearoyl-GPI (18:0),Lipid,Lysophospholipid,19324,LC/MS Neg,100000656,5794,599.3202,796963-93-4,,,HMDB61696
+met33971,1163,10-heptadecenoate (17:1n7),Lipid,Long Chain Fatty Acid,33971,LC/MS Neg,100001278,5555,267.233,29743-97-3,5312435,,HMDB60038
+met33972,1175,10-nonadecenoate (19:1n9),Lipid,Long Chain Fatty Acid,33972,LC/MS Neg,100001277,5780,295.2643,73033-09-7,5312513,,HMDB13622
+met32497,1150,10-undecenoate (11:1n1),Lipid,Medium Chain Fatty Acid,32497,LC/MS Neg,100001197,5085.8,183.1391,1333-28-4,14891,C13910,HMDB33724
+met47135,2610,11-ketoetiocholanolone glucuronide,Lipid,Androgenic Steroids,47135,LC/MS Neg,100005402,4280,479.2287,17181-16-7,,,
+met38395,1533,"12,13-DiHOME",Lipid,"Fatty Acid, Dihydroxy",38395,LC/MS Neg,62,5137,313.2384,263399-35-5,10236635,C14829,HMDB04705
+met37752,1509,13-HODE + 9-HODE,Lipid,"Fatty Acid, Monohydroxy",37752,LC/MS Neg,100002196,5275,295.2283,,43013,,
+met38768,1271,15-methylpalmitate (i17:0),Lipid,"Fatty Acid, Branched",38768,LC/MS Neg,100002945,5695,269.2487,,17903417,,
+met39609,1505,16-hydroxypalmitate,Lipid,"Fatty Acid, Monohydroxy",39609,LC/MS Neg,100002953,5236.2,271.2279,506-13-8,10466,C18218,HMDB06294
+met38168,2612,16a-hydroxy DHEA 3-sulfate,Lipid,Androgenic Steroids,38168,LC/MS Neg,100002126,4240,383.1534,,,,
+met38296,1274,17-methylstearate (i19:0),Lipid,"Fatty Acid, Branched",38296,LC/MS Neg,100002356,5993,297.2799,2724-59-6,3083779,,HMDB37397
+met37482,2544,17alpha-hydroxypregnenolone 3-sulfate,Lipid,Pregnenolone Steroids,37482,LC/MS Neg,100002128,4800,411.1847,28901-70-4,152971,,HMDB00416
+met57783,4173,1H-indole-7-acetic acid,Xenobiotics,Bacterial/Fungal,57783,LC/MS Neg,100004601,2862,174.0561,39689-63-9,,,
+met52602,3417,2'-deoxyuridine,Nucleotide,"Pyrimidine Metabolism, Uracil containing",52602,LC/MS Neg,536,1586,227.0673,951-78-0,13712,C00526,HMDB00012
+met57554,3442,2'-O-methylcytidine,Nucleotide,"Pyrimidine Metabolism, Cytidine containing",57554,LC/MS Pos Early,100010895,2411,258.1085,2140-72-9,150971,,
+met57655,3405,2'-O-methyluridine,Nucleotide,"Pyrimidine Metabolism, Uracil containing",57655,LC/MS Neg,100010896,1831,257.0779,2140-76-3,102212,,
+met57547,313,"2,3-dihydroxy-2-methylbutyrate",Amino Acid,"Leucine, Isoleucine and Valine Metabolism",57547,LC/MS Neg,100010869,787,133.0506,14868-24-7,301941,,HMDB29576
+met38276,3789,"2,3-dihydroxyisovalerate",Xenobiotics,Food Component/Plant,38276,LC/MS Polar,100002417,1050,133.0506,1756-18-9,677,C04039,HMDB12141
+met48580,4207,2-acetamidophenol sulfate,Xenobiotics,"Drug - Analgesics, Anesthetics",48580,LC/MS Neg,100006190,2251,230.0129,40712-60-5,181671,,
+met6146,101,2-aminoadipate,Amino Acid,Lysine Metabolism,6146,LC/MS Polar,381,3500,160.0615,542-32-5;1118-90-7,469,C00956,HMDB00510
+met42374,427,2-aminobutyrate,Amino Acid,Glutathione Metabolism,42374,LC/MS Pos Early,1128,2059,104.0706,1492-24-6,439691,C02261,HMDB00650
+met43761,1351,2-aminoheptanoate,Lipid,"Fatty Acid, Amino",43761,LC/MS Pos Early,100004542,3160,146.1176,1115-90-8,227939,,
+met43343,1356,2-aminooctanoate,Lipid,"Fatty Acid, Amino",43343,LC/MS Pos Late,100004227,750,160.1332,644-90-6,69522,,HMDB00991
+met43266,4600,2-aminophenol sulfate,Xenobiotics,Chemical,43266,LC/MS Neg,100004322,1677,188.0023,,181670,,HMDB61116
+met36746,308,2-hydroxy-3-methylvalerate,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",36746,LC/MS Neg,100001541,1800,131.0714,488-15-3,164623,,HMDB00317
+met33173,4200,2-hydroxyacetaminophen sulfate*,Xenobiotics,"Drug - Analgesics, Anesthetics",33173,LC/MS Neg,100001791,1674,246.0078,,86290013,,
+met52281,429,2-hydroxybutyrate/2-hydroxyisobutyrate,Amino Acid,Glutathione Metabolism,52281,LC/MS Polar,100008928,1258,103.0401,,,,
+met42489,1475,2-hydroxydecanoate,Lipid,"Fatty Acid, Monohydroxy",42489,LC/MS Neg,100004089,4840,187.134,5393-81-7,21488,,
+met37253,1288,2-hydroxyglutarate,Lipid,"Fatty Acid, Dicarboxylate",37253,LC/MS Pos Early,100002070,958,131.0339,40951-21-1,43,C02630,HMDB00606
+met18281,3593,2-hydroxyhippurate (salicylurate),Xenobiotics,Benzoate Metabolism,18281,LC/MS Polar,1869,1123.9,194.0459,487-54-7,10253,C07588,HMDB00840
+met43330,4214,2-hydroxyibuprofen,Xenobiotics,"Drug - Analgesics, Anesthetics",43330,LC/MS Neg,100004169,3462,221.1183,51146-55-5,10443535,,HMDB60920
+met52916,1528,2-hydroxylaurate,Lipid,"Fatty Acid, Monohydroxy",52916,LC/MS Neg,100008934,5211,215.1653,2984-55-6,97783,,
+met22036,1474,2-hydroxyoctanoate,Lipid,"Fatty Acid, Monohydroxy",22036,LC/MS Neg,100000743,3736.8,159.1027,617-73-2,94180,,HMDB02264
+met35675,1480,2-hydroxypalmitate,Lipid,"Fatty Acid, Monohydroxy",35675,LC/MS Neg,100001579,5511.2,271.2279,764-67-0,92836,,HMDB31057
+met1432,176,2-hydroxyphenylacetate,Amino Acid,Tyrosine Metabolism,1432,LC/MS Polar,235,858.6,151.0401,614-75-5,11970,C05852,HMDB00669
+met61702,1481,2-hydroxyphytanate*,Lipid,"Fatty Acid, Monohydroxy",61702,LC/MS Neg,100004414,5751,327.2905,14721-68-7,189026,,
+met17945,1482,2-hydroxystearate,Lipid,"Fatty Acid, Monohydroxy",17945,LC/MS Neg,1239,5695,299.2592,629-22-1,69417,C03045,
+met32506,2257,2-linoleoylglycerol (18:2),Lipid,Monoacylglycerol,32506,LC/MS Neg,100000987,6250,279.2329,3443-82-1,5365676,,HMDB11538
+met33161,4202,2-methoxyacetaminophen glucuronide*,Xenobiotics,"Drug - Analgesics, Anesthetics",33161,LC/MS Neg,100001795,1633,356.0987,,14367271,,
+met47031,4201,2-methoxyacetaminophen sulfate*,Xenobiotics,"Drug - Analgesics, Anesthetics",47031,LC/MS Neg,100001793,1949,260.0234,,86290014,,
+met48445,4700,2-methoxyresorcinol sulfate,Xenobiotics,Chemical,48445,LC/MS Neg,100006184,1863,218.9969,1446269-78-8,,,
+met45095,290,2-methylbutyrylcarnitine (C5),Amino Acid,"Leucine, Isoleucine and Valine Metabolism",45095,LC/MS Pos Early,100001509,3035,246.17,31023-25-3,6426901,,HMDB00378
+met40479,3797,2-oxindole-3-acetate,Xenobiotics,Food Component/Plant,40479,LC/MS Pos Early,100003109,2378,192.0655,2971-31-5,3080590,,HMDB35514
+met55072,360,2-oxoarginine*,Amino Acid,Urea cycle; Arginine and Proline Metabolism,55072,LC/MS Pos Early,100002784,1760,174.0873,663193,558,C03771,HMDB04225
+met35253,2006,2-palmitoyl-GPC (16:0)*,Lipid,Lysophospholipid,35253,LC/MS Neg,100001562,6215,570.3413,,15061532,,HMDB61702
+met43400,3705,2-piperidinone,Xenobiotics,Food Component/Plant,43400,LC/MS Pos Early,100004295,1675,100.0757,675-20-7,12665,,HMDB11749
+met57778,4432,2-propyl-2-pentenoate (2-ene-valproate),Xenobiotics,Drug - Neurological,57778,LC/MS Neg,100015981,3874,141.0921,60218-41-9,6437068,C16653,HMDB13902
+met48143,4433,2-propyl-4-pentenoate (4-ene-valproate),Xenobiotics,Drug - Neurological,48143,LC/MS Neg,100005952,3436,141.0921,1575-72-0,104896,,
+met41220,2061,2-stearoyl-GPE (18:0)*,Lipid,Lysophospholipid,41220,LC/MS Neg,100003901,6350,480.3096,,,,HMDB11129
+met46115,2550,21-hydroxypregnenolone disulfate,Lipid,Pregnenolone Steroids,46115,LC/MS Neg,100001999,3935,245.0671,1164-98-3,134595,,
+met53026,4092,"3,4-methyleneheptanoate",Xenobiotics,Food Component/Plant,53026,LC/MS Neg,100006651,3807,141.0921,,,,
+met52929,1422,"3,4-methyleneheptanoylcarnitine",Lipid,Fatty Acid Metabolism(Acyl Carnitine),52929,LC/MS Neg,100009234,4096,346.1871,,,,
+met34399,3682,"3,7-dimethylurate",Xenobiotics,Xanthine Metabolism,34399,LC/MS Neg,100001398,1418.2,195.0524,13087-49-5,83126,C16360,HMDB01982
+met35635,3670,3-(3-hydroxyphenyl)propionate,Xenobiotics,Benzoate Metabolism,35635,LC/MS Neg,100001624,1980,165.0557,621-54-5,91,C11457,HMDB00375
+met45415,3667,3-(3-hydroxyphenyl)propionate sulfate,Xenobiotics,Benzoate Metabolism,45415,LC/MS Neg,100005391,1294,245.0125,86321-32-6,187488,,
+met32197,142,3-(4-hydroxyphenyl)lactate,Amino Acid,Tyrosine Metabolism,32197,LC/MS Neg,240,1379,181.0506,6482-98-0,9378,C03672,HMDB00755
+met34365,4203,3-(cystein-S-yl)acetaminophen*,Xenobiotics,"Drug - Analgesics, Anesthetics",34365,LC/MS Pos Early,100001797,2420,271.0747,,5233914,,
+met45721,4197,3-(N-acetyl-L-cystein-S-yl) acetaminophen,Xenobiotics,"Drug - Analgesics, Anesthetics",45721,LC/MS Neg,2048,2094,311.0707,52372-86-8,83967,,
+met48693,4598,3-acetylphenol sulfate,Xenobiotics,Chemical,48693,LC/MS Neg,100004326,2477,215.002,,,,
+met1566,3455,3-aminoisobutyrate,Nucleotide,"Pyrimidine Metabolism, Thymine containing",1566,LC/MS Pos Early,1114,2190,104.0706,10569-72-9;214139-20-5,64956,C05145,HMDB03911
+met61871,1319,3-carboxy-4-methyl-5-pentyl-2-furanpropionate (3-Cmpfp)**,Lipid,"Fatty Acid, Dicarboxylate",61871,LC/MS Neg,100020004,4000,267.1238,,194501,,
+met31787,1318,3-carboxy-4-methyl-5-propyl-2-furanpropanoate (CMPF),Lipid,"Fatty Acid, Dicarboxylate",31787,LC/MS Neg,100001178,2800,239.0925,86879-39-2,123979,,HMDB61112
+met32397,295,3-hydroxy-2-ethylpropionate,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",32397,LC/MS Neg,100001170,975,117.0557,4374-62-3,188979,,HMDB00396
+met531,2480,3-hydroxy-3-methylglutarate,Lipid,Mevalonate Metabolism,531,LC/MS Polar,112,2850,161.0456,503-49-1,1662,C03761,HMDB00355
+met62069,1293,3-hydroxyadipate*,Lipid,"Fatty Acid, Dicarboxylate",62069,LC/MS Polar,100004396,3131,161.0455,,151913,,HMDB00345
+met542,1457,3-hydroxybutyrate (BHBA),Lipid,Ketone Bodies,542,LC/MS Polar,254,1444,103.0401,625-72-9,441,C01089,HMDB00357
+met62064,1394,3-hydroxybutyroylglycine**,Lipid,Fatty Acid Metabolism(Acyl Glycine),62064,LC/MS Pos Early,100020211,978,162.0761,,,,
+met43264,1397,3-hydroxybutyrylcarnitine (1),Lipid,Fatty Acid Metabolism(Acyl Carnitine),43264,LC/MS Pos Early,100003926,2400,248.1493,,53481617,,HMDB13127
+met52984,1398,3-hydroxybutyrylcarnitine (2),Lipid,Fatty Acid Metabolism(Acyl Carnitine),52984,LC/MS Pos Early,100009271,2340,248.1493,,,,HMDB13127
+met43470,3695,3-hydroxycotinine glucuronide,Xenobiotics,Tobacco Metabolite,43470,LC/MS Neg,100004494,1745,367.1147,132929-88-5,183115,,HMDB01204
+met22053,1490,3-hydroxydecanoate,Lipid,"Fatty Acid, Monohydroxy",22053,LC/MS Neg,100000997,4634.7,187.134,5561-87-5,26612,,HMDB02203
+met53230,1488,3-hydroxyhexanoate,Lipid,"Fatty Acid, Monohydroxy",53230,LC/MS Neg,100006367,1725,131.0714,10191-24-9,151492,,
+met39600,3594,3-hydroxyhippurate,Xenobiotics,Benzoate Metabolism,39600,LC/MS Neg,100002122,1687,194.0459,1637-75-8,450268,,HMDB06116
+met1549,312,3-hydroxyisobutyrate,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",1549,LC/MS Polar,111,1619,103.0401,2068-83-9,87,C06001,HMDB00336
+met32457,1493,3-hydroxylaurate,Lipid,"Fatty Acid, Monohydroxy",32457,LC/MS Neg,100001112,5175,215.1653,53941-38-1,94216,,HMDB00387
+met22001,1489,3-hydroxyoctanoate,Lipid,"Fatty Acid, Monohydroxy",22001,LC/MS Neg,100000773,3446,159.1027,88930-08-9,26613,,HMDB01954
+met61843,1491,3-hydroxyoleate*,Lipid,"Fatty Acid, Monohydroxy",61843,LC/MS Neg,100019966,5508,297.2435,,,,
+met48448,4701,3-hydroxypyridine sulfate,Xenobiotics,Chemical,48448,LC/MS Neg,100006098,1595.5,173.9867,1955-23-3,,,
+met43496,4307,3-hydroxyquinine,Xenobiotics,Drug - Antibiotic,43496,LC/MS Pos Early,100002410,3271,341.186,78549-61-8,441264,C07344,HMDB01091
+met31943,1492,3-hydroxysebacate,Lipid,"Fatty Acid, Monohydroxy",31943,LC/MS Neg,100001145,1282,217.1081,73141-46-5,3017884,,HMDB00350
+met62062,4011,3-hydroxystachydrine*,Xenobiotics,Food Component/Plant,62062,LC/MS Pos Early,100020203,1049,160.0968,,442640,,
+met57781,4431,3-hydroxyvalproate,Xenobiotics,Drug - Neurological,57781,LC/MS Neg,100015977,2912,159.1027,58888-84-9,134459,C16651,HMDB13899
+met27672,247,3-indoxyl sulfate,Amino Acid,Tryptophan Metabolism,27672,LC/MS Neg,100000467,2222.2,212.0023,2642-37-7,10258,,HMDB00682
+met48763,3647,3-methoxycatechol sulfate (1),Xenobiotics,Benzoate Metabolism,48763,LC/MS Neg,100006375,2163,218.9969,,,,
+met44618,161,3-methoxytyramine sulfate,Amino Acid,Tyrosine Metabolism,44618,LC/MS Neg,100004634,1722,246.0442,,,,
+met12017,159,3-methoxytyrosine,Amino Acid,Tyrosine Metabolism,12017,LC/MS Pos Early,1342,2555,212.0917,300-48-1,1670,,HMDB01434
+met46165,3622,3-methyl catechol sulfate (1),Xenobiotics,Benzoate Metabolism,46165,LC/MS Neg,100004112,2790,203.002,,,,
+met44526,307,3-methyl-2-oxobutyrate,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",44526,LC/MS Neg,100000936,1465,115.0401,3715-29-5,49,C00141,HMDB00019
+met15676,287,3-methyl-2-oxovalerate,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",15676,LC/MS Neg,100000036,2064.2,129.0557,1460-34-0;51829-07-3,47,C00671,HMDB03736
+met35132,3433,3-methylcytidine,Nucleotide,"Pyrimidine Metabolism, Cytidine containing",35132,LC/MS Pos Early,100001466,2176,258.1085,21028-20-6,159649,,
+met57747,271,3-methylglutaconate,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",57747,LC/MS Polar,100002458,2700,99.0452,5746-90-7,1551553,,HMDB00522
+met46548,275,3-methylglutarylcarnitine (2),Amino Acid,"Leucine, Isoleucine and Valine Metabolism",46548,LC/MS Pos Early,100005850,2675,290.1598,,128145,,HMDB00552
+met15677,66,3-methylhistidine,Amino Acid,Histidine Metabolism,15677,LC/MS Neg,100000042,906.3,168.0779,368-16-1,64969,C01152,HMDB00479
+met32445,3685,3-methylxanthine,Xenobiotics,Xanthine Metabolism,32445,LC/MS Neg,100001108,1700,165.0418,1076-22-8,70639,C16357,HMDB01886
+met15749,3672,3-phenylpropionate (hydrocinnamate),Xenobiotics,Benzoate Metabolism,15749,LC/MS Neg,100000010,2860,149.0608,501-52-0,107,C05629,HMDB00764
+met3155,3420,3-ureidopropionate,Nucleotide,"Pyrimidine Metabolism, Uracil containing",3155,LC/MS Polar,1053,2230,131.0462,462-88-4,111,C02642,HMDB00026
+met43507,2738,3b-hydroxy-5-cholenoic acid,Lipid,Secondary Bile Acid Metabolism,43507,LC/MS Neg,100004182,5205,373.2748,5255-17-4,92997,,HMDB00308
+met54805,2508,3beta-hydroxy-5-cholestenoate,Lipid,Sterol,54805,LC/MS Neg,100006370,5398,415.3218,6561-58-6,165511,C17333,
+met1558,410,4-acetamidobutanoate,Amino Acid,Polyamine Metabolism,1558,LC/MS Pos Early,1113,1350,146.0812,3025-96-5,18189,C02946,HMDB03681
+met12032,4196,4-acetamidophenol,Xenobiotics,"Drug - Analgesics, Anesthetics",12032,LC/MS Neg,1383,2173.7,150.0561,103-90-2,1983,C06804,HMDB01859
+met15736,4199,4-acetamidophenylglucuronide,Xenobiotics,"Drug - Analgesics, Anesthetics",15736,LC/MS Neg,100000043,1400,326.0881,120595-80-4,83944,,HMDB10316
+met37475,4198,4-acetaminophen sulfate,Xenobiotics,"Drug - Analgesics, Anesthetics",37475,LC/MS Neg,2049,1792,230.0129,10066-90-7;32113-41-0,83939,C06804,HMDB59911
+met44620,4528,4-acetylphenol sulfate,Xenobiotics,Drug - Other,44620,LC/MS Neg,100000711,2375,215.002,,4684006,,
+met37181,4033,4-allylphenol sulfate,Xenobiotics,Food Component/Plant,37181,LC/MS Neg,100001868,3805,213.0227,,,,
+met54809,4209,4-aminophenol sulfate (2),Xenobiotics,"Drug - Analgesics, Anesthetics",54809,LC/MS Neg,100010871,1168,188.0023,,,,
+met38125,2518,4-cholesten-3-one,Lipid,Sterol,38125,LC/MS Pos Late,100002227,2520,385.3465,601-57-0,91477,C00599,HMDB00921
+met36099,3634,4-ethylphenylsulfate,Xenobiotics,Benzoate Metabolism,36099,LC/MS Neg,100001756,3580,201.0227,123-07-9,,C13637,
+met15681,414,4-guanidinobutanoate,Amino Acid,Guanidino and Acetamido Metabolism,15681,LC/MS Pos Early,100000096,2320,146.0924,463-003;463-00-3,500,C01035,HMDB03464
+met40062,1289,4-hydroxy-2-oxoglutaric acid,Lipid,"Fatty Acid, Dicarboxylate",40062,LC/MS Polar,100002537,3073,161.0092,1187-99-1,599,C01127,HMDB02070
+met48441,4695,4-hydroxychlorothalonil,Xenobiotics,Chemical,48441,LC/MS Neg,100006082,4427,244.9082,28343-61-5,34217,,
+met37445,4365,4-hydroxycoumarin,Xenobiotics,Drug - Cardiovascular,37445,LC/MS Neg,100002049,2470,161.0244,1076-38-6,54682930,C20414,
+met35527,3595,4-hydroxyhippurate,Xenobiotics,Benzoate Metabolism,35527,LC/MS Neg,100001423,1475,194.0459,2482-25-9,151012,,HMDB13678
+met541,125,4-hydroxyphenylacetate,Amino Acid,Phenylalanine Metabolism,541,LC/MS Neg,144,1361,151.0401,156-38-7,127,C00642,HMDB00020
+met55017,879,4-hydroxyphenylacetylglutamine,Peptide,Acetylated Peptides,55017,LC/MS Neg,100010850,1650,279.0986,,,,
+met1669,139,4-hydroxyphenylpyruvate,Amino Acid,Tyrosine Metabolism,1669,LC/MS Neg,1141,1690,179.035,156-39-8,979,C01179,HMDB00707
+met22116,253,4-methyl-2-oxopentanoate,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",22116,LC/MS Neg,100000551,2170,129.0557,816-66-0,70,C00233,HMDB00695
+met43592,4692,4-methylbenzenesulfonate,Xenobiotics,Chemical,43592,LC/MS Neg,100002390,2350,171.0121,104-15-4,6101,C06677,
+met46146,3624,4-methylcatechol sulfate,Xenobiotics,Benzoate Metabolism,46146,LC/MS Neg,100004111,2665,203.002,,,,
+met48442,4061,4-vinylguaiacol sulfate,Xenobiotics,Food Component/Plant,48442,LC/MS Neg,100006126,3354,229.0176,,,,
+met36098,3635,4-vinylphenol sulfate,Xenobiotics,Benzoate Metabolism,36098,LC/MS Neg,100001755,3320,199.0071,2628-17-3,6426766,C05627,HMDB04072
+met1418,3453,"5,6-dihydrothymine",Nucleotide,"Pyrimidine Metabolism, Thymine containing",1418,LC/MS Neg,158,1637.8,127.0513,696-04-8,93556,C00906,HMDB00079
+met1559,3413,"5,6-dihydrouracil",Nucleotide,"Pyrimidine Metabolism, Uracil containing",1559,LC/MS Neg,1125,1120,113.0357,504-07-4,649,C00429,HMDB00076
+met61833,3404,"5,6-dihydrouridine",Nucleotide,"Pyrimidine Metabolism, Uracil containing",61833,LC/MS Neg,100001425,1119,245.0779,1361384,94312,,
+met43582,99,5-(galactosylhydroxy)-L-lysine,Amino Acid,Lysine Metabolism,43582,LC/MS Pos Early,100002462,2755,325.1606,32448-36-5,,,
+met34424,3687,5-acetylamino-6-amino-3-methyluracil,Xenobiotics,Xanthine Metabolism,34424,LC/MS Polar,100001403,1710,197.068,1196153-01-1,88299,C16366,HMDB04400
+met34401,3688,5-acetylamino-6-formylamino-3-methyluracil,Xenobiotics,Xanthine Metabolism,34401,LC/MS Polar,100001402,1424,225.0629,85438-96-6,108214,C16365,HMDB11105
+met53242,249,5-bromotryptophan,Amino Acid,Tryptophan Metabolism,53242,LC/MS Neg,100009338,3525,280.9931,,96735,,
+met33968,1152,5-dodecenoate (12:1n7),Lipid,Medium Chain Fatty Acid,33968,LC/MS Neg,100001232,5224,197.1547,2430-94-6,5312378,,HMDB00529
+met61769,1405,5-dodecenoylcarnitine (C12:1),Lipid,Fatty Acid Metabolism(Acyl Carnitine),61769,LC/MS Pos Late,100016069,1135,342.2639,,,,
+met31938,1498,5-hydroxyhexanoate,Lipid,"Fatty Acid, Monohydroxy",31938,LC/MS Neg,100001148,1267,131.0714,44843-89-2,170748,,HMDB00525
+met52914,245,5-hydroxyindole sulfate,Amino Acid,Tryptophan Metabolism,52914,LC/MS Neg,100009042,1928,212.0023,,,,
+met15685,98,5-hydroxylysine,Amino Acid,Lysine Metabolism,15685,LC/MS Pos Early,100000054,2790,163.1077,13204-98-3,1029,C16741,HMDB00450
+met1419,405,5-methylthioadenosine (MTA),Amino Acid,Polyamine Metabolism,1419,LC/MS Pos Early,212,2752,298.0968,2457-80-9,439176,C00170,HMDB01173
+met35136,3406,5-methyluridine (ribothymidine),Nucleotide,"Pyrimidine Metabolism, Uracil containing",35136,LC/MS Neg,100001446,1778.1,257.0779,1463-10-1,445408,,HMDB00884
+met1494,426,5-oxoproline,Amino Acid,Glutathione Metabolism,1494,LC/MS Neg,1021,738.5,128.0353,98-79-3,7405,C01879,HMDB00267
+met37183,2627,"5alpha-androstan-3alpha,17alpha-diol monosulfate",Lipid,Androgenic Steroids,37183,LC/MS Neg,100002008,5208,371.1898,,,,
+met47132,2649,"5alpha-androstan-3alpha,17beta-diol 17-glucuronide",Lipid,Androgenic Steroids,47132,LC/MS Neg,100005396,4930,467.265,,,,
+met37184,2648,"5alpha-androstan-3alpha,17beta-diol disulfate",Lipid,Androgenic Steroids,37184,LC/MS Neg,100002017,4275,225.0697,,,,
+met37186,2646,"5alpha-androstan-3alpha,17beta-diol monosulfate (1)",Lipid,Androgenic Steroids,37186,LC/MS Neg,100002018,4925,371.1898,,,,
+met37185,2647,"5alpha-androstan-3alpha,17beta-diol monosulfate (2)",Lipid,Androgenic Steroids,37185,LC/MS Neg,100006005,5080,371.1898,,,,
+met37187,2657,"5alpha-androstan-3beta,17alpha-diol disulfate",Lipid,Androgenic Steroids,37187,LC/MS Neg,100002021,4215,225.0697,,,,
+met37190,2654,"5alpha-androstan-3beta,17beta-diol disulfate",Lipid,Androgenic Steroids,37190,LC/MS Neg,100001987,3880,225.0697,571-20-0,242332,C12525,HMDB00493
+met37192,2653,"5alpha-androstan-3beta,17beta-diol monosulfate (2)",Lipid,Androgenic Steroids,37192,LC/MS Neg,100002024,4685,371.1898,,,,
+met46172,2573,"5alpha-pregnan-3(alpha or beta),20beta-diol disulfate",Lipid,Progestin Steroids,46172,LC/MS Neg,100002015,4310,239.0853,,5127902,,
+met37198,2572,"5alpha-pregnan-3beta,20alpha-diol disulfate",Lipid,Progestin Steroids,37198,LC/MS Neg,100001988,3962,239.0853,,,,
+met37200,2567,"5alpha-pregnan-3beta,20alpha-diol monosulfate (2)",Lipid,Progestin Steroids,37200,LC/MS Neg,100002014,5060,399.2211,,,,
+met37196,2564,"5alpha-pregnan-3beta,20beta-diol monosulfate (1)",Lipid,Progestin Steroids,37196,LC/MS Neg,100002009,5180,399.2211,,,,
+met37480,2563,"5alpha-pregnan-3beta-ol,20-one sulfate",Lipid,Progestin Steroids,37480,LC/MS Neg,100002035,5136,397.2054,7730-00-9,,,
+met48698,4712,6-hydroxyindole sulfate,Xenobiotics,Chemical,48698,LC/MS Neg,100006260,2498,212.0023,,,,
+met43231,110,6-oxopiperidine-2-carboxylate,Amino Acid,Lysine Metabolism,43231,LC/MS Neg,100004499,965,142.051,34622-39-4,3014237,,HMDB61705
+met36776,2505,7-alpha-hydroxy-3-oxo-4-cholestenoate (7-Hoca),Lipid,Sterol,36776,LC/MS Neg,100001609,5288.1,429.301,115538-85-7,3081085,C17337,HMDB12458
+met31904,2736,7-ketodeoxycholate,Lipid,Secondary Bile Acid Metabolism,31904,LC/MS Neg,100001063,4821,405.2646,911-40-0,188292,,HMDB00391
+met35114,3370,7-methylguanine,Nucleotide,"Purine Metabolism, Guanine containing",35114,LC/MS Pos Early,100001456,2175,166.0723,578-76-7,11361,C02242,HMDB00897
+met39598,3679,7-methylurate,Xenobiotics,Xanthine Metabolism,39598,LC/MS Pos Early,100002241,1321,183.0513,612-37-3,69160,C16355,HMDB11107
+met34390,3686,7-methylxanthine,Xenobiotics,Xanthine Metabolism,34390,LC/MS Pos Early,100001396,1350,167.0564,552-62-5,68374,C16353,HMDB01991
+met38399,1534,"9,10-DiHOME",Lipid,"Fatty Acid, Dihydroxy",38399,LC/MS Neg,179,5180,313.2384,263399-34-4,9966640,C14828,HMDB04704
+met47120,1525,9-hydroxystearate,Lipid,"Fatty Acid, Monohydroxy",47120,LC/MS Neg,100005834,5384,299.2592,25498-28-6,9570127,,HMDB61661
+met48569,3992,acesulfame,Xenobiotics,Food Component/Plant,48569,LC/MS Neg,100006203,1581,161.9867,55589-62-3,36573,,HMDB33585
+met33963,1455,acetoacetate,Lipid,Ketone Bodies,33963,LC/MS Pos Early,1218,1062,103.039,578486,96,C00164,HMDB00060
+met32198,1395,acetylcarnitine (C2),Lipid,Fatty Acid Metabolism(Acyl Carnitine),32198,LC/MS Pos Early,100000802,2282,204.123,5080-50-2,1,C02571,HMDB00201
+met37493,4223,acetylsalicylate,Xenobiotics,"Drug - Analgesics, Anesthetics",37493,LC/MS Pos Early,100001953,2790,121.0284,50-78-2,2244,"D00109,C01405",HMDB01879
+met43258,401,acisoga,Amino Acid,Polyamine Metabolism,43258,LC/MS Neg,100004541,2297,183.1139,106692-36-8,129397,,
+met46173,1103,aconitate [cis or trans],Energy,TCA Cycle,46173,LC/MS Neg,100001359,580,173.0092,,,,
+met554,3335,adenine,Nucleotide,"Purine Metabolism, Adenine containing",554,LC/MS Pos Early,880,2221,136.0618,73-24-5,190,C00147,HMDB00034
+met555,3334,adenosine,Nucleotide,"Purine Metabolism, Adenine containing",555,LC/MS Neg,798,2075.4,134.0472,58-61-7,60961,C00212,HMDB00050
+met32342,3327,adenosine 5'-monophosphate (AMP),Nucleotide,"Purine Metabolism, Adenine containing",32342,LC/MS Pos Early,209,1013,348.0704,149022-20-8,6083,C00020,HMDB00045
+met52988,1421,adipoylcarnitine (C6-DC),Lipid,Fatty Acid Metabolism(Acyl Carnitine),52988,LC/MS Pos Early,100006614,2558,290.1598,,71296139,,HMDB61677
+met32980,1211,adrenate (22:4n6),Lipid,Polyunsaturated Fatty Acid (n3 and n6),32980,LC/MS Neg,100001193,5678,331.2643,2091-25-0,5497181,C16527,HMDB02226
+met57528,1430,adrenoylcarnitine (C22:4)*,Lipid,Fatty Acid Metabolism(Acyl Carnitine),57528,LC/MS Pos Late,100015850,1415,476.3734,,,,
+met1126,28,alanine,Amino Acid,Alanine and Aspartate Metabolism,1126,LC/MS Pos Early,811,1700,90.055,56-41-7,5950,C00041,HMDB00161
+met1107,3321,allantoin,Nucleotide,"Purine Metabolism, (Hypo)Xanthine/Inosine containing",1107,LC/MS Polar,1002,1672,157.0367,97-59-6,204,C02350,HMDB00462
+met41494,3827,alliin,Xenobiotics,Food Component/Plant,41494,LC/MS Pos Early,100003473,1470,178.0532,556-27-4,87310,C08265,HMDB33592
+met43534,4421,allopurinol,Xenobiotics,Drug - Metabolic,43534,LC/MS Neg,100004518,1530,135.0312,315-30-0,2094,,
+met38321,4422,allopurinol riboside,Xenobiotics,Drug - Metabolic,38321,LC/MS Neg,100002454,1660,267.0735,16220-07-8,,,
+met48188,3522,alpha-CEHC,Cofactors and Vitamins,Tocopherol Metabolism,48188,LC/MS Neg,100002206,4045,277.1445,4072-32-6,9943542,,HMDB01518
+met39346,3520,alpha-CEHC glucuronide*,Cofactors and Vitamins,Tocopherol Metabolism,39346,LC/MS Neg,100003101,2616,453.1766,477200-36-5,,,
+met47666,3521,alpha-CEHC sulfate,Cofactors and Vitamins,Tocopherol Metabolism,47666,LC/MS Neg,100005972,3090,357.1013,,,,
+met22132,256,alpha-hydroxyisocaproate,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",22132,LC/MS Neg,100000706,1840,131.0714,10303-64-7,83697,C03264,HMDB00746
+met33937,288,alpha-hydroxyisovalerate,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",33937,LC/MS Neg,100001300,1126,117.0557,600-37-3,99823,,HMDB00407
+met54738,4355,alpha-hydroxymetoprolol,Xenobiotics,Drug - Cardiovascular,54738,LC/MS Pos Early,100006385,2900,284.1856,56392-16-6,114962,,HMDB60994
+met4968,333,alpha-ketobutyrate,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism",4968,LC/MS Polar,796,940,101.0244,600-18-0,58,C00109,HMDB00005
+met62101,43,alpha-ketoglutaramate**,Amino Acid,Glutamate Metabolism,62101,LC/MS Polar,100002397,1916,144.0302,18465-19-5,,,
+met528,1107,alpha-ketoglutarate,Energy,TCA Cycle,528,LC/MS Polar,93,2700,145.0143,305-72-6;328-50-7;22202-68-2,51,C00026,HMDB00208
+met1561,3510,alpha-tocopherol,Cofactors and Vitamins,Tocopherol Metabolism,1561,LC/MS Pos Late,1105,2522,430.3782,59-02-9;10191-41-0,14985,C02477,HMDB01893
+met52948,4275,amoxicillin,Xenobiotics,Drug - Antibiotic,52948,LC/MS Neg,100008962,2365,364.0973,26787-78-0,2171,C06827,HMDB15193
+met32827,2661,andro steroid monosulfate C19H28O6S (1)*,Lipid,Androgenic Steroids,32827,LC/MS Neg,100002152,3871,383.1534,,,C04555,HMDB02759
+met37207,2636,"androstenediol (3alpha, 17alpha) monosulfate (2)",Lipid,Androgenic Steroids,37207,LC/MS Neg,100002026,4712,369.1741,,,,
+met37209,2637,"androstenediol (3alpha, 17alpha) monosulfate (3)",Lipid,Androgenic Steroids,37209,LC/MS Neg,100002027,5180,369.1741,,,,
+met37202,2632,"androstenediol (3beta,17beta) disulfate (1)",Lipid,Androgenic Steroids,37202,LC/MS Neg,100001992,3740,224.0618,,87120982,C04295,HMDB03818
+met37203,2633,"androstenediol (3beta,17beta) disulfate (2)",Lipid,Androgenic Steroids,37203,LC/MS Neg,100001994,4065,224.0624,,87120982,C04295,HMDB03818
+met37211,2629,"androstenediol (3beta,17beta) monosulfate (1)",Lipid,Androgenic Steroids,37211,LC/MS Neg,100002028,4535,369.1741,521-17-5,13847309,,HMDB03818
+met37210,2630,"androstenediol (3beta,17beta) monosulfate (2)",Lipid,Androgenic Steroids,37210,LC/MS Neg,100002029,4500,369.1741,,,,
+met61846,2613,androsterone glucuronide,Lipid,Androgenic Steroids,61846,LC/MS Neg,100002761,4953,465.2494,1852-43-3,114833,C11135,HMDB02829
+met31591,2623,androsterone sulfate,Lipid,Androgenic Steroids,31591,LC/MS Neg,100001073,5022,369.1741,2479-86-9,159663,,HMDB02759
+met57746,221,anthranilate,Amino Acid,Tryptophan Metabolism,57746,LC/MS Pos Early,1258,2606,120.0444,118-92-3,227,C00108,HMDB01123
+met575,950,arabinose,Carbohydrate,Pentose Metabolism,575,LC/MS Polar,828,1804.5,195.051,28697-53-2,66308,C00216,HMDB00646
+met48885,965,arabitol/xylitol,Carbohydrate,Pentose Metabolism,48885,LC/MS Polar,100006430,1932.4,151.0612,,6912,C01904,
+met48255,967,arabonate/xylonate,Carbohydrate,Pentose Metabolism,48255,LC/MS Polar,100006115,2700,165.0405,,,,
+met1118,1178,arachidate (20:0),Lipid,Long Chain Fatty Acid,1118,LC/MS Neg,893,6240,311.2956,506-30-9,10467,C06425,HMDB02212
+met1110,1210,arachidonate (20:4n6),Lipid,Polyunsaturated Fatty Acid (n3 and n6),1110,LC/MS Neg,229,5535,303.233,506-32-1,444899,C00219,HMDB01043
+met57518,1429,arachidonoylcarnitine (C20:4),Lipid,Fatty Acid Metabolism(Acyl Carnitine),57518,LC/MS Pos Late,100015837,1353,448.3422,,,,
+met53261,1468,arachidonoylcholine,Lipid,Fatty Acid Metabolism (Acyl Choline),53261,LC/MS Pos Late,100009332,1390,390.3367,,,,
+met57513,1428,arachidoylcarnitine (C20)*,Lipid,Fatty Acid Metabolism(Acyl Carnitine),57513,LC/MS Pos Late,100015833,1512,456.4047,,,,HMDB06460
+met57461,384,argininate*,Amino Acid,Urea cycle; Arginine and Proline Metabolism,57461,LC/MS Pos Early,100002769,2150,176.103,157-07-3,160437,,HMDB03148
+met1638,353,arginine,Amino Acid,Urea cycle; Arginine and Proline Metabolism,1638,LC/MS Pos Early,231,2825,175.119,1119-34-2,232,C00062,HMDB00517
+met52960,4488,aripiprazole,Xenobiotics,Drug - Psychoactive,52960,LC/MS Pos Late,100008941,1000,448.1553,129722-12-9,60795,"D01164,C12564",HMDB05042
+met512,38,asparagine,Amino Acid,Alanine and Aspartate Metabolism,512,LC/MS Pos Early,917,1225,133.0608,70-47-3,6267,C00152,HMDB00168
+met443,34,aspartate,Amino Acid,Alanine and Aspartate Metabolism,443,LC/MS Pos Early,234,1165,134.0448,56-84-8,5960,C00049,HMDB00191
+met38658,4358,atenolol,Xenobiotics,Drug - Cardiovascular,38658,LC/MS Pos Early,100002726,2668,267.1703,29122-68-7,2249,D00235,HMDB01924
+met38619,4407,atorvastatin (lipitor),Xenobiotics,Drug - Metabolic,38619,LC/MS Neg,100002802,5101,557.2457,134523-03-8,60823,D00887,HMDB05006
+met47878,4408,atorvastatin lactone,Xenobiotics,Drug - Metabolic,47878,LC/MS Pos Late,100005940,1190,541.2497,125995-03-1,6483036,,
+met52966,4271,azithromycin,Xenobiotics,Drug - Antibiotic,52966,LC/MS Pos Late,100008963,918,749.5158,83905-01-5,2269,C06838,HMDB14352
+met57646,4450,baclofen,Xenobiotics,Drug - Neurological,57646,LC/MS Pos Early,100015779,3163,214.0629,1134-47-0,2284,D00241,HMDB14327
+met57331,2359,behenoyl dihydrosphingomyelin (d18:0/22:0)*,Lipid,Sphingolipid Metabolism,57331,LC/MS Pos Late,100009026,3150,789.6844,,,,HMDB12091
+met48492,2362,behenoyl sphingomyelin (d18:1/22:0)*,Lipid,Sphingolipid Metabolism,48492,LC/MS Pos Late,100006294,3083,787.6688,,,,HMDB12103
+met57514,1431,behenoylcarnitine (C22)*,Lipid,Fatty Acid Metabolism(Acyl Carnitine),57514,LC/MS Pos Late,100015832,1561,484.436,,,,
+met15778,3601,benzoate,Xenobiotics,Benzoate Metabolism,15778,LC/MS Neg,100000008,1750,121.0295,65-85-0,243,C00180,HMDB01870
+met39678,4241,benzoylecgonine,Xenobiotics,"Drug - Analgesics, Anesthetics",39678,LC/MS Pos Early,100002928,3061,290.1387,519-09-5,442997,C10847,HMDB41836
+met55,3421,beta-alanine,Nucleotide,"Pyrimidine Metabolism, Uracil containing",55,LC/MS Pos Early,244,1905,90.055,56-41-7;107-95-9,239,C00099,HMDB00056
+met54923,53,beta-citrylglutamate,Amino Acid,Glutamate Metabolism,54923,LC/MS Neg,100003271,530,320.0623,73590-26-8,72715786,C20775,
+met57591,3573,beta-cryptoxanthin,Cofactors and Vitamins,Vitamin A Metabolism,57591,LC/MS Pos Late,100001977,2560,552.4326,472-70-8,6384256,,HMDB33844
+met35101,3838,beta-guanidinopropanoate,Xenobiotics,Food Component/Plant,35101,LC/MS Pos Early,100001411,2145,132.0768,353-09-3,67701,C03065,HMDB13222
+met12129,268,beta-hydroxyisovalerate,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",12129,LC/MS Neg,1442,1027,117.0557,625-08-1,69362,,HMDB00754
+met3141,6,betaine,Amino Acid,"Glycine, Serine and Threonine Metabolism",3141,LC/MS Pos Early,799,1064,118.0863,107-43-7,247,C00719,HMDB00043
+met38100,3815,betonicine,Xenobiotics,Food Component/Plant,38100,LC/MS Pos Early,100002153,1012,160.0968,515-25-3,164642,C08269,HMDB29412
+met32586,3548,"bilirubin (E,E)*",Cofactors and Vitamins,Hemoglobin and Porphyrin Metabolism,32586,LC/MS Pos Late,100001950,1045,585.2708,114-25-0,5315454,,
+met47886,3549,"bilirubin (E,Z or Z,E)*",Cofactors and Vitamins,Hemoglobin and Porphyrin Metabolism,47886,LC/MS Pos Late,100001951,1265,585.2708,,5799469,,HMDB00488
+met43807,3547,"bilirubin (Z,Z)",Cofactors and Vitamins,Hemoglobin and Porphyrin Metabolism,43807,LC/MS Pos Late,1090,1840,585.2708,635-65-4,5280352,C00486,HMDB00054
+met2137,3550,biliverdin,Cofactors and Vitamins,Hemoglobin and Porphyrin Metabolism,2137,LC/MS Pos Late,250,1016,583.2551,55482-27-4;55482-27-4,5353439,C00500,HMDB01008
+met22154,825,bradykinin,Peptide,Polypeptide,22154,LC/MS Pos Late,100000967,792,530.788,58-82-2,439201,C00306,HMDB04246
+met34420,827,"bradykinin, des-arg(9)",Peptide,Polypeptide,34420,LC/MS Neg,100001292,4250,902.453,15958-92-6,105044,C00306,HMDB04246
+met33962,826,"bradykinin, hydroxy-pro(3)",Peptide,Polypeptide,33962,LC/MS Pos Late,100001237,776,538.7854,37642-65-2,169947,,HMDB11728
+met32412,1368,butyrylcarnitine (C4),Lipid,Fatty Acid Metabolism (also BCAA Metabolism),32412,LC/MS Pos Early,100001054,2860,232.1543,25576-40-3,439829,C02862,HMDB02013
+met48782,210,C-glycosyltryptophan,Amino Acid,Tryptophan Metabolism,48782,LC/MS Neg,100006379,1777,365.1354,180509-18-6,10981970,,
+met53254,3690,caffeic acid sulfate,Xenobiotics,Xanthine Metabolism,53254,LC/MS Polar,100009337,1307,258.9918,,,,HMDB41708
+met569,3674,caffeine,Xenobiotics,Xanthine Metabolism,569,LC/MS Pos Early,849,2106,195.0877,58-08-2,2519,C07481,HMDB01847
+met1642,1148,caprate (10:0),Lipid,Medium Chain Fatty Acid,1642,LC/MS Neg,888,5090.7,171.1391,112-37-8,2969,C01571,HMDB00511
+met32489,1144,caproate (6:0),Lipid,Medium Chain Fatty Acid,32489,LC/MS Neg,926,2713.7,115.0765,142-62-1,8892,C01585,HMDB00535
+met32492,1146,caprylate (8:0),Lipid,Medium Chain Fatty Acid,32492,LC/MS Neg,932,4362,143.1078,124-07-2,379,C06423,HMDB00482
+met37033,4436,carbamazepine,Xenobiotics,Drug - Neurological,37033,LC/MS Pos Late,100001933,880,237.1022,298-46-4,2554,D00252,HMDB14704
+met37020,4437,"carbamazepine 10,11-epoxide*",Xenobiotics,Drug - Neurological,37020,LC/MS Pos Early,100002321,3020,253.0972,36507-30-9,2555,C07496,HMDB60658
+met37056,4438,carbamazepine glucuronide*,Xenobiotics,Drug - Neurological,37056,LC/MS Neg,100002322,3884,411.1198,,,,
+met40007,55,carboxyethyl-GABA,Amino Acid,Glutamate Metabolism,40007,LC/MS Pos Early,100003260,2085,176.0917,908055,2572,,HMDB02201
+met43333,4216,carboxyibuprofen,Xenobiotics,"Drug - Analgesics, Anesthetics",43333,LC/MS Neg,100004171,1920,235.0976,15935-54-3,10444113,,HMDB60564
+met62067,4217,carboxyibuprofen glucuronide*,Xenobiotics,"Drug - Analgesics, Anesthetics",62067,LC/MS Pos Early,100020212,2995,430.1708,,,,HMDB60564
+met15500,1452,carnitine,Lipid,Carnitine Metabolism,15500,LC/MS Pos Early,100000007,1978,162.1125,461-05-2,10917,C00318,HMDB00062
+met57635,3569,carotene diol (1),Cofactors and Vitamins,Vitamin A Metabolism,57635,LC/MS Pos Late,100015966,1720,568.4276,,,,
+met57636,3570,carotene diol (2),Cofactors and Vitamins,Vitamin A Metabolism,57636,LC/MS Pos Late,100015967,1904,568.4279,,,,
+met57637,3571,carotene diol (3),Cofactors and Vitamins,Vitamin A Metabolism,57637,LC/MS Pos Late,100015968,1948,568.4279,,,,
+met35320,3619,catechol sulfate,Xenobiotics,Benzoate Metabolism,35320,LC/MS Neg,100001605,1906,188.9863,4918-96-1,3083879,,HMDB59724
+met38599,4229,celecoxib,Xenobiotics,"Drug - Analgesics, Anesthetics",38599,LC/MS Neg,100002805,5283,380.0686,169590-42-5,2662,C07589,HMDB05014
+met57443,2454,"ceramide (d18:2/24:1, d18:1/24:2)*",Lipid,Ceramides,57443,LC/MS Pos Late,100015744,3858,646.6133,,,,
+met57516,1444,cerotoylcarnitine (C26)*,Lipid,Fatty Acid Metabolism(Acyl Carnitine),57516,LC/MS Pos Late,100015835,1649,540.4986,,,,HMDB06347
+met54745,4500,cetirizine,Xenobiotics,Drug - Respiratory,54745,LC/MS Pos Late,100009034,1052,389.1627,83881-51-0,2678,C07778,HMDB05032
+met1563,2687,chenodeoxycholate,Lipid,Primary Bile Acid Metabolism,1563,LC/MS Neg,1123,5264,391.2854,474-24-9;474-25-9,10133,C02528,HMDB00518
+met37112,1660,chiro-inositol,Lipid,Inositol Metabolism,37112,LC/MS Polar,100001859,3191.2,225.0616,643-12-9,,C19891,HMDB34220
+met54784,4374,chlorthalidone,Xenobiotics,Drug - Cardiovascular,54784,LC/MS Neg,100006181,3600,337.0055,77-36-1,2732,D00272,
+met22842,2684,cholate,Lipid,Primary Bile Acid Metabolism,22842,LC/MS Neg,136,5165,407.2803,81-25-4,221493,C00695,HMDB00619
+met63,2495,cholesterol,Lipid,Sterol,63,LC/MS Pos Late,266,2707,369.3516,57-88-5,11025495,C00187,HMDB00067
+met15506,1688,choline,Lipid,Phospholipid Metabolism,15506,LC/MS Pos Early,1256,1961,104.107,67-48-1,305,C00114,HMDB00097
+met34396,1689,choline phosphate,Lipid,Phospholipid Metabolism,34396,LC/MS Pos Early,267,700,184.0733,72556-74-2,1014,C00588,HMDB01565
+met42592,4393,cimetidine,Xenobiotics,Drug - Gastrointestinal,42592,LC/MS Pos Early,100004011,2715,253.123,51481-61-9,,,
+met38637,3859,cinnamoylglycine,Xenobiotics,Food Component/Plant,38637,LC/MS Neg,100002253,3127,204.0666,16534-24-0,709625,,HMDB11621
+met57614,4277,ciprofloxacin,Xenobiotics,Drug - Antibiotic,57614,LC/MS Neg,100000687,2724,392.1263,85721-33-1,4011971;2764,C05349,
+met38178,1406,cis-4-decenoylcarnitine (C10:1),Lipid,Fatty Acid Metabolism(Acyl Carnitine),38178,LC/MS Pos Late,100002259,1057,314.2326,98930-66-6,,,
+met1564,1101,citrate,Energy,TCA Cycle,1564,LC/MS Neg,1124,582,191.0197,77-92-9,311,C00158,HMDB00094
+met2132,361,citrulline,Amino Acid,Urea cycle; Arginine and Proline Metabolism,2132,LC/MS Pos Early,391,1520,176.103,372-75-8,9750,C00327,HMDB00904
+met57673,4272,clindamycin,Xenobiotics,Drug - Antibiotic,57673,LC/MS Pos Late,100015876,848,425.1872,18323-44-9,446598,"D00277,C06914",
+met5983,2589,corticosterone,Lipid,Corticosteroids,5983,LC/MS Neg,272,5040,345.2071,50-22-6,5753,C02140,HMDB01547
+met1712,2594,cortisol,Lipid,Corticosteroids,1712,LC/MS Neg,356,4710,361.202,50-23-7,5754,C00735,HMDB00063
+met1769,2596,cortisone,Lipid,Corticosteroids,1769,LC/MS Neg,273,4575,359.1864,53-06-5,222786,C00762,HMDB02802
+met553,3691,cotinine,Xenobiotics,Tobacco Metabolite,553,LC/MS Pos Early,848,2213,177.1022,486-56-6,854019,,HMDB01046
+met38662,3693,cotinine N-oxide,Xenobiotics,Tobacco Metabolite,38662,LC/MS Pos Early,100002719,1377,193.0972,36508-80-2,9815514,,HMDB01411
+met27718,388,creatine,Amino Acid,Creatine Metabolism,27718,LC/MS Pos Early,1221,1947,132.0768,57-00-1,586,C00300,HMDB00064
+met513,389,creatinine,Amino Acid,Creatine Metabolism,513,LC/MS Pos Early,275,2055,114.0662,60-27-5,588,C00791,HMDB00562
+met18368,425,"cys-gly, oxidized",Amino Acid,Glutathione Metabolism,18368,LC/MS Pos Early,1224,2947,355.0741,7729-20-6,333293,,
+met15705,332,cystathionine,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism",15705,LC/MS Pos Early,310,2270,223.0747,535-34-2,439258,C02291,HMDB00099
+met1868,334,cysteine,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism",1868,LC/MS Pos Early,800,1488,122.027,52-90-4;56-89-3,5862,C00097,HMDB00574
+met22176,339,cysteine s-sulfate,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism",22176,LC/MS Pos Early,100000808,565,201.9838,1637-71-4,115015,C05824,HMDB00731
+met37443,344,cysteine sulfinic acid,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism",37443,LC/MS Pos Early,100002113,597,154.0169,207121-48-0,109,C00606,HMDB00996
+met35159,420,cysteine-glutathione disulfide,Amino Acid,Glutathione Metabolism,35159,LC/MS Pos Early,100001437,2465,427.0952,13081-14-6,4247235,,HMDB00656
+met35637,423,cysteinylglycine,Amino Acid,Glutathione Metabolism,35637,LC/MS Pos Early,278,2132,179.0485,19246-18-5,439498,C01419,HMDB00078
+met62103,424,cysteinylglycine disulfide*,Amino Acid,Glutathione Metabolism,62103,LC/MS Pos Early,100002466,2547,298.0526,70555-24-7,,,HMDB00709
+met56,340,cystine,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism",56,LC/MS Pos Early,279,2000,241.0311,56-89-3,67678,C00491,HMDB00192
+met514,3431,cytidine,Nucleotide,"Pyrimidine Metabolism, Cytidine containing",514,LC/MS Pos Early,827,2124,244.0928,65-46-3,6175,C00475,HMDB00089
+met573,3432,cytosine,Nucleotide,"Pyrimidine Metabolism, Cytidine containing",573,LC/MS Pos Early,881,2060,112.0505,71-30-7,597,C00380,HMDB00630
+met48728,4064,daidzein sulfate (2),Xenobiotics,Food Component/Plant,48728,LC/MS Neg,100006363,3330,333.0076,,,,
+met33941,1403,decanoylcarnitine (C10),Lipid,Fatty Acid Metabolism(Acyl Carnitine),33941,LC/MS Pos Late,100001251,1130,316.2482,1492-27-9,10245190,,HMDB00651
+met32425,2611,dehydroisoandrosterone sulfate (DHEA-S),Lipid,Androgenic Steroids,32425,LC/MS Neg,100000792,4745,367.1585,651-48-9,12594,C04555,HMDB01032
+met36747,1451,deoxycarnitine,Lipid,Carnitine Metabolism,36747,LC/MS Pos Early,100001662,2052,146.1176,6249-56-5,134,C01181,HMDB01161
+met1114,2703,deoxycholate,Lipid,Secondary Bile Acid Metabolism,1114,LC/MS Neg,302,5294,391.2854,83-44-3,222528,C04483,HMDB00626
+met46331,4211,desmethylnaproxen,Xenobiotics,"Drug - Analgesics, Anesthetics",46331,LC/MS Neg,100001787,3045,215.0714,52079-10-4,13393711,,HMDB13989
+met46106,4212,desmethylnaproxen sulfate,Xenobiotics,"Drug - Analgesics, Anesthetics",46106,LC/MS Neg,100001788,2250,295.0282,,184679,,
+met57668,4397,dexlansoprazole,Xenobiotics,Drug - Gastrointestinal,57668,LC/MS Pos Late,100015794,827,370.0832,138530-94-6,9578005,D08903,
+met38314,4642,dexpanthenol,Xenobiotics,Chemical,38314,LC/MS Pos Early,100002376,1740,206.1387,16485-10-2,4678,D03726,HMDB04231
+met38301,4503,dextromethorphan,Xenobiotics,Drug - Respiratory,38301,LC/MS Pos Late,100000740,904,272.2009,18046-32-7,5362449,C06947,HMDB01920
+met17805,1214,dihomo-linoleate (20:2n6),Lipid,Polyunsaturated Fatty Acid (n3 and n6),17805,LC/MS Neg,1231,5730,307.2643,2091-39-6,6439848,C16525,HMDB05060
+met35718,1209,dihomo-linolenate (20:3n3 or n6),Lipid,Polyunsaturated Fatty Acid (n3 and n6),35718,LC/MS Neg,100001739,5596,305.2486,17046-59-2,5280581,C03242,HMDB02925
+met53262,1463,dihomo-linolenoyl-choline,Lipid,Fatty Acid Metabolism (Acyl Choline),53262,LC/MS Pos Late,100009335,1424,392.3523,,,,
+met57521,1432,dihomo-linolenoylcarnitine (20:3n3 or 6)*,Lipid,Fatty Acid Metabolism(Acyl Carnitine),57521,LC/MS Pos Late,100015840,1392,450.3578,,,,
+met57520,1433,dihomo-linoleoylcarnitine (C20:2)*,Lipid,Fatty Acid Metabolism(Acyl Carnitine),57520,LC/MS Pos Late,100015839,1436,452.3734,,,,
+met40481,3883,dihydroferulic acid,Xenobiotics,Food Component/Plant,40481,LC/MS Neg,100003432,1928,195.0663,1135-23-5,14340,,
+met601,3388,dihydroorotate,Nucleotide,"Pyrimidine Metabolism, Orotate containing",601,LC/MS Polar,923,1910,157.0255,155-54-4,648,C00337,HMDB03349
+met42981,4360,diltiazem,Xenobiotics,Drug - Cardiovascular,42981,LC/MS Pos Late,100004015,888,415.1686,33286-22-5,39186,C06958,HMDB14487
+met43424,4644,dimethyl sulfone,Xenobiotics,Chemical,43424,LC/MS Pos Early,100004284,832,95.0161,67-71-0,6213,C11142,HMDB04983
+met48404,4645,dimethyl sulfoxide (DMSO),Xenobiotics,Chemical,48404,LC/MS Pos Early,100001549,817,79.0212,67-68-5,679,C11143,HMDB02151
+met36808,367,dimethylarginine (SDMA + ADMA),Amino Acid,Urea cycle; Arginine and Proline Metabolism,36808,LC/MS Pos Early,100001810,2850,203.1503,102783-24-4,123831,C03626,HMDB01539
+met5086,5,dimethylglycine,Amino Acid,"Glycine, Serine and Threonine Metabolism",5086,LC/MS Pos Early,806,1104,104.0706,1118-68-9,673,C01026,HMDB00092
+met38669,4496,diphenhydramine,Xenobiotics,Drug - Respiratory,38669,LC/MS Pos Late,100002732,911,256.1696,147-24-0,3100,C06960,HMDB01927
+met32415,1213,docosadienoate (22:2n6),Lipid,Polyunsaturated Fatty Acid (n3 and n6),32415,LC/MS Neg,100001182,6034,335.2956,7370-49-2,5282807,C16533,HMDB61714
+met39837,1317,docosadioate (C22-DC),Lipid,"Fatty Acid, Dicarboxylate",39837,LC/MS Neg,100002952,5291.8,369.301,505-56-6,244872,C19625,
+met44675,1200,docosahexaenoate (DHA; 22:6n3),Lipid,Polyunsaturated Fatty Acid (n3 and n6),44675,LC/MS Neg,100000665,5525,327.233,6217-54-5,445580,C06429,HMDB02183
+met53263,1467,docosahexaenoylcholine,Lipid,Fatty Acid Metabolism (Acyl Choline),53263,LC/MS Pos Late,100009333,1378,414.3367,,,,
+met32504,1199,docosapentaenoate (n3 DPA; 22:5n3),Lipid,Polyunsaturated Fatty Acid (n3 and n6),32504,LC/MS Neg,100001181,5571,329.2486,2234-74-4,6441454,C16513,HMDB06528
+met37478,1212,docosapentaenoate (n6 DPA; 22:5n6),Lipid,Polyunsaturated Fatty Acid (n3 and n6),37478,LC/MS Neg,100001580,5624.5,329.2486,25182-74-5,6441454,C16513,HMDB01976
+met32388,1308,dodecanedioate (C12-DC),Lipid,"Fatty Acid, Dicarboxylate",32388,LC/MS Neg,100001102,2990,229.1445,693-23-2,12736,C02678,HMDB00623
+met48407,180,dopamine 3-O-sulfate,Amino Acid,Tyrosine Metabolism,48407,LC/MS Neg,100006361,1556.2,232.0285,,122136,C13690,HMDB06275
+met39273,4285,doxycycline,Xenobiotics,Drug - Antibiotic,39273,LC/MS Pos Late,100003009,829,445.1606,24390-14-5,,,
+met57791,4138,echinatin,Xenobiotics,Food Component/Plant,57791,LC/MS Pos Late,100004180,768,271.0965,34221-41-5,6442675,,
+met35651,4646,ectoine,Xenobiotics,Chemical,35651,LC/MS Pos Early,100001635,1980,143.0815,96702-03-3,126041,C06231,
+met22163,4647,EDTA,Xenobiotics,Chemical,22163,LC/MS Neg,100001002,643,291.0834,60-00-4,6049,C00284,HMDB15109
+met39831,1316,eicosanodioate (C20-DC),Lipid,"Fatty Acid, Dicarboxylate",39831,LC/MS Neg,100002951,5200.9,341.2697,2424-92-2,75502,,
+met18467,1198,eicosapentaenoate (EPA; 20:5n3),Lipid,Polyunsaturated Fatty Acid (n3 and n6),18467,LC/MS Neg,2050,5450,301.2173,10-2005-9;10417-94-4,446284,C06428,HMDB01999
+met53258,1469,eicosapentaenoylcholine,Lipid,Fatty Acid Metabolism (Acyl Choline),53258,LC/MS Pos Late,100009336,1343,388.321,,,,
+met33587,1181,eicosenoate (20:1),Lipid,Long Chain Fatty Acid,33587,LC/MS Neg,100001335,5950,309.2799,,5282768,C16526,HMDB02231
+met57519,1434,eicosenoylcarnitine (C20:1)*,Lipid,Fatty Acid Metabolism(Acyl Carnitine),57519,LC/MS Pos Late,100015838,1484,454.3891,,,,
+met52949,4379,enalapril,Xenobiotics,Drug - Cardiovascular,52949,LC/MS Pos Late,100008948,900,377.2071,75847-73-3,3222,,
+met33973,2615,epiandrosterone sulfate,Lipid,Androgenic Steroids,33973,LC/MS Neg,100001287,4855,369.1741,22229-22-7,9929317,,
+met40478,3891,equol sulfate,Xenobiotics,Food Component/Plant,40478,LC/MS Neg,100003429,3630,321.0438,,,,
+met37459,3892,ergothioneine,Xenobiotics,Food Component/Plant,37459,LC/MS Pos Early,100002154,850,230.0958,58511-63-0,3032311,C05570,HMDB03045
+met1552,1186,erucate (22:1n9),Lipid,Long Chain Fatty Acid,1552,LC/MS Neg,1087,6355.6,337.3112,112-86-7,5281116,C08316,HMDB02068
+met20699,3894,erythritol,Xenobiotics,Food Component/Plant,20699,LC/MS Polar,100000846,1491,167.0561,149-32-6,222285,C00503,HMDB02994
+met42420,1094,erythronate*,Carbohydrate,Aminosugar Metabolism,42420,LC/MS Polar,100001320,2186,135.0299,88759-55-1,2781043,,HMDB00613
+met40459,4477,escitalopram,Xenobiotics,Drug - Psychoactive,40459,LC/MS Pos Late,100003444,908,325.1711,219861-08-2,146570,D07913,HMDB05028
+met18474,2668,estrone 3-sulfate,Lipid,Estrogenic Steroids,18474,LC/MS Neg,1230,4417.3,349.1115,438-67-5,3001028,C02538,HMDB01425
+met39603,4586,ethyl glucuronide,Xenobiotics,Chemical,39603,LC/MS Neg,100002849,793,221.0667,17685-04-0,152226,,HMDB10325
+met15765,297,ethylmalonate,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",15765,LC/MS Polar,2054,2785,131.035,601-75-2,11756,,HMDB00622
+met47112,2626,etiocholanolone glucuronide,Lipid,Androgenic Steroids,47112,LC/MS Neg,100005403,4915,465.2494,621890,270605,,HMDB04484
+met48715,4066,eugenol sulfate,Xenobiotics,Food Component/Plant,48715,LC/MS Neg,100006171,3782,243.0333,95480-60-7,180632,,
+met42613,4392,famotidine,Xenobiotics,Drug - Gastrointestinal,42613,LC/MS Pos Early,100003964,2718,338.0522,76824-35-6,5702160,D00318,HMDB01919
+met47114,3897,ferulic acid 4-sulfate,Xenobiotics,Food Component/Plant,47114,LC/MS Neg,100005389,1200,273.0074,86321-29-1,6305574,,HMDB29200
+met42021,4499,fexofenadine,Xenobiotics,Drug - Respiratory,42021,LC/MS Pos Late,100004018,944,502.2952,83799-24-0,3348,C06999,HMDB05030
+met57709,859,Fibrinopeptide A*,Peptide,Fibrinogen Cleavage Peptide,57709,LC/MS Neg,100001322,2474,766.8353,25422-31-5,16133137,,
+met31548,860,"Fibrinopeptide A, des-ala(1)*",Peptide,Fibrinogen Cleavage Peptide,31548,LC/MS Neg,100001323,2535,731.3168,,,,
+met57712,861,"Fibrinopeptide A, phosphono-ser(3)*",Peptide,Fibrinogen Cleavage Peptide,57712,LC/MS Neg,100001324,2016,806.8185,886023-52-5,,,
+met61837,871,Fibrinopeptide B,Peptide,Fibrinogen Cleavage Peptide,61837,LC/MS Neg,100015991,2909,774.8223,36204-23-6,,,
+met57707,4305,fluconazole,Xenobiotics,Drug - Antibiotic,57707,LC/MS Pos Early,100015972,2731,307.1114,86386-73-4,3365,D00322,HMDB14342
+met44619,4464,fluoxetine,Xenobiotics,Drug - Psychoactive,44619,LC/MS Pos Late,1382,1025,310.1413,59333-67-4,3386,D00326,
+met40456,4476,fluvoxamine,Xenobiotics,Drug - Psychoactive,40456,LC/MS Neg,100003443,5267,359.1586,54739-18-3,5324346,C07571,
+met43493,74,formiminoglutamate,Amino Acid,Histidine Metabolism,43493,LC/MS Pos Early,100002500,1880,175.0713,816-90-0,439233,C00439,HMDB00854
+met48195,1018,fructose,Carbohydrate,"Fructose, Mannose and Galactose Metabolism",48195,LC/MS Polar,878,2065,225.0616,57-48-7,5984,C00095,HMDB00660
+met1643,1111,fumarate,Energy,TCA Cycle,1643,LC/MS Polar,330,3084,115.0037,100-17-8,444972,C00122,HMDB00134
+met43009,4373,furosemide,Xenobiotics,Drug - Cardiovascular,43009,LC/MS Neg,100004241,3515,329.0004,54-31-9,3440,D00331,HMDB01933
+met38686,4442,gabapentin,Xenobiotics,Drug - Neurological,38686,LC/MS Neg,100002806,2407.4,170.1187,60142-96-3,3446,D00332,HMDB05015
+met27719,1043,galactonate,Carbohydrate,"Fructose, Mannose and Galactose Metabolism",27719,LC/MS Polar,100001026,3085,195.051,299-28-5,128869,C00880,HMDB00565
+met44876,3518,gamma-CEHC,Cofactors and Vitamins,Tocopherol Metabolism,44876,LC/MS Neg,100002094,3843,263.1289,178167-75-4,133098,,HMDB01931
+met42381,3519,gamma-CEHC glucuronide*,Cofactors and Vitamins,Tocopherol Metabolism,42381,LC/MS Neg,100004243,2500,439.161,,,,
+met55015,446,gamma-glutamyl-alpha-lysine,Peptide,Gamma-glutamyl Amino Acid,55015,LC/MS Pos Early,100010901,2784,276.1554,,65254,,
+met33934,447,gamma-glutamyl-epsilon-lysine,Peptide,Gamma-glutamyl Amino Acid,33934,LC/MS Pos Early,100001262,2717,276.1554,17105-15-6,7015685,,HMDB03869
+met37063,438,gamma-glutamylalanine,Peptide,Gamma-glutamyl Amino Acid,37063,LC/MS Pos Early,100001843,1986,219.0976,5875-41-2,440103,,HMDB29142
+met62104,455,gamma-glutamylcitrulline*,Peptide,Gamma-glutamyl Amino Acid,62104,LC/MS Pos Early,100020241,1644,305.1456,,,,
+met36738,440,gamma-glutamylglutamate,Peptide,Gamma-glutamyl Amino Acid,36738,LC/MS Pos Early,331,1775,277.103,1116-22-9,92865,C05282,HMDB11737
+met2730,441,gamma-glutamylglutamine,Peptide,Gamma-glutamyl Amino Acid,2730,LC/MS Pos Early,1140,1430,276.119,10148-81-9,150914,C05283,HMDB11738
+met33949,442,gamma-glutamylglycine,Peptide,Gamma-glutamyl Amino Acid,33949,LC/MS Pos Early,100001294,1535,205.0819,1948-29-4,165527,,HMDB11667
+met18245,443,gamma-glutamylhistidine,Peptide,Gamma-glutamyl Amino Acid,18245,LC/MS Pos Early,1235,2740,285.1194,37460-15-4,7017195,,
+met34457,444,gamma-glutamylisoleucine*,Peptide,Gamma-glutamyl Amino Acid,34457,LC/MS Neg,100001485,1600,259.1299,,14253342,,HMDB11170
+met18369,445,gamma-glutamylleucine,Peptide,Gamma-glutamyl Amino Acid,18369,LC/MS Neg,1268,1685,259.1299,2566-39-4,151023,,HMDB11171
+met44872,448,gamma-glutamylmethionine,Peptide,Gamma-glutamyl Amino Acid,44872,LC/MS Pos Early,100001313,2640,279.1009,17663-87-5,7009567,,HMDB29155
+met33422,449,gamma-glutamylphenylalanine,Peptide,Gamma-glutamyl Amino Acid,33422,LC/MS Neg,100000491,1825,293.1143,7432-24-8,111299,,HMDB00594
+met33364,450,gamma-glutamylthreonine,Peptide,Gamma-glutamyl Amino Acid,33364,LC/MS Pos Early,100001314,1750,249.1081,5652-48-2,76078708,,HMDB29159
+met33947,451,gamma-glutamyltryptophan,Peptide,Gamma-glutamyl Amino Acid,33947,LC/MS Neg,100001295,1960,332.1252,66471-20-3,3989307,,HMDB29160
+met2734,452,gamma-glutamyltyrosine,Peptide,Gamma-glutamyl Amino Acid,2734,LC/MS Neg,1102,1240,309.1092,7432-23-7,94340,,HMDB11741
+met43829,453,gamma-glutamylvaline,Peptide,Gamma-glutamyl Amino Acid,43829,LC/MS Pos Early,100001126,2700,247.1289,2746-34-1,7015683,,HMDB11172
+met52473,3524,gamma-tocopherol/beta-tocopherol,Cofactors and Vitamins,Tocopherol Metabolism,52473,LC/MS Pos Late,100008998,2384,416.3643,,,,
+met42984,4420,gemfibrozil,Xenobiotics,Drug - Metabolic,42984,LC/MS Neg,100004034,5166,249.1496,25812-30-0,3463,D00334,HMDB15371
+met62061,3879,genistein sulfate*,Xenobiotics,Food Component/Plant,62061,LC/MS Neg,100020207,3616,349.0024,,,,
+met18280,174,gentisate,Amino Acid,Tyrosine Metabolism,18280,LC/MS Polar,100000447,905,153.0193,490-79-9,3469,C00628,HMDB00152
+met587,3819,gluconate,Xenobiotics,Food Component/Plant,587,LC/MS Polar,338,2922,195.051,527-07-1,10690,C00257,HMDB00625
+met48152,908,glucose,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",48152,LC/MS Polar,572,2342,225.0616,50-99-7,79025,C00031,HMDB00122
+met15443,1071,glucuronate,Carbohydrate,Aminosugar Metabolism,15443,LC/MS Polar,100000257,3233.3,193.0354,207300-70-7,444791,C00191,HMDB00127
+met61881,4742,glucuronide of C10H18O2 (1)*,Partially Characterized Molecules,Partially Characterized Molecules,61881,LC/MS Neg,100019990,2728,345.1555,,,,
+met61883,4744,glucuronide of C10H18O2 (3)*,Partially Characterized Molecules,Partially Characterized Molecules,61883,LC/MS Neg,100019992,2990,345.1555,,,,
+met61887,4748,glucuronide of C10H18O2 (7)*,Partially Characterized Molecules,Partially Characterized Molecules,61887,LC/MS Neg,100020014,3790,345.1555,,,,
+met61888,4749,glucuronide of C10H18O2 (8)*,Partially Characterized Molecules,Partially Characterized Molecules,61888,LC/MS Neg,100020015,3865,345.1555,,,,
+met61970,4763,glucuronide of C14H22O4 (2)*,Partially Characterized Molecules,Partially Characterized Molecules,61970,LC/MS Neg,100020096,3932,429.1766,,,,
+met61974,4730,glucuronide of C8H16O2 (1)*,Partially Characterized Molecules,Partially Characterized Molecules,61974,LC/MS Neg,100020002,4125,319.1399,,,,
+met57,41,glutamate,Amino Acid,Glutamate Metabolism,57,LC/MS Pos Early,561,1500,148.0604,56-86-0,611,C00025,HMDB00148
+met33487,50,"glutamate, gamma-methyl ester",Amino Acid,Glutamate Metabolism,33487,LC/MS Pos Early,100001103,2170,162.0761,1499-55-4;1499-55-4,68662,,HMDB61715
+met53,42,glutamine,Amino Acid,Glutamate Metabolism,53,LC/MS Pos Early,563,1291,147.0764,56-85-9,5961,C00064,HMDB00641
+met396,1284,glutarate (C5-DC),Lipid,"Fatty Acid, Dicarboxylate",396,LC/MS Polar,339,2900,131.035,110-94-1,743,C00489,HMDB00661
+met44664,105,glutarylcarnitine (C5-DC),Amino Acid,Lysine Metabolism,44664,LC/MS Pos Early,100001593,2393,276.1442,102636-82-8,71464488,,HMDB13130
+met1572,928,glycerate,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",1572,LC/MS Polar,1052,2070.4,105.0193,600-19-1,752,C00258,HMDB00139
+met15122,2228,glycerol,Lipid,Glycerolipid Metabolism,15122,LC/MS Neg,1254,758,91.0401,56-81-5,753,C00116,HMDB00131
+met43847,2229,glycerol 3-phosphate,Lipid,Glycerolipid Metabolism,43847,LC/MS Pos Early,100000258,580,173.021,29849-82-9,754,C00093,HMDB00126
+met37455,1696,glycerophosphoethanolamine,Lipid,Phospholipid Metabolism,37455,LC/MS Polar,100001620,3075,214.0486,33049-08-0,123874,C01233,HMDB00114
+met15990,1692,glycerophosphorylcholine (GPC),Lipid,Phospholipid Metabolism,15990,LC/MS Pos Early,100000269,672,258.1101,28319-77-9,71920,C00670,HMDB00086
+met58,1,glycine,Amino Acid,"Glycine, Serine and Threonine Metabolism",58,LC/MS Pos Early,340,1375,76.0393,56-40-6,750,C00037,HMDB00123
+met62145,4773,glycine conjugate of C10H12O2*,Partially Characterized Molecules,Partially Characterized Molecules,62145,LC/MS Neg,100020253,4005,220.0979,,,,
+met62146,4774,glycine conjugate of C10H14O2 (1)*,Partially Characterized Molecules,Partially Characterized Molecules,62146,LC/MS Neg,100020254,4335,222.1136,,,,
+met62065,2695,glyco-alpha-muricholate**,Lipid,Primary Bile Acid Metabolism,62065,LC/MS Neg,100020213,4734,464.3018,,,,
+met62066,2696,glyco-beta-muricholate**,Lipid,Primary Bile Acid Metabolism,62066,LC/MS Neg,100020214,4762,464.3018,,,,
+met32346,2688,glycochenodeoxycholate,Lipid,Primary Bile Acid Metabolism,32346,LC/MS Neg,1628,5236.1,448.3068,16564-43-5,12544,C05466,HMDB00637
+met52983,2698,glycochenodeoxycholate glucuronide (1),Lipid,Primary Bile Acid Metabolism,52983,LC/MS Neg,100009264,4806,311.6658,,,,
+met52974,2700,glycochenodeoxycholate sulfate,Lipid,Primary Bile Acid Metabolism,52974,LC/MS Neg,100006641,4820,263.6282,,,,
+met18476,2685,glycocholate,Lipid,Primary Bile Acid Metabolism,18476,LC/MS Neg,342,5163,464.3018,475-31-0;863-57-0,10140,C01921,HMDB00138
+met52977,2701,glycocholate glucuronide (1),Lipid,Primary Bile Acid Metabolism,52977,LC/MS Neg,100009259,4533,640.3339,,,,
+met57741,2734,glycocholenate sulfate*,Lipid,Secondary Bile Acid Metabolism,57741,LC/MS Neg,100001989,4750,510.2531,,,,
+met18477,2705,glycodeoxycholate,Lipid,Secondary Bile Acid Metabolism,18477,LC/MS Neg,100000436,5281,448.3068,360-65-6,3035026,C05464,HMDB00631
+met52975,2739,glycodeoxycholate sulfate,Lipid,Secondary Bile Acid Metabolism,52975,LC/MS Neg,100006642,4875,263.6282,,,,
+met42574,2725,glycohyocholate,Lipid,Secondary Bile Acid Metabolism,42574,LC/MS Neg,100004083,5020,464.3018,,,,
+met31912,2710,glycolithocholate,Lipid,Secondary Bile Acid Metabolism,31912,LC/MS Neg,100001064,5357.1,432.3119,474-74-8,115245,C15557,HMDB00698
+met32620,2711,glycolithocholate sulfate*,Lipid,Secondary Bile Acid Metabolism,32620,LC/MS Neg,100001657,5011,255.6307,15324-64-8,72222,C11301,HMDB02639
+met57595,2470,"glycosyl ceramide (d18:1/20:0, d16:1/22:0)*",Lipid,Ceramides,57595,LC/MS Pos Late,100015882,3414,756.6348,,,,
+met57448,2471,"glycosyl ceramide (d18:1/23:1, d17:1/24:1)*",Lipid,Ceramides,57448,LC/MS Pos Late,100015751,3667,796.6661,,,,
+met57453,2472,"glycosyl ceramide (d18:2/24:1, d18:1/24:2)*",Lipid,Ceramides,57453,LC/MS Pos Late,100015745,3380,808.6661,,,,
+met57421,2459,glycosyl-N-behenoyl-sphingadienine (d18:2/22:0)*,Lipid,Ceramides,57421,LC/MS Pos Late,100015625,3420,782.6505,,,,
+met53013,2455,glycosyl-N-palmitoyl-sphingosine (d18:1/16:0),Lipid,Ceramides,53013,LC/MS Pos Late,100009272,2623,700.5722,,,,
+met52234,2456,glycosyl-N-stearoyl-sphingosine (d18:1/18:0),Lipid,Ceramides,52234,LC/MS Pos Late,100001882,3053,728.6035,,,,
+met39379,2717,glycoursodeoxycholate,Lipid,Secondary Bile Acid Metabolism,39379,LC/MS Neg,100002911,5033,448.3068,64480-66-6,12310288,,HMDB00708
+met39789,3913,glycyrrhetinate,Xenobiotics,Food Component/Plant,39789,LC/MS Pos Late,100002856,1494,471.3469,471-53-4,18526330,C02283,HMDB11628
+met46111,3621,guaiacol sulfate,Xenobiotics,Benzoate Metabolism,46111,LC/MS Neg,100004208,2344,203.002,,22473,,HMDB60013
+met43802,387,guanidinoacetate,Amino Acid,Creatine Metabolism,43802,LC/MS Polar,344,2884,116.0466,352-97-6,763,C00581,HMDB00128
+met32446,415,guanidinosuccinate,Amino Acid,Guanidino and Acetamido Metabolism,32446,LC/MS Polar,100001212,3550,174.052,6133-30-8,97856,C03139,HMDB03157
+met46957,3508,gulonate*,Cofactors and Vitamins,Ascorbate and Aldarate Metabolism,46957,LC/MS Polar,100001586,2750,195.051,20246-53-1,9794176,C00257,HMDB03290
+met41754,3546,heme,Cofactors and Vitamins,Hemoglobin and Porphyrin Metabolism,41754,LC/MS Pos Late,100001386,1124,616.1762,14875-96-8,26945,C00032,HMDB03178
+met57658,1192,heneicosapentaenoate (21:5n3),Lipid,Polyunsaturated Fatty Acid (n3 and n6),57658,LC/MS Neg,100015797,5514,315.233,24257-10-1,11998573,,
+met1644,1145,heptanoate (7:0),Lipid,Medium Chain Fatty Acid,1644,LC/MS Neg,925,3670,129.0921,111-14-8,8094,C17714,HMDB00666
+met61866,1298,heptenedioate (C7:1-DC)*,Lipid,"Fatty Acid, Dicarboxylate",61866,LC/MS Polar,100019981,2816,157.0506,,,,
+met57652,1193,hexadecadienoate (16:2n6),Lipid,Polyunsaturated Fatty Acid (n3 and n6),57652,LC/MS Neg,100009394,5398,251.2017,28290-73-5,,,HMDB00477
+met35678,1310,hexadecanedioate (C16-DC),Lipid,"Fatty Acid, Dicarboxylate",35678,LC/MS Neg,100001614,4615,285.2071,505-54-4,10459,C19615,HMDB00672
+met57428,2399,hexadecasphingosine (d16:1)*,Lipid,Sphingolipid Metabolism,57428,LC/MS Pos Late,100015723,1289,272.2584,,,,
+met61862,1312,hexadecenedioate (C16:1-DC)*,Lipid,"Fatty Acid, Dicarboxylate",61862,LC/MS Neg,100019975,4380,283.1915,,,,
+met32328,1400,hexanoylcarnitine (C6),Lipid,Fatty Acid Metabolism(Acyl Carnitine),32328,LC/MS Pos Early,100000781,3308,260.1856,6920-35-0,6426853,,HMDB00705
+met54907,1375,hexanoylglutamine,Lipid,Fatty Acid Metabolism (Acyl Glutamine),54907,LC/MS Neg,100001733,2780,243.135,,,,
+met35436,1382,hexanoylglycine,Lipid,Fatty Acid Metabolism(Acyl Glycine),35436,LC/MS Neg,100001527,2900,172.0979,24003-67-6,99463,,HMDB00701
+met15753,3589,hippurate,Xenobiotics,Benzoate Metabolism,15753,LC/MS Neg,100000014,2106.9,178.051,495-69-2,464,C01586,HMDB00714
+met59,64,histidine,Amino Acid,Histidine Metabolism,59,LC/MS Neg,355,755.9,154.0622,5934-29-2,6274,C00135,HMDB00177
+met22137,362,homoarginine,Amino Acid,Urea cycle; Arginine and Proline Metabolism,22137,LC/MS Pos Early,100000961,2882,189.1346,156-86-5,9085,C01924,HMDB00670
+met22138,363,homocitrulline,Amino Acid,Urea cycle; Arginine and Proline Metabolism,22138,LC/MS Pos Early,100000963,1908,190.1186,1190-49-4,65072,C02427,HMDB00679
+met33009,3918,homostachydrine*,Xenobiotics,Food Component/Plant,33009,LC/MS Pos Early,100001550,1750,158.1176,1195-94-4,441447,C08283,HMDB33433
+met57711,831,HWESASXX*,Peptide,Polypeptide,57711,LC/MS Neg,100001327,3722,940.4534,,,,
+met40473,70,hydantoin-5-propionic acid,Amino Acid,Histidine Metabolism,40473,LC/MS Polar,100002514,2080,171.0411,5624-26-0,782,C05565,HMDB01212
+met39625,4371,hydrochlorothiazide,Xenobiotics,Drug - Cardiovascular,39625,LC/MS Neg,100002734,2046,295.9572,58-93-5,3639,C07041,HMDB01928
+met35322,4515,hydroquinone sulfate,Xenobiotics,Drug - Topical Agents,35322,LC/MS Neg,100001604,1395,188.9863,123-31-9,161220,C00530,HMDB02434
+met62060,40,hydroxyasparagine**,Amino Acid,Alanine and Aspartate Metabolism,62060,LC/MS Pos Early,100020205,1149,149.0557,,,,
+met32882,4466,hydroxybupropion,Xenobiotics,Drug - Psychoactive,32882,LC/MS Neg,100001309,5084,254.0953,,446,,HMDB12235
+met38661,3692,hydroxycotinine,Xenobiotics,Tobacco Metabolite,38661,LC/MS Pos Early,100002717,2030,193.0972,34834-67-8,10219774,,HMDB01390
+met43580,4404,hydroxypioglitazone (M-IV),Xenobiotics,Drug - Metabolic,43580,LC/MS Pos Late,100004177,665,373.1217,146062-44-4,,,
+met590,345,hypotaurine,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism",590,LC/MS Pos Early,358,724,110.027,300-84-5,107812,C00519,HMDB00965
+met3127,3311,hypoxanthine,Nucleotide,"Purine Metabolism, (Hypo)Xanthine/Inosine containing",3127,LC/MS Pos Early,171,1295,137.0458,68-94-0,790,C00262,HMDB00157
+met32426,3551,I-urobilinogen,Cofactors and Vitamins,Hemoglobin and Porphyrin Metabolism,32426,LC/MS Neg,100001226,4190,591.3188,14684-37-8,26818,C05790,HMDB04157
+met17799,4213,ibuprofen,Xenobiotics,"Drug - Analgesics, Anesthetics",17799,LC/MS Neg,1487,4925,205.1234,15687-27-1,3672,D00126,HMDB01925
+met38366,4218,ibuprofen acyl glucuronide,Xenobiotics,"Drug - Analgesics, Anesthetics",38366,LC/MS Neg,100002406,4976,381.1555,115075-59-7,163959,,
+met15716,75,imidazole lactate,Amino Acid,Histidine Metabolism,15716,LC/MS Pos Early,100000263,2040,157.0608,14403-45-3,440129,C05568,HMDB02320
+met40730,73,imidazole propionate,Amino Acid,Histidine Metabolism,40730,LC/MS Pos Early,100003434,2263,141.0659,1074-59-5,70630,,HMDB02271
+met21025,4655,iminodiacetate (IDA),Xenobiotics,Chemical,21025,LC/MS Pos Early,100000900,808,134.0448,142-73-4,8897,C19911,HMDB11753
+met38116,242,indole-3-carboxylic acid,Amino Acid,Tryptophan Metabolism,38116,LC/MS Neg,100002185,1710,160.0404,771-50-6,69867,C19837,HMDB03320
+met27513,235,indoleacetate,Amino Acid,Tryptophan Metabolism,27513,LC/MS Neg,100001034,2200,174.0561,6505-45-9,802,C00954,HMDB00197
+met42087,239,indoleacetylglutamine,Amino Acid,Tryptophan Metabolism,42087,LC/MS Neg,100001731,2535,302.1146,,25200879,,HMDB13240
+met18349,234,indolelactate,Amino Acid,Tryptophan Metabolism,18349,LC/MS Neg,100000463,2286,204.0666,832-97-3,92904,C02043,HMDB00671
+met32405,237,indolepropionate,Amino Acid,Tryptophan Metabolism,32405,LC/MS Neg,100001083,2795,188.0717,830-96-6,3744,,HMDB02302
+met43374,3922,indolin-2-one,Xenobiotics,Food Component/Plant,43374,LC/MS Pos Early,100004318,2575,134.06,59-48-3,321710,C12312,
+met1123,3310,inosine,Nucleotide,"Purine Metabolism, (Hypo)Xanthine/Inosine containing",1123,LC/MS Neg,361,1602.1,267.0735,58-63-9,6021,C00294,HMDB00195
+met33441,310,isobutyrylcarnitine (C4),Amino Acid,"Leucine, Isoleucine and Valine Metabolism",33441,LC/MS Pos Early,100001055,2810,232.1543,25518-49-4,168379,,HMDB00736
+met48997,4072,isoeugenol sulfate,Xenobiotics,Food Component/Plant,48997,LC/MS Neg,100006089,3893,243.0333,,,,
+met1125,284,isoleucine,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",1125,LC/MS Pos Early,376,2800,132.1019,73-32-5,6306,C00407,HMDB00172
+met57577,2716,isoursodeoxycholate,Lipid,Secondary Bile Acid Metabolism,57577,LC/MS Neg,100002488,4809,391.2854,78919-26-3,127601,C17662,HMDB00686
+met44656,259,isovalerate (i5:0),Amino Acid,"Leucine, Isoleucine and Valine Metabolism",44656,LC/MS Neg,100000708,1564,101.0608,503-74-2,10430,C08262,HMDB00718
+met34407,261,isovalerylcarnitine (C5),Amino Acid,"Leucine, Isoleucine and Valine Metabolism",34407,LC/MS Pos Early,100001393,3085,246.17,31023-24-2,6426851,,HMDB00688
+met35107,260,isovalerylglycine,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",35107,LC/MS Neg,100001452,1950,158.0823,16284-60-9,546304,,HMDB00678
+met43579,4403,ketopioglitazone,Xenobiotics,Drug - Metabolic,43579,LC/MS Pos Early,100004176,3335,371.106,146062-45-5,,,
+met1417,218,kynurenate,Amino Acid,Tryptophan Metabolism,1417,LC/MS Neg,98,2224,188.0353,492-27-3,3845,C01717,HMDB00715
+met15140,214,kynurenine,Amino Acid,Tryptophan Metabolism,15140,LC/MS Pos Early,100000265,2739,209.0921,2922-83-0,161166,C00328,HMDB00684
+met40173,3553,L-urobilin,Cofactors and Vitamins,Hemoglobin and Porphyrin Metabolism,40173,LC/MS Pos Late,100002568,901,595.349,34217-90-8,5280818,C05793,HMDB04159
+met527,925,lactate,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",527,LC/MS Polar,482,1468.8,89.0244,79-33-4,612,C00186,HMDB00190
+met57422,2403,lactosyl-N-behenoyl-sphingosine (d18:1/22:0)*,Lipid,Sphingolipid Metabolism,57422,LC/MS Pos Late,100015623,3842,946.7189,,,,
+met57370,2467,lactosyl-N-nervonoyl-sphingosine (d18:1/24:1)*,Lipid,Ceramides,57370,LC/MS Pos Late,100015620,3778,972.7346,,,,
+met53010,2465,lactosyl-N-palmitoyl-sphingosine (d18:1/16:0),Lipid,Ceramides,53010,LC/MS Pos Late,100009030,2527,862.625,4201-62-1,,,
+met54762,4443,lamotrigine,Xenobiotics,Drug - Neurological,54762,LC/MS Pos Early,100009390,3379,256.0151,,3878,D00354,"HMDB14695,HMDB05043"
+met42002,4657,lanthionine,Xenobiotics,Chemical,42002,LC/MS Pos Early,100003892,1730,209.0591,468821,98504,,
+met1645,1151,laurate (12:0),Lipid,Medium Chain Fatty Acid,1645,LC/MS Neg,181,5300,199.1704,143-07-7,3893,C02679,HMDB00638
+met34534,1407,laurylcarnitine (C12),Lipid,Fatty Acid Metabolism(Acyl Carnitine),34534,LC/MS Pos Late,100001392,1235,344.2795,25518-54-1,10427569,,HMDB02250
+met60,250,leucine,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",60,LC/MS Pos Early,397,2864,132.1019,61-90-5,6106,C00123,HMDB00687
+met57641,4444,levetiracetam,Xenobiotics,Drug - Neurological,57641,LC/MS Pos Early,100015873,1925,171.1128,102767-28-2,5284583,"D00709,C07841",
+met35661,4236,lidocaine,Xenobiotics,"Drug - Analgesics, Anesthetics",35661,LC/MS Pos Early,100001538,3250,235.1805,137-58-6,3676,D00358,HMDB14426
+met57330,2364,lignoceroyl sphingomyelin (d18:1/24:0),Lipid,Sphingolipid Metabolism,57330,LC/MS Pos Late,100006298,3437,815.7001,60037-60-7,,,
+met57515,1441,lignoceroylcarnitine (C24)*,Lipid,Fatty Acid Metabolism(Acyl Carnitine),57515,LC/MS Pos Late,100015834,1603,512.4673,,,,
+met1105,1205,linoleate (18:2n6),Lipid,Polyunsaturated Fatty Acid (n3 and n6),1105,LC/MS Neg,180,5535,279.233,60-33-3,5280450,C01595,HMDB00673
+met34035,1207,linolenate [alpha or gamma; (18:3n3 or 6)],Lipid,Polyunsaturated Fatty Acid (n3 and n6),34035,LC/MS Neg,100001337,5450,277.2173,,5280934,C06426,HMDB03073
+met57511,1414,linolenoylcarnitine (C18:3)*,Lipid,Fatty Acid Metabolism(Acyl Carnitine),57511,LC/MS Pos Late,100015831,1310,422.3265,,,,
+met54955,2317,linoleoyl-arachidonoyl-glycerol (18:2/20:4) [1]*,Lipid,Diacylglycerol,54955,LC/MS Pos Late,100010922,2566,658.5405,,,,HMDB07257
+met54956,2318,linoleoyl-arachidonoyl-glycerol (18:2/20:4) [2]*,Lipid,Diacylglycerol,54956,LC/MS Pos Late,100010923,2624,658.5405,,,,HMDB07257
+met54968,2307,linoleoyl-linoleoyl-glycerol (18:2/18:2) [1]*,Lipid,Diacylglycerol,54968,LC/MS Pos Late,100010941,2689,634.5405,,,,HMDB07248
+met46223,1413,linoleoylcarnitine (C18:2)*,Lipid,Fatty Acid Metabolism(Acyl Carnitine),46223,LC/MS Pos Late,100003151,1430,424.3421,36816-10-1,6450015,,HMDB06469
+met57463,1464,linoleoylcholine*,Lipid,Fatty Acid Metabolism (Acyl Choline),57463,LC/MS Pos Late,100015760,1388,366.3367,,,,
+met54787,4380,lisinopril,Xenobiotics,Drug - Cardiovascular,54787,LC/MS Neg,100009389,2617,404.2191,76547-98-3,3937,,
+met1301,90,lysine,Amino Acid,Lysine Metabolism,1301,LC/MS Pos Early,407,2850,147.1128,56-87-1,5962,C00047,HMDB00182
+met1303,1112,malate,Energy,TCA Cycle,1303,LC/MS Neg,409,615.6,133.0143,6915-15-7,525,C00149,HMDB00156
+met20676,1296,maleate,Lipid,"Fatty Acid, Dicarboxylate",20676,LC/MS Polar,100000707,2640,115.0037,110-16-7,444266,C01384,HMDB00176
+met37059,1128,malonylcarnitine,Lipid,Fatty Acid Synthesis,37059,LC/MS Pos Early,100001526,2086,248.1129,853728-01-5,22833583,,HMDB02095
+met15586,978,maltose,Carbohydrate,Glycogen Metabolism,15586,LC/MS Polar,913,3329.4,387.1144,6363-53-7,10991489,C00208,HMDB00163
+met44688,975,maltotriose,Carbohydrate,Glycogen Metabolism,44688,LC/MS Neg,100000276,812,503.1618,1109-28-0,439586,C01835,HMDB01262
+met46142,1023,mannitol/sorbitol,Carbohydrate,"Fructose, Mannose and Galactose Metabolism",46142,LC/MS Polar,100001740,2320,181.0718,,5780,C00794,HMDB00247
+met48153,1024,mannose,Carbohydrate,"Fructose, Mannose and Galactose Metabolism",48153,LC/MS Polar,803,2200,225.0616,3458-28-4,18950,C00159,HMDB00169
+met1121,1162,margarate (17:0),Lipid,Long Chain Fatty Acid,1121,LC/MS Neg,891,5731,269.2486,506-12-7,10465,,HMDB02259
+met57512,1442,margaroylcarnitine (C17)*,Lipid,Fatty Acid Metabolism(Acyl Carnitine),57512,LC/MS Pos Late,100004054,1424,414.3578,106182-29-0,,,HMDB06210
+met57807,4556,meclizine,Xenobiotics,Drug - Other,57807,LC/MS Pos Late,100015778,1183,391.1936,569-65-3,4034,"C07116,D08163",HMDB14875
+met21093,4445,meprobamate,Xenobiotics,Drug - Neurological,21093,LC/MS Pos Early,100000735,2994,219.1339,57-53-4,4064,D00376,HMDB14515
+met38306,4402,metformin,Xenobiotics,Drug - Metabolic,38306,LC/MS Pos Early,100002405,2817,130.1087,1115-70-4,4091,C07151,HMDB01921
+met1302,316,methionine,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism",1302,LC/MS Pos Early,415,2526,150.0583,63-68-3,6137,C00073,HMDB00696
+met44878,320,methionine sulfone,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism",44878,LC/MS Pos Early,100004635,1250,182.0482,820-10-0,69961,,
+met18374,321,methionine sulfoxide,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism",18374,LC/MS Pos Early,100000039,1272,166.0533,3226-65-1,158980,C02989,HMDB02005
+met18486,4329,methotrexate,Xenobiotics,Drug - Antineoplastic,18486,LC/MS Neg,100000081,2310,453.164,59-05-2,126941,C01937,HMDB14703
+met46144,4034,methyl glucopyranoside (alpha + beta),Xenobiotics,Food Component/Plant,46144,LC/MS Neg,100005864,1070,193.0718,,,,
+met1584,3944,methyl indole-3-acetate,Xenobiotics,Food Component/Plant,1584,LC/MS Pos Early,1104,3380,190.0863,1912-33-0,74706,,HMDB29738
+met48429,3649,methyl-4-hydroxybenzoate sulfate,Xenobiotics,Benzoate Metabolism,48429,LC/MS Neg,100006116,2873,230.9969,,,,
+met1496,1374,methylmalonate (MMA),Lipid,Fatty Acid Metabolism (also BCAA Metabolism),1496,LC/MS Polar,418,3078.4,117.0193,516-05-2,487,C02170,HMDB00202
+met61873,4661,methylnaphthyl sulfate (2)*,Xenobiotics,Chemical,61873,LC/MS Neg,100020006,4163,237.0227,,,,
+met15745,298,methylsuccinate,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",15745,LC/MS Polar,2051,2800,131.035,498-21-5,10349,,HMDB01844
+met53031,299,methylsuccinoylcarnitine,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",53031,LC/MS Pos Early,100009275,2589,276.1442,,,,
+met18037,4353,metoprolol,Xenobiotics,Drug - Cardiovascular,18037,LC/MS Pos Early,2028,3312,268.1907,56392-17-7,4171,D02358,HMDB01932
+met34109,4354,metoprolol acid metabolite*,Xenobiotics,Drug - Cardiovascular,34109,LC/MS Pos Early,100001385,2950,268.1543,56392-14-4,62936,,
+met57642,4290,metronidazole,Xenobiotics,Drug - Antibiotic,57642,LC/MS Pos Early,100015878,2046,172.0717,73334-05-1,4173,D00409,HMDB15052
+met54792,4320,mycophenolic acid glucuronide,Xenobiotics,"Drug - Antiinflammatory, Immunosuppressant",54792,LC/MS Pos Early,100009254,3095,514.1919,,6442661,,
+met1124,1659,myo-inositol,Lipid,Inositol Metabolism,1124,LC/MS Polar,363,3506.3,225.0616,87-89-8,892,C00137,HMDB00211
+met1365,1154,myristate (14:0),Lipid,Long Chain Fatty Acid,1365,LC/MS Neg,519,5440,227.2017,544-63-8,11005,C06424,HMDB00806
+met32418,1155,myristoleate (14:1n5),Lipid,Long Chain Fatty Acid,32418,LC/MS Neg,100001198,5346.9,225.186,544-64-9,5281119,C08322,HMDB02000
+met48182,1418,myristoleoylcarnitine (C14:1)*,Lipid,Fatty Acid Metabolism(Acyl Carnitine),48182,LC/MS Pos Late,100006051,1316,370.2947,889848-55-9,90659872,,
+met57365,2357,myristoyl dihydrosphingomyelin (d18:0/14:0)*,Lipid,Sphingolipid Metabolism,57365,LC/MS Pos Late,100009038,2060,677.5592,,,,HMDB12085
+met57407,2275,myristoyl-linoleoyl-glycerol (14:0/18:2) [1]*,Lipid,Diacylglycerol,57407,LC/MS Pos Late,100015683,2679,582.5092,,,,
+met33952,1408,myristoylcarnitine (C14),Lipid,Fatty Acid Metabolism(Acyl Carnitine),33952,LC/MS Pos Late,100001270,1350,372.3108,18822-89-4,6426854,,HMDB05066
+met52358,4471,"N,O-didesmethylvenlafaxine glucuronide",Xenobiotics,Drug - Psychoactive,52358,LC/MS Neg,100006001,2639,424.1977,1021933-99-2,,,HMDB61167
+met31536,3947,N-(2-furoyl)glycine,Xenobiotics,Food Component/Plant,31536,LC/MS Neg,100001086,1525,168.0302,5657-19-2;5657-19-2,21863,,HMDB00439
+met48680,4281,N-acetyl sulfapyridine,Xenobiotics,Drug - Antibiotic,48680,LC/MS Pos Early,100006229,2146,292.075,19077-98-6,58638,,
+met43255,69,N-acetyl-1-methylhistidine*,Amino Acid,Histidine Metabolism,43255,LC/MS Pos Early,100004299,2100,212.1028,,193270,,
+met62059,1357,N-acetyl-2-aminooctanoate*,Lipid,"Fatty Acid, Amino",62059,LC/MS Neg,100020204,3943,200.1292,,95555,,HMDB59745
+met43256,68,N-acetyl-3-methylhistidine*,Amino Acid,Histidine Metabolism,43256,LC/MS Pos Early,100002204,2056,212.103,37841-04-6,193270,,
+met37432,3422,N-acetyl-beta-alanine,Nucleotide,"Pyrimidine Metabolism, Uracil containing",37432,LC/MS Neg,100002102,773,130.051,3025-95-4,76406,C01073,
+met47136,4042,N-acetyl-S-allyl-L-cysteine,Xenobiotics,Food Component/Plant,47136,LC/MS Neg,100005818,2237,202.0543,23127-41-5,152467,,
+met1585,30,N-acetylalanine,Amino Acid,Alanine and Aspartate Metabolism,1585,LC/MS Polar,1110,1564.8,130.051,97-69-8,88064,C02847,HMDB00766
+met45404,3828,N-acetylalliin,Xenobiotics,Food Component/Plant,45404,LC/MS Neg,100005367,1467,218.0493,,,,
+met33953,368,N-acetylarginine,Amino Acid,Urea cycle; Arginine and Proline Metabolism,33953,LC/MS Pos Early,100001266,2245,217.1295,155-84-0,67427,C02562,HMDB04620
+met33942,39,N-acetylasparagine,Amino Acid,Alanine and Aspartate Metabolism,33942,LC/MS Polar,100001257,2250,173.0568,4033-40-3,99715,,HMDB06028
+met22185,35,N-acetylaspartate (NAA),Amino Acid,Alanine and Aspartate Metabolism,22185,LC/MS Neg,100000787,620.5,174.0408,997-55-7;997-55-7,65065,C01042,HMDB00812
+met43488,78,N-acetylcarnosine,Amino Acid,Histidine Metabolism,43488,LC/MS Neg,100004046,1235,267.1099,56353-15-2,9903482,,HMDB12881
+met48434,369,N-acetylcitrulline,Amino Acid,Urea cycle; Arginine and Proline Metabolism,48434,LC/MS Neg,100001577,940,216.099,33965-42-3,656979,C15532,HMDB00856
+met46539,1096,N-acetylglucosamine/N-acetylgalactosamine,Carbohydrate,Aminosugar Metabolism,46539,LC/MS Pos Early,100006435,715,222.0972,,24139,,HMDB00215
+met48149,1093,N-acetylglucosaminylasparagine,Carbohydrate,Aminosugar Metabolism,48149,LC/MS Pos Early,1215,1212,336.1402,2776-93-4,123826,C04540,HMDB00489
+met15720,44,N-acetylglutamate,Amino Acid,Glutamate Metabolism,15720,LC/MS Polar,100000282,3106,188.0564,1430871,70914,C00624,HMDB01138
+met33943,45,N-acetylglutamine,Amino Acid,Glutamate Metabolism,33943,LC/MS Polar,100001253,2140,187.0724,2490-97-3,182230,C02716,HMDB06029
+met27710,2,N-acetylglycine,Amino Acid,"Glycine, Serine and Threonine Metabolism",27710,LC/MS Pos Early,100001006,826,118.0499,543-24-8,10972,,HMDB00532
+met33946,67,N-acetylhistidine,Amino Acid,Histidine Metabolism,33946,LC/MS Polar,100001293,2088,196.0728,39145-52-3,75619,C02997,HMDB32055
+met33967,286,N-acetylisoleucine,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",33967,LC/MS Neg,100001276,2325,172.0979,3077-46-1,2802421,,HMDB61684
+met48757,216,N-acetylkynurenine (2),Amino Acid,Tryptophan Metabolism,48757,LC/MS Pos Early,100006378,2364,251.1026,,,,
+met1587,251,N-acetylleucine,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",1587,LC/MS Neg,1082,2400,172.0979,1188-21-2,70912,C02710,HMDB11756
+met1589,317,N-acetylmethionine,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism",1589,LC/MS Neg,1083,1787,190.0543,65-82-7,448580,C02712,HMDB11745
+met32377,1082,N-acetylneuraminate,Carbohydrate,Aminosugar Metabolism,32377,LC/MS Polar,1162,3072.6,308.0987,131-48-6,439197,C00270,HMDB00230
+met33950,116,N-acetylphenylalanine,Amino Acid,Phenylalanine Metabolism,33950,LC/MS Neg,100001256,2597,206.0823,2018-61-3,74839,C03519,HMDB00512
+met37496,406,N-acetylputrescine,Amino Acid,Polyamine Metabolism,37496,LC/MS Pos Early,192,2230,131.1179,18233-70-0,122356,C02714,HMDB02064
+met37076,10,N-acetylserine,Amino Acid,"Glycine, Serine and Threonine Metabolism",37076,LC/MS Polar,100001851,2000,146.0459,97-14-3,65249,,HMDB02931
+met48187,347,N-acetyltaurine,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism",48187,LC/MS Neg,100005466,800,166.018,,159864,,
+met33939,17,N-acetylthreonine,Amino Acid,"Glycine, Serine and Threonine Metabolism",33939,LC/MS Pos Early,100001274,1040,162.0761,17093-74-2,152204,,
+met33959,204,N-acetyltryptophan,Amino Acid,Tryptophan Metabolism,33959,LC/MS Neg,100001254,2630,245.0932,1218-34-4,700653,C03137,HMDB13713
+met32390,132,N-acetyltyrosine,Amino Acid,Tyrosine Metabolism,32390,LC/MS Neg,100001104,1680,222.0772,537-55-3,68310,,HMDB00866
+met1591,305,N-acetylvaline,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",1591,LC/MS Neg,1084,1704,158.0823,96-81-1,66789,,HMDB11757
+met52340,33,N-carbamoylalanine,Amino Acid,Alanine and Aspartate Metabolism,52340,LC/MS Pos Early,100006369,950,133.0608,77340-50-2,426409,,
+met43249,371,N-delta-acetylornithine,Amino Acid,Urea cycle; Arginine and Proline Metabolism,43249,LC/MS Polar,100004523,2719.9,173.0932,,9920500,,
+met33080,4237,N-ethylglycinexylidide,Xenobiotics,"Drug - Analgesics, Anesthetics",33080,LC/MS Pos Early,100001539,3209,207.1492,7728-40-7,24415,C16561,HMDB60656
+met43549,220,N-formylanthranilic acid,Amino Acid,Tryptophan Metabolism,43549,LC/MS Neg,100004561,2150,164.0353,3342-77-6,101399,C05653,HMDB04089
+met2829,318,N-formylmethionine,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism",2829,LC/MS Neg,194,1543.8,176.0387,4289-98-9,439750,C03145,HMDB01015
+met48433,183,N-formylphenylalanine,Amino Acid,Tyrosine Metabolism,48433,LC/MS Neg,100006056,2360,192.0666,13200-85-6,759256,,
+met62068,375,N-methylhydroxyproline**,Amino Acid,Urea cycle; Arginine and Proline Metabolism,62068,LC/MS Pos Early,100020215,1145,146.0812,,,,
+met47101,4174,N-methylpipecolate,Xenobiotics,Bacterial/Fungal,47101,LC/MS Pos Early,100005383,1932,144.1019,41447-17-0,11286529,,
+met37431,381,N-methylproline,Amino Acid,Urea cycle; Arginine and Proline Metabolism,37431,LC/MS Pos Early,100001956,1335,130.0863,475-11-6,557,,
+met42989,348,N-methyltaurine,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism",42989,LC/MS Polar,100004056,1650,138.023,107-68-6,7882,,
+met57664,1655,N-oleoylserine,Lipid,Endocannabinoid,57664,LC/MS Neg,100015641,5600,368.2806,,,,
+met39732,1638,N-oleoyltaurine,Lipid,Endocannabinoid,39732,LC/MS Neg,100003119,5610,388.2527,52514-04-2,6437033,,
+met57430,2400,N-palmitoyl-heptadecasphingosine (d17:1/16:0)*,Lipid,Sphingolipid Metabolism,57430,LC/MS Pos Late,100015731,2645,524.5037,,,,
+met52604,2347,N-palmitoyl-sphinganine (d18:0/16:0),Lipid,Sphingolipid Metabolism,52604,LC/MS Pos Late,100009028,3090,540.535,5966-29-0,5283572,,HMDB11760
+met44877,2445,N-palmitoyl-sphingosine (d18:1/16:0),Lipid,Ceramides,44877,LC/MS Pos Late,1518,2893,538.5194,24696-26-2,5283564,,HMDB04949
+met42092,1387,N-palmitoylglycine,Lipid,Fatty Acid Metabolism(Acyl Glycine),42092,LC/MS Neg,100003686,5580,312.2544,2441-41-0,151008,,HMDB13034
+met57417,2448,N-stearoyl-sphingadienine (d18:2/18:0)*,Lipid,Ceramides,57417,LC/MS Pos Late,100015632,2846,564.535,,,,
+met54979,2447,N-stearoyl-sphingosine (d18:1/18:0)*,Lipid,Ceramides,54979,LC/MS Pos Late,1547,3392,566.5507,104404-17-3,5283565,,HMDB04950
+met57687,114,N-trimethyl 5-aminovalerate,Amino Acid,Lysine Metabolism,57687,LC/MS Pos Early,100015962,2186,160.1332,,,,
+met40469,3483,N1-Methyl-2-pyridone-5-carboxamide,Cofactors and Vitamins,Nicotinate and Nicotinamide Metabolism,40469,LC/MS Neg,100001468,1668,151.0513,701-44-0,69698,C05842,HMDB04193
+met15650,3340,N1-methyladenosine,Nucleotide,"Purine Metabolism, Adenine containing",15650,LC/MS Pos Early,1242,2120,282.1197,15763-06-1,27476,C02494,HMDB03331
+met48351,3317,N1-methylinosine,Nucleotide,"Purine Metabolism, (Hypo)Xanthine/Inosine containing",48351,LC/MS Pos Early,100001409,1430,283.1037,20245-33-4,65095,,HMDB02721
+met35137,3376,"N2,N2-dimethylguanosine",Nucleotide,"Purine Metabolism, Guanine containing",35137,LC/MS Pos Early,100001412,2210,312.1303,2140-67-2,92919,,HMDB04824
+met43591,373,"N2,N5-diacetylornithine",Amino Acid,Urea cycle; Arginine and Proline Metabolism,43591,LC/MS Neg,100004575,1367,215.1037,39825-23-5,10398396,,
+met36751,91,N2-acetyllysine,Amino Acid,Lysine Metabolism,36751,LC/MS Polar,100001721,3372.6,187.1088,1946-82-3,92907,C12989,HMDB00446
+met35130,3435,N4-acetylcytidine,Nucleotide,"Pyrimidine Metabolism, Cytidine containing",35130,LC/MS Neg,100001413,2040,284.0888,3768-18-1,107461,,HMDB05923
+met62106,4316,N4-acetylsulfamethoxazole*,Xenobiotics,Drug - Antibiotic,62106,LC/MS Neg,100020243,2489,294.0554,,65280,"C13061,D01601",HMDB13854
+met1498,97,"N6,N6,N6-trimethyllysine",Amino Acid,Lysine Metabolism,1498,LC/MS Pos Early,189,2825,189.1598,23284-33-5,440120,C03793,HMDB01325
+met36752,92,N6-acetyllysine,Amino Acid,Lysine Metabolism,36752,LC/MS Polar,100001734,2612.6,187.1088,692-04-6,92832,C02727,HMDB00206
+met35157,3350,N6-carbamoylthreonyladenosine,Nucleotide,"Purine Metabolism, Adenine containing",35157,LC/MS Neg,100001415,2164,411.127,24719-82-2,161466,,HMDB41623
+met48130,3359,N6-succinyladenosine,Nucleotide,"Purine Metabolism, Adenine containing",48130,LC/MS Neg,100001664,940,382.1004,4542-23-8,165243,,HMDB00912
+met12122,4210,naproxen,Xenobiotics,"Drug - Analgesics, Anesthetics",12122,LC/MS Neg,1384,4155,229.087,22204-53-1,156391,C01517,HMDB01923
+met57531,1443,nervonoylcarnitine (C24:1)*,Lipid,Fatty Acid Metabolism(Acyl Carnitine),57531,LC/MS Pos Late,100015846,1602,510.4517,,,,
+met594,3464,nicotinamide,Cofactors and Vitamins,Nicotinate and Nicotinamide Metabolism,594,LC/MS Pos Early,432,1942,123.0553,98-92-0,936,C00153,HMDB01406
+met35121,3482,nicotinurate,Cofactors and Vitamins,Nicotinate and Nicotinamide Metabolism,35121,LC/MS Neg,100001455,1467,179.0462,583-08-4,68499,C05380,HMDB03269
+met34598,4359,nifedipine,Xenobiotics,Drug - Cardiovascular,34598,LC/MS Pos Late,100001514,1005,347.1238,21829-25-4,4485,"D00437,C07266",
+met57810,1204,nisinate (24:6n3),Lipid,Polyunsaturated Fatty Acid (n3 and n6),57810,LC/MS Neg,100015785,5657,355.2643,68378-49-4,11792612,,HMDB02007
+met1356,1174,nonadecanoate (19:0),Lipid,Long Chain Fatty Acid,1356,LC/MS Neg,892,6068,297.2799,646-30-0,12591,C16535,HMDB00772
+met37252,4465,norfluoxetine,Xenobiotics,Drug - Psychoactive,37252,LC/MS Pos Late,100003769,1008,296.1257,83891-03-6,4541,,HMDB60551
+met36845,3663,o-cresol sulfate,Xenobiotics,Benzoate Metabolism,36845,LC/MS Neg,100001806,2796,187.0071,,11615528,,
+met53239,4247,O-desmethyltramadol,Xenobiotics,"Drug - Analgesics, Anesthetics",53239,LC/MS Pos Early,100006382,3045,250.1802,73986-53-5,130829,,HMDB60997
+met52357,4248,O-desmethyltramadol glucuronide,Xenobiotics,"Drug - Analgesics, Anesthetics",52357,LC/MS Pos Early,100006383,2741,426.2123,383891-39-2,,,
+met43334,4469,O-desmethylvenlafaxine,Xenobiotics,Drug - Psychoactive,43334,LC/MS Pos Early,100004173,3253,264.1958,300827-87-6,125017,D07793,HMDB60532
+met47883,4409,o-hydroxyatorvastatin,Xenobiotics,Drug - Metabolic,47883,LC/MS Neg,100005933,5015,573.2406,214217-86-4,9808225,,
+met45413,4582,O-sulfo-L-tyrosine,Xenobiotics,Chemical,45413,LC/MS Neg,100005384,990,260.0234,,514186,,
+met36754,1313,octadecanedioate (C18-DC),Lipid,"Fatty Acid, Dicarboxylate",36754,LC/MS Neg,100001615,5043,313.2384,871-70-5,70095,,HMDB00782
+met61867,1426,octadecanedioylcarnitine (C18-DC)*,Lipid,Fatty Acid Metabolism(Acyl Carnitine),61867,LC/MS Pos Late,100005998,1227,458.3476,123233-50-1,,,
+met61861,1314,octadecenedioate (C18:1-DC)*,Lipid,"Fatty Acid, Dicarboxylate",61861,LC/MS Neg,100019978,4875,311.2228,,,,
+met61865,1427,octadecenedioylcarnitine (C18:1-DC)*,Lipid,Fatty Acid Metabolism(Acyl Carnitine),61865,LC/MS Pos Late,100005996,1180,456.332,251981-06-3,,,
+met33936,1401,octanoylcarnitine (C8),Lipid,Fatty Acid Metabolism(Acyl Carnitine),33936,LC/MS Pos Late,100001247,950,288.2169,3671-77-0,123701,C02838,HMDB00791
+met21320,4276,ofloxacin,Xenobiotics,Drug - Antibiotic,21320,LC/MS Neg,100000673,3600,360.1365,82419-36-1,4583,C07321,HMDB01929
+met52285,1167,oleate/vaccenate (18:1),Lipid,Long Chain Fatty Acid,52285,LC/MS Neg,100008930,5655,281.2486,,,,
+met38102,1626,oleoyl ethanolamide,Lipid,Endocannabinoid,38102,LC/MS Neg,1137,6450,324.2908,11-58-0;111-58-0,5283454,,HMDB02088
+met54960,2315,oleoyl-arachidonoyl-glycerol (18:1/20:4) [1]*,Lipid,Diacylglycerol,54960,LC/MS Pos Late,100010936,2907,660.5562,,,,HMDB07228
+met54961,2316,oleoyl-arachidonoyl-glycerol (18:1/20:4) [2]*,Lipid,Diacylglycerol,54961,LC/MS Pos Late,100010937,2990,660.5562,,,,HMDB07228
+met46798,2302,oleoyl-linoleoyl-glycerol (18:1/18:2) [1],Lipid,Diacylglycerol,46798,LC/MS Pos Late,100002989,3115,636.5562,106292-55-1,,,HMDB07219
+met46799,2303,oleoyl-linoleoyl-glycerol (18:1/18:2) [2],Lipid,Diacylglycerol,46799,LC/MS Pos Late,100002990,3223,636.5562,104346-53-4,,,HMDB07219
+met54945,2299,oleoyl-oleoyl-glycerol (18:1/18:1)  [1]*,Lipid,Diacylglycerol,54945,LC/MS Pos Late,100010918,3571,638.5718,,,,HMDB07218
+met54946,2300,oleoyl-oleoyl-glycerol (18:1/18:1) [2]*,Lipid,Diacylglycerol,54946,LC/MS Pos Late,100010919,3695,638.5718,,,,HMDB07218
+met35160,1416,oleoylcarnitine (C18:1),Lipid,Fatty Acid Metabolism(Acyl Carnitine),35160,LC/MS Pos Late,100001501,1423,426.3578,38677-66-6,6441392,,HMDB05065
+met53260,1461,oleoylcholine,Lipid,Fatty Acid Metabolism (Acyl Choline),53260,LC/MS Pos Late,100009331,1449,368.3523,,,,
+met53256,4378,olmesartan,Xenobiotics,Drug - Cardiovascular,53256,LC/MS Neg,100006239,3747,445.1994,144689-24-7,158781,D05246,HMDB14420
+met38600,4394,omeprazole,Xenobiotics,Drug - Gastrointestinal,38600,LC/MS Neg,100002725,4673,344.1074,73590-58-6,4594,C07324,HMDB01913
+met57794,4388,ondansetron,Xenobiotics,Drug - Gastrointestinal,57794,LC/MS Pos Late,100015776,760,294.1601,99614-02-5,4595,"C07325,D00456",HMDB05035
+met1493,357,ornithine,Amino Acid,Urea cycle; Arginine and Proline Metabolism,1493,LC/MS Pos Early,444,2800,133.0972,3184-13-2,6262,C00077,HMDB03374
+met1505,3389,orotate,Nucleotide,"Pyrimidine Metabolism, Orotate containing",1505,LC/MS Polar,445,1638.1,155.0098,50887-69-9,967,C00295,HMDB00226
+met35172,3391,orotidine,Nucleotide,"Pyrimidine Metabolism, Orotate containing",35172,LC/MS Polar,100001416,2250,287.0521,314-50-1,92751,,HMDB00788
+met20694,3507,oxalate (ethanedioate),Cofactors and Vitamins,Ascorbate and Aldarate Metabolism,20694,LC/MS Neg,100000841,603,88.988,144-62-7,971,C00209,HMDB02329
+met41726,4423,oxypurinol,Xenobiotics,Drug - Metabolic,41726,LC/MS Polar,100002489,1656,151.0262,2465-59-0,4644,D02365,HMDB00786
+met36103,3656,p-cresol sulfate,Xenobiotics,Benzoate Metabolism,36103,LC/MS Neg,100001315,2890,187.0071,3233-57-7,4615423,,HMDB11635
+met48841,181,p-cresol-glucuronide*,Amino Acid,Tyrosine Metabolism,48841,LC/MS Neg,100006191,2420,283.0823,17680-99-8,154035,,HMDB11686
+met1336,1159,palmitate (16:0),Lipid,Long Chain Fatty Acid,1336,LC/MS Neg,424,5618,255.233,57-10-3,985,C00249,HMDB00220
+met33447,1160,palmitoleate (16:1n7),Lipid,Long Chain Fatty Acid,33447,LC/MS Neg,452,5475,253.2173,373-49-9,445638,C08362,HMDB03229
+met54967,2288,palmitoleoyl-linoleoyl-glycerol (16:1/18:2) [1]*,Lipid,Diacylglycerol,54967,LC/MS Pos Late,100010930,2664,608.5249,,,,HMDB07132
+met53223,1411,palmitoleoylcarnitine (C16:1)*,Lipid,Fatty Acid Metabolism(Acyl Carnitine),53223,LC/MS Pos Late,100009406,1357,398.3265,,71464547,,
+met52434,2358,palmitoyl dihydrosphingomyelin (d18:0/16:0)*,Lipid,Sphingolipid Metabolism,52434,LC/MS Pos Late,100008954,2290,705.5905,,9939965,,
+met38165,1629,palmitoyl ethanolamide,Lipid,Endocannabinoid,38165,LC/MS Pos Late,1489,1643,300.2897,544-31-0,4671,C16512,HMDB02100
+met37506,2360,palmitoyl sphingomyelin (d18:1/16:0),Lipid,Sphingolipid Metabolism,37506,LC/MS Pos Late,100002107,2168,703.5749,6254-89-3,9939941,,
+met52633,2283,palmitoyl-linoleoyl-glycerol (16:0/18:2) [1]*,Lipid,Diacylglycerol,52633,LC/MS Pos Late,100009052,3080,610.5405,,9543695,,HMDB07103
+met52634,2284,palmitoyl-linoleoyl-glycerol (16:0/18:2) [2]*,Lipid,Diacylglycerol,52634,LC/MS Pos Late,100009055,3197,610.5405,,,,HMDB07103
+met44681,1410,palmitoylcarnitine (C16),Lipid,Fatty Acid Metabolism(Acyl Carnitine),44681,LC/MS Pos Late,100000776,1425,400.3421,6865-14-1,461,C02990,HMDB00222
+met52944,1460,palmitoylcholine,Lipid,Fatty Acid Metabolism (Acyl Choline),52944,LC/MS Pos Late,100009233,1482,342.3367,,151731,,
+met38609,4395,pantoprazole,Xenobiotics,Drug - Gastrointestinal,38609,LC/MS Neg,100002808,4398,382.0679,102625-70-7,4679,C11806,HMDB05017
+met1508,3491,pantothenate,Cofactors and Vitamins,Pantothenate and CoA Metabolism,1508,LC/MS Neg,1024,1498.7,218.1034,137-08-6,6613,C00864,HMDB00210
+met18254,3675,paraxanthine,Xenobiotics,Xanthine Metabolism,18254,LC/MS Neg,100000453,2279,179.0575,611-59-6,4687,C13747,HMDB01860
+met40461,4475,paroxetine,Xenobiotics,Drug - Psychoactive,40461,LC/MS Pos Late,100003442,963,330.15,110429-49-8,43815,"D02362,C07415",
+met1361,1158,pentadecanoate (15:0),Lipid,Long Chain Fatty Acid,1361,LC/MS Neg,980,5521,241.2173,1002-84-2;10002-84-2,13849,C16537,HMDB00826
+met57564,4675,perfluorooctanesulfonic acid (PFOS),Xenobiotics,Chemical,57564,LC/MS Polar,100010955,662,498.9302,1763-23-1,74483,C18142,HMDB59586
+met62071,4718,perfluorooctanoate (PFOA)*,Xenobiotics,Chemical,62071,LC/MS Neg,100020208,5130,412.9664,,9554,,HMDB59587
+met52747,147,phenol glucuronide,Amino Acid,Tyrosine Metabolism,52747,LC/MS Neg,100006679,1800,269.0667,17685-05-1,87235,,HMDB60014
+met32553,146,phenol sulfate,Amino Acid,Tyrosine Metabolism,32553,LC/MS Neg,100001510,2156,172.9914,937-34-8,74426,C02180,HMDB60015
+met57745,124,phenylacetate,Amino Acid,Phenylalanine Metabolism,57745,LC/MS Neg,100000011,2150,91.0554,103-82-2,999,C07086,HMDB00209
+met48425,875,phenylacetylcarnitine,Peptide,Acetylated Peptides,48425,LC/MS Pos Early,100006108,3092,280.1543,287108-21-8,101724840,,
+met52925,877,phenylacetylglutamate,Peptide,Acetylated Peptides,52925,LC/MS Neg,100009045,1630,264.0877,,11579826,,HMDB59772
+met35126,878,phenylacetylglutamine,Peptide,Acetylated Peptides,35126,LC/MS Neg,100001417,2330,263.1037,28047-15-6,92258,C04148,HMDB06344
+met64,115,phenylalanine,Amino Acid,Phenylalanine Metabolism,64,LC/MS Pos Early,460,2878,166.0863,63-91-2,6140,C00079,HMDB00159
+met22130,120,phenyllactate (PLA),Amino Acid,Phenylalanine Metabolism,22130,LC/MS Neg,100000774,2208,165.0557,828-01-3,3848,C05607,HMDB00779
+met566,119,phenylpyruvate,Amino Acid,Phenylalanine Metabolism,566,LC/MS Neg,241,2515,163.0401,156-06-9,997,C00166,HMDB00205
+met42109,1126,phosphate,Energy,Oxidative Phosphorylation,42109,LC/MS Pos Early,461,576,98.9842,7664-38-2,1061,C00009,HMDB01429
+met1600,1694,phosphoethanolamine,Lipid,Phospholipid Metabolism,1600,LC/MS Pos Early,1026,700,142.0264,1071-23-4,1015,C00346,HMDB00224
+met598,3970,phytanate,Xenobiotics,Food Component/Plant,598,LC/MS Neg,466,5908,311.2956,14721-66-5,26840,C01607,HMDB00801
+met53224,1424,pimeloylcarnitine/3-methyladipoylcarnitine (C7-DC),Lipid,Fatty Acid Metabolism(Acyl Carnitine),53224,LC/MS Pos Early,100009407,2773,304.1755,,,,
+met33139,4401,pioglitazone,Xenobiotics,Drug - Metabolic,33139,LC/MS Pos Early,100001317,3240,357.1267,112529-15-4,4829,C07675,HMDB15264
+met1444,109,pipecolate,Amino Acid,Lysine Metabolism,1444,LC/MS Pos Early,1025,2200,130.0863,4043-87-2,849,C00408,HMDB00070
+met33935,3976,piperine,Xenobiotics,Food Component/Plant,33935,LC/MS Pos Late,100001267,1168,286.1438,94-62-2,638024,C03882,HMDB29377
+met54742,4325,prednisolone,Xenobiotics,"Drug - Antiinflammatory, Immunosuppressant",54742,LC/MS Neg,100009252,4701,359.1864,,5755,"C07369,D00472",HMDB14998
+met54741,4324,prednisone,Xenobiotics,"Drug - Antiinflammatory, Immunosuppressant",54741,LC/MS Neg,100009251,4518,357.1707,,5865,C07370,HMDB14773
+met52913,4460,pregabalin,Xenobiotics,Drug - Neurological,52913,LC/MS Pos Early,100008943,3123,160.1332,148553-50-8,4715169,,
+met32619,2555,pregn steroid monosulfate C21H34O5S*,Lipid,Pregnenolone Steroids,32619,LC/MS Neg,100002067,5000,397.2054,1247-64-9,,,
+met40708,2575,pregnanediol-3-glucuronide,Lipid,Progestin Steroids,40708,LC/MS Neg,100003470,5145,495.2963,1852-49-9,123796,,HMDB10318
+met48394,2580,pregnanolone/allopregnanolone sulfate,Lipid,Progestin Steroids,48394,LC/MS Neg,100006173,5160,397.2054,,,,
+met32562,2554,pregnen-diol disulfate C21H34O8S2*,Lipid,Pregnenolone Steroids,32562,LC/MS Neg,100001993,3868,238.0775,,,,
+met38170,2540,pregnenolone sulfate,Lipid,Pregnenolone Steroids,38170,LC/MS Neg,100002129,5100,395.1898,1247-64-9,105074,,HMDB00774
+met35127,378,pro-hydroxy-pro,Amino Acid,Urea cycle; Arginine and Proline Metabolism,35127,LC/MS Pos Early,100001167,2128,229.1183,18684-24-7,11673055,,HMDB06695
+met1898,364,proline,Amino Acid,Urea cycle; Arginine and Proline Metabolism,1898,LC/MS Pos Early,480,1603,116.0706,147-85-3,145742,C00148,HMDB00162
+met40703,718,prolylglycine,Peptide,Dipeptide,40703,LC/MS Pos Early,100003674,2136,173.0921,2578-57-6,6426709,,HMDB11178
+met32452,1371,propionylcarnitine (C3),Lipid,Fatty Acid Metabolism (also BCAA Metabolism),32452,LC/MS Pos Early,100001162,2590,218.1387,17298-37-2,107738,C03017,HMDB00824
+met31932,1372,propionylglycine,Lipid,Fatty Acid Metabolism (also BCAA Metabolism),31932,LC/MS Polar,100001150,1502.5,130.051,21709-90-0,98681,,HMDB00783
+met48460,3651,propyl 4-hydroxybenzoate sulfate,Xenobiotics,Benzoate Metabolism,48460,LC/MS Neg,100006264,3971,259.0282,162338-10-5,,,
+met39586,4507,pseudoephedrine,Xenobiotics,Drug - Respiratory,39586,LC/MS Pos Early,100002738,3041,166.1226,90-82-4,7028,C02765,HMDB01943
+met33442,3403,pseudouridine,Nucleotide,"Pyrimidine Metabolism, Uracil containing",33442,LC/MS Polar,821,1929.3,243.0623,1445-07-4,15047,C02067,HMDB00767
+met31555,3587,pyridoxate,Cofactors and Vitamins,Vitamin B6 Metabolism,31555,LC/MS Neg,100001121,2185,182.0459,82-82-6,6723,C00847,HMDB00017
+met46225,51,pyroglutamine*,Amino Acid,Glutamate Metabolism,46225,LC/MS Pos Early,100001540,1900,129.0659,2353-44-8,134508,,
+met48428,4062,pyrraline,Xenobiotics,Food Component/Plant,48428,LC/MS Neg,100001767,2304,253.1194,74509-14-1,122228,,HMDB33143
+met48990,924,pyruvate,Carbohydrate,"Glycolysis, Gluconeogenesis, and Pyruvate Metabolism",48990,LC/MS Polar,823,1083,87.0088,127-17-3,1060,C00022,HMDB00243
+met39787,4487,quetiapine,Xenobiotics,Drug - Psychoactive,39787,LC/MS Pos Late,100002809,874,384.174,111974-69-7,5002,C07397,HMDB05021
+met18335,3985,quinate,Xenobiotics,Food Component/Plant,18335,LC/MS Polar,100000442,2432.9,191.0561,77-95-2,6508,C00296,HMDB03072
+met39767,4308,quinine,Xenobiotics,Drug - Antibiotic,39767,LC/MS Pos Early,100002968,3378,325.1911,130-95-0,2728270,,
+met1899,3460,quinolinate,Cofactors and Vitamins,Nicotinate and Nicotinamide Metabolism,1899,LC/MS Neg,182,630,166.0146,89-00-9,1066,C03722,HMDB00232
+met38595,4391,ranitidine,Xenobiotics,Drug - Gastrointestinal,38595,LC/MS Pos Early,100002735,2910,315.1485,66357-59-3,3001055,D00422,HMDB01930
+met62110,4134,resveratrol disulfate (1)*,Xenobiotics,Food Component/Plant,62110,LC/MS Neg,100020247,2530,192.9889,,,,
+met62111,4135,resveratrol disulfate (2)*,Xenobiotics,Food Component/Plant,62111,LC/MS Neg,100020248,2840,192.9889,,,,
+met62108,4136,resveratrol sulfate (1)*,Xenobiotics,Food Component/Plant,62108,LC/MS Neg,100020245,3250,307.0282,,,,
+met62109,4137,resveratrol sulfate (2)*,Xenobiotics,Food Component/Plant,62109,LC/MS Neg,100020246,3665,307.0282,,,,
+met1806,3567,retinol (Vitamin A),Cofactors and Vitamins,Vitamin A Metabolism,1806,LC/MS Pos Late,498,1636,269.2264,68-26-8,445354,C00473,HMDB00305
+met15772,943,ribitol,Carbohydrate,Pentose Metabolism,15772,LC/MS Polar,100000406,1789.6,151.0612,488-81-3,6912,C00474,HMDB00508
+met27731,944,ribonate,Carbohydrate,Pentose Metabolism,27731,LC/MS Polar,100001007,2425,165.0405,1255190,5460677,C01685,HMDB00867
+met61858,969,ribulonate/xylulonate*,Carbohydrate,Pentose Metabolism,61858,LC/MS Polar,100019968,2350,165.0405,,,,
+met52958,4370,rivaroxaban,Xenobiotics,Drug - Cardiovascular,52958,LC/MS Neg,100008950,4425,434.0583,366789-02-8,6433119,,
+met40421,4414,rosuvastatin,Xenobiotics,Drug - Metabolic,40421,LC/MS Pos Late,100003272,960,482.1756,147098-20-2,446157,D01915,HMDB15230
+met42370,59,S-1-pyrroline-5-carboxylate,Amino Acid,Glutamate Metabolism,42370,LC/MS Pos Early,35,1528,114.055,2906-39-0,1196,C04322,HMDB01301
+met42382,328,S-adenosylhomocysteine (SAH),Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism",42382,LC/MS Neg,197,1832.4,383.1143,979-92-0,439155,C00021,HMDB00939
+met43239,3993,S-allylcysteine,Xenobiotics,Food Component/Plant,43239,LC/MS Pos Early,100004509,2690,162.0583,21593-77-1,98280,,HMDB34323
+met39592,336,S-methylcysteine,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism",39592,LC/MS Neg,100002749,880,134.0281,1187-84-4,24417,,HMDB02108
+met43378,337,S-methylcysteine sulfoxide,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism",43378,LC/MS Pos Early,100002927,900,152.0376,6853-87-8,82142,,HMDB29432
+met38127,319,S-methylmethionine,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism",38127,LC/MS Pos Early,100002183,2555,164.074,582174,458,C05319,HMDB38670
+met21151,3990,saccharin,Xenobiotics,Food Component/Plant,21151,LC/MS Neg,100000870,2000,181.9917,81-07-2,5143,D01085,HMDB29723
+met1515,4511,salicylate,Xenobiotics,Drug - Topical Agents,1515,LC/MS Polar,501,802,137.0242,69-72-7,338,C00805,HMDB01895
+met33384,4222,salicyluric glucuronide*,Xenobiotics,"Drug - Analgesics, Anesthetics",33384,LC/MS Neg,100001332,1463,370.078,,,,
+met1516,4,sarcosine,Amino Acid,"Glycine, Serine and Threonine Metabolism",1516,LC/MS Pos Early,1023,1280,90.055,107-97-1,1088,C00213,HMDB00271
+met1648,9,serine,Amino Acid,"Glycine, Serine and Threonine Metabolism",1648,LC/MS Pos Early,503,1239,106.0499,56-45-1,5951,C00065,HMDB00187
+met2342,227,serotonin,Amino Acid,Tryptophan Metabolism,2342,LC/MS Pos Early,504,2550,177.1022,153-98-0,5202,C00780,HMDB00259
+met39757,4467,sertraline,Xenobiotics,Drug - Psychoactive,39757,LC/MS Pos Late,100002804,1070,306.0811,79559-97-0,68617,C07246,HMDB05010
+met52961,4382,sildenafil,Xenobiotics,Drug - Cardiovascular,52961,LC/MS Pos Late,100008971,946,475.2122,139755-83-2,5212,"C07259,D08514",HMDB05039
+met52954,4406,sitagliptin,Xenobiotics,Drug - Metabolic,52954,LC/MS Neg,100008964,4485,468.1112,486460-32-6,11306691,,
+met39788,4002,solanidine,Xenobiotics,Food Component/Plant,39788,LC/MS Pos Late,100002773,1010,398.3418,80-78-4,65727,C06543,HMDB03236
+met53001,4518,solifenacin,Xenobiotics,Drug - Other,53001,LC/MS Pos Late,100008973,1042,363.2067,180468-39-7,9885319,,
+met17769,2343,sphinganine,Lipid,Sphingolipid Metabolism,17769,LC/MS Pos Late,313,1413,302.3054,3102-56-5,3126,C00836,HMDB00269
+met62152,2443,"sphingomyelin (d17:1/14:0, d16:1/15:0)*",Lipid,Sphingolipid Metabolism,62152,LC/MS Pos Late,100020276,1950,661.5279,,,,
+met52433,2368,"sphingomyelin (d17:1/16:0, d18:1/15:0, d16:1/17:0)*",Lipid,Sphingolipid Metabolism,52433,LC/MS Pos Late,100006314,2082,689.5592,121999-58-4,,,
+met57483,2395,"sphingomyelin (d17:2/16:0, d18:2/15:0)*",Lipid,Sphingolipid Metabolism,57483,LC/MS Pos Late,100015793,1837,687.5436,,,,
+met57473,2394,"sphingomyelin (d18:0/18:0, d19:0/17:0)*",Lipid,Sphingolipid Metabolism,57473,LC/MS Pos Late,100009027,2362,733.6218,,,,HMDB12087
+met57476,2393,"sphingomyelin (d18:0/20:0, d16:0/22:0)*",Lipid,Sphingolipid Metabolism,57476,LC/MS Pos Late,100015786,2600,761.6531,,,,
+met42463,2366,"sphingomyelin (d18:1/14:0, d16:1/16:0)*",Lipid,Sphingolipid Metabolism,42463,LC/MS Pos Late,100004328,1998,675.5436,,11433862,,HMDB12097
+met52615,2370,"sphingomyelin (d18:1/17:0, d17:1/18:0, d19:1/16:0)",Lipid,Sphingolipid Metabolism,52615,LC/MS Pos Late,100008920,2312,717.5905,121999-64-2,,,
+met37529,2371,"sphingomyelin (d18:1/18:1, d18:2/18:0)",Lipid,Sphingolipid Metabolism,37529,LC/MS Pos Late,100002106,2167,729.5905,108392-10-5,6443882,,HMDB12101
+met57475,2397,"sphingomyelin (d18:1/19:0, d19:1/18:0)*",Lipid,Sphingolipid Metabolism,57475,LC/MS Pos Late,100015787,2330,745.6218,,,,
+met48490,2372,"sphingomyelin (d18:1/20:0, d16:1/22:0)*",Lipid,Sphingolipid Metabolism,48490,LC/MS Pos Late,100006290,2685,759.6375,,,,HMDB12102
+met48491,2373,"sphingomyelin (d18:1/20:1, d18:2/20:0)*",Lipid,Sphingolipid Metabolism,48491,LC/MS Pos Late,100006292,2383,757.6218,222403-67-0,,,
+met57481,2387,"sphingomyelin (d18:1/20:2, d18:2/20:1, d16:1/22:2)*",Lipid,Sphingolipid Metabolism,57481,LC/MS Pos Late,100006293,2039,755.6062,,,,
+met52495,2374,"sphingomyelin (d18:1/21:0, d17:1/22:0, d16:1/23:0)*",Lipid,Sphingolipid Metabolism,52495,LC/MS Pos Late,100009025,2793,773.6531,,,,
+met48493,2375,"sphingomyelin (d18:1/22:1, d18:2/22:0, d16:1/24:1)*",Lipid,Sphingolipid Metabolism,48493,LC/MS Pos Late,100006295,2666,785.6531,,,,HMDB12104
+met57477,2392,"sphingomyelin (d18:1/22:2, d18:2/22:1, d16:1/24:2)*",Lipid,Sphingolipid Metabolism,57477,LC/MS Pos Late,100006296,2209,783.6375,,,,
+met47153,2377,"sphingomyelin (d18:1/24:1, d18:2/24:0)*",Lipid,Sphingolipid Metabolism,47153,LC/MS Pos Late,100005986,3033,813.6844,94359-13-4,,,HMDB12107
+met57478,2391,"sphingomyelin (d18:1/25:0, d19:0/24:1, d20:1/23:0, d19:1/24:0)*",Lipid,Sphingolipid Metabolism,57478,LC/MS Pos Late,100015792,3500,829.7157,,,,
+met47154,2367,"sphingomyelin (d18:2/14:0, d18:1/14:1)*",Lipid,Sphingolipid Metabolism,47154,LC/MS Pos Late,100005985,1860,673.5279,,,,
+met42459,2369,"sphingomyelin (d18:2/16:0, d18:1/16:1)*",Lipid,Sphingolipid Metabolism,42459,LC/MS Pos Late,100004329,2002,701.5592,,,,
+met57474,2396,sphingomyelin (d18:2/18:1)*,Lipid,Sphingolipid Metabolism,57474,LC/MS Pos Late,100015788,1904,727.5749,,,,
+met57480,2386,"sphingomyelin (d18:2/21:0, d16:2/23:0)*",Lipid,Sphingolipid Metabolism,57480,LC/MS Pos Late,100015790,2330,771.6375,,,,
+met52435,2376,"sphingomyelin (d18:2/23:0, d18:1/23:1, d17:1/24:1)*",Lipid,Sphingolipid Metabolism,52435,LC/MS Pos Late,100008956,2845,799.6687,,,,
+met57482,2385,sphingomyelin (d18:2/23:1)*,Lipid,Sphingolipid Metabolism,57482,LC/MS Pos Late,100015791,2315,797.6531,,,,
+met52437,2378,"sphingomyelin (d18:2/24:1, d18:1/24:2)*",Lipid,Sphingolipid Metabolism,52437,LC/MS Pos Late,100008957,2635,811.6687,,,,
+met57479,2388,sphingomyelin (d18:2/24:2)*,Lipid,Sphingolipid Metabolism,57479,LC/MS Pos Late,100015789,2215,809.6531,,,,
+met17747,2381,sphingosine,Lipid,Sphingolipid Metabolism,17747,LC/MS Pos Late,297,1393,300.2897,123-78-4,5353955,C00319,HMDB00252
+met34445,2382,sphingosine 1-phosphate,Lipid,Sphingolipid Metabolism,34445,LC/MS Polar,100000626,1850,378.2415,26993-30-6,5283560,C06124,HMDB00277
+met34384,4010,stachydrine,Xenobiotics,Food Component/Plant,34384,LC/MS Pos Early,100001296,1440,144.1019,4136-37-2,115244,C10172,HMDB04827
+met1358,1165,stearate (18:0),Lipid,Long Chain Fatty Acid,1358,LC/MS Neg,439,5872,283.2643,57-11-4,5281,C01530,HMDB00827
+met33969,1197,stearidonate (18:4n3),Lipid,Polyunsaturated Fatty Acid (n3 and n6),33969,LC/MS Neg,100001229,5395,275.2017,111174-40-4,5312508,C16300,HMDB06547
+met38625,1630,stearoyl ethanolamide,Lipid,Endocannabinoid,38625,LC/MS Pos Late,100002254,1787,328.321,111-57-9,27902,,HMDB13078
+met19503,2361,stearoyl sphingomyelin (d18:1/18:0),Lipid,Sphingolipid Metabolism,19503,LC/MS Pos Late,1538,2400,731.6062,85187-10-6;85187-10-6,6453725,C00550,HMDB01348
+met34409,1412,stearoylcarnitine (C18),Lipid,Fatty Acid Metabolism(Acyl Carnitine),34409,LC/MS Pos Late,100001391,1485,428.3734,18822-91-8,6426855,,HMDB00848
+met57464,1466,stearoylcholine*,Lipid,Fatty Acid Metabolism (Acyl Choline),57464,LC/MS Pos Late,100015759,1520,370.368,,,,
+met1437,1110,succinate,Energy,TCA Cycle,1437,LC/MS Polar,252,3149,117.0193,110-15-6,1110,C00042,HMDB00254
+met41888,4684,succinimide,Xenobiotics,Chemical,41888,LC/MS Polar,100003696,2155,116.0353,123-56-8,11439,C07273,
+met37058,1109,succinylcarnitine (C4-DC),Energy,TCA Cycle,37058,LC/MS Pos Early,100001948,2291,262.1285,256928-74-2,71464481,,HMDB61717
+met53240,4282,sulfamethoxazole,Xenobiotics,Drug - Antibiotic,53240,LC/MS Neg,100009327,1941,252.0448,,5329,"D00285,C07315,D00447",HMDB15150
+met46960,4579,sulfate*,Xenobiotics,Chemical,46960,LC/MS Neg,100002528,616,96.9601,14808-79-8,1118,C00059,HMDB01448
+met15336,4018,tartarate,Xenobiotics,Food Component/Plant,15336,LC/MS Neg,100000295,615.3,149.0092,87-69-4;6106-24-7,444305,C00898,HMDB00956
+met20693,4142,tartronate (hydroxymalonate),Xenobiotics,Bacterial/Fungal,20693,LC/MS Neg,100000840,610,118.9986,80-69-3,45,C02287,HMDB35227
+met2125,346,taurine,Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism",2125,LC/MS Pos Early,512,660,126.022,107-35-7,1123,C00245,HMDB00251
+met33983,2693,tauro-beta-muricholate,Lipid,Primary Bile Acid Metabolism,33983,LC/MS Neg,100001250,4774,514.2844,25696-60-0,168408,,HMDB00932
+met18494,2689,taurochenodeoxycholate,Lipid,Primary Bile Acid Metabolism,18494,LC/MS Neg,1629,5250,498.2895,6009-98-9,387316,C05465,HMDB00951
+met18497,2686,taurocholate,Lipid,Primary Bile Acid Metabolism,18497,LC/MS Neg,1648,5150,514.2844,145-42-6,6675,C05122,HMDB00036
+met32807,2735,taurocholenate sulfate,Lipid,Secondary Bile Acid Metabolism,32807,LC/MS Neg,100001990,4750,279.6142,,,,
+met12261,2706,taurodeoxycholate,Lipid,Secondary Bile Acid Metabolism,12261,LC/MS Neg,1668,5257.4,498.2895,207737-97-1,2733768,C05463,HMDB00896
+met36850,2713,taurolithocholate 3-sulfate,Lipid,Secondary Bile Acid Metabolism,36850,LC/MS Neg,100001658,5027,280.6221,64936-83-0,440071,C03642,HMDB02580
+met39378,2718,tauroursodeoxycholate,Lipid,Secondary Bile Acid Metabolism,39378,LC/MS Neg,100002912,5025,498.2895,14605-22-2,9848818,,HMDB00874
+met35669,1309,tetradecanedioate (C14-DC),Lipid,"Fatty Acid, Dicarboxylate",35669,LC/MS Neg,100001613,4000,257.1758,821-38-5,13185,,HMDB00872
+met61836,4494,THC carboxylic acid,Xenobiotics,Drug - Psychoactive,61836,LC/MS Neg,100016048,5263,343.1915,,107885,,
+met61848,4495,THC carboxylic acid glucuronide,Xenobiotics,Drug - Psychoactive,61848,LC/MS Neg,100016049,5224,519.2236,,,,
+met22206,4019,theanine,Xenobiotics,Food Component/Plant,22206,LC/MS Pos Early,100000784,2180,175.1077,3081-61-6,439378,C01047,HMDB34365
+met18392,3676,theobromine,Xenobiotics,Xanthine Metabolism,18392,LC/MS Pos Early,100000445,1600,181.072,83-67-0,5429,C07480,HMDB02825
+met18394,3677,theophylline,Xenobiotics,Xanthine Metabolism,18394,LC/MS Neg,100000437,2356.9,179.0575,58-55-9,2153,C07130,HMDB01889
+met53231,4716,thioproline,Xenobiotics,Chemical,53231,LC/MS Pos Early,100009232,1250,134.027,34592-47-4,93176,,
+met27738,3504,threonate,Cofactors and Vitamins,Ascorbate and Aldarate Metabolism,27738,LC/MS Polar,100001022,2384,135.0299,70753-61-6,151152,C01620,HMDB00943
+met1284,16,threonine,Amino Acid,"Glycine, Serine and Threonine Metabolism",1284,LC/MS Pos Early,564,1514,120.0655,72-19-5,6288,C00188,HMDB00167
+met36095,4021,thymol sulfate,Xenobiotics,Food Component/Plant,36095,LC/MS Neg,100001757,4410,229.054,89-83-8,,C09908,HMDB01878
+met2761,199,thyroxine,Amino Acid,Tyrosine Metabolism,2761,LC/MS Neg,1094,4808,775.6794,51-48-9,5819,C01829,HMDB01918
+met2772,4428,topiramate,Xenobiotics,Drug - Neurological,2772,LC/MS Neg,1388,4021,338.0915,97240-79-4,5284627,C07502,HMDB05034
+met53241,4246,tramadol,Xenobiotics,"Drug - Analgesics, Anesthetics",53241,LC/MS Pos Early,100006381,3288,264.1958,27203-92-5,33741,C07153,HMDB14339
+met32306,376,trans-4-hydroxyproline,Amino Acid,Urea cycle; Arginine and Proline Metabolism,32306,LC/MS Pos Early,1001,1064,132.0655,51-35-4,5810,C01157,HMDB00725
+met607,71,trans-urocanate,Amino Acid,Histidine Metabolism,607,LC/MS Pos Early,537,2285,139.0502,104-98-3,736715,C00785,HMDB00301
+met57691,4485,trazadone,Xenobiotics,Drug - Psychoactive,57691,LC/MS Pos Early,100015783,3498,372.1586,19794-93-5,5533,"C07156,D08626",HMDB14794
+met42593,4372,triamterene,Xenobiotics,Drug - Cardiovascular,42593,LC/MS Pos Early,100003968,3164,254.1149,396-01-0,5546,D00386,HMDB01940
+met52436,2363,tricosanoyl sphingomyelin (d18:1/23:0)*,Lipid,Sphingolipid Metabolism,52436,LC/MS Pos Late,100008955,3200,801.6844,,,,HMDB12105
+met32401,3481,trigonelline (N'-methylnicotinate),Cofactors and Vitamins,Nicotinate and Nicotinamide Metabolism,32401,LC/MS Pos Early,100001092,1388,138.055,535-83-1,5570,C01004,HMDB00875
+met40406,1699,trimethylamine N-oxide,Lipid,Phospholipid Metabolism,40406,LC/MS Pos Early,100003397,2100,76.0757,1184-78-7,1145,C01104,HMDB00925
+met54,203,tryptophan,Amino Acid,Tryptophan Metabolism,54,LC/MS Pos Early,565,2986,205.0972,73-22-3,6305,C00078,HMDB00929
+met37097,212,tryptophan betaine,Amino Acid,Tryptophan Metabolism,37097,LC/MS Pos Early,100001743,2673,247.1441,20671-76-5,442106,C09213,HMDB61115
+met48408,182,tyramine O-sulfate,Amino Acid,Tyrosine Metabolism,48408,LC/MS Neg,100006092,1565,216.0336,30223-92-8,153005,,HMDB06409
+met1299,131,tyrosine,Amino Acid,Tyrosine Metabolism,1299,LC/MS Pos Early,815,2430,182.0812,60-18-4,6057,C00082,HMDB00158
+met48674,4063,umbelliferone sulfate,Xenobiotics,Food Component/Plant,48674,LC/MS Neg,100006282,2440,240.9812,69526-88-1,129659,,
+met605,3402,uracil,Nucleotide,"Pyrimidine Metabolism, Uracil containing",605,LC/MS Polar,825,1089.7,111.02,66-22-8,1174,C00106,HMDB00300
+met1604,3320,urate,Nucleotide,"Purine Metabolism, (Hypo)Xanthine/Inosine containing",1604,LC/MS Neg,1134,757.1,167.0211,69-93-2;120K5305,1175,C00366,HMDB00289
+met1670,355,urea,Amino Acid,Urea cycle; Arginine and Proline Metabolism,1670,LC/MS Pos Early,533,700,121.072,57-13-6,1176,C00086,HMDB00294
+met606,3401,uridine,Nucleotide,"Pyrimidine Metabolism, Uracil containing",606,LC/MS Neg,535,1457.6,243.0623,58-96-8,6029,C00299,HMDB00296
+met1649,304,valine,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",1649,LC/MS Neg,566,909.4,116.0717,72-18-4,6287,C00183,HMDB00883
+met22290,4430,valproate,Xenobiotics,Drug - Neurological,22290,LC/MS Neg,100000779,3885.6,143.1078,99-66-1,3121,C07185,HMDB01877
+met48566,4377,valsartan,Xenobiotics,Drug - Cardiovascular,48566,LC/MS Neg,100006232,4228,434.2198,137862-53-4,5650,,
+met54910,156,vanillactate,Amino Acid,Tyrosine Metabolism,54910,LC/MS Neg,100006129,1625,211.0612,2475-56-1,160637,,HMDB00913
+met1567,157,vanillylmandelate (VMA),Amino Acid,Tyrosine Metabolism,1567,LC/MS Neg,1111,941,197.0456,55-10-7,1245,C05584,HMDB00291
+met38623,4468,venlafaxine,Xenobiotics,Drug - Psychoactive,38623,LC/MS Pos Late,100002807,848,278.2115,93413-69-5,5656,C07187,HMDB05016
+met42990,4361,verapamil,Xenobiotics,Drug - Cardiovascular,42990,LC/MS Pos Late,100004028,945,455.2904,152-11-4,2520,D02356,HMDB01850
+met43335,4369,warfarin,Xenobiotics,Drug - Cardiovascular,43335,LC/MS Neg,100004175,3790,307.0976,5543-57-7,,C01541,HMDB01935
+met3147,3312,xanthine,Nucleotide,"Purine Metabolism, (Hypo)Xanthine/Inosine containing",3147,LC/MS Polar,1004,2023,151.0262,69-89-6,1188,C00385,HMDB00292
+met15679,224,xanthurenate,Amino Acid,Tryptophan Metabolism,15679,LC/MS Pos Early,100000015,2236,206.0448,59-007,5699,C02470,HMDB00881
+met57517,1445,ximenoylcarnitine (C26:1)*,Lipid,Fatty Acid Metabolism(Acyl Carnitine),57517,LC/MS Pos Late,100015836,1607,538.483,,,,
+met15581,948,xylose,Carbohydrate,Pentose Metabolism,15581,LC/MS Polar,826,1727,195.051,609-06-3,135191,C00181,HMDB00098
+met46459,,glucuronide of piperine metabolite C17H21NO3 (4)*,Xenobiotics,Food Component/Plant,62291,LC/MS Neg,100020492,3991,463.184235,,,,
+met46497,,hydroxy-CMPF*,Lipid,"Fatty Acid, Dicarboxylate",62277,LC/MS Neg,100019794,1525.4,256.0946882462,,,,
+met46590,,X - 07765,Pathway missing,Pathway missing,46590,LC/MS Neg,,3698,245.0484,,,,
+met46355,,"2,6-dihydroxybenzoic acid",Xenobiotics,Drug - Topical Agents,63042,LC/MS Neg,100020837,2580.5,154.026608681,,,,HMDB13676
+met47478,,X - 10458,Pathway missing,Pathway missing,47478,LC/MS Neg,,3634,231.1239,,,,
+met32578,,X - 11261,Pathway missing,Pathway missing,32578,LC/MS Pos Late,,870,286.2008,,,,
+met46592,,X - 11299,Pathway missing,Pathway missing,46592,LC/MS Neg,,4886,507.2222,,,,
+met46390,,X - 11308,Pathway missing,Pathway missing,46390,LC/MS Neg,,5163,365.2704,,,,
+met49592,,X - 11315,Pathway missing,Pathway missing,49592,LC/MS Neg,,1157,128.0715,,,,
+met46594,,X - 11372,Pathway missing,Pathway missing,46594,LC/MS Neg,,5319,467.373,,,,
+met46595,,X - 11378,Pathway missing,Pathway missing,46595,LC/MS Neg,,5343,445.3306,,,,
+met46347,,X - 11381,Pathway missing,Pathway missing,46347,LC/MS Neg,,1118,184.0982,,,,
+met46598,,tridecenedioate (C13:1-DC)*,Lipid,"Fatty Acid, Dicarboxylate",62919,LC/MS Neg,100002199,3121,242.1518091946,,,,
+met46599,,pregnenetriol disulfate*,Lipid,Pregnenolone Steroids,62921,LC/MS Neg,100021104,3515,494.164429,,,,
+met46360,,X - 11441,Pathway missing,Pathway missing,46360,LC/MS Neg,,3755.8,331.1308,,,,
+met46443,,X - 11442,Pathway missing,Pathway missing,46443,LC/MS Neg,,3890,331.1304,,,,
+met46460,,X - 11444,Pathway missing,Pathway missing,46460,LC/MS Neg,,3972,541.2652,,,,
+met46600,,sulfate of piperine metabolite C16H19NO3 (2)*,Xenobiotics,Food Component/Plant,62295,LC/MS Neg,100020496,4134,353.093292,,,,
+met46601,,X - 11470,Pathway missing,Pathway missing,46601,LC/MS Neg,,4151,525.2706,,,,
+met46602,,X - 11478,Pathway missing,Pathway missing,46602,LC/MS Neg,,4285,165.0921,,,,
+met47650,,X - 11483,Pathway missing,Pathway missing,47650,LC/MS Neg,,4449,505.2082,,,,
+met47901,,sulfate of piperine metabolite C18H21NO3 (1)*,Xenobiotics,Food Component/Plant,62297,LC/MS Neg,100020502,4485,379.108948,,,,
+met47651,,deoxycholic acid glucuronide,Lipid,Secondary Bile Acid Metabolism,63610,LC/MS Neg,100020550,4819,568.3247477618,,,,
+met46914,,X - 11522,Pathway missing,Pathway missing,46914,LC/MS Neg,,4760,313.1197,,,,
+met46603,,X - 11530,Pathway missing,Pathway missing,46603,LC/MS Neg,,4892,313.1196,,,,
+met47652,,eicosenedioate (C20:1-DC)*,Lipid,"Fatty Acid, Dicarboxylate",62923,LC/MS Neg,100021105,5100,340.261353,,,,
+met46260,,"2,3-dihydroxy-5-methylthio-4-pentenoate (DMTPA)*",Amino Acid,"Methionine, Cysteine, SAM and Taurine Metabolism",62805,LC/MS Neg,100020893,1157.1,178.0299794994,,,,
+met47653,,X - 11593,Pathway missing,Pathway missing,47653,LC/MS Neg,,764,189.0407,,,,
+met47493,,X - 11632,Pathway missing,Pathway missing,47493,LC/MS Neg,,3377,229.1082,,,,
+met47497,,enterolactone sulfate,Pathway missing,Pathway missing,64041,LC/MS Neg,,3769,377.0705,,,,
+met33132,,X - 11787,Pathway missing,Pathway missing,33132,LC/MS Pos Early,,2319,148.0968,,,,
+met33140,,X - 11795,Pathway missing,Pathway missing,33140,LC/MS Pos Early,,2590,148.0968,,,,
+met46982,,3-(methylthio)acetaminophen sulfate*,Xenobiotics,"Drug - Analgesics, Anesthetics",62567,LC/MS Neg,100020827,2285,277.007874,,,,
+met46466,,X - 11843,Pathway missing,Pathway missing,46466,LC/MS Neg,,2674.6,230.013,,,,
+met46488,,X - 11847,Pathway missing,Pathway missing,46488,LC/MS Neg,,3087,259.0098,,,,
+met46607,,X - 11849,Pathway missing,Pathway missing,46607,LC/MS Neg,,3215,266.0179,,,,
+met46507,,X - 11850,Pathway missing,Pathway missing,46507,LC/MS Neg,,3176,226.0182,,,,
+met46521,,X - 11852,Pathway missing,Pathway missing,46521,LC/MS Neg,,3277.6,232.9949,,,,
+met47654,,X - 11858,Pathway missing,Pathway missing,47654,LC/MS Neg,,4414,437.0555,,,,
+met46608,,X - 11880,Pathway missing,Pathway missing,46608,LC/MS Neg,,5341,537.4157,,,,
+met46610,,X - 12007,Pathway missing,Pathway missing,46610,LC/MS Neg,,1357,222.992,,,,
+met46611,,X - 12013,Pathway missing,Pathway missing,46611,LC/MS Neg,,2066,242.0132,,,,
+met47905,,X - 12026,Pathway missing,Pathway missing,47905,LC/MS Neg,,1652,180.0531,,,,
+met46588,,metabolonic lactone sulfate,Partially Characterized Molecules,Partially Characterized Molecules,63153,LC/MS Neg,100021331,4800,428.2232595782,,,,
+met46684,,"N2-acetyl,N6-methyllysine",Amino Acid,Lysine Metabolism,62954,LC/MS Pos Early,100020546,2190,202.1317424545,,,,
+met47687,,X - 12100,Pathway missing,Pathway missing,47687,LC/MS Pos Early,,2650,221.0919,,,,
+met47642,,X - 12101,Pathway missing,Pathway missing,47642,LC/MS Pos Early,,2700,164.0739,,,,
+met46932,,X - 12104,Pathway missing,Pathway missing,46932,LC/MS Pos Early,,1300,271.0919,,,,
+met52797,,X - 12111,Pathway missing,Pathway missing,52797,LC/MS Neg,,877,142.0507,,,,
+met47690,,X - 12112,Pathway missing,Pathway missing,47690,LC/MS Pos Early,,950,142.0862,,,,
+met47695,,X - 12117,Pathway missing,Pathway missing,47695,LC/MS Pos Early,,2366,204.134,,,,
+met46966,,X - 12126,Pathway missing,Pathway missing,46966,LC/MS Neg,,1205,324.0739,,,,
+met47702,,X - 12127,Pathway missing,Pathway missing,47702,LC/MS Pos Early,,2160,226.0817,,,,
+met47909,,picolinoylglycine,Lipid,Fatty Acid Metabolism (Acyl Glycine),63057,LC/MS Neg,100021198,1829,180.0534921335,,,,HMDB59766
+met46612,,ascorbic acid 3-sulfate*,Cofactors and Vitamins,Ascorbate and Aldarate Metabolism,63687,LC/MS Neg,100020409,622,255.9889025457,,,,
+met46358,,4-allylcatechol sulfate,Xenobiotics,Benzoate Metabolism,63597,LC/MS Neg,100020578,3597.7,230.0248941215,,,,
+met46613,,X - 12216,Pathway missing,Pathway missing,46613,LC/MS Neg,,1691,227.9974,,,,
+met46614,,4-ethylcatechol sulfate,Xenobiotics,Benzoate Metabolism,63072,LC/MS Neg,100020536,3346,218.0248941215,,,,
+met47657,,X - 12261,Pathway missing,Pathway missing,47657,LC/MS Neg,,1853,258.008,,,,
+met47914,,X - 12262,Pathway missing,Pathway missing,47914,LC/MS Neg,,2280,258.008,,,,
+met47708,,X - 12283,Pathway missing,Pathway missing,47708,LC/MS Pos Early,,2646,245.0917,,,,
+met47917,,X - 12306,Pathway missing,Pathway missing,47917,LC/MS Neg,,2350,247.0285,,,,
+met47659,,3-hydroxy-2-methylpyridine sulfate,Xenobiotics,Chemical,63227,LC/MS Neg,100020975,1854,189.0095784083,,,,
+met46615,,X - 12407,Pathway missing,Pathway missing,46615,LC/MS Neg,,1873,204.9813,,,,
+met47921,,X - 12410,Pathway missing,Pathway missing,47921,LC/MS Neg,,2086,274.0394,,,,
+met46616,,X - 12411,Pathway missing,Pathway missing,46616,LC/MS Neg,,1037,195.0335,,,,
+met46618,,tetradecadienoate (14:2)*,Lipid,Long Chain Polyunsaturated Fatty Acid (n3 and n6),62850,LC/MS Neg,100020343,5315,224.1776300146,,,,HMDB00560
+met47639,,X - 12456,Pathway missing,Pathway missing,47639,LC/MS Neg,,4342,427.2165,,,,
+met33904,,nonanoylcarnitine (C9),Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Medium Chain)",61775,LC/MS Pos Late,100006620,1060,301.2253084887,,,,HMDB13288
+met46620,,X - 12462,Pathway missing,Pathway missing,46620,LC/MS Pos Early,,1790,148.0427,,,,
+met46628,,glutamine conjugate of C6H10O2 (2)*,Partially Characterized Molecules,Partially Characterized Molecules,63660,LC/MS Neg,100020262,2528,242.126663,,,,
+met46621,,"2,4-di-tert-butylphenol",Pathway missing,Pathway missing,64328,LC/MS Neg,,5780,205.1599,,,,
+met47922,,X - 12543,Pathway missing,Pathway missing,47922,LC/MS Neg,,1409,181.051,,,,
+met46510,,X - 12544,Pathway missing,Pathway missing,46510,LC/MS Neg,,3166.9,209.0822,,,,
+met47437,,X - 12680,Pathway missing,Pathway missing,47437,LC/MS Pos Early,,2875,229.1293,,,,
+met47718,,N-acetyl-isoputreanine,Amino Acid,Polyamine Metabolism,62309,LC/MS Pos Early,100020487,2300,202.1317424545,,,,
+met47929,,X - 12707,Pathway missing,Pathway missing,47929,LC/MS Neg,,1196,249.0077,,,,
+met46973,,X - 12718,Pathway missing,Pathway missing,46973,LC/MS Neg,,1750,324.0739,,,,
+met47936,,X - 12726,Pathway missing,Pathway missing,47936,LC/MS Neg,,1942,233.0129,,,,
+met46623,,X - 12729,Pathway missing,Pathway missing,46623,LC/MS Neg,,2021,227.9973,,,,
+met47937,,X - 12730,Pathway missing,Pathway missing,47937,LC/MS Neg,,2048,203.9974,,,,
+met47940,,X - 12738,Pathway missing,Pathway missing,47940,LC/MS Neg,,2389,230.9972,,,,
+met46626,,glutamine conjugate of C6H10O2 (1)*,Partially Characterized Molecules,Partially Characterized Molecules,63657,LC/MS Neg,100020261,2406,242.126663,,,,
+met46627,,X - 12740,Pathway missing,Pathway missing,46627,LC/MS Neg,,2497,287.0233,,,,
+met46624,,X - 12798,Pathway missing,Pathway missing,46624,LC/MS Pos Early,,2011,240.1017,,,,
+met46986,,X - 12812,Pathway missing,Pathway missing,46986,LC/MS Neg,,2435,208.0623,,,,
+met47942,,X - 12815,Pathway missing,Pathway missing,47942,LC/MS Neg,,2653,271.0284,,,,
+met46630,,X - 12816,Pathway missing,Pathway missing,46630,LC/MS Neg,,2700,495.2237,,,,
+met46997,,X - 12822,Pathway missing,Pathway missing,46997,LC/MS Neg,,2790,389.0928,,,,
+met47662,,X - 12830,Pathway missing,Pathway missing,47662,LC/MS Neg,,3197,372.1128,,,,
+met47014,,X - 12839,Pathway missing,Pathway missing,47014,LC/MS Neg,,3895,269.1516,,,,
+met46633,,X - 12844,Pathway missing,Pathway missing,46633,LC/MS Neg,,4185,539.2494,,,,
+met46634,,11beta-hydroxyandrosterone glucuronide,Lipid,Androgenic Steroids,63251,LC/MS Neg,100020541,4228,482.251583,,,,
+met46364,,X - 12847,Pathway missing,Pathway missing,46364,LC/MS Neg,,4247,227.0388,,,,
+met46636,,X - 12849,Pathway missing,Pathway missing,46636,LC/MS Neg,,4696,331.1762,,,,
+met46639,,X - 12851,Pathway missing,Pathway missing,46639,LC/MS Neg,,4844,311.6658,,,,
+met47955,,X - 12906,Pathway missing,Pathway missing,47955,LC/MS Neg,,793,158.0462,,,,
+met47203,,X - 13007,Pathway missing,Pathway missing,47203,LC/MS Neg,,4597,329.2338,,,,
+met47788,,X - 13431,Pathway missing,Pathway missing,47788,LC/MS Pos Late,,1015,302.2322,,,,
+met46733,,3-decenoylcarnitine,Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Monounsaturated)",63361,LC/MS Pos Late,100021136,1095,313.2253084887,,,,
+met47439,,X - 13507,Pathway missing,Pathway missing,47439,LC/MS Pos Early,,2520,158.0925,,,,
+met46643,,1-carboxyethylvaline,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",62562,LC/MS Neg,100020423,2011,189.1001079751,,,,
+met47959,,X - 13553,Pathway missing,Pathway missing,47959,LC/MS Neg,,1407,263.0234,,,,
+met47664,,X - 13658,Pathway missing,Pathway missing,47664,LC/MS Neg,,4643,253.0832,,,,
+met47774,,alpha-CMBHC glucuronide,Pathway missing,Pathway missing,63926,LC/MS Neg,,3665,495.2244,,,,
+met47967,,X - 13726,Pathway missing,Pathway missing,47967,LC/MS Neg,,1532,379.0349,,,,
+met46645,,X - 13728,Pathway missing,Pathway missing,46645,LC/MS Neg,,1589,197.0682,,,,
+met47971,,X - 13729,Pathway missing,Pathway missing,47971,LC/MS Neg,,1745,241.9768,,,,
+met47441,,(S)-a-amino-omega-caprolactam,Xenobiotics,Food Component/Plant,63339,LC/MS Pos Early,100021329,2332,128.0949630177,,,C05328,
+met46646,,X - 13835,Pathway missing,Pathway missing,46646,LC/MS Neg,,1017,169.0618,,,,
+met47977,,X - 13844,Pathway missing,Pathway missing,47977,LC/MS Neg,,1442,209.0572,,,,
+met46417,,X - 13866,Pathway missing,Pathway missing,46417,LC/MS Neg,,2417.8,253.1083,,,,
+met46632,,X - 14056,Pathway missing,Pathway missing,46632,LC/MS Pos Early,,810,192.0325,,,,
+met46655,,taurodeoxycholic acid 3-sulfate,Lipid,Secondary Bile Acid Metabolism,62889,LC/MS Neg,100006644,4855,579.2535731,,,,
+met46652,,taurochenodeoxycholic acid 3-sulfate,Lipid,Secondary Bile Acid Metabolism,62890,LC/MS Neg,100021093,4800,579.2535734286,,,,HMDB02486
+met46656,,glycoursodeoxycholic acid sulfate (1),Lipid,Secondary Bile Acid Metabolism,63731,LC/MS Neg,100020819,4336,529.2709380523,,,,
+met47787,,1-methyl-5-imidazoleacetate,Amino Acid,Histidine Metabolism,62946,LC/MS Pos Early,100002910,2000,140.0585775114,,,,HMDB04988
+met47204,,X - 14904,Pathway missing,Pathway missing,47204,LC/MS Neg,,4543,329.2338,,,,
+met46657,,X - 14939,Pathway missing,Pathway missing,46657,LC/MS Neg,,4353,165.0923,,,,
+met46658,,X - 15220,Pathway missing,Pathway missing,46658,LC/MS Neg,,2662,274.112,,,,
+met46661,,X - 15245,Pathway missing,Pathway missing,46661,LC/MS Neg,,568,233.0303,,,,
+met46283,,X - 15461,Pathway missing,Pathway missing,46283,LC/MS Pos Early,,1624,160.0971,,,,
+met46640,,X - 15469,Pathway missing,Pathway missing,46640,LC/MS Pos Late,,785,304.2116,,,,
+met46266,,X - 15486,Pathway missing,Pathway missing,46266,LC/MS Neg,,3629,269.1509,,,,
+met46662,,X - 15492,Pathway missing,Pathway missing,46662,LC/MS Neg,,4678,541.2647,,,,
+met46473,,1-carboxyethylphenylalanine,Amino Acid,Phenylalanine Metabolism,62566,LC/MS Neg,100020419,2843,237.1001079751,,,,
+met46977,,X - 15503,Pathway missing,Pathway missing,46977,LC/MS Neg,,1845,193.0626,,,,
+met47985,,X - 15523,Pathway missing,Pathway missing,47985,LC/MS Neg,,4164,309.1019,,,,
+met46664,,X - 15664,Pathway missing,Pathway missing,46664,LC/MS Neg,,3733,469.1719,,,,
+met47800,,X - 15666,Pathway missing,Pathway missing,47800,LC/MS Pos Early,,2755,221.0917,,,,
+met46665,,X - 15674,Pathway missing,Pathway missing,46665,LC/MS Neg,,1362,187.025,,,,
+met46666,,X - 15728,Pathway missing,Pathway missing,46666,LC/MS Neg,,3976,231.0334,,,,
+met46738,,3-formylindole,Xenobiotics,Food Component/Plant,62863,LC/MS Neg,100020219,3692,145.052763852,,,C08493,HMDB29737
+met46315,,X - 16083,Pathway missing,Pathway missing,46315,LC/MS Neg,,1484,309.1195,,,,
+met47988,,X - 16087,Pathway missing,Pathway missing,47988,LC/MS Neg,,4143,443.1566,,,,
+met46461,,X - 16124,Pathway missing,Pathway missing,46461,LC/MS Neg,,2563.6,203.0022,,,,
+met47802,,X - 16397,Pathway missing,Pathway missing,47802,LC/MS Pos Early,,2809,248.0948,,,,
+met47013,,X - 16570,Pathway missing,Pathway missing,47013,LC/MS Neg,,3765,198.1143,,,,
+met46673,,X - 16576,Pathway missing,Pathway missing,46673,LC/MS Neg,,4496,167.1079,,,,
+met47804,,X - 16580,Pathway missing,Pathway missing,47804,LC/MS Pos Early,,2537,222.0791,,,,
+met47992,,X - 16649,Pathway missing,Pathway missing,47992,LC/MS Neg,,3018,353.0346,,,,
+met46677,,deoxycholic acid (12 or 24)-sulfate*,Lipid,Secondary Bile Acid Metabolism,63688,LC/MS Neg,100021712,4598,472.2494743287,,,,
+met46681,,X - 16935,Pathway missing,Pathway missing,46681,LC/MS Neg,,4471,447.2757,,,,
+met46511,,X - 16938,Pathway missing,Pathway missing,46511,LC/MS Neg,,2000,233.1032,,,,
+met46683,,X - 16944,Pathway missing,Pathway missing,46683,LC/MS Neg,,3718,141.0923,,,,
+met46517,,X - 16946,Pathway missing,Pathway missing,46517,LC/MS Neg,,3240,317.1149,,,,
+met47993,,X - 17010,Pathway missing,Pathway missing,47993,LC/MS Neg,,3178,189.1136,,,,
+met46686,,X - 17137,Pathway missing,Pathway missing,46686,LC/MS Neg,,3497,449.2031,,,,
+met46689,,branched chain 14:0 dicarboxylic acid**,Lipid,"Fatty Acid, Dicarboxylate",63191,LC/MS Neg,100021374,3862,258.183109323,,,,
+met46691,,X - 17146,Pathway missing,Pathway missing,46691,LC/MS Neg,,4851,375.1814,,,,
+met47806,,X - 17162,Pathway missing,Pathway missing,47806,LC/MS Pos Late,,900,593.3328,,,,
+met46490,,X - 17185,Pathway missing,Pathway missing,46490,LC/MS Neg,,3079.5,215.002,,,,
+met40097,,"N,N,N-trimethyl-alanylproline betaine (TMAP)",Amino Acid,Urea cycle; Arginine and Proline Metabolism,62947,LC/MS Pos Early,100020217,2344,228.1473925187,,,,
+met46672,,X - 17325,Pathway missing,Pathway missing,46672,LC/MS Neg,,2868,184.0981,,,,
+met47000,,glutamine conjugate of C7H12O2*,Partially Characterized Molecules,Partially Characterized Molecules,63658,LC/MS Neg,100020259,3045,256.142303,,,,
+met47818,,X - 17328,Pathway missing,Pathway missing,47818,LC/MS Pos Late,,910,308.1851,,,,
+met47820,,X - 17335,Pathway missing,Pathway missing,47820,LC/MS Pos Late,,1052,248.1676,,,,
+met47821,,undecenoylcarnitine (C11:1),Lipid,"Fatty Acid Metabolism (Acyl Carnitine, Monounsaturated)",63613,LC/MS Pos Late,100021131,1136,327.2409585529,,,,
+met47872,,X - 17340,Pathway missing,Pathway missing,47872,LC/MS Neg,,4697,539.25,,,,
+met47824,,X - 17346,Pathway missing,Pathway missing,47824,LC/MS Pos Early,,1637,255.097,,,,
+met46989,,X - 17348,Pathway missing,Pathway missing,46989,LC/MS Neg,,2545,247.0831,,,,
+met48001,,X - 17351,Pathway missing,Pathway missing,48001,LC/MS Neg,,3390,243.0779,,,,
+met48003,,X - 17353,Pathway missing,Pathway missing,48003,LC/MS Neg,,3430,507.2089,,,,
+met47009,,X - 17354,Pathway missing,Pathway missing,47009,LC/MS Neg,,3520,473.1472,,,,
+met48007,,X - 17355,Pathway missing,Pathway missing,48007,LC/MS Neg,,3784,474.176,,,,
+met48009,,X - 17357,Pathway missing,Pathway missing,48009,LC/MS Neg,,4098,541.2655,,,,
+met48011,,cortolone glucuronide (1),Lipid,Corticosteroids,57699,LC/MS Neg,100015971,4606,542.2727121913,,,,
+met48013,,X - 17361,Pathway missing,Pathway missing,48013,LC/MS Neg,,4840,331.177,,,,
+met46994,,X - 17367,Pathway missing,Pathway missing,46994,LC/MS Neg,,2710,182.0829,,,,
+met46705,,X - 17438,Pathway missing,Pathway missing,46705,LC/MS Neg,,1950,245.1393,,,,
+met46706,,lithocholate sulfate (1),Lipid,Secondary Bile Acid Metabolism,62526,LC/MS Neg,100020823,4840,456.2545595,,,,
+met48052,,X - 17612,Pathway missing,Pathway missing,48052,LC/MS Neg,,4308,567.3193,,,,
+met46707,,X - 17653,Pathway missing,Pathway missing,46707,LC/MS Neg,,5128,365.2694,,,,
+met46709,,X - 17654,Pathway missing,Pathway missing,46709,LC/MS Neg,,5200,365.2694,,,,
+met48019,,X - 17655,Pathway missing,Pathway missing,48019,LC/MS Neg,,4169,421.0608,,,,
+met46970,,X - 17676,Pathway missing,Pathway missing,46970,LC/MS Neg,,1485,167.0468,,,,
+met48025,,X - 17685,Pathway missing,Pathway missing,48025,LC/MS Neg,,2575,233.0129,,,,
+met46710,,X - 17690,Pathway missing,Pathway missing,46710,LC/MS Neg,,2904,245.0486,,,,
+met47001,,X - 17692,Pathway missing,Pathway missing,47001,LC/MS Neg,,3070,370.0982,,,,
+met48055,,X - 17765,Pathway missing,Pathway missing,48055,LC/MS Neg,,4582,489.2712,,,,
+met46366,,"3,5-dichloro-2,6-dihydroxybenzoic acid",Xenobiotics,Chemical,63589,LC/MS Neg,100021324,4404.1,221.9486640368,,,,
+met47836,,X - 18307,Pathway missing,Pathway missing,47836,LC/MS Pos Early,,2638,578.3378,,,,
+met47342,,X - 18345,Pathway missing,Pathway missing,47342,LC/MS Neg,,1400,245.1145,,,,
+met46687,,X - 18779,Pathway missing,Pathway missing,46687,LC/MS Neg,,1969,209.0454,,,,
+met48047,,X - 18886,Pathway missing,Pathway missing,48047,LC/MS Neg,,1870,217.1085,,,,
+met47301,,X - 18887,Pathway missing,Pathway missing,47301,LC/MS Neg,,2229,328.1518,,,,
+met47670,,X - 18899,Pathway missing,Pathway missing,47670,LC/MS Neg,,3730,337.1427,,,,
+met46690,,X - 18901,Pathway missing,Pathway missing,46690,LC/MS Neg,,3800,211.0247,,,,
+met46695,,X - 18913,Pathway missing,Pathway missing,46695,LC/MS Neg,,4538,185.1182,,,,
+met46368,,"3-bromo-5-chloro-2,6-dihydroxybenzoic acid*",Xenobiotics,Chemical,63681,LC/MS Neg,100021707,4503,265.8981489268,,,,
+met47671,,X - 18921,Pathway missing,Pathway missing,47671,LC/MS Neg,,4870,193.1236,,,,
+met46700,,X - 18922,Pathway missing,Pathway missing,46700,LC/MS Neg,,4928,299.1861,,,,
+met48049,,X - 18935,Pathway missing,Pathway missing,48049,LC/MS Neg,,1917,227.9976,,,,
+met48050,,3-hydroxydodecanedioate*,Lipid,"Fatty Acid, Dicarboxylate",62915,LC/MS Neg,100001454,2240,246.1467238167,,,,HMDB00413
+met46701,,X - 19141,Pathway missing,Pathway missing,46701,LC/MS Neg,,3705,415.197,,,,
+met47672,,X - 19183,Pathway missing,Pathway missing,47672,LC/MS Neg,,1665,230.0495,,,,
+met47673,,X - 19299,Pathway missing,Pathway missing,47673,LC/MS Neg,,3728,227.129,,,,
+met48772,,cholic acid glucuronide,Lipid,Primary Bile Acid Metabolism,62571,LC/MS Neg,100020549,4539,584.3196623839,,,,
+met46261,,X - 19438,Pathway missing,Pathway missing,46261,LC/MS Neg,,1209,217.0721,,,,
+met46259,,X - 21258,Pathway missing,Pathway missing,46259,LC/MS Neg,,3915,213.0232,,,,
+met46294,,X - 21285,Pathway missing,Pathway missing,46294,LC/MS Neg,,4500,365.1432,,,,
+met46295,,X - 21286,Pathway missing,Pathway missing,46295,LC/MS Neg,,1550,164.0355,,,,
+met46356,,X - 21312,Pathway missing,Pathway missing,46356,LC/MS Neg,,2757.7,243.0337,,,,
+met46359,,X - 21315,Pathway missing,Pathway missing,46359,LC/MS Neg,,3698.1,240.9139,,,,
+met46363,,X - 21319,Pathway missing,Pathway missing,46363,LC/MS Neg,,4238.4,165.0924,,,,
+met46384,,X - 21339,Pathway missing,Pathway missing,46384,LC/MS Neg,,5105,453.3226,,,,
+met46386,,X - 21341,Pathway missing,Pathway missing,46386,LC/MS Neg,,5126,366.9012,,,,
+met46388,,dodecadienoate (12:2)*,Lipid,"Fatty Acid, Dicarboxylate",62276,LC/MS Neg,100020478,5153,196.146332,,,,
+met46398,,X - 21353,Pathway missing,Pathway missing,46398,LC/MS Neg,,5196,239.1655,,,,
+met46409,,X - 21364,Pathway missing,Pathway missing,46409,LC/MS Neg,,3757,213.0865,,,,
+met46428,,X - 21383,Pathway missing,Pathway missing,46428,LC/MS Neg,,2448,223.0977,,,,
+met46455,,X - 21410,Pathway missing,Pathway missing,46455,LC/MS Neg,,3921,385.1696,,,,
+met46456,,2-ketocaprylate,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",63120,LC/MS Neg,100020833,3956,158.0942943157,,,,HMDB13211
+met46486,,X - 21441,Pathway missing,Pathway missing,46486,LC/MS Neg,,3025.4,294.1128,,,,
+met46487,,X - 21442,Pathway missing,Pathway missing,46487,LC/MS Neg,,3823,333.2077,,,,
+met46493,,X - 21448,Pathway missing,Pathway missing,46493,LC/MS Neg,,3098,317.1147,,,,
+met46503,,X - 21458,Pathway missing,Pathway missing,46503,LC/MS Neg,,4010,478.1988,,,,
+met46512,,X - 21467,Pathway missing,Pathway missing,46512,LC/MS Neg,,4041,262.6205,,,,
+met46515,,X - 21470,Pathway missing,Pathway missing,46515,LC/MS Neg,,3249,232.0595,,,,
+met46516,,X - 21471,Pathway missing,Pathway missing,46516,LC/MS Neg,,4039,295.112,,,,
+met46519,,glucuronide of piperine metabolite C17H21NO3 (5)*,Xenobiotics,Food Component/Plant,62292,LC/MS Neg,100020493,4039,463.184235,,,,
+met46674,,X - 21607,Pathway missing,Pathway missing,46674,LC/MS Neg,,4529,167.1079,,,,
+met46694,,Fibrinopeptide B (1-13)**,Peptide,Fibrinogen Cleavage Peptide,62813,LC/MS Neg,100020908,2533,1395.5578886085,,,,
+met46728,,glucuronide of piperine metabolite C17H21NO3 (3)*,Xenobiotics,Food Component/Plant,62290,LC/MS Neg,100020491,3975,463.184235,,,,
+met46730,,X - 21661,Pathway missing,Pathway missing,46730,LC/MS Neg,,3034,259.0093,,,,
+met46898,,butyrate (4:0),Lipid,Short Chain Fatty Acid,40605,LC/MS Neg,1143,1024,88.05243,,,C00246,HMDB00039
+met46902,,X - 21733,Pathway missing,Pathway missing,46902,LC/MS Neg,,2716,248.0565,,,,
+met46904,,tetradecadienedioate (C14:2-DC)*,Lipid,"Fatty Acid, Dicarboxylate",62918,LC/MS Neg,100021100,3172,254.15181,,,,
+met46905,,X - 21736,Pathway missing,Pathway missing,46905,LC/MS Neg,,3345,183.1392,,,,
+met46906,,X - 21737,Pathway missing,Pathway missing,46906,LC/MS Neg,,3461,245.0127,,,,
+met46911,,X - 21742,Pathway missing,Pathway missing,46911,LC/MS Neg,,4170,204.0819,,,,
+met46923,,X - 21752,Pathway missing,Pathway missing,46923,LC/MS Neg,,5090,621.3307,,,,
+met46968,,decadienedioic acid (C10:2-DC)**,Lipid,"Fatty Acid, Dicarboxylate",63685,LC/MS Neg,100021711,1290,198.08921,,,,
+met46971,,N-acetyltheanine,Xenobiotics,Food Component/Plant,62711,LC/MS Neg,100020514,1515,216.1110070124,,,,
+met46972,,X - 21796,Pathway missing,Pathway missing,46972,LC/MS Neg,,1625,138.0566,,,,
+met46980,,X - 21803,Pathway missing,Pathway missing,46980,LC/MS Neg,,2035,212.0029,,,,
+met46992,,X - 21815,Pathway missing,Pathway missing,46992,LC/MS Neg,,2620,279.0996,,,,
+met46993,,X - 21816,Pathway missing,Pathway missing,46993,LC/MS Neg,,2655,113.0976,,,,
+met46998,,X - 21821,Pathway missing,Pathway missing,46998,LC/MS Neg,,2930,243.0783,,,,
+met47006,,X - 21829,Pathway missing,Pathway missing,47006,LC/MS Neg,,3440,245.1402,,,,
+met47008,,X - 21831,Pathway missing,Pathway missing,47008,LC/MS Neg,,3480,363.1676,,,,
+met47011,,X - 21834,Pathway missing,Pathway missing,47011,LC/MS Neg,,3720,229.0184,,,,
+met47015,,X - 21838,Pathway missing,Pathway missing,47015,LC/MS Neg,,3910,403.1051,,,,
+met47016,,X - 21839,Pathway missing,Pathway missing,47016,LC/MS Neg,,3925,452.1944,,,,
+met47019,,X - 21842,Pathway missing,Pathway missing,47019,LC/MS Neg,,3990,277.0219,,,,
+met47022,,X - 21845,Pathway missing,Pathway missing,47022,LC/MS Neg,,4085,356.1188,,,,
+met47393,,dihydrocaffeate sulfate (2),Xenobiotics,Food Component/Plant,62524,LC/MS Neg,100020822,971,262.014723,,,,
+met47417,,X - 22162,Pathway missing,Pathway missing,47417,LC/MS Pos Early,,960,150.0583,,,,
+met47739,,5-hydroxymethyl-2-furoylcarnitine*,Xenobiotics,Food Component/Plant,62871,LC/MS Pos Early,100021012,2412,285.121246,,,,
+met47773,,X - 22509,Pathway missing,Pathway missing,47773,LC/MS Neg,,3562,473.1463,,,,
+met47783,,X - 22519,Pathway missing,Pathway missing,47783,LC/MS Pos Early,,3490,304.2113,,,,
+met47784,,X - 22520,Pathway missing,Pathway missing,47784,LC/MS Neg,,4389,263.6284,,,,
+met48067,,"branched-chain, straight-chain, or cyclopropyl 12:1 fatty acid*",Partially Characterized Molecules,Partially Characterized Molecules,63683,LC/MS Neg,100021709,5263,198.16198,,,,
+met48080,,4-chlorobenzoic acid,Pathway missing,Pathway missing,63988,LC/MS Neg,,2980,154.9908,,,,
+met48081,,X - 22776,Pathway missing,Pathway missing,48081,LC/MS Neg,,3615,252.0441,,,,
+met48185,,X - 22834,Pathway missing,Pathway missing,48185,LC/MS Neg,,5095,448.3077,,,,
+met48773,,chenodeoxycholic acid sulfate (1),Lipid,Primary Bile Acid Metabolism,63607,LC/MS Neg,100021650,4548,472.2494743287,,,,
+met48774,,isoursodeoxycholate sulfate (1),Lipid,Secondary Bile Acid Metabolism,63602,LC/MS Neg,100021647,4095,472.2494743287,,,,
+met48892,,2-hydroxysebacate,Lipid,"Fatty Acid, Dicarboxylate",63357,LC/MS Neg,100020378,1392,218.1154236883,,,,HMDB00424
+met48972,,X - 23276,Pathway missing,Pathway missing,48972,LC/MS Neg,,4957.5,329.2333,,,,
+met48989,,"(2,4 or 2,5)-dimethylphenol sulfate",Xenobiotics,Food Component/Plant,62533,LC/MS Neg,100020519,3478,202.0299794994,,,,
+met48992,,cis-4-decenoate (10:1n6)*,Lipid,Medium Chain Fatty Acid,62873,LC/MS Neg,100002796,4886,170.130679822,,,,
+met48993,,"branched-chain, straight-chain, or cyclopropyl 10:1 fatty acid (2)*",Partially Characterized Molecules,Partially Characterized Molecules,63616,LC/MS Neg,100021667,4856,170.130679822,,,,
+met48994,,"branched-chain, straight-chain, or cyclopropyl 10:1 fatty acid (1)*",Partially Characterized Molecules,Partially Characterized Molecules,63615,LC/MS Neg,100021666,4807,170.130679822,,,,
+met48996,,(2 or 3)-decenoate (10:1n7 or n8),Lipid,Medium Chain Fatty Acid,63436,LC/MS Neg,100021502,4976,170.130679822,,,,
+met49704,,ethyl beta-glucopyranoside,Pathway missing,Pathway missing,64131,LC/MS Pos Early,,1132,226.1283,,,,
+met49228,,3-indoleglyoxylic acid,Xenobiotics,Food Component/Plant,63583,LC/MS Neg,100020372,2150,189.0425930962,,,,
+met49459,,X - 23583,Pathway missing,Pathway missing,49459,LC/MS Pos Early,,1112,116.0707,,,,
+met49461,,"N,N-dimethylalanine",Amino Acid,Alanine and Aspartate Metabolism,63151,LC/MS Pos Early,100020371,1378,117.0789786025,,,,
+met49463,,X - 23587,Pathway missing,Pathway missing,49463,LC/MS Pos Early,,1230,132.1018,,,,
+met49469,,X - 23593,Pathway missing,Pathway missing,49469,LC/MS Pos Early,,1531,191.1023,,,,
+met49512,,X - 23636,Pathway missing,Pathway missing,49512,LC/MS Pos Early,,1129,249.1076,,,,
+met49513,,X - 23637,Pathway missing,Pathway missing,49513,LC/MS Pos Early,,1382,235.092,,,,
+met49515,,X - 23639,Pathway missing,Pathway missing,49515,LC/MS Pos Early,,1640,134.081,,,,
+met49517,,X - 23641,Pathway missing,Pathway missing,49517,LC/MS Pos Late,,910,288.2166,,,,
+met49521,,X - 23644,Pathway missing,Pathway missing,49521,LC/MS Pos Early,,983,146.0809,,,,
+met49525,,X - 23648,Pathway missing,Pathway missing,49525,LC/MS Pos Early,,1656,262.1029,,,,
+met49526,,3-hydroxypyridine glucuronide,Xenobiotics,Chemical,63236,LC/MS Pos Early,100020591,1645,271.0692017772,,,,
+met49529,,X - 23652,Pathway missing,Pathway missing,49529,LC/MS Pos Early,,1991,171.0761,,,,
+met49532,,X - 23655,Pathway missing,Pathway missing,49532,LC/MS Pos Early,,2200,110.0602,,,,
+met49536,,X - 23659,Pathway missing,Pathway missing,49536,LC/MS Pos Early,,2449,143.1177,,,,
+met49539,,X - 23662,Pathway missing,Pathway missing,49539,LC/MS Pos Early,,2622,159.1489,,,,
+met49542,,X - 23665,Pathway missing,Pathway missing,49542,LC/MS Pos Early,,2894,217.1543,,,,
+met49543,,X - 23666,Pathway missing,Pathway missing,49543,LC/MS Pos Early,,2990,159.1489,,,,
+met49546,,X - 23669,Pathway missing,Pathway missing,49546,LC/MS Pos Early,,3122,319.1647,,,,
+met49550,,doxylamine,Xenobiotics,Drug - Respiratory,43024,LC/MS Pos Early,100003965,3277,270.1732133387,,,,HMDB01936
+met49555,,X - 23678,Pathway missing,Pathway missing,49555,LC/MS Pos Late,,871,220.1362,,,,
+met49557,,X - 23680,Pathway missing,Pathway missing,49557,LC/MS Pos Late,,1049,338.232,,,,
+met49637,,X - 23739,Pathway missing,Pathway missing,49637,LC/MS Pos Early,,1286,262.1029,,,,
+met49675,,X - 23776,Pathway missing,Pathway missing,49675,LC/MS Pos Early,,2275,146.1174,,,,
+met49679,,X - 23780,Pathway missing,Pathway missing,49679,LC/MS Pos Early,,2190,144.1017,,,,
+met49681,,X - 23782,Pathway missing,Pathway missing,49681,LC/MS Pos Late,,1627,349.2732,,,,
+met49688,,X - 23787,Pathway missing,Pathway missing,49688,LC/MS Neg,,4343,383.1531,,,,
+met52025,,X - 23997,Pathway missing,Pathway missing,52025,LC/MS Pos Early,,1634,223.0745,,,,
+met52135,,X - 24106,Pathway missing,Pathway missing,52135,LC/MS Pos Late,,2172,661.5263,,,,
+met52286,,X - 24243,Pathway missing,Pathway missing,52286,LC/MS Pos Early,,1003,132.0655,,,,
+met52332,,3-hydroxyhippurate sulfate,Xenobiotics,Benzoate Metabolism,62530,LC/MS Neg,100020410,1142,275.0099723388,,,,
+met52297,,ethyl alpha-glucopyranoside,Xenobiotics,Food Component/Plant,63152,LC/MS Pos Early,100015965,1189,208.0946882462,,,,
+met52483,,X - 24295,Pathway missing,Pathway missing,52483,LC/MS Neg,,1152,217.0714,,,,
+met52501,,X - 24306,Pathway missing,Pathway missing,52501,LC/MS Neg,,1232,171.0777,,,,
+met52502,,X - 24307,Pathway missing,Pathway missing,52502,LC/MS Neg,,1341.5,171.0777,,,,
+met52504,,X - 24309,Pathway missing,Pathway missing,52504,LC/MS Neg,,4430,321.148,,,,
+met52524,,X - 24328,Pathway missing,Pathway missing,52524,LC/MS Neg,,1361.7,161.0817,,,,
+met52525,,3-(3-amino-3-carboxypropyl)uridine*,Nucleotide,"Pyrimidine Metabolism, Uracil containing",62924,LC/MS Neg,100001426,1391,345.1172146023,,,,
+met52533,,X - 24337,Pathway missing,Pathway missing,52533,LC/MS Neg,,1980,239.0786,,,,
+met52544,,GlcNAc sulfate conjugate of C21H34O2 steroid**,Partially Characterized Molecules,Partially Characterized Molecules,63699,LC/MS Neg,100021726,4309,601.29207,,,,
+met52548,,X - 24352,Pathway missing,Pathway missing,52548,LC/MS Neg,,4453.4,419.2285,,,,
+met52640,,X - 24411,Pathway missing,Pathway missing,52640,LC/MS Pos Early,,1171,116.0705,,,,
+met52647,,X - 24418,Pathway missing,Pathway missing,52647,LC/MS Neg,,4704,525.2693,,,,
+met52636,,X - 24422,Pathway missing,Pathway missing,52636,LC/MS Pos Early,,1194,271.0921,,,,
+met52655,,X - 24425,Pathway missing,Pathway missing,52655,LC/MS Pos Early,,2378,130.0974,,,,
+met52665,,X - 24435,Pathway missing,Pathway missing,52665,LC/MS Neg,,6625,465.3037,,,,
+met52769,,X - 24452,Pathway missing,Pathway missing,52769,LC/MS Pos Early,,2756,205.1545,,,,
+met52772,,X - 24455,Pathway missing,Pathway missing,52772,LC/MS Pos Early,,2641,237.0867,,,,
+met52773,,X - 24456,Pathway missing,Pathway missing,52773,LC/MS Pos Early,,2538,237.0866,,,,
+met52779,,X - 24462,Pathway missing,Pathway missing,52779,LC/MS Pos Early,,1215,206.0658,,,,
+met52788,,X - 24471,Pathway missing,Pathway missing,52788,LC/MS Pos Early,,2030,173.1395,,,,
+met52790,,X - 24473,Pathway missing,Pathway missing,52790,LC/MS Pos Early,,1709,146.0811,,,,
+met52809,,3-hydroxyphenylacetoylglutamine,Peptide,Acetylated Peptides,62733,LC/MS Pos Early,100019831,1673,280.1059216345,,,,
+met52813,,X - 24494,Pathway missing,Pathway missing,52813,LC/MS Neg,,4131,479.2277,,,,
+met52835,,N-carbamoylvaline,Amino Acid,"Leucine, Isoleucine and Valine Metabolism",62852,LC/MS Neg,100020351,1283,160.0847922619,,,,
+met52848,,X - 24527,Pathway missing,Pathway missing,52848,LC/MS Pos Early,,2221,243.1337,,,,
+met52862,,X - 24541,Pathway missing,Pathway missing,52862,LC/MS Neg,,2671,246.9922,,,,
+met52863,,vanillic acid glycine,Xenobiotics,Food Component/Plant,63853,LC/MS Neg,100021363,1674,225.0637224688,,,,HMDB60026
+met52865,,X - 24544,Pathway missing,Pathway missing,52865,LC/MS Neg,,4448,411.184,,,,
+met52867,,X - 24546,Pathway missing,Pathway missing,52867,LC/MS Neg,,3289,231.0509,,,,
+met52870,,X - 24549,Pathway missing,Pathway missing,52870,LC/MS Neg,,2610,202.0511,,,,
+met52871,,X - 24550,Pathway missing,Pathway missing,52871,LC/MS Neg,,2870,471.245,,,,
+met52872,,X - 24551,Pathway missing,Pathway missing,52872,LC/MS Neg,,1695,353.1458,,,,
+met52873,,X - 24552,Pathway missing,Pathway missing,52873,LC/MS Neg,,2531,383.1927,,,,
+met52875,,X - 24554,Pathway missing,Pathway missing,52875,LC/MS Neg,,2301,485.2246,,,,
+met52876,,X - 24555,Pathway missing,Pathway missing,52876,LC/MS Neg,,2306,339.1663,,,,
+met52877,,X - 24556,Pathway missing,Pathway missing,52877,LC/MS Neg,,2318,283.1191,,,,
+met52878,,X - 24557,Pathway missing,Pathway missing,52878,LC/MS Neg,,2111,441.198,,,,
+met52879,,X - 24558,Pathway missing,Pathway missing,52879,LC/MS Neg,,2713,427.2187,,,,
+met52880,,X - 24559,Pathway missing,Pathway missing,52880,LC/MS Neg,,2084,295.14,,,,
+met52881,,X - 24560,Pathway missing,Pathway missing,52881,LC/MS Neg,,3012,515.2711,,,,
+met52886,,X - 24565,Pathway missing,Pathway missing,52886,LC/MS Neg,,3279,241.1449,,,,
+met52891,,X - 24570,Pathway missing,Pathway missing,52891,LC/MS Neg,,3105,211.0186,,,,
+met52892,,X - 24571,Pathway missing,Pathway missing,52892,LC/MS Neg,,4625,303.1454,,,,
+met52893,,X - 24572,Pathway missing,Pathway missing,52893,LC/MS Neg,,2838,253.0293,,,,
+met52896,,X - 24575,Pathway missing,Pathway missing,52896,LC/MS Neg,,2008,289.0926,,,,
+met52897,,X - 24576,Pathway missing,Pathway missing,52897,LC/MS Neg,,3184,246.9503,,,,
+met52906,,X - 24585,Pathway missing,Pathway missing,52906,LC/MS Pos Early,,2613,251.1388,,,,
+met52909,,X - 24588,Pathway missing,Pathway missing,52909,LC/MS Neg,,2350,485.1672,,,,
+met53065,,X - 24637,Pathway missing,Pathway missing,53065,LC/MS Neg,,2141.8,262.0134,,,,
+met53097,,X - 24669,Pathway missing,Pathway missing,53097,LC/MS Neg,,4512,287.6115,,,,
+met53114,,X - 24686,Pathway missing,Pathway missing,53114,LC/MS Pos Early,,1876,224.1126,,,,
+met53127,,X - 24699,Pathway missing,Pathway missing,53127,LC/MS Pos Early,,2402.3,241.1544,,,,
+met53157,,X - 24728,Pathway missing,Pathway missing,53157,LC/MS Pos Early,,1431,238.0376,,,,
+met53172,,X - 24736,Pathway missing,Pathway missing,53172,LC/MS Pos Early,,2821,189.1345,,,,
+met53266,,X - 24747,Pathway missing,Pathway missing,53266,LC/MS Neg,,4360,321.1469,,,,
+met53267,,X - 24748,Pathway missing,Pathway missing,53267,LC/MS Neg,,4596,321.1469,,,,
+met54695,,X - 24757,Pathway missing,Pathway missing,54695,LC/MS Neg,,2372.7,180.0665,,,,
+met54703,,X - 24765,Pathway missing,Pathway missing,54703,LC/MS Pos Early,,1800,83.022,,,,
+met54704,,3-amino-2-piperidone,Amino Acid,Urea cycle; Arginine and Proline Metabolism,62853,LC/MS Pos Early,100020361,2068.7,114.0793129535,,,,HMDB00323
+met54837,,"N2-acetyl,N6,N6-dimethyllysine",Amino Acid,Lysine Metabolism,63254,LC/MS Pos Early,100020545,2180,216.1473925187,,,,
+met54839,,X - 24811,Pathway missing,Pathway missing,54839,LC/MS Pos Early,,2259,228.0865,,,,
+met54840,,X - 24812,Pathway missing,Pathway missing,54840,LC/MS Pos Early,,2650,230.1386,,,,
+met54841,,X - 24813,Pathway missing,Pathway missing,54841,LC/MS Neg,,1285.7,202.0484,,,,
+met54873,,2-naphthol sulfate,Xenobiotics,Chemical,62520,LC/MS Neg,100020515,3672,224.0143294352,,,,
+met54877,,X - 24849,Pathway missing,Pathway missing,54877,LC/MS Neg,,4611,313.1193,,,,
+met54977,,X - 24870,Pathway missing,Pathway missing,54977,LC/MS Pos Late,,2128,719.5692,,,,
+met57714,,X - 24947,Pathway missing,Pathway missing,57714,LC/MS Neg,,4518,387.1848,,,,
+met57715,,pregnenetriol sulfate*,Lipid,Pregnenolone Steroids,62922,LC/MS Neg,100021103,4746,414.207611,,,,
+met57716,,X - 24949,Pathway missing,Pathway missing,57716,LC/MS Neg,,4973,263.2017,,,,
+met57718,,X - 24951,Pathway missing,Pathway missing,57718,LC/MS Neg,,5227,481.3534,,,,
+met57719,,X - 24952,Pathway missing,Pathway missing,57719,LC/MS Neg,,5310,413.197,,,,
+met57720,,X - 24953,Pathway missing,Pathway missing,57720,LC/MS Neg,,5342,439.3429,,,,
+met57754,,X - 24970,Pathway missing,Pathway missing,57754,LC/MS Pos Early,,2468,161.1282,,,,
+met57756,,X - 24972,Pathway missing,Pathway missing,57756,LC/MS Neg,,3880,385.1694,,,,
+met57839,,"N6,N6-dimethyllysine",Pathway missing,Pathway missing,62862,LC/MS Pos Early,,2833,175.1437,,,,
+met62151,,X - 25172,Pathway missing,Pathway missing,62151,LC/MS Pos Early,,1452,191.1022,,,,

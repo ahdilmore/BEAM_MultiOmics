@@ -1,0 +1,402 @@
+3-ISOPROPYLMALISOM-RXN	3-isopropylmalate dehydratase
+3.2.1.26-RXN	6-phospho-&beta;-fructofuranosidase
+4.2.1.58-RXN	(3<em>R</em>)-3-hydroxybutanoyl-[acyl-carrier-protein] hydratase
+6-HEXANOLIDE-HYDROLYSIS-RXN	6-hexanolide hydrolysis
+ACONITATEHYDR-RXN	cis-aconitate hydratase
+ACYLCOASYN-RXN	2,3,4-saturated fatty acyl-CoA synthetase
+CATECHOL-2-3-DIOXYGENASE-RXN	Methylcatechol 2,3-dioxygenase
+CHOLINE-OXIDASE-RXN	choline oxidase
+CHOLINE-OXIDASEII-RXN	Betaine aldehyde oxidase
+D-PPENTOMUT-RXN	D-deoxyribose 1,5-phosphomutase
+DHLAXANAU-RXN	1,2-dichloroethane dehalogenase
+DIHYDROXYMETVALDEHYDRAT-RXN	2,3-Dihydroxy-3-methylvalerate dehydratase
+HEMEOSYN-RXN	heme <i>o</i> biosynthesis
+HYDROXY-MANDELATE-RACEMASE-RXN	hydroxymandelate racemase
+L-LACTDEHYDROGFMN-RXN	lactate oxidation
+LACTOSE6P-HYDROXY-RXN	6-phospho-lactosidase
+METHYLGALLATE-RXN	3-<i>O</i>-methylgallate 4,5-dioxygenase
+NACGLCTRANS-RXN	UDP-N-acetyl-D-glucosamine:<i>N</i>-acetylmuramoyl-L-alanyl-D-glutamyl-<I>meso</I>-2,6-diaminopimelyl-D-alanyl-D-alanine-diphosphoundecaprenol 4-&beta;-N-acetylglucosaminlytransferase
+ORNITHINE-GLU-AMINOTRANSFERASE-RXN	Ornithine--oxo-glutarate aminotransferase
+PHOSNACMURPENTATRANS-RXN	UDP-<i>N</i>-acetylmuramoyl-L-alanyl-D-glutamyl-<I>meso</I>-2,6-diaminopimelyl-D-alanyl-D-alanine:undecaprenyl-phosphate transferase
+R222-RXN	1-octanal dehydrogenase (NAD+)
+R223-RXN	octanoyl-CoA ligase
+R230-RXN	(2R)-3-sulfolactate dehydrogenase (NAD+)
+R581-RXN	(Aceto)phenylmercury lyase
+RXN-10061	3-hydroxycerotyl-[acp] dehydrase
+RXN-10062	trans-hexacos-2-enoyl-[acp] reductase
+RXN-10078	4-methylsalicylate hydroxylase
+RXN-10079	5-methylsalicylate hydroxylase
+RXN-10667	methoxyneurosporene 3,4-desaturase
+RXN-10673	zeaxanthin-&beta;-D-glucoside glucosyltransferase
+RXN-10717	indole acetaldehyde reductase
+RXN-10739	hydroxymethylfurfural reductase (NADPH)
+RXN-10889	3-methylgallate 3,4-dioxygenase
+RXN-10890	syringae <i>O</i>-demethylase
+RXN-10892	tetrahydrofolate-dependent 3- <i>O</i>-methylgallate <i>O</i>-demethylase
+RXN-10896	OH-DDVA hydrolase
+RXN-10933	archaetidylinositol phosphate synthase
+RXN-10935	archaetidylserine decarboxylase
+RXN-11072	rhamnopyranosyl-N-acetylglucosaminyl-diphospho-decaprenol &beta;-1,3/1,4-galactofuranosyltransferase
+RXN-11075	rhamnopyranosyl-N-acetylglucosaminyl-diphospho-decaprenol &beta;-1,3/1,4-galactofuranosyltransferase
+RXN-11099	<i>N</i>1-amidinostreptamine 6-phosphate aminotransferase
+RXN-11302	peptidoglycan transpeptidase (Gram-negative bacteria)
+RXN-11326	(KDO)<sub>3</sub>-lipid IV<sub>A</sub> (2->4) 3-deoxy-D-manno-octulosonic acid transferase
+RXN-11471	3,7,12-trioxo-5&beta;-cholanate dehydrogenase
+RXN-11493	D-limonene 7-hydroxylase
+RXN-11566	carboxyspermidine synthase
+RXN-11646	manganoxidase
+RXN-11667	(S)-3-hydroxybutanoyl-CoA dehydrogenase
+RXN-11690	(<i>R</i>)-sulfolactate dehydrogenase (NADP+)
+RXN-11743	5'-deoxy-5'-fluoroadenosine phosphorylase
+RXN-11744	5-fluoro-5-deoxy-D-ribose-1-phosphate isomerase
+RXN-11763	mono-rhamnolipid synthase
+RXN-11800	xanthan acetylase (GumF)
+RXN-11806	&alpha;-D-glucosyl-(1,2)-&beta;-D-glucoronate-(1,2)-&alpha;-D-mannosyl-(1,3)-&beta;-D-glucosyl-(1,4)-&alpha;-D-glucosyl-diphosphoundecaprenol glucosyltransferase
+RXN-11952	SoxB
+RXN-11982	2,3-dehydro-UWM6 monooxygenase/dehydratase
+RXN-12029	mannosylflucosyl-3-phosphoglycerate synthase
+RXN-12168	succinyl-CoA:mesaconate CoA-transferase
+RXN-12190	&alpha;-amylase
+RXN-12193	4-&alpha;-glucosyltransferase
+RXN-12234	GDP-4-amino-4,6-dideoxy-&alpha;-D-<i>N</i>-acetylglucosamine aminotransferase
+RXN-12243	15-<em>cis</em>-phytoene desaturase
+RXN-12244	15-<em>cis</em>-phytoene desaturase
+RXN-12246	D-xylonolactonase
+RXN-12258	4,4&prime;-diapophytoene desaturase
+RXN-12289	cellulose 1,4-&beta;-cellobiosidase (reducing end)
+RXN-12290	endoglucanase (cellotetraose forming)
+RXN-12294	xyloglucan-specific endo-&beta;-1,4-glucanase (cellotetraose-forming)
+RXN-12369	tRNA (guanine<small><sup>10</sup></small>-<em>N</em><small><sup>2</sup></small>)-methyltransferase
+RXN-12545	ADP-dependent <i>N</i>-acetyl-D-glucosamine kinase
+RXN-12558	crotonyl-CoA reductase (NAD+)
+RXN-12559	trans-2-hexenoyl-CoA  reductase (NAD+)
+RXN-12611	thiamin phosphate synthase
+RXN-12623	<i>N,N'</i>-diacetylchitobiose synthase
+RXN-12625	<i>N,N'</i>-diacetylchitobiose &beta;-<i>N</i>-acetylglucosaminidase
+RXN-12626	chitotriose &beta;-<i>N</i>-acetylglucosaminidase
+RXN-12639	ethanol&mdash;long-chain acyl CoA acyltransferase
+RXN-12704	cholest-4,24-dien-3,27-dione-26-CoA hydratase
+RXN-12736	propanal dehydrogenase (acetylating)
+RXN-12747	5-hydroxy-3-[(3a<i>S</i>,4<i>S</i>,5<i>R</i>,7a<i>S</i>)-7a-methyl-1,5-dioxo-octahydro-1<i>H</i>-inden-4-yl]propanoyl-CoA 5-dehydrogenase
+RXN-12806	bifunctional ketoisomerase / <i>N</i>acetyltransferase
+RXN-12896	peroxyureidoacrylate/ureidoacrylate amidohydrolase
+RXN-12919	oleandomycin glucosyltranferase
+RXN-12931	dTDP-4-oxo-2,6-dideoxy-D-glucose 3-methyltransferase
+RXN-13037	octanoyl:GcvH transferase
+RXN-13076	nicotine dehydrogenase
+RXN-13084	(3<i>R</i>)-3-methyl-D-glutamyl-semialdehyde-<i>N</i>&epsilon;-L-lysine synthase
+RXN-13102	tetrahydrodaidzein dehydratase
+RXN-13167	kanamycin A carbamoyltransferase
+RXN-13170	2,2',3,3'-tetrahydroxybiphenyl dioxygenase
+RXN-13235	gentamycin X2 methyltransferase
+RXN-13242	fatty acid decarboxylase
+RXN-13273	long-chain acyl-CoA reductase
+RXN-13328	late4-aminobutyrate--glyoxy transaminase
+RXN-13392	3-(4-hydroxyphenyl)-3-hydroxy-propionyl-CoA aldolase
+RXN-13630	spinosyn rhamnosyl tetracyclic macrolactone synthase
+RXN-13631	spinosyn 2'-<i>O</i>-methyltransferase
+RXN-13632	spinosyn 3'-<i>O</i>-methyltransferase
+RXN-13633	spinosyn 4'-<i>O</i>-methyltransferase
+RXN-13657	dTDP-3-amino-4-oxo-2,3,6-trideoxy-&alpha;-D-glucose methyltransferase
+RXN-13667	dTDP-3-amino-4-oxo-2,3,6-trideoxy-&alpha;-D-glucose methyltransferase
+RXN-13788	rutin rhamnosidase
+RXN-13945	13(S)-hydroperoxylinolenate reductase
+RXN-14160	glycerophosphorylethanolamine phosphodiesterase
+RXN-14280	perillyl aldehyde dehydrogenase
+RXN-14368	D-fructuronate reductase (NADPH)
+RXN-14466	2-benzyl-3-hydroxybutanedioate dehydrogenase
+RXN-14544	NovM
+RXN-14695	ElmH
+RXN-15138	2-chloroacrylate reductase
+RXN-15225	dTDP-&beta;-L-4-epi-vancosamine 4-ketoreductase
+RXN-15314	N-acetylneuraminate:proton symport
+RXN-15402	ElmD
+RXN-15412	ElmJ
+RXN-15423	2-hydroxy-3-carboxy-muconic semialdehyde decarboxylase
+RXN-15430	CotB4
+RXN-15431	CotB3
+RXN-15435	TcmO
+RXN-15436	tcmP
+RXN-15454	trimethylurate monooxygenase
+RXN-15547	2-keto-5-phosphono-3-cis-pentanoate aminotransferase
+RXN-15549	rhizoctricin A-valine ligase
+RXN-15550	2-keto-4-hydroxy-5-phosphonopentanoate aminotransferase
+RXN-15553	L-arinyl-4-hydroxy-5-phosphonopantanoate-valine ligase
+RXN-15662	D-fructosel-6-phosphate-L-glutamate transaminase
+RXN-15714	5-aminolevulinyl-CoA synthase
+RXN-15768	pyruvate:&alpha;,&beta;-unsaturated carbonyl compound acetaldehydetransferase (decarboxylating)
+RXN-16058	&gamma;-carotene desaturasemethyltransferase
+RXN-16160	GDP-<i>manno</i>-heptose 4,6-dehydratase
+RXN-17755	melibionate:proton symport
+RXN-18010	[(2-GlcNAc)-Rib-ol-P]n-[Gro-P]m-ManNAc-GlcNAc-P-peptidoglycan
+RXN-2	vanillate <i>O</i>-demethylase
+RXN-20142	perillyl-CoA hydratase
+RXN-4464	fatty acid &omega;-hydroxylase
+RXN-5076	xanthine:proton symport
+RXN-6021	choline dehydrogenase
+RXN-7569	demethylphylloquinol methyltransferase
+RXN-8023	15-<i>cis</i>-phytoene desaturase
+RXN-8032	3-ketopimelyl-CoA thiolase
+RXN-8358	tetrathinate reductase (disproportionating)
+RXN-9305	4,4&prime;-diapophytoene desaturase
+RXN-9350	<em>epi</em>-isozizaene 5-monooxygenase
+RXN-9351	<em>epi</em>-isozizaene 5-monooxygenase
+RXN-9352	<em>epi</em>-isozizaene 5-monooxygenase
+RXN-9353	<em>epi</em>-isozizaene 5-monooxygenase
+RXN-9356	1-dodecanol-<em>O</em>-arachinoyltransferase
+RXN-9475	germacradienol lyase
+RXN-9514	acetoacetyl-[acyl-carrier protein] reductase
+RXN-9516	3-oxo-hexanoyl-[acyl-carrier protein] synthase
+RXN-9518	3-hydroxyhexanoyl-[acyl-carrier protein] reductase
+RXN-9523	3-oxo-octanoyl-[acyl-carrier protein] synthase
+RXN-9524	3-oxo-octanoyl-[acyl-carrier protein] reductase
+RXN-9527	3-oxo-decanoyl-[acyl-carrier protein] synthase
+RXN-9528	3-oxo-decanoyl-[acyl-carrier protein] reductase
+RXN-9531	3-oxo-dodecanoyl-[acyl-carrier protein] synthase
+RXN-9532	3-oxo-dodecanoyl-[acyl-carrier protein] reductase
+RXN-9536	3-oxo-meristoyl-[acyl-carrier protein] reductase
+RXN-9539	3-oxo-palmitoyl-[acyl-carrier protein] synthase
+RXN-9540	3-oxo-palmitoyl-[acyl-carrier protein] reductase
+RXN-9632	3-oxo-stearoyl-[acyl-carrier protein] synthase
+RXN-9633	3-oxo-stearoyl-[acyl-carrier protein] reductase
+RXN-9635	<i>trans</i>-octadec-2-enoyl-[acyl-carrier-protein] reductase
+RXN-9657	crotonyl-[acp] reductase
+RXN-9658	<i>trans</i> hex-2-enoyl-[acp]-reductase
+RXN-9659	<i>trans</i> oct-2-enoyl-[acp] reductase
+RXN-9660	<i>trans</i>-&Delta;<SUP>2</SUP>-decenoyl-[acp]-reductase
+RXN-9661	<i>trans</i> dodec-2-enoyl-[acp] reductase
+RXN-9662	<i>trans</i> tetradec-2-enoyl-[acp] reductase
+RXN-9663	<i>trans</i> hexadecenoyl-[acp] reductase
+RXN-9679	sarcosine <em>N</em>-methyltransferase
+RXN-9760	Dimethylsulfoniopropioyl-CoA synthase
+RXN-9772	L-aspartate : fumarate oxidoreductase (deaminating)
+RXN-9912	4-chlorosalicylate monooxygenase
+RXN-9914	5-chlorosalicylate 1-monooxygenase
+RXN0-1141	lipoate--GcvH protein ligase
+RXN0-1281	dihydrouridine synthase
+RXN0-1661	enterobactin hydrolase
+RXN0-18	inosine:proton antiport
+RXN0-1923	<i>O</i>-acetyl-L-serine export
+RXN0-1924	L-cysteine export
+RXN0-22	guanosine:proton antiport
+RXN0-2421	Fe<sup>2+</sup>:proton symport
+RXN0-2501	chloride:proton antiport
+RXN0-300	hydroxypyruvate reductase (NADP+)
+RXN0-4083	L-serine:Na<sup>+</sup> symport
+RXN0-5130	serine:proton symport
+RXN0-5201	&beta;-alanine:proton symport
+RXN0-5202	alanine:proton symport
+RXN0-5203	D-cycloserine:proton symport
+RXN0-5422	tRNA-queuosine glutamyltransferase
+RXN0-5513	Long-chain-fatty-acid--acyl-carrier protein ligase
+RXN0-5514	1-acylglycerol-3-phosphate O-acyltransferase
+RXN0-6435	HypF carbamoyltransferase
+RXN0-6451	peroxyureidoacrylate/ureidoacrylate amidohydrolase
+RXN0-6460	peroxyureidoacrylate/ureidoacrylate amidohydrolase
+RXN0-6491	dihydroorotate dehydrogenase
+RXN0-6710	phosphoribosyl 1,2-cyclic phosphodiesterase
+RXN0-7050	L-methionine:proton antiport
+RXN0-7077	D-glucose:proton symport
+RXN1G-1015	cis,cis-delta13,31-3-oxo-C50:2-[acyl-carrier protein] synthase
+RXN1G-1149	trehalose-cis-methoxy-mono-mycolate O-mycolyltransferase
+RXN1G-1150	trehalose-trans-methoxy-mono-mycolate O-mycolyltransferase
+RXN1G-1151	trehalose-cis-keto-mono-mycolate O-mycolyltransferase
+RXN1G-1152	trehalose-trans-keto-mono-mycolate O-mycolyltransferase
+RXN1G-1212	cis,cis-delta15,33-3-oxo-C52:2-[acyl-carrier protein] synthase
+RXN1G-1633	trehalose-mono-mycolate O-mycolyltransferase
+RXN1G-1634	trehalose-cis-methoxy-mono-mycolate O-mycolyltransferase
+RXN1G-1635	trehalose-trans-methoxy-mono-mycolate O-mycolyltransferase
+RXN1G-1636	trehalose-cis-keto-mono-mycolate O-mycolyltransferase
+RXN1G-1637	trehalose-trans-keto-mono-mycolate O-mycolyltransferase
+RXN1G-172	cis,cis-delta9,21-3-oxo-C40:2-[acyl-carrier protein] synthase
+RXN1G-202	cis,cis-delta5,17-3-oxo-C36:2-[acyl-carrier protein] synthase
+RXN1G-2544	cis-cyclopropane-&Delta;19-37-hydroxy-38-methyl-C57:1-[acp] synthase
+RXN1G-32	cis,cis-delta13,25-3-oxo-C44:2-[acyl-carrier protein] synthase
+RXN1G-3256	trans-&Delta;18-37-hydroxy-38-methyl-C58:1-[acp] reductase
+RXN1G-334	cis,cis-delta7,25-3-oxo-C44:2-[acyl-carrier protein] synthase
+RXN1G-3641	cis-&Delta;21-39-hydroxy-40-methyl-C59:1-[acp] reductase
+RXN1G-3667	trans-&Delta;20-39-hydroxy-40-methyl-C60:1-[acp] reductase
+RXN1G-374	cis,cis-delta19,37-3-oxo-C56:2-[acyl-carrier protein] synthase
+RXN1G-395	trans-eicos-2-enoyl-[acyl-carrier protein] reductase (NADPH, B-specific)
+RXN1G-3993	C52-&alpha;-meroacyl-[acp] synthetase
+RXN1G-4140	cis-methoxy-C59-meroacyl-[acp] synthetase
+RXN1G-4141	trans-methoxy-C60-meroacyl-[acp] synthetase
+RXN1G-4142	cis-keto-C60-meroacyl-[acp] synthetase
+RXN1G-4143	trans-keto-C61-meroacyl-[acp] synthetase
+RXN1G-424	cis,cis-delta15,27-3-oxo-C46:2-[acyl-carrier protein] synthase
+RXN1G-45	cis,cis-&Delta;19,31-C50:2-[acp] reductase
+RXN1G-469	3-oxobehenoyl-[acyl-carrier protein] reductase
+RXN1G-488	trans-docos-2-enoyl-[acyl-carrier protein] reductase (NADPH, B-specific)
+RXN1G-499	3-oxo-lignoceroyl-[acyl-carrier protein] synthase
+RXN1G-508	3-oxo-lignoceroyl-[acyl-carrier protein] reductase
+RXN1G-526	trans-tetracos-2-enoyl-[acyl-carrier protein] reductase
+RXN1G-536	cerotoyl-[acyl-carrier protein] reductase
+RXN1G-557	cis,cis-delta9,27-3-oxo-C46:2-[acyl-carrier protein] synthase
+RXN1G-574	arachidoyl-[acyl-carrier protein] reductase
+RXN1G-580	cis,cis-delta11,23-3-oxo-C42:2-[acyl-carrier protein] synthase
+RXN1G-582	cis,cis-delta21,39-3-oxo-C58:2-[acyl-carrier protein] synthase
+RXN1G-660	cis,cis-delta17,29-3-oxo-C48:2-[acyl-carrier protein] synthase
+RXN1G-79	cis,cis-delta5,23-3-oxo-C42:2-[acyl-carrier protein] synthase
+RXN1G-807	6-O-mycolyl-trehalose O-mycolyltransferase
+RXN1G-808	6-O-cis-methoxy-mycolyl-trehalose O-mycolyltransferase
+RXN1G-809	6-O-trans-methoxy-mycolyl-trehalose O-mycolyltransferase
+RXN1G-810	6-O-cis-keto-mycolyl-trehalose O-mycolyltransferase
+RXN1G-811	6-O-trans-keto-mycolyl-trehalose O-mycolyltransferase
+RXN1G-818	cis,cis-delta11,29-3-oxo-C48:2-[acyl-carrier protein] synthase
+RXN1G-883	cis,cis-delta19,31-3-oxo-C50:2-[acyl-carrier protein] synthase
+RXN1G-89	cis,cis-delta7,19-3-oxo-C38:2-[acyl-carrier protein] synthase
+RXN1G-94	cis,cis-delta17,35-3-oxo-C54:2-[acyl-carrier protein] synthase
+RXN490-3616	Aspartate--tRNA ligase
+RXN66-470	3-methyl-branched fatty acyl-CoA 2-hydroxylase
+RXN66-472	fatty aldehyde dehydrogenase
+RXN66-476	fatty aldehyde dehydrogenase
+TRANS-RXN-10	arabinose:proton symport
+TRANS-RXN-101	sodium:proton antiport
+TRANS-RXN-104	lactate:proton symport
+TRANS-RXN-105	glycolate:proton symport
+TRANS-RXN-106	fumarate:succinate antiport
+TRANS-RXN-106A	aspartate:succinate antiport
+TRANS-RXN-106B	malate:succinate antiport
+TRANS-RXN-108	nucleoside:proton symport
+TRANS-RXN-108A	adenosine:proton symport
+TRANS-RXN-108B	cytidine:proton symport
+TRANS-RXN-108C	deoxyadenosine:proton symport
+TRANS-RXN-108D	deoxycytidine:proton symport
+TRANS-RXN-108E	deoxyinosine:proton symport
+TRANS-RXN-108F	deoxyuridine:proton symport
+TRANS-RXN-108G	inosine:proton symport
+TRANS-RXN-108H	thymidine:proton symport
+TRANS-RXN-108I	uridine:proton symport
+TRANS-RXN-112	L-rhamnose:proton symport
+TRANS-RXN-113	2-dehydro-3-deoxy-D-gluconate:proton symport
+TRANS-RXN-114	phosphate:proton symport
+TRANS-RXN-116	cytosine:proton symport
+TRANS-RXN-117	pantothenate:Na<sup>+</sup> symport
+TRANS-RXN-118	L-proline:Na<sup>+</sup> symport
+TRANS-RXN-121	succinate:proton symport
+TRANS-RXN-121A	malate:proton symport
+TRANS-RXN-121C	orotate:proton symport
+TRANS-RXN-122	glutamate:Na<sup>+</sup> symport
+TRANS-RXN-122A	aspartate:proton symport
+TRANS-RXN-123	D-galacturonate:proton symport
+TRANS-RXN-126	L-isoleucine:Na<sup>+</sup> symport
+TRANS-RXN-126A	L-valine:Na<sup>+</sup> symport
+TRANS-RXN-126B	L-leucine:Na<sup>+</sup> symport
+TRANS-RXN-127	L-tartrate:succinate antiport
+TRANS-RXN-129	electrogenic sodium:proton antiport
+TRANS-RXN-130	Na<sup>+</sup>:proton antiport
+TRANS-RXN-132	uracil:proton symport
+TRANS-RXN-142	indole:proton symport
+TRANS-RXN-162	L-glutamate:proton symport
+TRANS-RXN-181A	L-iodonate:proton symport
+TRANS-RXN-20	L-fucose:proton symport
+TRANS-RXN-21	galactose:proton symport
+TRANS-RXN-213	oxalate:formate antiporter
+TRANS-RXN-22	glycerol-3-phosphate:phosphate antiport
+TRANS-RXN-23	2-oxoglutarate:proton symport
+TRANS-RXN-24	lactose:proton symport
+TRANS-RXN-241	Mn<sup>2+</sup>:proton symport
+TRANS-RXN-242	L-homoserine:proton antiport
+TRANS-RXN-242A	L-homoserine lactone:proton antiport
+TRANS-RXN-25	N-acetylneuraminate:proton symport
+TRANS-RXN-261	L-glutamate:4-aminobutanoate antiport
+TRANS-RXN-267	transport of cystine
+TRANS-RXN-27	shikimate:proton symport
+TRANS-RXN-277	magnesium hydrogenphosphate:proton symport
+TRANS-RXN-278	calcium hydrogenphosphate:proton symport
+TRANS-RXN-279	zinc hydrogenphosphate:proton symport
+TRANS-RXN-280	tellurite:proton symport
+TRANS-RXN-281	L-isoleucine:proton antiport
+TRANS-RXN-282	L-valine:proton antiport
+TRANS-RXN-285	L-cystine:proton symport
+TRANS-RXN-286	homocystine:proton symport
+TRANS-RXN-299	fumarate:proton symport
+TRANS-RXN-3	K<sup>+</sup>:proton symport
+TRANS-RXN-30	xylose:proton symport
+TRANS-RXN-300	succinate:proton symport
+TRANS-RXN-31	xanthosine:proton symport
+TRANS-RXN-33	glucose-6-phosphate:phosphate antiport
+TRANS-RXN-330	sulfocysteine:proton symport
+TRANS-RXN-335	pyruvate:proton symport
+TRANS-RXN-336	electrogenic potassium:proton antiport
+TRANS-RXN-337	dequalinium:proton antiport
+TRANS-RXN-338	ethidium:proton antiport
+TRANS-RXN-339	carbonylcyanide m-chlorophenylhydrazone:proton antiport
+TRANS-RXN-340	bicozamycin:H<sup>+</sup> antiport
+TRANS-RXN-341	chloramphenicol:proton antiport
+TRANS-RXN-342	fosfomycin:proton antiport
+TRANS-RXN-346	Zn<sup>2+</sup>:proton symport
+TRANS-RXN-347	norfloxacin:Na<sup>+</sup> antiport
+TRANS-RXN-348	tetraphenylphosphonium:Na<sup>+</sup> antiport
+TRANS-RXN-349	deoxycholate:Na<sup>+</sup> antiport
+TRANS-RXN-35	D-glucuronate:proton symport
+TRANS-RXN-362	thymine:proton symport
+TRANS-RXN-379	L-aspartate:fumarate antiport
+TRANS-RXN-384	5-aminopentanaote:H<sup>+</sup> symport
+TRANS-RXN-40	L-arabinose:proton antiport
+TRANS-RXN-41	fosmidomycin:proton antiport
+TRANS-RXN-42	potassium:proton antiport
+TRANS-RXN-56	phenylalanine:proton symport
+TRANS-RXN-57	4-aminobutanoate:proton symport
+TRANS-RXN-58	L-lysine:proton symport
+TRANS-RXN-61	3-(3-hydroxyphenyl)propanoate:proton symport
+TRANS-RXN-62A	D-alanine:proton symport
+TRANS-RXN-62B	glycine:proton symport
+TRANS-RXN-68	lysine:cadaverine antiport
+TRANS-RXN-69	putrescine:proton symport
+TRANS-RXN-71	L-serine:proton symport
+TRANS-RXN-72	L-threonine:proton symport
+TRANS-RXN-76	tryptophan:proton symport
+TRANS-RXN-77	L-tyrosine:proton symport
+TRANS-RXN-81	fructuronate:proton symport
+TRANS-RXN-82	lactose:proton antiport
+TRANS-RXN-94	melibiose:proton symport
+TRANS-RXN-94A	melibiose:Na<sup>+</sup> symport
+TRANS-RXN-94B	melibiose:Li<sup>+</sup> symport
+TRANS-RXN-98	glucoronoside:proton symport
+TRANS-RXN-99	choline:proton symport
+TRANS-RXN0-0244	L-threonine:proton antiport
+TRANS-RXN0-200	Zn<sup>2+</sup>:proton antiport
+TRANS-RXN0-201	citrate:succinate antiport
+TRANS-RXN0-203	Transport of D-galactarate
+TRANS-RXN0-204	Transport of D-glucarate
+TRANS-RXN0-209	D-gluconate:proton symport
+TRANS-RXN0-211	putrescine:ornithine antiport
+TRANS-RXN0-212	cadaverine:proton symport
+TRANS-RXN0-226	muropeptide:proton symport
+TRANS-RXN0-227	L-galactonate:proton symport
+TRANS-RXN0-228	5-ketogluconate:proton symport
+TRANS-RXN0-236	L-lyxopyranose:proton symport
+TRANS-RXN0-239	nitrate:nitrite antiport
+TRANS-RXN0-258	muropeptide:proton symport
+TRANS-RXN0-265	aromatic amino acid export
+TRANS-RXN0-267	tripeptide:proton symport
+TRANS-RXN0-270	L-leucine:proton antiport
+TRANS-RXN0-286	lipid II flippase
+TRANS-RXN0-288	dipeptide:proton symport
+TRANS-RXN0-447	adenine:proton symport
+TRANS-RXN0-451	malate:proton symport
+TRANS-RXN0-452	<i>p</i>-aminobenzoyl glutamate: proton symport
+TRANS-RXN0-457	3-hydroxycinnamate:proton symport
+TRANS-RXN0-469	alanine:proton antiport
+TRANS-RXN0-487	Mn<sup>2+</sup> export
+TRANS-RXN0-496	enterobactin export
+TRANS-RXN0-499	succinate:tartrate antiport
+TRANS-RXN0-501	fructose-6-phosphate:phosphate antiport
+TRANS-RXN0-502	mannose-6-phosphate:phosphate antiport
+TRANS-RXN0-515	lactate:proton symport
+TRANS-RXN0-517	C4-dicarboxylate:proton symport
+TRANS-RXN0-519	&alpha;-methylgalactoside:proton symport
+TRANS-RXN0-520	&beta;-methylgalactoside:Na<sup>+</sup> symport
+TRANS-RXN0-523	Transport of D-glycerate
+TRANS-RXN0-530	urate:proton symport
+TRANS-RXN0-534	glyceraldehyde-3-phosphate:phosphate antiport
+TRANS-RXN0-550	arsenate:proton symport
+TRANS-RXN0-553	fumarate:proton symport
+TRANS-RXN0-571	acetate:proton symport
+TRANS-RXN0-577	transport of adenine
+TRANS-RXN0-616	D-cystine:proton symport
+TRANS-RXN0-622	hydroxybutanoate:proton symport
+TRANS-RXN18HP-97	transport of gentisate
+UDP-NACMURALGLDAPAALIG-RXN	UDP-<I>N</I>-acetylmuramoyl-L-alanyl-D-glutamyl-<I>meso</I>-2,6-diaminopimelate ligase
+URKI-RXN	GTP:uridine 5'-phosphotransferase

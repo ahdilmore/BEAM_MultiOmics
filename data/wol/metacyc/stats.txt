@@ -1,0 +1,16 @@
+Proteins: 7439.
+GO terms: 3863.
+Genes: 7443.
+Enzymatic reactions: 5365.
+Regulations: 1484.
+Regulators: 540.
+Reactions: 4130.
+EC numbers: 2188.
+Compounds consumed: 3216.
+Compounds produced: 3440.
+Compounds: 3656.
+Compound types: 862.
+Pathways: 1617.
+Pathway types: 485.
+All classes: 6572.
+Pathway-to-gene_list mappings: 334.
